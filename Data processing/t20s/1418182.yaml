@@ -1,0 +1,2239 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2024-02-02'
+  gender: male
+  match_type: T20
+  match_type_number: 2445
+  outcome:
+    winner: Singapore
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - S Chandramohan
+  players:
+    Singapore:
+    - Aritra Dutta
+    - R Rohan
+    - S Chandramohan
+    - Aman Desai
+    - A Kaul
+    - R Sharma
+    - Avi Dixit
+    - H Bharadwaj
+    - S Banamali
+    - IP Swaney
+    - R Kalimuthu
+    Maldives:
+    - Shaof Hassan
+    - Umar Adam
+    - Azyan Farhath
+    - KTK Rodrigo
+    - Hassan Rasheed
+    - Ismail Ali
+    - Ibrahim Hassan
+    - Mohamed Azzam
+    - Ibrahim Rizan
+    - Nazwan Ismail
+    - Mohamed Ishmath
+  registry:
+    people:
+      A Kaul: 53d0b0dc
+      Aman Desai: c10fd8f9
+      Aritra Dutta: f3a5c378
+      Avi Dixit: cf17c429
+      Azyan Farhath: 3e06e7ac
+      Dorji: a6b688ef
+      G Sankaranarayanan: a4a348f9
+      H Bharadwaj: 2e89652e
+      Hassan Rasheed: 1ca51098
+      IGS Arsa: 68d52634
+      IP Swaney: 430b7399
+      Ibrahim Hassan: 4add4c98
+      Ibrahim Rizan: 7267e3cd
+      Ismail Ali: 5117fa55
+      KTK Rodrigo: a482add2
+      Mohamed Azzam: e43c9818
+      Mohamed Ishmath: 8c7b9bfc
+      Nazwan Ismail: c8e5012c
+      R Kalimuthu: 5892ac75
+      R Rohan: baf0fc26
+      R Sharma: 2278c4ca
+      S Banamali: 4d9dfc7f
+      S Chandramohan: 2a6ccc1c
+      Samad Akbar: f05bd21b
+      Shaof Hassan: f6e160d7
+      Umar Adam: 5d77a96a
+      V Kalidas: 42d76418
+  teams:
+  - Singapore
+  - Maldives
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - IGS Arsa
+  - Samad Akbar
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.2:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.3:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.4:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.5:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.6:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.7:
+        non_striker: R Rohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 1.1:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 1.2:
+        non_striker: R Rohan
+        bowler: Umar Adam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Aritra Dutta
+    - 1.3:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 1.4:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 1.5:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 1.6:
+        non_striker: R Rohan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 1.7:
+        non_striker: R Rohan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 2.1:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+        wicket:
+          player_out: R Rohan
+          fielders:
+          - Hassan Rasheed
+          kind: caught
+    - 2.2:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 2.3:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Chandramohan
+    - 2.4:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 2.5:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aritra Dutta
+    - 2.6:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Aritra Dutta
+    - 2.7:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aritra Dutta
+    - 3.1:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 3.2:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 3.3:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 3.4:
+        non_striker: S Chandramohan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 3.5:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 3.6:
+        non_striker: Aritra Dutta
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 4.1:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 4.2:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aritra Dutta
+    - 4.3:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aritra Dutta
+    - 4.4:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Aritra Dutta
+    - 4.5:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aritra Dutta
+    - 4.6:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 4.7:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 4.8:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 5.1:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 5.2:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 5.3:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 5.4:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aritra Dutta
+    - 5.5:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Aritra Dutta
+    - 5.6:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chandramohan
+    - 5.7:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 5.8:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 6.1:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 6.2:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 6.3:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 6.4:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 6.5:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 6.6:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 7.1:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aritra Dutta
+    - 7.2:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 7.3:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 7.4:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 7.5:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 7.6:
+        non_striker: Aritra Dutta
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 8.1:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 8.2:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aritra Dutta
+    - 8.3:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 8.4:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 8.5:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 8.6:
+        non_striker: Aritra Dutta
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 9.1:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aritra Dutta
+    - 9.2:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+        wicket:
+          player_out: Aritra Dutta
+          kind: bowled
+    - 9.3:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 9.4:
+        non_striker: Aman Desai
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 9.5:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 9.6:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 10.1:
+        non_striker: Aman Desai
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 10.2:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 10.3:
+        non_striker: Aman Desai
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 10.4:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 10.5:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - Shaof Hassan
+          kind: caught
+    - 10.6:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 11.1:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 11.2:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 11.3:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 11.4:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 11.5:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 11.6:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 12.1:
+        non_striker: A Kaul
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 12.2:
+        non_striker: A Kaul
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 12.3:
+        non_striker: A Kaul
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 12.4:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 12.5:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kaul
+    - 12.6:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 12.7:
+        non_striker: A Kaul
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 13.1:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 13.2:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 13.3:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 13.4:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 13.5:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 13.6:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 14.1:
+        non_striker: A Kaul
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 14.2:
+        non_striker: S Chandramohan
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 14.3:
+        non_striker: A Kaul
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 14.4:
+        non_striker: A Kaul
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 14.5:
+        non_striker: A Kaul
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 14.6:
+        non_striker: A Kaul
+        bowler: Nazwan Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 15.1:
+        non_striker: S Chandramohan
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 15.2:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 15.3:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 15.4:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 15.5:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 15.6:
+        non_striker: A Kaul
+        bowler: Mohamed Ishmath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 16.1:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kaul
+    - 16.2:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 16.3:
+        non_striker: A Kaul
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 16.4:
+        non_striker: S Chandramohan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 16.5:
+        non_striker: A Kaul
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 16.6:
+        non_striker: A Kaul
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 17.1:
+        non_striker: S Chandramohan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kaul
+    - 17.2:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 17.3:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 17.4:
+        non_striker: S Chandramohan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 17.5:
+        non_striker: S Chandramohan
+        bowler: Umar Adam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kaul
+    - 17.6:
+        non_striker: S Chandramohan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 17.7:
+        non_striker: S Chandramohan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kaul
+    - 18.1:
+        non_striker: A Kaul
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 18.2:
+        non_striker: A Kaul
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+        wicket:
+          player_out: S Chandramohan
+          fielders:
+          - Hassan Rasheed
+          kind: caught
+    - 18.3:
+        non_striker: A Kaul
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 18.4:
+        non_striker: A Kaul
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 18.5:
+        non_striker: R Sharma
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kaul
+    - 18.6:
+        non_striker: R Sharma
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kaul
+    - 19.1:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 19.2:
+        non_striker: R Sharma
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kaul
+    - 19.3:
+        non_striker: R Sharma
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kaul
+    - 19.4:
+        non_striker: R Sharma
+        bowler: Umar Adam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Kaul
+    - 19.5:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sharma
+    - 19.6:
+        non_striker: A Kaul
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sharma
+- 2nd innings:
+    team: Maldives
+    deliveries:
+    - 0.1:
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Umar Adam
+        batsman: Shaof Hassan
+    - 0.2:
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Umar Adam
+        batsman: Shaof Hassan
+    - 0.3:
+        non_striker: Shaof Hassan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 0.4:
+        non_striker: Shaof Hassan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 0.5:
+        non_striker: Shaof Hassan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 0.6:
+        non_striker: Shaof Hassan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 1.1:
+        non_striker: Umar Adam
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaof Hassan
+    - 1.2:
+        non_striker: Umar Adam
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaof Hassan
+    - 1.3:
+        non_striker: Umar Adam
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaof Hassan
+    - 1.4:
+        non_striker: Umar Adam
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaof Hassan
+    - 1.5:
+        non_striker: Umar Adam
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaof Hassan
+    - 1.6:
+        non_striker: Shaof Hassan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 2.1:
+        non_striker: Umar Adam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaof Hassan
+    - 2.2:
+        non_striker: Umar Adam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaof Hassan
+    - 2.3:
+        non_striker: Umar Adam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaof Hassan
+        wicket:
+          player_out: Shaof Hassan
+          fielders:
+          - Aman Desai
+          kind: caught
+    - 2.4:
+        non_striker: Umar Adam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 2.5:
+        non_striker: Umar Adam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 2.6:
+        non_striker: Umar Adam
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 3.1:
+        non_striker: Umar Adam
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 3.2:
+        non_striker: Azyan Farhath
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umar Adam
+    - 3.3:
+        non_striker: Azyan Farhath
+        bowler: R Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Umar Adam
+    - 3.4:
+        non_striker: Azyan Farhath
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 3.5:
+        non_striker: Azyan Farhath
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umar Adam
+    - 3.6:
+        non_striker: Umar Adam
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azyan Farhath
+    - 4.1:
+        non_striker: Azyan Farhath
+        bowler: IP Swaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 4.2:
+        non_striker: Azyan Farhath
+        bowler: IP Swaney
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umar Adam
+    - 4.3:
+        non_striker: Azyan Farhath
+        bowler: IP Swaney
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umar Adam
+    - 4.4:
+        non_striker: Azyan Farhath
+        bowler: IP Swaney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umar Adam
+    - 4.5:
+        non_striker: Azyan Farhath
+        bowler: IP Swaney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umar Adam
+    - 4.6:
+        non_striker: Azyan Farhath
+        bowler: IP Swaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umar Adam
+    - 5.1:
+        non_striker: Azyan Farhath
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 5.2:
+        non_striker: Azyan Farhath
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+        wicket:
+          player_out: Azyan Farhath
+          fielders:
+          - S Banamali
+          kind: run out
+    - 5.3:
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KTK Rodrigo
+        batsman: Umar Adam
+    - 5.4:
+        non_striker: Umar Adam
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTK Rodrigo
+    - 5.5:
+        non_striker: KTK Rodrigo
+        bowler: S Banamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Umar Adam
+    - 5.6:
+        non_striker: Umar Adam
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KTK Rodrigo
+    - 6.1:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+        wicket:
+          player_out: Umar Adam
+          kind: lbw
+    - 6.2:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 6.3:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTK Rodrigo
+    - 6.4:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTK Rodrigo
+    - 6.5:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 6.6:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTK Rodrigo
+    - 7.1:
+        non_striker: KTK Rodrigo
+        bowler: R Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Hassan Rasheed
+    - 7.2:
+        non_striker: KTK Rodrigo
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 7.3:
+        non_striker: Hassan Rasheed
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KTK Rodrigo
+    - 7.4:
+        non_striker: Hassan Rasheed
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTK Rodrigo
+    - 7.5:
+        non_striker: KTK Rodrigo
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 7.6:
+        non_striker: KTK Rodrigo
+        bowler: R Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Rasheed
+    - 7.7:
+        non_striker: KTK Rodrigo
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 8.1:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 8.2:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTK Rodrigo
+    - 8.3:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 8.4:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 8.5:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTK Rodrigo
+    - 8.6:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 9.1:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KTK Rodrigo
+    - 9.2:
+        non_striker: KTK Rodrigo
+        bowler: Avi Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Rasheed
+    - 9.3:
+        non_striker: KTK Rodrigo
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 9.4:
+        non_striker: KTK Rodrigo
+        bowler: Avi Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Rasheed
+    - 9.5:
+        non_striker: KTK Rodrigo
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 9.6:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KTK Rodrigo
+    - 9.7:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTK Rodrigo
+    - 9.8:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTK Rodrigo
+    - 10.1:
+        non_striker: KTK Rodrigo
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 10.2:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTK Rodrigo
+    - 10.3:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KTK Rodrigo
+    - 10.4:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KTK Rodrigo
+    - 10.5:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTK Rodrigo
+    - 10.6:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KTK Rodrigo
+        wicket:
+          player_out: KTK Rodrigo
+          fielders:
+          - S Chandramohan
+          kind: caught
+    - 11.1:
+        bowler: Avi Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Ismail Ali
+        batsman: Hassan Rasheed
+    - 11.2:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 11.3:
+        non_striker: Ismail Ali
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 11.4:
+        non_striker: Ismail Ali
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 11.5:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ismail Ali
+    - 11.6:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismail Ali
+    - 12.1:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Rasheed
+    - 12.2:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 12.3:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Rasheed
+    - 12.4:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 12.5:
+        non_striker: Ismail Ali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 12.6:
+        non_striker: Hassan Rasheed
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ismail Ali
+    - 13.1:
+        non_striker: Ismail Ali
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 13.2:
+        non_striker: Ismail Ali
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 13.3:
+        non_striker: Hassan Rasheed
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ismail Ali
+    - 13.4:
+        non_striker: Hassan Rasheed
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 13.5:
+        non_striker: Ismail Ali
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 13.6:
+        non_striker: Hassan Rasheed
+        bowler: R Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 14.1:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismail Ali
+    - 14.2:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 14.3:
+        non_striker: Ismail Ali
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 14.4:
+        non_striker: Ismail Ali
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 14.5:
+        non_striker: Hassan Rasheed
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 14.6:
+        non_striker: Ismail Ali
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 15.1:
+        non_striker: Ismail Ali
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 15.2:
+        non_striker: Hassan Rasheed
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismail Ali
+    - 15.3:
+        non_striker: Hassan Rasheed
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 15.4:
+        non_striker: Hassan Rasheed
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 15.5:
+        non_striker: Ismail Ali
+        bowler: S Banamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Rasheed
+    - 15.6:
+        non_striker: Ismail Ali
+        bowler: S Banamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hassan Rasheed
+    - 15.7:
+        non_striker: Ismail Ali
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 15.8:
+        non_striker: Hassan Rasheed
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismail Ali
+    - 16.1:
+        non_striker: Hassan Rasheed
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 16.2:
+        non_striker: Hassan Rasheed
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ismail Ali
+    - 16.3:
+        non_striker: Hassan Rasheed
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+    - 16.4:
+        non_striker: Hassan Rasheed
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismail Ali
+        wicket:
+          player_out: Ismail Ali
+          kind: bowled
+    - 16.5:
+        non_striker: Hassan Rasheed
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Hassan
+    - 16.6:
+        non_striker: Ibrahim Hassan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 16.7:
+        non_striker: Hassan Rasheed
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 17.1:
+        non_striker: Ibrahim Hassan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+        wicket:
+          player_out: Hassan Rasheed
+          kind: bowled
+    - 17.2:
+        non_striker: Ibrahim Hassan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+        wicket:
+          player_out: Mohamed Azzam
+          fielders:
+          - R Rohan
+          kind: run out
+    - 17.3:
+        non_striker: Ibrahim Hassan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 17.4:
+        non_striker: Ibrahim Hassan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Rizan
+    - 17.5:
+        non_striker: Ibrahim Hassan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 17.6:
+        non_striker: Ibrahim Hassan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 18.1:
+        non_striker: Ibrahim Rizan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Hassan
+    - 18.2:
+        non_striker: Ibrahim Hassan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 18.3:
+        non_striker: Ibrahim Hassan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Rizan
+    - 18.4:
+        non_striker: Ibrahim Rizan
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ibrahim Hassan
+    - 18.5:
+        non_striker: Ibrahim Rizan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Hassan
+    - 18.6:
+        non_striker: Ibrahim Rizan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+        wicket:
+          player_out: Ibrahim Hassan
+          fielders:
+          - Aman Desai
+          kind: caught
+    - 18.7:
+        non_striker: Ibrahim Rizan
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nazwan Ismail
+    - 19.1:
+        non_striker: Ibrahim Rizan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazwan Ismail
+    - 19.2:
+        non_striker: Ibrahim Rizan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazwan Ismail
+    - 19.3:
+        non_striker: Nazwan Ismail
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 19.4:
+        non_striker: Nazwan Ismail
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Rizan
+    - 19.5:
+        non_striker: Ibrahim Rizan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazwan Ismail
+    - 19.6:
+        non_striker: Ibrahim Rizan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazwan Ismail

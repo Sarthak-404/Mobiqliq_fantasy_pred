@@ -1,0 +1,2119 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  dates:
+  - '2024-01-12'
+  gender: male
+  match_type: T20
+  match_type_number: 2429
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 46
+  overs: 20
+  player_of_match:
+  - DJ Mitchell
+  players:
+    New Zealand:
+    - FH Allen
+    - DP Conway
+    - KS Williamson
+    - DJ Mitchell
+    - GD Phillips
+    - MS Chapman
+    - AF Milne
+    - IS Sodhi
+    - MJ Henry
+    - TG Southee
+    - BV Sears
+    Pakistan:
+    - Saim Ayub
+    - Mohammad Rizwan
+    - Babar Azam
+    - Fakhar Zaman
+    - Iftikhar Ahmed
+    - Azam Khan
+    - Shaheen Shah Afridi
+    - Aamer Jamal
+    - Usama Mir
+    - Abbas Afridi
+    - Haris Rauf
+  registry:
+    people:
+      AF Milne: 350bb1b1
+      Aamer Jamal: a8e54ef4
+      Abbas Afridi: 2cec2a92
+      Azam Khan: ee8f1a6d
+      BV Sears: e1891e00
+      Babar Azam: 8a75e999
+      CM Brown: 448f4f1c
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      FH Allen: bf74b130
+      Fakhar Zaman: 1777c020
+      GD Phillips: 9a46c4e5
+      Haris Rauf: 24bb1c2f
+      IS Sodhi: 641ac5ff
+      Iftikhar Ahmed: 29e253dd
+      JJ Crowe: 2e760301
+      KS Williamson: d027ba9f
+      Kim Cotton: 67a7c2ee
+      MJ Henry: e84ac20c
+      MS Chapman: 7fa12533
+      Mohammad Rizwan: 2f26ac1a
+      SB Haig: 811655b3
+      Saim Ayub: 33609a8c
+      Shaheen Shah Afridi: 45a7e761
+      TG Southee: 13c35c9e
+      Usama Mir: 6dd8b88c
+      WR Knights: 63cbf8d8
+  teams:
+  - New Zealand
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - CM Brown
+  - SB Haig
+  venue: Eden Park, Auckland
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: DP Conway
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.2:
+        non_striker: FH Allen
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - Saim Ayub
+          kind: caught
+    - 0.3:
+        non_striker: FH Allen
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.4:
+        non_striker: FH Allen
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.5:
+        non_striker: FH Allen
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.6:
+        non_striker: FH Allen
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.1:
+        non_striker: KS Williamson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.2:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.3:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KS Williamson
+    - 1.4:
+        non_striker: KS Williamson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.5:
+        non_striker: KS Williamson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.6:
+        non_striker: FH Allen
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.1:
+        non_striker: KS Williamson
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 2.2:
+        non_striker: KS Williamson
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.3:
+        non_striker: KS Williamson
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.4:
+        non_striker: KS Williamson
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.5:
+        non_striker: KS Williamson
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 2.6:
+        non_striker: KS Williamson
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.1:
+        non_striker: FH Allen
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 3.2:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.3:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: FH Allen
+    - 3.4:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 3.5:
+        non_striker: FH Allen
+        bowler: Aamer Jamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KS Williamson
+    - 3.6:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 3.7:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.8:
+        non_striker: FH Allen
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 4.1:
+        non_striker: FH Allen
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.2:
+        non_striker: FH Allen
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 4.3:
+        non_striker: FH Allen
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 4.4:
+        non_striker: FH Allen
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 4.5:
+        non_striker: KS Williamson
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - Aamer Jamal
+          kind: caught
+    - 4.6:
+        non_striker: KS Williamson
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.1:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.2:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.3:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 5.4:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.5:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.6:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.1:
+        non_striker: KS Williamson
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.2:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.3:
+        non_striker: KS Williamson
+        bowler: Abbas Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 6.4:
+        non_striker: KS Williamson
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.5:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.6:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.7:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.1:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 7.2:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 7.3:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.4:
+        non_striker: KS Williamson
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 7.5:
+        non_striker: KS Williamson
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 8.5:
+        non_striker: DJ Mitchell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 9.1:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 9.3:
+        non_striker: KS Williamson
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: KS Williamson
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: KS Williamson
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 10.1:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 10.2:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 10.3:
+        non_striker: KS Williamson
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.4:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 10.5:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 10.6:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 11.1:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Williamson
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 11.3:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 11.4:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          fielders:
+          - Fakhar Zaman
+          kind: caught
+    - 11.5:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.6:
+        non_striker: GD Phillips
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.7:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.1:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 12.2:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.3:
+        non_striker: GD Phillips
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 12.4:
+        non_striker: GD Phillips
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.5:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 12.6:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 12.7:
+        non_striker: DJ Mitchell
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 13.1:
+        non_striker: GD Phillips
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 13.2:
+        non_striker: GD Phillips
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.3:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 13.4:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.5:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.6:
+        non_striker: GD Phillips
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.1:
+        non_striker: GD Phillips
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.2:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 14.3:
+        non_striker: GD Phillips
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 14.4:
+        non_striker: GD Phillips
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.5:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 14.6:
+        non_striker: DJ Mitchell
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 15.1:
+        non_striker: MS Chapman
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 15.2:
+        non_striker: MS Chapman
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 15.3:
+        non_striker: MS Chapman
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 15.4:
+        non_striker: DJ Mitchell
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 15.5:
+        non_striker: MS Chapman
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 15.6:
+        non_striker: MS Chapman
+        bowler: Usama Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.1:
+        non_striker: MS Chapman
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - Saim Ayub
+          kind: caught
+    - 16.2:
+        non_striker: MS Chapman
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 16.3:
+        non_striker: AF Milne
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 16.4:
+        non_striker: MS Chapman
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AF Milne
+    - 16.5:
+        non_striker: MS Chapman
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 16.6:
+        non_striker: MS Chapman
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AF Milne
+    - 17.1:
+        non_striker: AF Milne
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 17.2:
+        non_striker: MS Chapman
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Milne
+    - 17.3:
+        non_striker: MS Chapman
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 17.4:
+        non_striker: MS Chapman
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 17.5:
+        non_striker: MS Chapman
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 17.6:
+        non_striker: MS Chapman
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 18.1:
+        non_striker: AF Milne
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 18.2:
+        non_striker: AF Milne
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 18.3:
+        non_striker: MS Chapman
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 18.4:
+        non_striker: AF Milne
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 18.5:
+        non_striker: AF Milne
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 18.6:
+        non_striker: MS Chapman
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+        wicket:
+          player_out: AF Milne
+          fielders:
+          - Saim Ayub
+          kind: caught
+    - 19.1:
+        non_striker: IS Sodhi
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 19.2:
+        non_striker: MS Chapman
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          kind: bowled
+    - 19.3:
+        non_striker: MS Chapman
+        bowler: Haris Rauf
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MJ Henry
+    - 19.4:
+        non_striker: MJ Henry
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 19.5:
+        non_striker: MJ Henry
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - Saim Ayub
+          kind: caught
+    - 19.6:
+        non_striker: MJ Henry
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 19.7:
+        non_striker: MJ Henry
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TG Southee
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Mohammad Rizwan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 0.2:
+        non_striker: Mohammad Rizwan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 0.3:
+        non_striker: Saim Ayub
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.4:
+        non_striker: Saim Ayub
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 0.5:
+        non_striker: Mohammad Rizwan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 0.6:
+        non_striker: Mohammad Rizwan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.1:
+        non_striker: Saim Ayub
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.2:
+        non_striker: Saim Ayub
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.3:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 1.4:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.5:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 1.6:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.1:
+        non_striker: Saim Ayub
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 2.2:
+        non_striker: Saim Ayub
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - AF Milne
+          kind: run out
+    - 2.3:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 2.4:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.5:
+        non_striker: Mohammad Rizwan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.6:
+        non_striker: Mohammad Rizwan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.1:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.2:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 3.3:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.4:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.5:
+        non_striker: Babar Azam
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.6:
+        non_striker: Babar Azam
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.1:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rizwan
+    - 4.2:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 4.3:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.4:
+        non_striker: Mohammad Rizwan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.5:
+        non_striker: Mohammad Rizwan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 4.6:
+        non_striker: Mohammad Rizwan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.7:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 5.1:
+        non_striker: Mohammad Rizwan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.2:
+        non_striker: Mohammad Rizwan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.3:
+        non_striker: Babar Azam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - DP Conway
+          kind: caught
+    - 5.4:
+        non_striker: Babar Azam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 5.5:
+        non_striker: Babar Azam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 5.6:
+        non_striker: Fakhar Zaman
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.1:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 6.2:
+        non_striker: Fakhar Zaman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 6.3:
+        non_striker: Fakhar Zaman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.4:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 6.5:
+        non_striker: Fakhar Zaman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 6.6:
+        non_striker: Fakhar Zaman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 7.1:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 7.2:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 7.3:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 7.4:
+        non_striker: Fakhar Zaman
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.5:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 7.6:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 8.1:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          kind: caught and bowled
+    - 8.2:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iftikhar Ahmed
+    - 8.3:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 8.4:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Iftikhar Ahmed
+    - 8.5:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 8.6:
+        non_striker: Iftikhar Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.7:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 9.1:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 9.2:
+        non_striker: Iftikhar Ahmed
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 9.3:
+        non_striker: Iftikhar Ahmed
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.4:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 9.5:
+        non_striker: Iftikhar Ahmed
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.6:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.1:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.2:
+        non_striker: Iftikhar Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.3:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Iftikhar Ahmed
+    - 10.4:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iftikhar Ahmed
+    - 10.5:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Iftikhar Ahmed
+    - 10.6:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Iftikhar Ahmed
+    - 10.7:
+        non_striker: Babar Azam
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 10.8:
+        non_striker: Iftikhar Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.9:
+        non_striker: Iftikhar Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 11.1:
+        non_striker: Babar Azam
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 11.2:
+        non_striker: Babar Azam
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 11.3:
+        non_striker: Babar Azam
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 11.4:
+        non_striker: Babar Azam
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 11.5:
+        non_striker: Iftikhar Ahmed
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.6:
+        non_striker: Babar Azam
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iftikhar Ahmed
+    - 12.1:
+        non_striker: Iftikhar Ahmed
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 12.2:
+        non_striker: Iftikhar Ahmed
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.3:
+        non_striker: Babar Azam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 12.4:
+        non_striker: Babar Azam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+        wicket:
+          player_out: Iftikhar Ahmed
+          fielders:
+          - IS Sodhi
+          kind: caught
+    - 12.5:
+        non_striker: Babar Azam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 12.6:
+        non_striker: Babar Azam
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 13.1:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 13.2:
+        non_striker: Azam Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.3:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 13.4:
+        non_striker: Azam Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.5:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 13.6:
+        non_striker: Azam Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 14.1:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 14.2:
+        non_striker: Azam Khan
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 14.3:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 14.4:
+        non_striker: Babar Azam
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 14.5:
+        non_striker: Azam Khan
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 14.6:
+        non_striker: Azam Khan
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 15.1:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 15.2:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 15.3:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+        wicket:
+          player_out: Shaheen Shah Afridi
+          fielders:
+          - DP Conway
+          kind: caught
+    - 15.4:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamer Jamal
+    - 15.5:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aamer Jamal
+    - 15.6:
+        non_striker: Babar Azam
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aamer Jamal
+    - 16.1:
+        non_striker: Aamer Jamal
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 16.2:
+        non_striker: Aamer Jamal
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 16.3:
+        non_striker: Aamer Jamal
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usama Mir
+    - 16.4:
+        non_striker: Usama Mir
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aamer Jamal
+    - 16.5:
+        non_striker: Usama Mir
+        bowler: BV Sears
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aamer Jamal
+    - 16.6:
+        non_striker: Aamer Jamal
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usama Mir
+        wicket:
+          player_out: Usama Mir
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 17.1:
+        non_striker: Abbas Afridi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamer Jamal
+    - 17.2:
+        non_striker: Aamer Jamal
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Afridi
+    - 17.3:
+        non_striker: Abbas Afridi
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamer Jamal
+    - 17.4:
+        non_striker: Aamer Jamal
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Afridi
+        wicket:
+          player_out: Abbas Afridi
+          fielders:
+          - MJ Henry
+          kind: caught
+    - 17.5:
+        non_striker: Aamer Jamal
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 17.6:
+        non_striker: Aamer Jamal
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+        wicket:
+          player_out: Haris Rauf
+          fielders:
+          - MS Chapman
+          kind: caught

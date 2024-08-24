@@ -1,0 +1,2138 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nairobi
+  dates:
+  - '2023-06-13'
+  gender: male
+  match_type: T20
+  match_type_number: 2096
+  outcome:
+    winner: Rwanda
+    by:
+      runs: 27
+  overs: 20
+  player_of_match:
+  - C Rububagumya
+  players:
+    Rwanda:
+    - O Tuyisenge
+    - E Dusingizimana
+    - D Ndikubwimana
+    - W Niyitanga
+    - C Rububagumya
+    - K Irakoze
+    - O Manishimwe
+    - M Akayezu
+    - Z Bimenyimana
+    - E Rukiriza
+    - I Ntirenganya
+    Botswana:
+    - Ameer Saiyed
+    - K Motlanka
+    - V Mbazo
+    - T Tshose
+    - R Nehonde
+    - P Silas
+    - D Maisuria
+    - K Piet
+    - M Mooketsi
+    - B Kgosiemang
+    - B Khumalo
+  registry:
+    people:
+      Ameer Saiyed: 2f22325f
+      B Kgosiemang: '059ec7a5'
+      B Khumalo: 33ab1f1c
+      C Rububagumya: 8088632c
+      D Maisuria: a96b36af
+      D Ndikubwimana: 3cbedf51
+      D Odhiambo: '45994517'
+      E Dusingizimana: c15e7ba4
+      E Rukiriza: 3ac13a94
+      I Ntirenganya: e73f6c4b
+      IO Oyieko: de4828fa
+      J Karuri: 5a9b694c
+      K Irakoze: 9ccb6e52
+      K Motlanka: '21549344'
+      K Piet: 39fd9295
+      M Akayezu: 1f3b9f8d
+      M Mooketsi: '008a024c'
+      O Manishimwe: fb31ca49
+      O Tuyisenge: e6a6888f
+      P Silas: 9f2e1944
+      R Nehonde: 4393e047
+      T Tshose: 18ae55e4
+      V Mbazo: a2317d14
+      W Niyitanga: e7631adc
+      Z Bimenyimana: ba57fb08
+  teams:
+  - Rwanda
+  - Botswana
+  toss:
+    winner: Botswana
+    decision: field
+  umpires:
+  - D Odhiambo
+  - J Karuri
+  venue: Gymkhana Club Ground, Nairobi
+innings:
+- 1st innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        non_striker: E Dusingizimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+        wicket:
+          player_out: O Tuyisenge
+          fielders:
+          - T Tshose
+          kind: caught
+    - 0.2:
+        non_striker: E Dusingizimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 0.3:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 0.4:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 0.5:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 0.6:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 1.1:
+        non_striker: E Dusingizimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 1.2:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 1.3:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Dusingizimana
+    - 1.4:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 1.5:
+        non_striker: E Dusingizimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 1.6:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Dusingizimana
+    - 1.7:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 2.1:
+        non_striker: E Dusingizimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Ndikubwimana
+    - 2.2:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 2.3:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 2.4:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 2.5:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Dusingizimana
+    - 2.6:
+        non_striker: D Ndikubwimana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 3.1:
+        non_striker: E Dusingizimana
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 3.2:
+        non_striker: D Ndikubwimana
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 3.3:
+        non_striker: D Ndikubwimana
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Dusingizimana
+    - 3.4:
+        non_striker: D Ndikubwimana
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 3.5:
+        non_striker: D Ndikubwimana
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 3.6:
+        non_striker: E Dusingizimana
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ndikubwimana
+    - 4.1:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+        wicket:
+          player_out: E Dusingizimana
+          fielders:
+          - K Motlanka
+          kind: caught
+    - 4.2:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 4.3:
+        non_striker: W Niyitanga
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 4.4:
+        non_striker: W Niyitanga
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 4.5:
+        non_striker: W Niyitanga
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 4.6:
+        non_striker: D Ndikubwimana
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 5.1:
+        non_striker: W Niyitanga
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 5.2:
+        non_striker: W Niyitanga
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 5.3:
+        non_striker: D Ndikubwimana
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 5.4:
+        non_striker: D Ndikubwimana
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 5.5:
+        non_striker: W Niyitanga
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 5.6:
+        non_striker: D Ndikubwimana
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 6.1:
+        non_striker: D Ndikubwimana
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 6.2:
+        non_striker: W Niyitanga
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.3:
+        non_striker: W Niyitanga
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ndikubwimana
+    - 6.4:
+        non_striker: W Niyitanga
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.5:
+        non_striker: W Niyitanga
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          fielders:
+          - B Khumalo
+          kind: caught
+    - 6.6:
+        non_striker: W Niyitanga
+        bowler: D Maisuria
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Rububagumya
+    - 6.7:
+        non_striker: W Niyitanga
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 7.1:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Rububagumya
+    - 7.2:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 7.3:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Rububagumya
+    - 7.4:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 7.5:
+        non_striker: C Rububagumya
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 7.6:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 7.7:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 8.1:
+        non_striker: C Rububagumya
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Niyitanga
+    - 8.2:
+        non_striker: C Rububagumya
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Niyitanga
+    - 8.3:
+        non_striker: C Rububagumya
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 8.4:
+        non_striker: C Rububagumya
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 8.5:
+        non_striker: C Rububagumya
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 8.6:
+        non_striker: W Niyitanga
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 9.1:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: W Niyitanga
+    - 9.2:
+        non_striker: W Niyitanga
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 9.3:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 9.4:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 9.5:
+        non_striker: W Niyitanga
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 9.6:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 9.7:
+        non_striker: W Niyitanga
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 10.1:
+        non_striker: W Niyitanga
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 10.2:
+        non_striker: W Niyitanga
+        bowler: B Khumalo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Rububagumya
+    - 10.3:
+        non_striker: W Niyitanga
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 10.4:
+        non_striker: C Rububagumya
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Niyitanga
+    - 10.5:
+        non_striker: C Rububagumya
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 10.6:
+        non_striker: W Niyitanga
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 10.7:
+        non_striker: C Rububagumya
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Niyitanga
+    - 11.1:
+        non_striker: W Niyitanga
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 11.2:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Niyitanga
+    - 11.3:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Niyitanga
+    - 11.4:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 11.5:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 11.6:
+        non_striker: C Rububagumya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 12.1:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 12.2:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Rububagumya
+    - 12.3:
+        non_striker: W Niyitanga
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 12.4:
+        non_striker: C Rububagumya
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Niyitanga
+    - 12.5:
+        non_striker: C Rububagumya
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Niyitanga
+    - 12.6:
+        non_striker: C Rububagumya
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+        wicket:
+          player_out: W Niyitanga
+          fielders:
+          - K Motlanka
+          kind: run out
+    - 13.1:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Irakoze
+        wicket:
+          player_out: K Irakoze
+          fielders:
+          - V Mbazo
+          kind: caught
+    - 13.2:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 13.3:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Manishimwe
+    - 13.4:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Manishimwe
+    - 13.5:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 13.6:
+        non_striker: O Manishimwe
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 14.1:
+        non_striker: O Manishimwe
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 14.2:
+        non_striker: O Manishimwe
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Rububagumya
+    - 14.3:
+        non_striker: O Manishimwe
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 14.4:
+        non_striker: O Manishimwe
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Rububagumya
+    - 14.5:
+        non_striker: O Manishimwe
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 14.6:
+        non_striker: O Manishimwe
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 15.1:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Manishimwe
+    - 15.2:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 15.3:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Manishimwe
+    - 15.4:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Manishimwe
+    - 15.5:
+        non_striker: C Rububagumya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 15.6:
+        non_striker: O Manishimwe
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 15.7:
+        non_striker: O Manishimwe
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 16.1:
+        non_striker: O Manishimwe
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 16.2:
+        non_striker: C Rububagumya
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 16.3:
+        non_striker: O Manishimwe
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 16.4:
+        non_striker: C Rububagumya
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: O Manishimwe
+    - 16.5:
+        non_striker: O Manishimwe
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 16.6:
+        non_striker: O Manishimwe
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 17.1:
+        non_striker: C Rububagumya
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+        wicket:
+          player_out: O Manishimwe
+          fielders:
+          - M Mooketsi
+          kind: run out
+    - 17.2:
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Akayezu
+        batsman: C Rububagumya
+    - 17.3:
+        non_striker: C Rububagumya
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 17.4:
+        non_striker: M Akayezu
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+        wicket:
+          player_out: C Rububagumya
+          fielders:
+          - V Mbazo
+          kind: caught
+    - 17.5:
+        non_striker: M Akayezu
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Bimenyimana
+        wicket:
+          player_out: Z Bimenyimana
+          kind: bowled
+    - 17.6:
+        non_striker: M Akayezu
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 18.1:
+        non_striker: E Rukiriza
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Akayezu
+    - 18.2:
+        non_striker: E Rukiriza
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 18.3:
+        non_striker: M Akayezu
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 18.4:
+        non_striker: M Akayezu
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+        wicket:
+          player_out: E Rukiriza
+          fielders:
+          - M Mooketsi
+          kind: caught
+    - 18.5:
+        non_striker: M Akayezu
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 18.6:
+        non_striker: I Ntirenganya
+        bowler: K Piet
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Akayezu
+    - 19.1:
+        non_striker: I Ntirenganya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Akayezu
+    - 19.2:
+        non_striker: I Ntirenganya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 19.3:
+        non_striker: M Akayezu
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 19.4:
+        non_striker: I Ntirenganya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Akayezu
+    - 19.5:
+        non_striker: I Ntirenganya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 19.6:
+        non_striker: I Ntirenganya
+        bowler: T Tshose
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+- 2nd innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Motlanka
+        batsman: Ameer Saiyed
+    - 0.2:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Motlanka
+        batsman: Ameer Saiyed
+    - 0.3:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Motlanka
+        batsman: Ameer Saiyed
+    - 0.4:
+        non_striker: Ameer Saiyed
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 0.5:
+        non_striker: Ameer Saiyed
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 0.6:
+        non_striker: Ameer Saiyed
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 1.1:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ameer Saiyed
+    - 1.2:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameer Saiyed
+    - 1.3:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameer Saiyed
+    - 1.4:
+        non_striker: Ameer Saiyed
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Motlanka
+    - 1.5:
+        non_striker: Ameer Saiyed
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 1.6:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameer Saiyed
+    - 2.1:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameer Saiyed
+    - 2.2:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameer Saiyed
+    - 2.3:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameer Saiyed
+    - 2.4:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameer Saiyed
+    - 2.5:
+        non_striker: Ameer Saiyed
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 2.6:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameer Saiyed
+    - 3.1:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameer Saiyed
+    - 3.2:
+        non_striker: Ameer Saiyed
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 3.3:
+        non_striker: Ameer Saiyed
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Motlanka
+    - 3.4:
+        non_striker: Ameer Saiyed
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Motlanka
+    - 3.5:
+        non_striker: Ameer Saiyed
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 3.6:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameer Saiyed
+    - 3.7:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameer Saiyed
+    - 4.1:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameer Saiyed
+        wicket:
+          player_out: Ameer Saiyed
+          fielders:
+          - D Ndikubwimana
+          kind: caught
+    - 4.2:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mbazo
+    - 4.3:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mbazo
+    - 4.4:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 4.5:
+        non_striker: V Mbazo
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 4.6:
+        non_striker: K Motlanka
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mbazo
+    - 5.1:
+        non_striker: V Mbazo
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 5.2:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mbazo
+    - 5.3:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 5.4:
+        non_striker: V Mbazo
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Motlanka
+    - 5.5:
+        non_striker: V Mbazo
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 5.6:
+        non_striker: K Motlanka
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Mbazo
+    - 6.1:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 6.2:
+        non_striker: K Motlanka
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 6.3:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 6.4:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Motlanka
+    - 6.5:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Motlanka
+    - 6.6:
+        non_striker: K Motlanka
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 7.1:
+        non_striker: K Motlanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 7.2:
+        non_striker: V Mbazo
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Motlanka
+    - 7.3:
+        non_striker: V Mbazo
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 7.4:
+        non_striker: V Mbazo
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 7.5:
+        non_striker: K Motlanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 7.6:
+        non_striker: V Mbazo
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Motlanka
+    - 7.7:
+        non_striker: K Motlanka
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 8.1:
+        non_striker: K Motlanka
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 8.2:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 8.3:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+    - 8.4:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Motlanka
+        wicket:
+          player_out: K Motlanka
+          fielders:
+          - O Manishimwe
+          kind: caught
+    - 8.5:
+        non_striker: V Mbazo
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 8.6:
+        non_striker: T Tshose
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 9.1:
+        non_striker: T Tshose
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 9.2:
+        non_striker: V Mbazo
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 9.3:
+        non_striker: T Tshose
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Mbazo
+    - 9.4:
+        non_striker: V Mbazo
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tshose
+        wicket:
+          player_out: T Tshose
+          kind: caught and bowled
+    - 9.5:
+        non_striker: V Mbazo
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nehonde
+    - 9.6:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Mbazo
+        wicket:
+          player_out: V Mbazo
+          fielders:
+          - D Ndikubwimana
+          kind: caught
+    - 10.1:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Silas
+        batsman: R Nehonde
+    - 10.2:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Silas
+        batsman: R Nehonde
+    - 10.3:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Silas
+        batsman: R Nehonde
+    - 10.4:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Silas
+        batsman: R Nehonde
+    - 10.5:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Silas
+        batsman: R Nehonde
+    - 10.6:
+        non_striker: P Silas
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nehonde
+    - 11.1:
+        non_striker: P Silas
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nehonde
+    - 11.2:
+        non_striker: P Silas
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nehonde
+    - 11.3:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Silas
+    - 11.4:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 11.5:
+        non_striker: P Silas
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Nehonde
+    - 11.6:
+        non_striker: P Silas
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nehonde
+    - 12.1:
+        non_striker: R Nehonde
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Silas
+    - 12.2:
+        non_striker: R Nehonde
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 12.3:
+        non_striker: P Silas
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nehonde
+    - 12.4:
+        non_striker: R Nehonde
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Silas
+    - 12.5:
+        non_striker: R Nehonde
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Silas
+    - 12.6:
+        non_striker: R Nehonde
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 13.1:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 13.2:
+        non_striker: P Silas
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nehonde
+    - 13.3:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Silas
+    - 13.4:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Silas
+    - 13.5:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Silas
+    - 13.6:
+        non_striker: R Nehonde
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Silas
+    - 14.1:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nehonde
+    - 14.2:
+        non_striker: R Nehonde
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 14.3:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Nehonde
+    - 14.4:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Nehonde
+    - 14.5:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nehonde
+    - 14.6:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nehonde
+        wicket:
+          player_out: R Nehonde
+          kind: caught and bowled
+    - 15.1:
+        non_striker: D Maisuria
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+        wicket:
+          player_out: D Maisuria
+          fielders:
+          - O Tuyisenge
+          kind: run out
+    - 15.2:
+        non_striker: P Silas
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Piet
+    - 15.3:
+        non_striker: K Piet
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Silas
+    - 15.4:
+        non_striker: K Piet
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Silas
+    - 15.5:
+        non_striker: K Piet
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Silas
+    - 15.6:
+        non_striker: K Piet
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Silas
+    - 16.1:
+        non_striker: K Piet
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 16.2:
+        non_striker: P Silas
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Piet
+        wicket:
+          player_out: K Piet
+          fielders:
+          - D Ndikubwimana
+          kind: caught
+    - 16.3:
+        non_striker: P Silas
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mooketsi
+    - 16.4:
+        non_striker: M Mooketsi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Silas
+    - 16.5:
+        non_striker: M Mooketsi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Silas
+    - 16.6:
+        non_striker: M Mooketsi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Silas
+    - 17.1:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mooketsi
+        wicket:
+          player_out: M Mooketsi
+          fielders:
+          - D Ndikubwimana
+          kind: run out
+    - 17.2:
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Kgosiemang
+        batsman: P Silas
+    - 17.3:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Kgosiemang
+    - 17.4:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kgosiemang
+    - 17.5:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kgosiemang
+    - 17.6:
+        non_striker: B Kgosiemang
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Silas
+    - 17.7:
+        non_striker: P Silas
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kgosiemang
+    - 18.1:
+        non_striker: B Kgosiemang
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+        wicket:
+          player_out: P Silas
+          fielders:
+          - O Tuyisenge
+          kind: run out
+    - 18.2:
+        non_striker: B Kgosiemang
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Khumalo
+    - 18.3:
+        non_striker: B Kgosiemang
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Khumalo
+    - 18.4:
+        non_striker: B Khumalo
+        bowler: C Rububagumya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Kgosiemang
+    - 18.5:
+        non_striker: B Khumalo
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kgosiemang
+        wicket:
+          player_out: B Kgosiemang
+          fielders:
+          - E Rukiriza
+          kind: caught

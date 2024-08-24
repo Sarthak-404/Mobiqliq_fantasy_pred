@@ -1,0 +1,1111 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-01'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2023-09-01'
+  gender: female
+  match_type: T20
+  match_type_number: 1574
+  outcome:
+    winner: Nepal
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - I Barma
+  players:
+    Bahrain:
+    - TI Gajanayake
+    - R Rodrigo
+    - HMD Rasangika
+    - Abeera Waris
+    - I Suhun
+    - A Samildeen
+    - Prajna Jagdeesha
+    - P Shetty
+    - Manal Malik
+    - Ashwini Govinda
+    - Sadamali Bhakshala
+    Nepal:
+    - K Kunwar
+    - SR Magar
+    - RC Belbashi
+    - I Barma
+    - Apsari Begam
+    - K Joshi
+    - A Karmacharya
+    - Puja Mahato
+    - K Dangol
+    - Samjhana Khadka
+    - K Shrestha
+  registry:
+    people:
+      A Karmacharya: e1492aed
+      A Samildeen: bc19544d
+      Abeera Waris: '01396dc6'
+      Apsari Begam: eb765b41
+      Ashwini Govinda: 5581a471
+      HMD Rasangika: d6f9dfd6
+      I Barma: 521abce2
+      I Suhun: 41bfb2a9
+      K Dangol: db080f9d
+      K Joshi: 0cd297b9
+      K Kunwar: 97e6e41a
+      K Shrestha: 119de50f
+      M Nayyar: b7bccddb
+      Manal Malik: a8d0b86f
+      P Shetty: 0dda36e7
+      Prajna Jagdeesha: b79932e1
+      Puja Mahato: 4b95058b
+      R Rodrigo: fe676043
+      RC Belbashi: dfdaca74
+      SR Magar: 61c22ad0
+      Sadamali Bhakshala: 89df3901
+      Samjhana Khadka: 765a2354
+      Shivani Mishra: 2982a0c7
+      TI Gajanayake: d577d45a
+      V Kalidas: 42d76418
+      VG Rathi: 144e5b16
+  teams:
+  - Bahrain
+  - Nepal
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - V Kalidas
+  - VG Rathi
+  venue: Selangor Turf Club, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.2:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.3:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.4:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.5:
+        bowler: K Kunwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.6:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rodrigo
+        batsman: TI Gajanayake
+    - 0.7:
+        non_striker: R Rodrigo
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 1.1:
+        non_striker: R Rodrigo
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 1.2:
+        non_striker: R Rodrigo
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 1.3:
+        non_striker: R Rodrigo
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 1.4:
+        non_striker: R Rodrigo
+        bowler: Puja Mahato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 1.5:
+        non_striker: R Rodrigo
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 1.6:
+        non_striker: R Rodrigo
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 1.7:
+        non_striker: TI Gajanayake
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rodrigo
+        wicket:
+          player_out: R Rodrigo
+          kind: lbw
+    - 1.8:
+        non_striker: TI Gajanayake
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.1:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.2:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.3:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.4:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: TI Gajanayake
+          kind: bowled
+    - 2.5:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 2.6:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 3.1:
+        non_striker: Abeera Waris
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 3.2:
+        non_striker: Abeera Waris
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 3.3:
+        non_striker: Abeera Waris
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 3.4:
+        non_striker: HMD Rasangika
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+        wicket:
+          player_out: Abeera Waris
+          fielders:
+          - Apsari Begam
+          kind: run out
+    - 3.5:
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Suhun
+        batsman: HMD Rasangika
+    - 3.6:
+        non_striker: I Suhun
+        bowler: Puja Mahato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.1:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Suhun
+    - 4.2:
+        non_striker: I Suhun
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.3:
+        non_striker: I Suhun
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 4.4:
+        non_striker: I Suhun
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.5:
+        non_striker: I Suhun
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.6:
+        non_striker: I Suhun
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.1:
+        non_striker: HMD Rasangika
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 5.2:
+        non_striker: HMD Rasangika
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Suhun
+    - 5.3:
+        non_striker: I Suhun
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 5.4:
+        non_striker: I Suhun
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.5:
+        non_striker: I Suhun
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 5.6:
+        non_striker: HMD Rasangika
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Suhun
+    - 6.1:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 6.2:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 6.3:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 6.4:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 6.5:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 6.6:
+        non_striker: HMD Rasangika
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 7.1:
+        non_striker: I Suhun
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 7.2:
+        non_striker: HMD Rasangika
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Suhun
+    - 7.3:
+        non_striker: I Suhun
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 7.4:
+        non_striker: I Suhun
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 7.5:
+        non_striker: I Suhun
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 7.6:
+        non_striker: I Suhun
+        bowler: K Joshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 8.1:
+        non_striker: HMD Rasangika
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 8.2:
+        non_striker: HMD Rasangika
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Suhun
+    - 8.3:
+        non_striker: I Suhun
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+        wicket:
+          player_out: HMD Rasangika
+          kind: bowled
+    - 8.4:
+        non_striker: I Suhun
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 8.5:
+        non_striker: I Suhun
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 8.6:
+        non_striker: I Suhun
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 9.1:
+        non_striker: A Samildeen
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+        wicket:
+          player_out: I Suhun
+          fielders:
+          - RC Belbashi
+          - K Joshi
+          kind: run out
+    - 9.2:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Prajna Jagdeesha
+        batsman: A Samildeen
+    - 9.3:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Prajna Jagdeesha
+        batsman: A Samildeen
+    - 9.4:
+        non_striker: A Samildeen
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Prajna Jagdeesha
+        wicket:
+          player_out: Prajna Jagdeesha
+          fielders:
+          - K Shrestha
+          kind: caught
+    - 9.5:
+        non_striker: A Samildeen
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Shetty
+    - 9.6:
+        non_striker: P Shetty
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 10.1:
+        non_striker: A Samildeen
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Shetty
+        wicket:
+          player_out: P Shetty
+          fielders:
+          - K Joshi
+          kind: caught
+    - 10.2:
+        non_striker: A Samildeen
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 10.3:
+        non_striker: A Samildeen
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 10.4:
+        non_striker: A Samildeen
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 10.5:
+        non_striker: A Samildeen
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 10.6:
+        non_striker: A Samildeen
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 11.1:
+        non_striker: Manal Malik
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 11.2:
+        non_striker: Manal Malik
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 11.3:
+        non_striker: Manal Malik
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 11.4:
+        non_striker: Manal Malik
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 11.5:
+        non_striker: Manal Malik
+        bowler: RC Belbashi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Samildeen
+    - 11.6:
+        non_striker: Manal Malik
+        bowler: RC Belbashi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Samildeen
+    - 11.7:
+        non_striker: A Samildeen
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 12.1:
+        non_striker: Manal Malik
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 12.2:
+        non_striker: Manal Malik
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Samildeen
+    - 12.3:
+        non_striker: Manal Malik
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 12.4:
+        non_striker: Manal Malik
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+        wicket:
+          player_out: A Samildeen
+          kind: bowled
+    - 12.5:
+        non_striker: Manal Malik
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Govinda
+    - 12.6:
+        non_striker: Manal Malik
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Govinda
+    - 13.1:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 13.2:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 13.3:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 13.4:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 13.5:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+    - 13.6:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manal Malik
+        wicket:
+          player_out: Manal Malik
+          fielders:
+          - I Barma
+          kind: caught
+    - 14.1:
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sadamali Bhakshala
+        batsman: Ashwini Govinda
+    - 14.2:
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sadamali Bhakshala
+        batsman: Ashwini Govinda
+    - 14.3:
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sadamali Bhakshala
+        batsman: Ashwini Govinda
+    - 14.4:
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sadamali Bhakshala
+        batsman: Ashwini Govinda
+    - 14.5:
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sadamali Bhakshala
+        batsman: Ashwini Govinda
+    - 14.6:
+        non_striker: Sadamali Bhakshala
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Govinda
+    - 15.1:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 15.2:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 15.3:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 15.4:
+        non_striker: Ashwini Govinda
+        bowler: K Dangol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+        wicket:
+          player_out: Sadamali Bhakshala
+          kind: bowled
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SR Magar
+        batsman: K Kunwar
+    - 0.2:
+        non_striker: K Kunwar
+        bowler: P Shetty
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: SR Magar
+    - 0.3:
+        non_striker: K Kunwar
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 0.4:
+        non_striker: K Kunwar
+        bowler: P Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Magar
+    - 0.5:
+        non_striker: K Kunwar
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 0.6:
+        non_striker: SR Magar
+        bowler: P Shetty
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: K Kunwar
+    - 0.7:
+        non_striker: SR Magar
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 0.8:
+        non_striker: SR Magar
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 0.9:
+        non_striker: K Kunwar
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 1.1:
+        non_striker: K Kunwar
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: SR Magar
+    - 1.2:
+        non_striker: SR Magar
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 1.3:
+        non_striker: SR Magar
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kunwar
+    - 1.4:
+        non_striker: SR Magar
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 1.5:
+        non_striker: SR Magar
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 1.6:
+        non_striker: SR Magar
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kunwar
+    - 1.7:
+        non_striker: SR Magar
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 2.1:
+        non_striker: K Kunwar
+        bowler: TI Gajanayake
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SR Magar
+    - 2.2:
+        non_striker: SR Magar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 2.3:
+        non_striker: SR Magar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kunwar
+    - 2.4:
+        non_striker: SR Magar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 2.5:
+        non_striker: SR Magar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 2.6:
+        non_striker: SR Magar
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kunwar

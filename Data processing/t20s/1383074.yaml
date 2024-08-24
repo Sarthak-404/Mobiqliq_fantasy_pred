@@ -1,0 +1,2128 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2023-07-23'
+  gender: male
+  match_type: T20
+  match_type_number: 2157
+  outcome:
+    winner: Ireland
+    by:
+      runs: 128
+  overs: 20
+  player_of_match:
+  - L Tucker
+  players:
+    Ireland:
+    - GR Adair
+    - PR Stirling
+    - L Tucker
+    - HT Tector
+    - NA Rock
+    - GH Dockrell
+    - C Campher
+    - MR Adair
+    - BJ McCarthy
+    - J Little
+    - B White
+    Austria:
+    - Iqbal Hossain
+    - M Simpson-Parker
+    - Razmal Shigiwal
+    - A Randhawa
+    - Shahil Momin
+    - Aqib Iqbal
+    - Mirza Ahsan
+    - MPS Cheema
+    - Abdullah Akbarjan
+    - Sahel Zadran
+    - A Nathwani
+  registry:
+    people:
+      A Nathwani: f1c4f2ea
+      A Randhawa: 1798078c
+      Abdullah Akbarjan: 5de198db
+      Aqib Iqbal: 14157abf
+      B White: 1a448be0
+      BJ McCarthy: 3766056b
+      C Campher: 478a63e7
+      DH Mclean: 281d4749
+      GH Dockrell: 99cddc5e
+      GR Adair: 4ec96094
+      HT Tector: 59ea70a4
+      Iqbal Hossain: e1824e7d
+      J Little: 9061a703
+      L Tucker: 3979b5e0
+      M Jameson: bdf1ffe3
+      M Simpson-Parker: fecd828e
+      MPS Cheema: 97181d1b
+      MR Adair: fc55ec67
+      Mirza Ahsan: 6b74c13b
+      NA Rock: 43f4087c
+      PR Stirling: cf494ffe
+      Phil Whitticase: 99d5f6fa
+      R Black: 156c8fb1
+      Razmal Shigiwal: 60cc80ac
+      Sahel Zadran: dae28050
+      Shahil Momin: 46821fbd
+  teams:
+  - Ireland
+  - Austria
+  toss:
+    winner: Austria
+    decision: field
+  umpires:
+  - DH Mclean
+  - M Jameson
+  venue: Grange Cricket Club Ground, Raeburn Place, Edinburgh
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: GR Adair
+    - 0.2:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: PR Stirling
+        batsman: GR Adair
+    - 0.3:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: GR Adair
+    - 0.4:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: GR Adair
+    - 0.5:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PR Stirling
+        batsman: GR Adair
+    - 0.6:
+        non_striker: GR Adair
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.1:
+        non_striker: PR Stirling
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.3:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 1.7:
+        non_striker: PR Stirling
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 1.8:
+        non_striker: PR Stirling
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 2.1:
+        non_striker: GR Adair
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - Razmal Shigiwal
+          kind: caught
+    - 2.2:
+        non_striker: GR Adair
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 2.3:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 2.4:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 2.5:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.6:
+        non_striker: GR Adair
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.1:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 3.2:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 3.3:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 3.4:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 3.5:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tucker
+    - 3.6:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.7:
+        non_striker: GR Adair
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Tucker
+    - 4.1:
+        non_striker: GR Adair
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.2:
+        non_striker: GR Adair
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 4.3:
+        non_striker: GR Adair
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 4.4:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 4.5:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 4.6:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 5.1:
+        non_striker: GR Adair
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Tucker
+    - 5.2:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 5.3:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 5.4:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 5.5:
+        non_striker: GR Adair
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 5.6:
+        non_striker: GR Adair
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 6.1:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: GR Adair
+    - 6.2:
+        non_striker: GR Adair
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.3:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 6.4:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 6.5:
+        non_striker: GR Adair
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 6.6:
+        non_striker: GR Adair
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.7:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 7.1:
+        non_striker: GR Adair
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.2:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 7.3:
+        non_striker: GR Adair
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 7.4:
+        non_striker: GR Adair
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 7.5:
+        non_striker: GR Adair
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 7.6:
+        non_striker: GR Adair
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 8.1:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          kind: bowled
+    - 8.2:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.3:
+        non_striker: HT Tector
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.4:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.5:
+        non_striker: HT Tector
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.6:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.1:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.2:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.3:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.4:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 9.5:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 9.6:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.7:
+        non_striker: HT Tector
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 10.1:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.2:
+        non_striker: HT Tector
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 10.3:
+        non_striker: HT Tector
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.4:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.5:
+        non_striker: HT Tector
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.6:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.1:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.2:
+        non_striker: HT Tector
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 11.3:
+        non_striker: HT Tector
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 11.4:
+        non_striker: HT Tector
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.5:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 11.6:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 12.1:
+        non_striker: HT Tector
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 12.2:
+        non_striker: HT Tector
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.3:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.4:
+        non_striker: HT Tector
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.5:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 12.6:
+        non_striker: L Tucker
+        bowler: A Nathwani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 13.1:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.2:
+        non_striker: HT Tector
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.3:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - M Simpson-Parker
+          kind: caught
+    - 13.4:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 13.5:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 13.6:
+        non_striker: NA Rock
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 14.1:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Rock
+    - 14.2:
+        non_striker: L Tucker
+        bowler: Shahil Momin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NA Rock
+    - 14.3:
+        non_striker: NA Rock
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 14.4:
+        non_striker: NA Rock
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 14.5:
+        non_striker: NA Rock
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 14.6:
+        non_striker: NA Rock
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 14.7:
+        non_striker: NA Rock
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 14.8:
+        non_striker: NA Rock
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 15.1:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 15.2:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 15.3:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 15.4:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 15.5:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 15.6:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 16.1:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 16.2:
+        non_striker: NA Rock
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 16.3:
+        non_striker: NA Rock
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tucker
+    - 16.4:
+        non_striker: NA Rock
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 16.5:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA Rock
+    - 16.6:
+        non_striker: NA Rock
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Tucker
+    - 16.7:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 17.1:
+        non_striker: NA Rock
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 17.2:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Rock
+    - 17.3:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Rock
+    - 17.4:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 17.5:
+        non_striker: NA Rock
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 17.6:
+        non_striker: L Tucker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Rock
+    - 18.1:
+        non_striker: NA Rock
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 18.2:
+        non_striker: NA Rock
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 18.3:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 18.4:
+        non_striker: NA Rock
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 18.5:
+        non_striker: L Tucker
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 18.6:
+        non_striker: NA Rock
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 19.1:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          kind: bowled
+    - 19.2:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 19.3:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 19.4:
+        non_striker: L Tucker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 19.5:
+        non_striker: GH Dockrell
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 19.6:
+        non_striker: GH Dockrell
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+- 2nd innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        non_striker: M Simpson-Parker
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+        wicket:
+          player_out: Iqbal Hossain
+          fielders:
+          - C Campher
+          kind: caught
+    - 0.2:
+        non_striker: M Simpson-Parker
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 0.3:
+        non_striker: M Simpson-Parker
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 0.4:
+        non_striker: M Simpson-Parker
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 0.5:
+        non_striker: M Simpson-Parker
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 0.6:
+        non_striker: M Simpson-Parker
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 1.1:
+        non_striker: Razmal Shigiwal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 1.2:
+        non_striker: Razmal Shigiwal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 1.3:
+        non_striker: Razmal Shigiwal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 1.4:
+        non_striker: Razmal Shigiwal
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Simpson-Parker
+    - 1.5:
+        non_striker: M Simpson-Parker
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 1.6:
+        non_striker: M Simpson-Parker
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Razmal Shigiwal
+    - 1.7:
+        non_striker: M Simpson-Parker
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 2.1:
+        non_striker: Razmal Shigiwal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 2.2:
+        non_striker: M Simpson-Parker
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 2.3:
+        non_striker: M Simpson-Parker
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 2.4:
+        non_striker: M Simpson-Parker
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 2.5:
+        non_striker: M Simpson-Parker
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 2.6:
+        non_striker: Razmal Shigiwal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Simpson-Parker
+    - 3.1:
+        non_striker: M Simpson-Parker
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 3.2:
+        non_striker: M Simpson-Parker
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 3.3:
+        non_striker: M Simpson-Parker
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 3.4:
+        non_striker: Razmal Shigiwal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+        wicket:
+          player_out: M Simpson-Parker
+          fielders:
+          - L Tucker
+          kind: caught
+    - 3.5:
+        non_striker: Razmal Shigiwal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 3.6:
+        non_striker: Razmal Shigiwal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 4.1:
+        non_striker: A Randhawa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 4.2:
+        non_striker: A Randhawa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 4.3:
+        non_striker: A Randhawa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 4.4:
+        non_striker: Razmal Shigiwal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 4.5:
+        non_striker: Razmal Shigiwal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 4.6:
+        non_striker: A Randhawa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 5.1:
+        non_striker: Razmal Shigiwal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 5.2:
+        non_striker: Razmal Shigiwal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 5.3:
+        non_striker: Razmal Shigiwal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 5.4:
+        non_striker: Razmal Shigiwal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Randhawa
+    - 5.5:
+        non_striker: Razmal Shigiwal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 5.6:
+        non_striker: A Randhawa
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 6.1:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 6.2:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 6.3:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 6.4:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 6.5:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 6.6:
+        non_striker: Razmal Shigiwal
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 7.1:
+        non_striker: A Randhawa
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 7.2:
+        non_striker: Razmal Shigiwal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 7.3:
+        non_striker: Razmal Shigiwal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 7.4:
+        non_striker: A Randhawa
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 7.5:
+        non_striker: A Randhawa
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Razmal Shigiwal
+    - 7.6:
+        non_striker: A Randhawa
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 8.1:
+        non_striker: Razmal Shigiwal
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 8.2:
+        non_striker: Razmal Shigiwal
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 8.3:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 8.4:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 8.5:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 8.6:
+        non_striker: Razmal Shigiwal
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 9.1:
+        non_striker: A Randhawa
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+        wicket:
+          player_out: Razmal Shigiwal
+          fielders:
+          - NA Rock
+          kind: caught
+    - 9.2:
+        non_striker: A Randhawa
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahil Momin
+    - 9.3:
+        non_striker: Shahil Momin
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Randhawa
+    - 9.4:
+        non_striker: A Randhawa
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+    - 9.5:
+        non_striker: A Randhawa
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+    - 9.6:
+        non_striker: A Randhawa
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+    - 10.1:
+        non_striker: Shahil Momin
+        bowler: B White
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: A Randhawa
+    - 10.2:
+        non_striker: Shahil Momin
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 10.3:
+        non_striker: Shahil Momin
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 10.4:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+    - 10.5:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+        wicket:
+          player_out: Shahil Momin
+          fielders:
+          - MR Adair
+          kind: caught
+    - 10.6:
+        non_striker: A Randhawa
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 11.1:
+        non_striker: A Randhawa
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 11.2:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 11.3:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+        wicket:
+          player_out: A Randhawa
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 11.4:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+    - 11.5:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+    - 11.6:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mirza Ahsan
+    - 12.1:
+        non_striker: Aqib Iqbal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+    - 12.2:
+        non_striker: Aqib Iqbal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+        wicket:
+          player_out: Mirza Ahsan
+          kind: caught and bowled
+    - 12.3:
+        non_striker: Aqib Iqbal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 12.4:
+        non_striker: Aqib Iqbal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 12.5:
+        non_striker: Aqib Iqbal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 12.6:
+        non_striker: MPS Cheema
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Aqib Iqbal
+    - 13.1:
+        non_striker: MPS Cheema
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 13.2:
+        non_striker: MPS Cheema
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 13.3:
+        non_striker: MPS Cheema
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aqib Iqbal
+    - 13.4:
+        non_striker: MPS Cheema
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 13.5:
+        non_striker: Aqib Iqbal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 13.6:
+        non_striker: Aqib Iqbal
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 14.1:
+        non_striker: MPS Cheema
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 14.2:
+        non_striker: MPS Cheema
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 14.3:
+        non_striker: Aqib Iqbal
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPS Cheema
+    - 14.4:
+        non_striker: Aqib Iqbal
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 14.5:
+        non_striker: MPS Cheema
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 14.6:
+        non_striker: Aqib Iqbal
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 15.1:
+        non_striker: Aqib Iqbal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 15.2:
+        non_striker: Aqib Iqbal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 15.3:
+        non_striker: MPS Cheema
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 15.4:
+        non_striker: Aqib Iqbal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 15.5:
+        non_striker: Aqib Iqbal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 15.6:
+        non_striker: MPS Cheema
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 16.1:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 16.2:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 16.3:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 16.4:
+        non_striker: MPS Cheema
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 16.5:
+        non_striker: MPS Cheema
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 16.6:
+        non_striker: Aqib Iqbal
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 17.1:
+        non_striker: MPS Cheema
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 17.2:
+        non_striker: MPS Cheema
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 17.3:
+        non_striker: Aqib Iqbal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+        wicket:
+          player_out: MPS Cheema
+          kind: bowled
+    - 17.4:
+        non_striker: Aqib Iqbal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+    - 17.5:
+        non_striker: Aqib Iqbal
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Akbarjan
+    - 17.6:
+        non_striker: Abdullah Akbarjan
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aqib Iqbal
+    - 17.7:
+        non_striker: Abdullah Akbarjan
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+        wicket:
+          player_out: Aqib Iqbal
+          kind: bowled
+    - 18.1:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sahel Zadran
+        batsman: Abdullah Akbarjan
+    - 18.2:
+        bowler: MR Adair
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Sahel Zadran
+        batsman: Abdullah Akbarjan
+    - 18.3:
+        non_striker: Abdullah Akbarjan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahel Zadran
+    - 18.4:
+        non_striker: Sahel Zadran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+        wicket:
+          player_out: Abdullah Akbarjan
+          fielders:
+          - L Tucker
+          kind: caught
+    - 18.5:
+        non_striker: Sahel Zadran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nathwani
+        wicket:
+          player_out: A Nathwani
+          kind: bowled

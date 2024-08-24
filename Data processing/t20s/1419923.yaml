@@ -1,0 +1,1936 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2024-02-13'
+  gender: female
+  match_type: T20
+  match_type_number: 1771
+  outcome:
+    winner: China
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Xu Qian
+  players:
+    Oman:
+    - PE Mendonca
+    - N Joshi
+    - Javed Hina
+    - A Dcosta
+    - A Gunasekar
+    - TB Pawde
+    - SV Shetty
+    - Sameera Khan
+    - SK Shetty
+    - S Jeelany
+    - CM Saldanha
+    China:
+    - Sun Meng Yao
+    - Zi Mei
+    - Huang Zhuo
+    - Han Lili
+    - Zheng Lili
+    - Yang Yu Xuan
+    - Zhang Xiangxue
+    - Zhi Xinyu
+    - Xu Qian
+    - Mengting Liu
+    - M Zhu
+  registry:
+    people:
+      A Dcosta: 3a4d914f
+      A Gunasekar: b5223cb0
+      B Ramani: 92ad5353
+      CM Saldanha: aee1bc06
+      Han Lili: cd7134f5
+      Huang Zhuo: edbbe245
+      Javed Hina: a487762e
+      M Zhu: 36c3302e
+      Mengting Liu: 1119a645
+      N Joshi: cfece11f
+      N Perera: 129709f9
+      Nur Hijrah: 6c068720
+      PE Mendonca: 70bab30b
+      Ramasamy Venkatesh: 8ad68ea7
+      S Jeelany: eed2d0be
+      SK Shetty: ab900b23
+      SV Shetty: db7a7301
+      Sameera Khan: 237baa2c
+      Sun Meng Yao: 84a96566
+      TB Pawde: 42d5be2e
+      Xu Qian: 4d382b64
+      Yang Yu Xuan: 1d5273c9
+      Zhang Xiangxue: 13fdbc7e
+      Zheng Lili: 9c2bb7da
+      Zhi Xinyu: 78ac71b0
+      Zi Mei: 72070f05
+  teams:
+  - Oman
+  - China
+  toss:
+    winner: China
+    decision: field
+  umpires:
+  - N Perera
+  - Nur Hijrah
+  venue: Selangor Turf Club, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: Xu Qian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Joshi
+        batsman: PE Mendonca
+    - 0.2:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Joshi
+        batsman: PE Mendonca
+    - 0.3:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Joshi
+        batsman: PE Mendonca
+    - 0.4:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Joshi
+        batsman: PE Mendonca
+    - 0.5:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Joshi
+        batsman: PE Mendonca
+    - 0.6:
+        non_striker: PE Mendonca
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+        wicket:
+          player_out: N Joshi
+          kind: caught and bowled
+    - 0.7:
+        non_striker: PE Mendonca
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 1.1:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PE Mendonca
+    - 1.2:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+        wicket:
+          player_out: PE Mendonca
+          kind: bowled
+    - 1.3:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dcosta
+    - 1.4:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dcosta
+    - 1.5:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dcosta
+    - 1.6:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dcosta
+    - 1.7:
+        non_striker: A Dcosta
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 2.1:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dcosta
+    - 2.2:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dcosta
+    - 2.3:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dcosta
+    - 2.4:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dcosta
+        wicket:
+          player_out: A Dcosta
+          kind: bowled
+    - 2.5:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 2.6:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 3.1:
+        non_striker: A Gunasekar
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 3.2:
+        non_striker: A Gunasekar
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 3.3:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 3.4:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 3.5:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 3.6:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 4.1:
+        non_striker: A Gunasekar
+        bowler: Xu Qian
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Javed Hina
+    - 4.2:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 4.3:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 4.4:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 4.5:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 4.6:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 4.7:
+        non_striker: Javed Hina
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 5.1:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 5.2:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 5.3:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 5.4:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Javed Hina
+    - 5.5:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gunasekar
+    - 5.6:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 5.7:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 5.8:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 6.1:
+        non_striker: Javed Hina
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 6.2:
+        non_striker: Javed Hina
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gunasekar
+    - 6.3:
+        non_striker: Javed Hina
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 6.4:
+        non_striker: Javed Hina
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 6.5:
+        non_striker: Javed Hina
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 6.6:
+        non_striker: Javed Hina
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 7.1:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 7.2:
+        non_striker: A Gunasekar
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Javed Hina
+    - 7.3:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 7.4:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+    - 7.5:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gunasekar
+        wicket:
+          player_out: A Gunasekar
+          kind: bowled
+    - 7.6:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 8.1:
+        non_striker: TB Pawde
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 8.2:
+        non_striker: TB Pawde
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javed Hina
+    - 8.3:
+        non_striker: TB Pawde
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 8.4:
+        non_striker: TB Pawde
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 8.5:
+        non_striker: TB Pawde
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 8.6:
+        non_striker: TB Pawde
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 9.1:
+        non_striker: TB Pawde
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 9.2:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 9.3:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Pawde
+    - 9.4:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB Pawde
+    - 9.5:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 9.6:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 9.7:
+        non_striker: Javed Hina
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 10.1:
+        non_striker: TB Pawde
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 10.2:
+        non_striker: TB Pawde
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 10.3:
+        non_striker: TB Pawde
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 10.4:
+        non_striker: TB Pawde
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 10.5:
+        non_striker: Javed Hina
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 10.6:
+        non_striker: Javed Hina
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Pawde
+    - 11.1:
+        non_striker: TB Pawde
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 11.2:
+        non_striker: TB Pawde
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 11.3:
+        non_striker: TB Pawde
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 11.4:
+        non_striker: TB Pawde
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 11.5:
+        non_striker: TB Pawde
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 11.6:
+        non_striker: TB Pawde
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+        wicket:
+          player_out: TB Pawde
+          fielders:
+          - Zi Mei
+          kind: run out
+    - 11.7:
+        non_striker: Javed Hina
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 12.1:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Javed Hina
+    - 12.2:
+        non_striker: Javed Hina
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 12.3:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 12.4:
+        non_striker: Javed Hina
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 12.5:
+        non_striker: Javed Hina
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 12.6:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 13.1:
+        non_striker: Javed Hina
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 13.2:
+        non_striker: Javed Hina
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 13.3:
+        non_striker: SV Shetty
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Hina
+    - 13.4:
+        non_striker: SV Shetty
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 13.5:
+        non_striker: SV Shetty
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Hina
+    - 13.6:
+        non_striker: Javed Hina
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 13.7:
+        non_striker: SV Shetty
+        bowler: Zhang Xiangxue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+    - 14.1:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 14.2:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Shetty
+    - 14.3:
+        non_striker: Javed Hina
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 14.4:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Hina
+        wicket:
+          player_out: Javed Hina
+          fielders:
+          - Zheng Lili
+          kind: caught
+    - 14.5:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+    - 14.6:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameera Khan
+    - 15.1:
+        non_striker: SV Shetty
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameera Khan
+        wicket:
+          player_out: Sameera Khan
+          fielders:
+          - Mengting Liu
+          kind: caught
+    - 15.2:
+        non_striker: SV Shetty
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+    - 15.3:
+        non_striker: SV Shetty
+        bowler: Xu Qian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SK Shetty
+    - 15.4:
+        non_striker: SV Shetty
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+    - 15.5:
+        non_striker: SV Shetty
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+    - 15.6:
+        non_striker: SV Shetty
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+    - 15.7:
+        non_striker: SV Shetty
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+    - 16.1:
+        non_striker: SK Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 16.2:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+    - 16.3:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+    - 16.4:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Shetty
+        wicket:
+          player_out: SK Shetty
+          kind: caught and bowled
+    - 16.5:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+    - 16.6:
+        non_striker: SV Shetty
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+    - 17.1:
+        non_striker: S Jeelany
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 17.2:
+        non_striker: SV Shetty
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jeelany
+    - 17.3:
+        non_striker: S Jeelany
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 17.4:
+        non_striker: S Jeelany
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 17.5:
+        non_striker: S Jeelany
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 17.6:
+        non_striker: SV Shetty
+        bowler: Yang Yu Xuan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+    - 18.1:
+        non_striker: S Jeelany
+        bowler: M Zhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Shetty
+    - 18.2:
+        non_striker: S Jeelany
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 18.3:
+        non_striker: S Jeelany
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 18.4:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+    - 18.5:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jeelany
+    - 18.6:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+    - 18.7:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jeelany
+    - 18.8:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+    - 18.9:
+        non_striker: SV Shetty
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+        wicket:
+          player_out: SV Shetty
+          fielders:
+          - Mengting Liu
+          kind: run out
+    - 19.1:
+        non_striker: S Jeelany
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Saldanha
+    - 19.2:
+        non_striker: S Jeelany
+        bowler: Zheng Lili
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Saldanha
+    - 19.3:
+        non_striker: S Jeelany
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Saldanha
+    - 19.4:
+        non_striker: CM Saldanha
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+    - 19.5:
+        non_striker: CM Saldanha
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jeelany
+        wicket:
+          player_out: S Jeelany
+          kind: bowled
+- 2nd innings:
+    team: China
+    deliveries:
+    - 0.1:
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zi Mei
+        batsman: Sun Meng Yao
+    - 0.2:
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zi Mei
+        batsman: Sun Meng Yao
+    - 0.3:
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zi Mei
+        batsman: Sun Meng Yao
+    - 0.4:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 0.5:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 0.6:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 1.1:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 1.2:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 1.3:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 1.4:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sun Meng Yao
+    - 1.5:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sun Meng Yao
+    - 1.6:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 1.7:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 2.1:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 2.2:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 2.3:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 2.4:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 2.5:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 2.6:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 3.1:
+        non_striker: Sun Meng Yao
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 3.2:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sun Meng Yao
+    - 3.3:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sun Meng Yao
+    - 3.4:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 3.5:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sun Meng Yao
+    - 3.6:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 4.1:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 4.2:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 4.3:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 4.4:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zi Mei
+    - 4.5:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zi Mei
+    - 4.6:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 4.7:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 5.1:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 5.2:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sun Meng Yao
+    - 5.3:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sun Meng Yao
+    - 5.4:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 5.5:
+        non_striker: Sun Meng Yao
+        bowler: S Jeelany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zi Mei
+    - 5.6:
+        non_striker: Sun Meng Yao
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 5.7:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 5.8:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 5.9:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 6.1:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 6.2:
+        non_striker: Sun Meng Yao
+        bowler: A Dcosta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Zi Mei
+    - 6.3:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 6.4:
+        non_striker: Zi Mei
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 6.5:
+        non_striker: Sun Meng Yao
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 6.6:
+        non_striker: Sun Meng Yao
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 7.1:
+        non_striker: Zi Mei
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 7.2:
+        non_striker: Zi Mei
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 7.3:
+        non_striker: Zi Mei
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 7.4:
+        non_striker: Sun Meng Yao
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 7.5:
+        non_striker: Zi Mei
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 7.6:
+        non_striker: Sun Meng Yao
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 8.1:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sun Meng Yao
+    - 8.2:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 8.3:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sun Meng Yao
+    - 8.4:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 8.5:
+        non_striker: Sun Meng Yao
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 8.6:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sun Meng Yao
+    - 8.7:
+        non_striker: Zi Mei
+        bowler: S Jeelany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 9.1:
+        non_striker: Sun Meng Yao
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 9.2:
+        non_striker: Zi Mei
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 9.3:
+        non_striker: Sun Meng Yao
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zi Mei
+    - 9.4:
+        non_striker: Zi Mei
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 9.5:
+        non_striker: Sun Meng Yao
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+    - 9.6:
+        non_striker: Sun Meng Yao
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zi Mei
+        wicket:
+          player_out: Zi Mei
+          fielders:
+          - CM Saldanha
+          kind: caught
+    - 10.1:
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Huang Zhuo
+        batsman: Sun Meng Yao
+    - 10.2:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Huang Zhuo
+    - 10.3:
+        non_striker: Huang Zhuo
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 10.4:
+        non_striker: Huang Zhuo
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 10.5:
+        non_striker: Sun Meng Yao
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Huang Zhuo
+    - 10.6:
+        non_striker: Huang Zhuo
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 11.1:
+        non_striker: Huang Zhuo
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sun Meng Yao
+    - 11.2:
+        non_striker: Huang Zhuo
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sun Meng Yao
+    - 11.3:
+        non_striker: Sun Meng Yao
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Huang Zhuo
+    - 11.4:
+        non_striker: Huang Zhuo
+        bowler: Sameera Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sun Meng Yao
+    - 11.5:
+        non_striker: Huang Zhuo
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 11.6:
+        non_striker: Huang Zhuo
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sun Meng Yao
+    - 11.7:
+        non_striker: Huang Zhuo
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+    - 12.1:
+        non_striker: Sun Meng Yao
+        bowler: SK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Huang Zhuo
+    - 12.2:
+        non_striker: Sun Meng Yao
+        bowler: SK Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Huang Zhuo
+    - 12.3:
+        non_striker: Huang Zhuo
+        bowler: SK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sun Meng Yao
+        wicket:
+          player_out: Sun Meng Yao
+          kind: lbw
+    - 12.4:
+        non_striker: Huang Zhuo
+        bowler: SK Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Han Lili
+    - 12.5:
+        non_striker: Han Lili
+        bowler: SK Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Huang Zhuo
+    - 12.6:
+        non_striker: Han Lili
+        bowler: SK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Huang Zhuo
+    - 12.7:
+        non_striker: Han Lili
+        bowler: SK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Huang Zhuo
+    - 13.1:
+        non_striker: Huang Zhuo
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Han Lili
+    - 13.2:
+        non_striker: Huang Zhuo
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Han Lili

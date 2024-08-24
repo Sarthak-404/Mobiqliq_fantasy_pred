@@ -1,0 +1,2296 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port Vila
+  dates:
+  - '2023-09-01'
+  gender: female
+  match_type: T20
+  match_type_number: 1567
+  outcome:
+    winner: Japan
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - Erika Oda
+  players:
+    Japan:
+    - Erika Oda
+    - H Iwasaki
+    - A Chandel
+    - M Yanagida
+    - S Kato
+    - H Goto
+    - K Ota
+    - Nonoha Yasumoto
+    - Seika Sumi
+    - E Toguchi-Quinn
+    - A Kano
+    Cook Islands:
+    - Z Maeva
+    - P Maruariki
+    - J George
+    - S Vaia
+    - M Kaukura
+    - D Kataina
+    - K Mataora
+    - P Kaveao
+    - T Piakura
+    - T Maika
+    - S Samuels
+  registry:
+    people:
+      A Chandel: 78fa5f6d
+      A Kano: e92841c0
+      Ashlee Gibbons: b81712f7
+      D Kataina: 3a370f15
+      E Toguchi-Quinn: d144423b
+      Erika Oda: 4c8a1197
+      H Goto: b3af5bff
+      H Iwasaki: f2698c78
+      J George: 9044ee8e
+      K Mataora: 281cc1e8
+      K Ota: 211f48fe
+      K Tanuvasa: 34fa0472
+      Kim Cotton: 67a7c2ee
+      M Kaukura: 11d83c44
+      M Yanagida: f20e7e23
+      Nonoha Yasumoto: eb33378d
+      P Kaveao: f536e967
+      P Maruariki: dee2431f
+      RW Stratford: '85489579'
+      S Kato: ef9ff861
+      S Samuels: d852095e
+      S Vaia: '78103121'
+      Seika Sumi: 704b4c30
+      T Maika: 9782087e
+      T Piakura: 5b329799
+      Z Maeva: 34f0c9ad
+  teams:
+  - Japan
+  - Cook Islands
+  toss:
+    winner: Cook Islands
+    decision: field
+  umpires:
+  - K Tanuvasa
+  - Kim Cotton
+  venue: Vanuatu Cricket Ground
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Erika Oda
+        batsman: A Kano
+    - 0.2:
+        non_striker: A Kano
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 0.3:
+        non_striker: A Kano
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 0.4:
+        non_striker: A Kano
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 0.5:
+        non_striker: A Kano
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 0.6:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 1.1:
+        non_striker: A Kano
+        bowler: P Kaveao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Erika Oda
+    - 1.2:
+        non_striker: A Kano
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 1.3:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kano
+    - 1.4:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 1.5:
+        non_striker: A Kano
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 1.6:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 1.7:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 1.8:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 2.1:
+        non_striker: A Kano
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 2.2:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+        wicket:
+          player_out: A Kano
+          kind: bowled
+    - 2.3:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 2.4:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 2.5:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Iwasaki
+    - 2.6:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 3.1:
+        non_striker: H Iwasaki
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 3.2:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Iwasaki
+    - 3.3:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 3.4:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 3.5:
+        non_striker: H Iwasaki
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 3.6:
+        non_striker: H Iwasaki
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 3.7:
+        non_striker: Erika Oda
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 4.1:
+        non_striker: H Iwasaki
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+        wicket:
+          player_out: H Iwasaki
+          fielders:
+          - K Mataora
+          kind: run out
+    - 4.2:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 4.3:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 4.4:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 4.5:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 4.6:
+        non_striker: Erika Oda
+        bowler: S Vaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 5.1:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 5.2:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 5.3:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 5.4:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 5.5:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 5.6:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 6.1:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 6.2:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 6.3:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 6.4:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 6.5:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 6.6:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 6.7:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 6.8:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 7.1:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 7.2:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 7.3:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chandel
+    - 7.4:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 7.5:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 7.6:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 8.1:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 8.2:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 8.3:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Erika Oda
+    - 8.4:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 8.5:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 8.6:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 8.7:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 8.8:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Chandel
+    - 9.1:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 9.2:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 9.3:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 9.4:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 9.5:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Chandel
+    - 9.6:
+        non_striker: A Chandel
+        bowler: J George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 9.7:
+        non_striker: Erika Oda
+        bowler: J George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 10.1:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Erika Oda
+    - 10.2:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 10.3:
+        non_striker: A Chandel
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 10.4:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 10.5:
+        non_striker: Erika Oda
+        bowler: S Samuels
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Chandel
+    - 10.6:
+        non_striker: A Chandel
+        bowler: T Piakura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          role:
+          - in: T Piakura
+            out: S Samuels
+            reason: excluded - high full pitched balls
+            role: bowler
+        batsman: Erika Oda
+    - 10.7:
+        non_striker: A Chandel
+        bowler: T Piakura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 10.8:
+        non_striker: Erika Oda
+        bowler: T Piakura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 10.9:
+        non_striker: Erika Oda
+        bowler: T Piakura
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Chandel
+    - 10.10:
+        non_striker: A Chandel
+        bowler: T Piakura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Erika Oda
+    - 10.11:
+        non_striker: A Chandel
+        bowler: T Piakura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 11.1:
+        non_striker: Erika Oda
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Chandel
+    - 11.2:
+        non_striker: Erika Oda
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 11.3:
+        non_striker: Erika Oda
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 11.4:
+        non_striker: Erika Oda
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 11.5:
+        non_striker: A Chandel
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 11.6:
+        non_striker: Erika Oda
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 12.1:
+        non_striker: Erika Oda
+        bowler: M Kaukura
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Chandel
+    - 12.2:
+        non_striker: A Chandel
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 12.3:
+        non_striker: Erika Oda
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+        wicket:
+          player_out: A Chandel
+          fielders:
+          - K Mataora
+          kind: stumped
+    - 12.4:
+        non_striker: Erika Oda
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 12.5:
+        non_striker: Erika Oda
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 12.6:
+        non_striker: M Yanagida
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 12.7:
+        non_striker: Erika Oda
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.1:
+        non_striker: Erika Oda
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.2:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 13.3:
+        non_striker: Erika Oda
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.4:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 13.5:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 13.6:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 14.1:
+        non_striker: Erika Oda
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 14.2:
+        non_striker: Erika Oda
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 14.3:
+        non_striker: M Yanagida
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 14.4:
+        non_striker: M Yanagida
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+        wicket:
+          player_out: Erika Oda
+          fielders:
+          - K Mataora
+          kind: stumped
+    - 14.5:
+        non_striker: M Yanagida
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 14.6:
+        non_striker: S Kato
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 15.1:
+        non_striker: S Kato
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 15.2:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 15.3:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 15.4:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 15.5:
+        non_striker: M Yanagida
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 15.6:
+        non_striker: S Kato
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 16.1:
+        non_striker: S Kato
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+        wicket:
+          player_out: M Yanagida
+          fielders:
+          - Z Maeva
+          kind: caught
+    - 16.2:
+        non_striker: S Kato
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 16.3:
+        non_striker: S Kato
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 16.4:
+        non_striker: S Kato
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 16.5:
+        non_striker: S Kato
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 16.6:
+        non_striker: H Goto
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 17.1:
+        non_striker: H Goto
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 17.2:
+        non_striker: S Kato
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 17.3:
+        non_striker: H Goto
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 17.4:
+        non_striker: S Kato
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 17.5:
+        non_striker: H Goto
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kato
+    - 17.6:
+        non_striker: H Goto
+        bowler: Z Maeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 18.1:
+        non_striker: H Goto
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 18.2:
+        non_striker: H Goto
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 18.3:
+        non_striker: S Kato
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 18.4:
+        non_striker: H Goto
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kato
+    - 18.5:
+        non_striker: H Goto
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 18.6:
+        non_striker: H Goto
+        bowler: M Kaukura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 19.1:
+        non_striker: H Goto
+        bowler: P Kaveao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kato
+    - 19.2:
+        non_striker: H Goto
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 19.3:
+        non_striker: H Goto
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kato
+    - 19.4:
+        non_striker: H Goto
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 19.5:
+        non_striker: S Kato
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 19.6:
+        non_striker: S Kato
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 19.7:
+        non_striker: S Kato
+        bowler: P Kaveao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+        wicket:
+          player_out: H Goto
+          fielders:
+          - Z Maeva
+          kind: caught
+- 2nd innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Maruariki
+        batsman: Z Maeva
+    - 0.2:
+        non_striker: Z Maeva
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maruariki
+    - 0.3:
+        non_striker: Z Maeva
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maruariki
+    - 0.4:
+        non_striker: Z Maeva
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maruariki
+    - 0.5:
+        non_striker: Z Maeva
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maruariki
+    - 0.6:
+        non_striker: Z Maeva
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maruariki
+    - 1.1:
+        non_striker: P Maruariki
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Maeva
+    - 1.2:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maruariki
+    - 1.3:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maruariki
+    - 1.4:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maruariki
+    - 1.5:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maruariki
+    - 1.6:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maruariki
+    - 2.1:
+        non_striker: P Maruariki
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Maeva
+        wicket:
+          player_out: P Maruariki
+          fielders:
+          - M Yanagida
+          kind: run out
+    - 2.2:
+        non_striker: Z Maeva
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J George
+    - 2.3:
+        non_striker: J George
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Maeva
+    - 2.4:
+        non_striker: J George
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Maeva
+    - 2.5:
+        non_striker: J George
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Maeva
+    - 2.6:
+        non_striker: J George
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Maeva
+    - 3.1:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J George
+    - 3.2:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J George
+    - 3.3:
+        non_striker: Z Maeva
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J George
+    - 3.4:
+        non_striker: J George
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Maeva
+    - 3.5:
+        non_striker: J George
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Maeva
+        wicket:
+          player_out: Z Maeva
+          fielders:
+          - A Kano
+          kind: caught
+    - 3.6:
+        non_striker: J George
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 3.7:
+        non_striker: J George
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 4.1:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J George
+    - 4.2:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J George
+    - 4.3:
+        non_striker: J George
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 4.4:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J George
+    - 4.5:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J George
+    - 4.6:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J George
+        wicket:
+          player_out: J George
+          fielders:
+          - E Toguchi-Quinn
+          kind: caught
+    - 5.1:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kaukura
+        batsman: S Vaia
+    - 5.2:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kaukura
+        batsman: S Vaia
+    - 5.3:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Kaukura
+        batsman: S Vaia
+    - 5.4:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Kaukura
+        batsman: S Vaia
+    - 5.5:
+        non_striker: S Vaia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaukura
+    - 5.6:
+        non_striker: S Vaia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaukura
+    - 6.1:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 6.2:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 6.3:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 6.4:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaukura
+    - 6.5:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaukura
+    - 6.6:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 7.1:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaukura
+    - 7.2:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaukura
+    - 7.3:
+        non_striker: M Kaukura
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 7.4:
+        non_striker: M Kaukura
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 7.5:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaukura
+    - 7.6:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaukura
+    - 8.1:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 8.2:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 8.3:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 8.4:
+        non_striker: M Kaukura
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 8.5:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaukura
+        wicket:
+          player_out: M Kaukura
+          fielders:
+          - S Kato
+          kind: caught
+    - 8.6:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 9.1:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 9.2:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 9.3:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 9.4:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Vaia
+    - 9.5:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 9.6:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 10.1:
+        non_striker: D Kataina
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 10.2:
+        non_striker: D Kataina
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 10.3:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 10.4:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 10.5:
+        non_striker: S Vaia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 10.6:
+        non_striker: D Kataina
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 11.1:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 11.2:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 11.3:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 11.4:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 11.5:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 11.6:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 12.1:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 12.2:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 12.3:
+        non_striker: D Kataina
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Vaia
+    - 12.4:
+        non_striker: D Kataina
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 12.5:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 12.6:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 13.1:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kataina
+    - 13.2:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Kataina
+    - 13.3:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Vaia
+    - 13.4:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 13.5:
+        non_striker: D Kataina
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 13.6:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 13.7:
+        non_striker: S Vaia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 14.1:
+        non_striker: D Kataina
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 14.2:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 14.3:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 14.4:
+        non_striker: D Kataina
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vaia
+    - 14.5:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kataina
+    - 14.6:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 14.7:
+        non_striker: S Vaia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 15.1:
+        non_striker: S Vaia
+        bowler: A Chandel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Kataina
+    - 15.2:
+        non_striker: S Vaia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 15.3:
+        non_striker: S Vaia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+    - 15.4:
+        non_striker: S Vaia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kataina
+    - 15.5:
+        non_striker: S Vaia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kataina
+    - 15.6:
+        non_striker: D Kataina
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+    - 15.7:
+        non_striker: D Kataina
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vaia
+        wicket:
+          player_out: S Vaia
+          kind: bowled
+    - 16.1:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kataina
+        wicket:
+          player_out: D Kataina
+          fielders:
+          - H Iwasaki
+          kind: caught
+    - 16.2:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kaveao
+    - 16.3:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kaveao
+    - 16.4:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kaveao
+    - 16.5:
+        non_striker: P Kaveao
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 16.6:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kaveao
+    - 17.1:
+        non_striker: P Kaveao
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mataora
+    - 17.2:
+        non_striker: P Kaveao
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 17.3:
+        non_striker: K Mataora
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kaveao
+    - 17.4:
+        non_striker: K Mataora
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kaveao
+        wicket:
+          player_out: P Kaveao
+          kind: bowled
+    - 17.5:
+        non_striker: K Mataora
+        bowler: A Chandel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Piakura
+    - 17.6:
+        non_striker: K Mataora
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Piakura
+    - 17.7:
+        non_striker: K Mataora
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Piakura
+    - 18.1:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Piakura
+    - 18.2:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Piakura
+    - 18.3:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Piakura
+    - 18.4:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Piakura
+    - 18.5:
+        non_striker: T Piakura
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 18.6:
+        non_striker: K Mataora
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Piakura
+    - 19.1:
+        non_striker: T Piakura
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mataora
+    - 19.2:
+        non_striker: K Mataora
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Piakura
+    - 19.3:
+        non_striker: K Mataora
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Piakura
+    - 19.4:
+        non_striker: K Mataora
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Piakura
+    - 19.5:
+        non_striker: K Mataora
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Piakura
+        wicket:
+          player_out: T Piakura
+          fielders:
+          - H Iwasaki
+          kind: caught
+    - 19.6:
+        non_striker: K Mataora
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika
+    - 19.7:
+        non_striker: K Mataora
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Maika

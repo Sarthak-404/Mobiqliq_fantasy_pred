@@ -1,0 +1,916 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2024-02-01'
+  gender: female
+  match_type: T20
+  match_type_number: 1749
+  outcome:
+    winner: Ireland
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - O Prendergast
+  players:
+    Zimbabwe:
+    - K Ndlovu
+    - M Musonda
+    - P Mujaji
+    - CT Dhururu
+    - L Tshuma
+    - N Gwanzura
+    - P Marange
+    - N Sibanda
+    - M Mavunga
+    - F Chipare
+    - L Mabhero
+    Ireland:
+    - A Hunter
+    - GH Lewis
+    - O Prendergast
+    - L Delany
+    - R Stokell
+    - AN Kelly
+    - L Little
+    - L Paul
+    - G Dempsey
+    - A Canning
+    - C Murray
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      A Hunter: e8fa03ed
+      AN Kelly: 397369e0
+      C Murray: 5a50471c
+      CT Dhururu: 8d7fba79
+      F Chipare: c0dc015b
+      G Dempsey: 940feccc
+      GH Lewis: 1b9d1579
+      J Chibhabha: 4c5c47a4
+      K Ndlovu: 8d25271a
+      L Delany: b4f73b44
+      L Little: 4f86926b
+      L Mabhero: 37f9eb59
+      L Paul: '07248d8e'
+      L Tshuma: f281dd00
+      M Mavunga: bb411d1e
+      M Moyo: c3017af3
+      M Musonda: 94b52754
+      N Gwanzura: 9c2e3040
+      N Sibanda: edf62a25
+      O Prendergast: d8f20ba5
+      P Marange: a4f1fdd4
+      P Mujaji: a246f48f
+      R Stokell: def7b1bb
+      S Gogwe: fa6ba429
+      T Musakwa: 5f925536
+  teams:
+  - Zimbabwe
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - M Moyo
+  - S Gogwe
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Musonda
+        batsman: K Ndlovu
+    - 0.2:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Musonda
+        batsman: K Ndlovu
+    - 0.3:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Musonda
+        batsman: K Ndlovu
+    - 0.4:
+        non_striker: K Ndlovu
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Musonda
+    - 0.5:
+        non_striker: M Musonda
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 0.6:
+        non_striker: M Musonda
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 1.1:
+        non_striker: K Ndlovu
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 1.2:
+        non_striker: K Ndlovu
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Musonda
+    - 1.3:
+        non_striker: M Musonda
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 1.4:
+        non_striker: M Musonda
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 1.5:
+        non_striker: M Musonda
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 1.6:
+        non_striker: K Ndlovu
+        bowler: G Dempsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Musonda
+    - 1.7:
+        non_striker: K Ndlovu
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+        wicket:
+          player_out: M Musonda
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 2.1:
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Mujaji
+        batsman: K Ndlovu
+    - 2.2:
+        non_striker: K Ndlovu
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 2.3:
+        non_striker: P Mujaji
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 2.4:
+        non_striker: P Mujaji
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 2.5:
+        non_striker: P Mujaji
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 2.6:
+        non_striker: K Ndlovu
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 3.1:
+        non_striker: K Ndlovu
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mujaji
+    - 3.2:
+        non_striker: K Ndlovu
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 3.3:
+        non_striker: K Ndlovu
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mujaji
+    - 3.4:
+        non_striker: K Ndlovu
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 3.5:
+        non_striker: P Mujaji
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 3.6:
+        non_striker: K Ndlovu
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 4.1:
+        non_striker: K Ndlovu
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+        wicket:
+          player_out: P Mujaji
+          fielders:
+          - A Hunter
+          kind: stumped
+    - 4.2:
+        non_striker: K Ndlovu
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CT Dhururu
+    - 4.3:
+        non_striker: CT Dhururu
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 4.4:
+        non_striker: K Ndlovu
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 4.5:
+        non_striker: CT Dhururu
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 4.6:
+        non_striker: K Ndlovu
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 5.1:
+        non_striker: CT Dhururu
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 5.2:
+        non_striker: K Ndlovu
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 5.3:
+        non_striker: K Ndlovu
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CT Dhururu
+    - 5.4:
+        non_striker: K Ndlovu
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 5.5:
+        non_striker: CT Dhururu
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+        wicket:
+          player_out: K Ndlovu
+          fielders:
+          - A Hunter
+          - R Stokell
+          kind: run out
+    - 5.6:
+        non_striker: CT Dhururu
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 6.1:
+        non_striker: L Tshuma
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Dhururu
+    - 6.2:
+        non_striker: L Tshuma
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+        wicket:
+          player_out: CT Dhururu
+          fielders:
+          - A Hunter
+          - C Murray
+          kind: run out
+    - 6.3:
+        non_striker: L Tshuma
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gwanzura
+    - 6.4:
+        non_striker: N Gwanzura
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tshuma
+    - 6.5:
+        non_striker: N Gwanzura
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tshuma
+    - 6.6:
+        non_striker: N Gwanzura
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 7.1:
+        non_striker: N Gwanzura
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tshuma
+    - 7.2:
+        non_striker: N Gwanzura
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 7.3:
+        non_striker: L Tshuma
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwanzura
+    - 7.4:
+        non_striker: L Tshuma
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Gwanzura
+    - 7.5:
+        non_striker: N Gwanzura
+        bowler: L Delany
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Tshuma
+    - 7.6:
+        non_striker: L Tshuma
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Gwanzura
+    - 7.7:
+        non_striker: L Tshuma
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gwanzura
+        wicket:
+          player_out: N Gwanzura
+          kind: bowled
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Lewis
+        batsman: A Hunter
+    - 0.2:
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GH Lewis
+        batsman: A Hunter
+    - 0.3:
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: A Hunter
+    - 0.4:
+        non_striker: A Hunter
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: A Hunter
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: A Hunter
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 1.3:
+        non_striker: A Hunter
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: A Hunter
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: A Hunter
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.6:
+        non_striker: A Hunter
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Hunter
+    - 2.3:
+        non_striker: A Hunter
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 2.5:
+        non_striker: A Hunter
+        bowler: L Tshuma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 2.7:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 3.4:
+        non_striker: A Hunter
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 3.5:
+        non_striker: GH Lewis
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          fielders:
+          - M Musonda
+          kind: caught
+    - 4.1:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Prendergast
+        batsman: GH Lewis
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 4.3:
+        non_striker: O Prendergast
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.4:
+        non_striker: O Prendergast
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.5:
+        non_striker: O Prendergast
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 4.6:
+        non_striker: O Prendergast
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: O Prendergast
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 5.5:
+        non_striker: GH Lewis
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 5.6:
+        non_striker: O Prendergast
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 6.1:
+        non_striker: GH Lewis
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 6.2:
+        non_striker: GH Lewis
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 6.3:
+        non_striker: GH Lewis
+        bowler: P Marange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: O Prendergast
+    - 6.4:
+        non_striker: O Prendergast
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: O Prendergast
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.6:
+        non_striker: GH Lewis
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 7.1:
+        non_striker: O Prendergast
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 7.2:
+        non_striker: O Prendergast
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 7.4:
+        non_striker: GH Lewis
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 7.5:
+        non_striker: GH Lewis
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Prendergast

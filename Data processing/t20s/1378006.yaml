@@ -1,0 +1,1129 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-05-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: St Saviour
+  dates:
+  - '2023-05-29'
+  gender: female
+  match_type: T20
+  match_type_number: 1453
+  outcome:
+    winner: Jersey
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - G Mallett
+  players:
+    Italy:
+    - AS Withanage
+    - M Rathnayake
+    - Regina Khan
+    - D Nanayakkara
+    - EL Bartram
+    - C Mahamalage
+    - K Peddrick
+    - G Batagoda
+    - S Toffoletto
+    - N Asuramanage
+    - AS Warnakulasuriya
+    Jersey:
+    - C Miles
+    - MD Rocha
+    - T Smith
+    - CM Greechan
+    - A Merritt
+    - G Mallett
+    - A Aikenhead
+    - M Maguire
+    - E Gouge
+    - E Duffy
+    - G Wetherall
+  registry:
+    people:
+      A Aikenhead: 007f121f
+      A Merritt: 4c87bd01
+      AS Warnakulasuriya: 05f1cff9
+      AS Withanage: '078f166f'
+      AY Harris: 90d95b82
+      C Mahamalage: 3250b7db
+      C Miles: 80f16d29
+      CM Greechan: 569bbcbb
+      D Nanayakkara: dbf22922
+      DH Mclean: 281d4749
+      E Duffy: 52bbb9e5
+      E Gouge: e01e17ee
+      EL Bartram: 5fa7f030
+      G Batagoda: f63ec2e5
+      G Mallett: 95bf6b2a
+      G McCrea: 46f4a901
+      G Wetherall: 5c77d7cb
+      HE Kearns: fd4959c8
+      K Peddrick: a031b75e
+      M Maguire: 0441a1f5
+      M Rathnayake: a969dc4c
+      MD Rocha: 30aa04d2
+      N Asuramanage: 46dff613
+      Regina Khan: 862f4427
+      S Toffoletto: 9e498eac
+      T Smith: f24ffaab
+  teams:
+  - Italy
+  - Jersey
+  toss:
+    winner: Italy
+    decision: bat
+  umpires:
+  - AY Harris
+  - DH Mclean
+  venue: Grainville, St Saviour, Jersey
+innings:
+- 1st innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Rathnayake
+        batsman: AS Withanage
+    - 0.2:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Rathnayake
+        batsman: AS Withanage
+    - 0.3:
+        non_striker: AS Withanage
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 0.4:
+        non_striker: AS Withanage
+        bowler: CM Greechan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Rathnayake
+    - 0.5:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+        wicket:
+          player_out: AS Withanage
+          kind: lbw
+    - 0.6:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 1.1:
+        non_striker: Regina Khan
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 1.2:
+        non_striker: Regina Khan
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 1.3:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 1.4:
+        non_striker: Regina Khan
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Rathnayake
+    - 1.5:
+        non_striker: Regina Khan
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Rathnayake
+    - 1.6:
+        non_striker: Regina Khan
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Rathnayake
+    - 2.1:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 2.2:
+        non_striker: Regina Khan
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.3:
+        non_striker: Regina Khan
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 2.4:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 2.5:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 2.6:
+        non_striker: M Rathnayake
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 3.1:
+        non_striker: Regina Khan
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 3.2:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 3.3:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+        wicket:
+          player_out: Regina Khan
+          fielders:
+          - A Aikenhead
+          kind: caught
+    - 3.4:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 3.5:
+        non_striker: M Rathnayake
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 3.6:
+        non_striker: D Nanayakkara
+        bowler: A Merritt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 4.1:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 4.2:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+        wicket:
+          player_out: M Rathnayake
+          fielders:
+          - A Merritt
+          kind: caught
+    - 4.3:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 4.4:
+        non_striker: D Nanayakkara
+        bowler: CM Greechan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: EL Bartram
+    - 4.5:
+        non_striker: EL Bartram
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 4.6:
+        non_striker: EL Bartram
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 5.1:
+        non_striker: D Nanayakkara
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.2:
+        non_striker: D Nanayakkara
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.3:
+        non_striker: D Nanayakkara
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.4:
+        non_striker: D Nanayakkara
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.5:
+        non_striker: D Nanayakkara
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 5.6:
+        non_striker: D Nanayakkara
+        bowler: E Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 6.1:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 6.2:
+        non_striker: D Nanayakkara
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 6.3:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 6.4:
+        non_striker: D Nanayakkara
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 6.5:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 6.6:
+        non_striker: D Nanayakkara
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 7.1:
+        non_striker: EL Bartram
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 7.2:
+        non_striker: D Nanayakkara
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 7.3:
+        non_striker: EL Bartram
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nanayakkara
+    - 7.4:
+        non_striker: EL Bartram
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 7.5:
+        non_striker: D Nanayakkara
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 7.6:
+        non_striker: EL Bartram
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 8.1:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+        wicket:
+          player_out: D Nanayakkara
+          fielders:
+          - C Miles
+          kind: caught
+    - 8.2:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 8.3:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 8.4:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 8.5:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+        wicket:
+          player_out: C Mahamalage
+          fielders:
+          - M Maguire
+          kind: caught
+    - 8.6:
+        non_striker: EL Bartram
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 9.1:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 9.2:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 9.3:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 9.4:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 9.5:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 9.6:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+        wicket:
+          player_out: EL Bartram
+          kind: caught and bowled
+    - 9.7:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Warnakulasuriya
+    - 9.8:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Warnakulasuriya
+    - 9.9:
+        non_striker: K Peddrick
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Warnakulasuriya
+    - 10.1:
+        non_striker: K Peddrick
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Warnakulasuriya
+    - 10.2:
+        non_striker: K Peddrick
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Warnakulasuriya
+    - 10.3:
+        non_striker: K Peddrick
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Warnakulasuriya
+    - 10.4:
+        non_striker: K Peddrick
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Warnakulasuriya
+    - 10.5:
+        non_striker: K Peddrick
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Warnakulasuriya
+        wicket:
+          fielders:
+          - T Smith
+          player_out: AS Warnakulasuriya
+          kind: caught
+    - 10.6:
+        non_striker: K Peddrick
+        bowler: G Mallett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Batagoda
+        wicket:
+          player_out: G Batagoda
+          kind: caught and bowled
+    - 11.1:
+        non_striker: N Asuramanage
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+        wicket:
+          player_out: K Peddrick
+          fielders:
+          - M Maguire
+          kind: stumped
+    - 11.2:
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Toffoletto
+        batsman: N Asuramanage
+    - 11.3:
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Toffoletto
+        batsman: N Asuramanage
+    - 11.4:
+        non_striker: S Toffoletto
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Asuramanage
+        wicket:
+          player_out: N Asuramanage
+          fielders:
+          - M Maguire
+          kind: caught
+- 2nd innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD Rocha
+        batsman: C Miles
+    - 0.2:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD Rocha
+        batsman: C Miles
+    - 0.3:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD Rocha
+        batsman: C Miles
+    - 0.4:
+        bowler: C Mahamalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: MD Rocha
+        batsman: C Miles
+    - 0.5:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Rocha
+    - 0.6:
+        non_striker: MD Rocha
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 1.1:
+        non_striker: MD Rocha
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Miles
+    - 1.2:
+        non_striker: MD Rocha
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 1.3:
+        non_striker: MD Rocha
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+        wicket:
+          player_out: MD Rocha
+          fielders:
+          - D Nanayakkara
+          - EL Bartram
+          kind: run out
+    - 1.4:
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Smith
+        batsman: C Miles
+    - 1.5:
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Smith
+        batsman: C Miles
+    - 1.6:
+        non_striker: C Miles
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Smith
+    - 1.7:
+        non_striker: C Miles
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 2.1:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 2.2:
+        non_striker: T Smith
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 2.3:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+        wicket:
+          player_out: T Smith
+          fielders:
+          - M Rathnayake
+          kind: stumped
+    - 2.4:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 2.5:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Greechan
+    - 2.6:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Greechan
+    - 2.7:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 3.1:
+        non_striker: CM Greechan
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Miles
+    - 3.2:
+        non_striker: CM Greechan
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Miles
+    - 3.3:
+        non_striker: CM Greechan
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 3.4:
+        non_striker: C Miles
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 3.5:
+        non_striker: CM Greechan
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 3.6:
+        non_striker: CM Greechan
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Miles
+    - 3.7:
+        non_striker: CM Greechan
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 4.1:
+        non_striker: CM Greechan
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Miles
+    - 4.2:
+        non_striker: CM Greechan
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Miles
+    - 4.3:
+        non_striker: CM Greechan
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+        wicket:
+          player_out: CM Greechan
+          fielders:
+          - M Rathnayake
+          - K Peddrick
+          kind: run out
+    - 4.4:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 4.5:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 4.6:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 5.1:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.2:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.3:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.4:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.5:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.6:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 6.1:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 6.2:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 6.3:
+        non_striker: A Merritt
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Miles
+    - 6.4:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 6.5:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 6.6:
+        non_striker: C Miles
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 7.1:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 7.2:
+        non_striker: C Miles
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt

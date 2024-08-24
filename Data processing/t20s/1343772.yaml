@@ -1,0 +1,1788 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-12-02'
+  gender: male
+  match_type: T20
+  match_type_number: 1929
+  outcome:
+    winner: Nigeria
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - P Aho
+  players:
+    Sierra Leone:
+    - J Bangura
+    - I Kamara
+    - G Ngegba
+    - A Gbla
+    - L Lamin
+    - M Kpaka
+    - S Conteh
+    - R Coker
+    - Mohamed Khan
+    - G Sesay
+    - C Bah
+    Nigeria:
+    - Sulaimon Runsewe
+    - AA Onikoyi
+    - A Shreshta
+    - AE Isesele
+    - CN Onwuzulike
+    - IO Okpe
+    - P Aho
+    - P Useni
+    - R Abdulkareem
+    - SA Okpe
+    - C Udekwe
+  registry:
+    people:
+      A Gbla: 34ab1e6e
+      A Shreshta: 4e9af8f6
+      AA Onikoyi: 409ce380
+      AE Isesele: 5249f9c4
+      C Bah: 7213d757
+      C Phiri: ade73404
+      C Udekwe: 74a578d0
+      CN Onwuzulike: 715dbf27
+      G Ngegba: 69caf2be
+      G Sesay: c556b9d2
+      I Kamara: 38702fb5
+      IO Okpe: 1c5c3dce
+      J Bangura: d7acab5d
+      L Lamin: 5a970aab
+      Lauren Agenbag: 40849abd
+      M Kpaka: c381cec5
+      Mohamed Khan: 13501ff4
+      P Aho: 2e392afa
+      P Useni: 71fa64d6
+      R Abdulkareem: b9e07e44
+      R Coker: 3239c8a9
+      S Conteh: 8f70fff7
+      SA Fritz: d15e60c8
+      SA Okpe: 681f522f
+      Stephen Harris: fdcfd4aa
+      Sulaimon Runsewe: c25d26dc
+  teams:
+  - Sierra Leone
+  - Nigeria
+  toss:
+    winner: Nigeria
+    decision: field
+  umpires:
+  - C Phiri
+  - Lauren Agenbag
+  venue: Gahanga International Cricket Stadium. Rwanda
+innings:
+- 1st innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        non_striker: I Kamara
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+        wicket:
+          player_out: J Bangura
+          kind: bowled
+    - 0.2:
+        non_striker: I Kamara
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+    - 0.3:
+        non_striker: I Kamara
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+    - 0.4:
+        non_striker: I Kamara
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+    - 0.5:
+        non_striker: I Kamara
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ngegba
+    - 0.6:
+        non_striker: I Kamara
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+        wicket:
+          player_out: G Ngegba
+          fielders:
+          - A Shreshta
+          kind: caught
+    - 0.7:
+        non_striker: I Kamara
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gbla
+    - 1.1:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kamara
+    - 1.2:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kamara
+    - 1.3:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kamara
+    - 1.4:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kamara
+    - 1.5:
+        non_striker: I Kamara
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gbla
+    - 1.6:
+        non_striker: I Kamara
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gbla
+    - 2.1:
+        non_striker: A Gbla
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kamara
+        wicket:
+          player_out: I Kamara
+          fielders:
+          - IO Okpe
+          kind: run out
+    - 2.2:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Lamin
+        batsman: A Gbla
+    - 2.3:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Lamin
+        batsman: A Gbla
+    - 2.4:
+        non_striker: A Gbla
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 2.5:
+        non_striker: A Gbla
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 2.6:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gbla
+    - 3.1:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 3.2:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 3.3:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 3.4:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 3.5:
+        non_striker: L Lamin
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gbla
+    - 3.6:
+        non_striker: A Gbla
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 4.1:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gbla
+    - 4.2:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gbla
+        wicket:
+          player_out: A Gbla
+          fielders:
+          - IO Okpe
+          kind: run out
+    - 4.3:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Kpaka
+    - 4.4:
+        non_striker: M Kpaka
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 4.5:
+        non_striker: M Kpaka
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lamin
+    - 4.6:
+        non_striker: M Kpaka
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 4.7:
+        non_striker: M Kpaka
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 4.8:
+        non_striker: M Kpaka
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lamin
+    - 5.1:
+        non_striker: L Lamin
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kpaka
+    - 5.2:
+        non_striker: L Lamin
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kpaka
+    - 5.3:
+        non_striker: L Lamin
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kpaka
+    - 5.4:
+        non_striker: L Lamin
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kpaka
+        wicket:
+          player_out: M Kpaka
+          fielders:
+          - A Shreshta
+          kind: caught
+    - 5.5:
+        non_striker: L Lamin
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Conteh
+    - 5.6:
+        non_striker: L Lamin
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Conteh
+        wicket:
+          player_out: S Conteh
+          fielders:
+          - AE Isesele
+          kind: caught
+    - 6.1:
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Coker
+        batsman: L Lamin
+    - 6.2:
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Coker
+        batsman: L Lamin
+    - 6.3:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 6.4:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 6.5:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 6.6:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 7.1:
+        non_striker: R Coker
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 7.2:
+        non_striker: R Coker
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 7.3:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 7.4:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 7.5:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 7.6:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 8.1:
+        non_striker: R Coker
+        bowler: C Udekwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lamin
+    - 8.2:
+        non_striker: R Coker
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 8.3:
+        non_striker: R Coker
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 8.4:
+        non_striker: R Coker
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 8.5:
+        non_striker: R Coker
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 8.6:
+        non_striker: R Coker
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lamin
+    - 8.7:
+        non_striker: R Coker
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 9.1:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 9.2:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 9.3:
+        non_striker: R Coker
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 9.4:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 9.5:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 9.6:
+        non_striker: R Coker
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 10.1:
+        non_striker: R Coker
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 10.2:
+        non_striker: R Coker
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 10.3:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 10.4:
+        non_striker: R Coker
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lamin
+    - 10.5:
+        non_striker: R Coker
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 10.6:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 11.1:
+        non_striker: R Coker
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 11.2:
+        non_striker: R Coker
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 11.3:
+        non_striker: L Lamin
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 11.4:
+        non_striker: L Lamin
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 11.5:
+        non_striker: R Coker
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 11.6:
+        non_striker: R Coker
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 12.1:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 12.2:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 12.3:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 12.4:
+        non_striker: R Coker
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Lamin
+    - 12.5:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 12.6:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+        wicket:
+          player_out: R Coker
+          fielders:
+          - CN Onwuzulike
+          kind: run out
+    - 13.1:
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Khan
+        batsman: L Lamin
+    - 13.2:
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Khan
+        batsman: L Lamin
+    - 13.3:
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohamed Khan
+        batsman: L Lamin
+    - 13.4:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Khan
+        wicket:
+          player_out: Mohamed Khan
+          kind: bowled
+    - 13.5:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 13.6:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 14.1:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 14.2:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 14.3:
+        non_striker: L Lamin
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Sesay
+    - 14.4:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 14.5:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 14.6:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 15.1:
+        non_striker: G Sesay
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 15.2:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 15.3:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Sesay
+    - 15.4:
+        non_striker: G Sesay
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 15.5:
+        non_striker: G Sesay
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 15.6:
+        non_striker: G Sesay
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 16.1:
+        non_striker: L Lamin
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 16.2:
+        non_striker: L Lamin
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Sesay
+    - 16.3:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lamin
+    - 16.4:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 16.5:
+        non_striker: L Lamin
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Sesay
+    - 16.6:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 16.7:
+        non_striker: G Sesay
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 17.1:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Sesay
+    - 17.2:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 17.3:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 17.4:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 17.5:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+    - 17.6:
+        non_striker: L Lamin
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Sesay
+        wicket:
+          player_out: G Sesay
+          kind: bowled
+    - 18.1:
+        bowler: C Udekwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Bah
+        batsman: L Lamin
+    - 18.2:
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Bah
+        batsman: L Lamin
+    - 18.3:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bah
+    - 18.4:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bah
+    - 18.5:
+        non_striker: L Lamin
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bah
+    - 18.6:
+        non_striker: C Bah
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 18.7:
+        non_striker: C Bah
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lamin
+    - 19.1:
+        non_striker: L Lamin
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bah
+        wicket:
+          player_out: C Bah
+          fielders:
+          - P Useni
+          kind: caught
+- 2nd innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: G Sesay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AA Onikoyi
+        batsman: Sulaimon Runsewe
+    - 0.2:
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AA Onikoyi
+        batsman: Sulaimon Runsewe
+    - 0.3:
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AA Onikoyi
+        batsman: Sulaimon Runsewe
+    - 0.4:
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AA Onikoyi
+        batsman: Sulaimon Runsewe
+    - 0.5:
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AA Onikoyi
+        batsman: Sulaimon Runsewe
+    - 0.6:
+        non_striker: Sulaimon Runsewe
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 0.7:
+        non_striker: Sulaimon Runsewe
+        bowler: G Sesay
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AA Onikoyi
+    - 0.8:
+        non_striker: AA Onikoyi
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+        wicket:
+          player_out: Sulaimon Runsewe
+          fielders:
+          - G Ngegba
+          kind: caught
+    - 1.1:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Shreshta
+        batsman: AA Onikoyi
+    - 1.2:
+        bowler: C Bah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Shreshta
+        batsman: AA Onikoyi
+    - 1.3:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Shreshta
+        batsman: AA Onikoyi
+    - 1.4:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Shreshta
+        batsman: AA Onikoyi
+    - 1.5:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Shreshta
+        batsman: AA Onikoyi
+    - 1.6:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Shreshta
+        batsman: AA Onikoyi
+    - 1.7:
+        non_striker: A Shreshta
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 2.1:
+        non_striker: AA Onikoyi
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 2.2:
+        non_striker: AA Onikoyi
+        bowler: G Sesay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Shreshta
+    - 2.3:
+        non_striker: A Shreshta
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 2.4:
+        non_striker: A Shreshta
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 2.5:
+        non_striker: A Shreshta
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 2.6:
+        non_striker: A Shreshta
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Onikoyi
+    - 3.1:
+        non_striker: AA Onikoyi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 3.2:
+        non_striker: AA Onikoyi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Shreshta
+    - 3.3:
+        non_striker: AA Onikoyi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 3.4:
+        non_striker: AA Onikoyi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 3.5:
+        non_striker: AA Onikoyi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 3.6:
+        non_striker: AA Onikoyi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shreshta
+    - 4.1:
+        non_striker: AA Onikoyi
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 4.2:
+        non_striker: AA Onikoyi
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Shreshta
+    - 4.3:
+        non_striker: AA Onikoyi
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shreshta
+    - 4.4:
+        non_striker: A Shreshta
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 4.5:
+        non_striker: A Shreshta
+        bowler: G Sesay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AA Onikoyi
+    - 4.6:
+        non_striker: AA Onikoyi
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Shreshta
+    - 5.1:
+        non_striker: A Shreshta
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Onikoyi
+    - 5.2:
+        non_striker: AA Onikoyi
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 5.3:
+        non_striker: AA Onikoyi
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shreshta
+    - 5.4:
+        non_striker: A Shreshta
+        bowler: S Conteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Onikoyi
+    - 5.5:
+        non_striker: A Shreshta
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 5.6:
+        non_striker: A Shreshta
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 5.7:
+        non_striker: A Shreshta
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Onikoyi
+    - 6.1:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 6.2:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 6.3:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 6.4:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 6.5:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Onikoyi
+    - 6.6:
+        non_striker: AA Onikoyi
+        bowler: A Gbla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Shreshta
+    - 6.7:
+        non_striker: AA Onikoyi
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Shreshta
+    - 7.1:
+        non_striker: A Shreshta
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Onikoyi
+    - 7.2:
+        non_striker: AA Onikoyi
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Shreshta
+    - 7.3:
+        non_striker: AA Onikoyi
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 7.4:
+        non_striker: AA Onikoyi
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 7.5:
+        non_striker: AA Onikoyi
+        bowler: S Conteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Shreshta
+    - 7.6:
+        non_striker: A Shreshta
+        bowler: S Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 8.1:
+        non_striker: AA Onikoyi
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 8.2:
+        non_striker: AA Onikoyi
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shreshta
+    - 8.3:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Onikoyi
+    - 8.4:
+        non_striker: AA Onikoyi
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shreshta
+    - 8.5:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Onikoyi
+    - 8.6:
+        non_striker: A Shreshta
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+        wicket:
+          player_out: AA Onikoyi
+          kind: bowled
+    - 9.1:
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AE Isesele
+        batsman: A Shreshta
+    - 9.2:
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AE Isesele
+        batsman: A Shreshta
+    - 9.3:
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AE Isesele
+        batsman: A Shreshta
+    - 9.4:
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AE Isesele
+        batsman: A Shreshta
+    - 9.5:
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AE Isesele
+        batsman: A Shreshta
+    - 9.6:
+        non_striker: AE Isesele
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 10.1:
+        non_striker: A Shreshta
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Isesele
+    - 10.2:
+        non_striker: AE Isesele
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shreshta
+    - 10.3:
+        non_striker: A Shreshta
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Isesele
+    - 10.4:
+        non_striker: AE Isesele
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 10.5:
+        non_striker: AE Isesele
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 10.6:
+        non_striker: AE Isesele
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+    - 11.1:
+        non_striker: A Shreshta
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Isesele
+        wicket:
+          player_out: AE Isesele
+          fielders:
+          - J Bangura
+          kind: caught
+    - 11.2:
+        non_striker: A Shreshta
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Onwuzulike
+    - 11.3:
+        non_striker: A Shreshta
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 11.4:
+        non_striker: CN Onwuzulike
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shreshta
+    - 11.5:
+        non_striker: A Shreshta
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Onwuzulike
+    - 11.6:
+        non_striker: CN Onwuzulike
+        bowler: G Ngegba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shreshta
+        wicket:
+          player_out: A Shreshta
+          fielders:
+          - J Bangura
+          kind: caught
+    - 12.1:
+        bowler: Mohamed Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IO Okpe
+        batsman: CN Onwuzulike
+    - 12.2:
+        bowler: Mohamed Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IO Okpe
+        batsman: CN Onwuzulike
+    - 12.3:
+        non_striker: CN Onwuzulike
+        bowler: Mohamed Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe

@@ -1,0 +1,1755 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-06-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Spinaceto
+  dates:
+  - '2024-06-12'
+  gender: male
+  match_type: T20
+  match_type_number: 2667
+  outcome:
+    winner: Italy
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - TJ Draca
+  players:
+    Isle of Man:
+    - OJ Webster
+    - A McAuley
+    - EF Beard
+    - C Hartmann
+    - G Burrows
+    - H McAleer
+    - CJ Langford
+    - JA Burrows
+    - MJ Ansell
+    - S Clarke
+    - K Cawte
+    Italy:
+    - J Mosca
+    - JA Burns
+    - AJ Mosca
+    - HJ Manenti
+    - M Campopiano
+    - GP Meade
+    - GK Berg
+    - CJPF Kalugamage
+    - Jaspreet Singh
+    - S di Bartolomeo
+    - TJ Draca
+  registry:
+    people:
+      A McAuley: 39e599c8
+      AJ Mosca: 19c56e6e
+      Adeel Ashiq: e44cb88f
+      C Hartmann: 467c28f9
+      CJ Langford: 3967b66f
+      CJPF Kalugamage: 31c04b7b
+      EF Beard: 68019a70
+      G Burrows: 8bee668b
+      G McCrea: 46f4a901
+      GK Berg: '42151725'
+      GP Meade: 3957a70a
+      H McAleer: 8b39d02a
+      HJ Manenti: 0e56c514
+      J Mosca: 8f02f6a8
+      JA Burns: 7a5f232a
+      JA Burrows: dba54d8e
+      Jaspreet Singh: d76ab352
+      K Cawte: a2dd9236
+      M Campopiano: 26d80a9d
+      M Jameson: bdf1ffe3
+      MJ Ansell: 6e60a792
+      OJ Webster: a69e2964
+      S Clarke: 6c6d83ef
+      S di Bartolomeo: 823a57a9
+      TJ Draca: 88fac705
+      WPM van Liemt: 2bd48588
+  teams:
+  - Isle of Man
+  - Italy
+  toss:
+    winner: Isle of Man
+    decision: bat
+  umpires:
+  - M Jameson
+  - WPM van Liemt
+  venue: Roma Cricket Ground
+innings:
+- 1st innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A McAuley
+        batsman: OJ Webster
+    - 0.2:
+        non_striker: OJ Webster
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 0.3:
+        non_striker: OJ Webster
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 0.4:
+        non_striker: A McAuley
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Webster
+    - 0.5:
+        non_striker: A McAuley
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Webster
+    - 0.6:
+        non_striker: A McAuley
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Webster
+    - 1.1:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 1.2:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 1.3:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+        wicket:
+          player_out: A McAuley
+          kind: bowled
+    - 1.4:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EF Beard
+    - 1.5:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 1.6:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 1.7:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 2.1:
+        non_striker: EF Beard
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Webster
+    - 2.2:
+        non_striker: OJ Webster
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EF Beard
+    - 2.3:
+        non_striker: OJ Webster
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 2.4:
+        non_striker: OJ Webster
+        bowler: GK Berg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EF Beard
+    - 2.5:
+        non_striker: OJ Webster
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 2.6:
+        non_striker: EF Beard
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Webster
+    - 2.7:
+        non_striker: EF Beard
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OJ Webster
+    - 3.1:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 3.2:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 3.3:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 3.4:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 3.5:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 3.6:
+        non_striker: OJ Webster
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 4.1:
+        non_striker: EF Beard
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Webster
+    - 4.2:
+        non_striker: EF Beard
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Webster
+    - 4.3:
+        non_striker: OJ Webster
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 4.4:
+        non_striker: OJ Webster
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EF Beard
+    - 4.5:
+        non_striker: OJ Webster
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 4.6:
+        non_striker: OJ Webster
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+        wicket:
+          player_out: EF Beard
+          kind: bowled
+    - 5.1:
+        non_striker: C Hartmann
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Webster
+        wicket:
+          player_out: OJ Webster
+          kind: bowled
+    - 5.2:
+        non_striker: C Hartmann
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 5.3:
+        non_striker: C Hartmann
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 5.4:
+        non_striker: C Hartmann
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 5.5:
+        non_striker: C Hartmann
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 5.6:
+        non_striker: C Hartmann
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 6.1:
+        non_striker: C Hartmann
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 6.2:
+        non_striker: C Hartmann
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 6.3:
+        non_striker: C Hartmann
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 6.4:
+        non_striker: G Burrows
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Hartmann
+    - 6.5:
+        non_striker: G Burrows
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 6.6:
+        non_striker: G Burrows
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 7.1:
+        non_striker: G Burrows
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+        wicket:
+          player_out: C Hartmann
+          kind: bowled
+    - 7.2:
+        non_striker: G Burrows
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McAleer
+    - 7.3:
+        non_striker: G Burrows
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H McAleer
+    - 7.4:
+        non_striker: G Burrows
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McAleer
+    - 7.5:
+        non_striker: H McAleer
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 7.6:
+        non_striker: H McAleer
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 8.1:
+        non_striker: G Burrows
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McAleer
+    - 8.2:
+        non_striker: H McAleer
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 8.3:
+        non_striker: H McAleer
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 8.4:
+        non_striker: G Burrows
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McAleer
+    - 8.5:
+        non_striker: G Burrows
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McAleer
+    - 8.6:
+        non_striker: G Burrows
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McAleer
+    - 9.1:
+        non_striker: H McAleer
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 9.2:
+        non_striker: H McAleer
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 9.3:
+        non_striker: H McAleer
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 9.4:
+        non_striker: H McAleer
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 9.5:
+        non_striker: H McAleer
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 9.6:
+        non_striker: H McAleer
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 10.1:
+        non_striker: G Burrows
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McAleer
+    - 10.2:
+        non_striker: G Burrows
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McAleer
+    - 10.3:
+        non_striker: H McAleer
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: G Burrows
+    - 10.4:
+        non_striker: H McAleer
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 10.5:
+        non_striker: H McAleer
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 10.6:
+        non_striker: G Burrows
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H McAleer
+    - 11.1:
+        non_striker: G Burrows
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McAleer
+    - 11.2:
+        non_striker: H McAleer
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 11.3:
+        non_striker: H McAleer
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 11.4:
+        non_striker: H McAleer
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+        wicket:
+          player_out: G Burrows
+          kind: caught and bowled
+    - 11.5:
+        non_striker: H McAleer
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 11.6:
+        non_striker: H McAleer
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 12.1:
+        non_striker: H McAleer
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Langford
+    - 12.2:
+        non_striker: H McAleer
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 12.3:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McAleer
+    - 12.4:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H McAleer
+    - 12.5:
+        non_striker: H McAleer
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 12.6:
+        non_striker: H McAleer
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 13.1:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H McAleer
+        wicket:
+          player_out: H McAleer
+          fielders:
+          - GP Meade
+          kind: caught
+    - 13.2:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burrows
+        wicket:
+          player_out: JA Burrows
+          fielders:
+          - S di Bartolomeo
+          kind: caught
+    - 13.3:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 13.4:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 13.5:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 13.6:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 14.1:
+        non_striker: MJ Ansell
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 14.2:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 14.3:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 14.4:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ansell
+    - 14.5:
+        non_striker: MJ Ansell
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 14.6:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Ansell
+    - 15.1:
+        non_striker: MJ Ansell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CJ Langford
+    - 15.2:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 15.3:
+        non_striker: CJ Langford
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ansell
+    - 15.4:
+        non_striker: MJ Ansell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 15.5:
+        non_striker: MJ Ansell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 15.6:
+        non_striker: MJ Ansell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 16.1:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+        wicket:
+          player_out: MJ Ansell
+          fielders:
+          - S di Bartolomeo
+          kind: caught
+    - 16.2:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Clarke
+    - 16.3:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Clarke
+    - 16.4:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Clarke
+        wicket:
+          player_out: S Clarke
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 16.5:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cawte
+    - 16.6:
+        non_striker: CJ Langford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Cawte
+    - 17.1:
+        non_striker: K Cawte
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 17.2:
+        non_striker: K Cawte
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 17.3:
+        non_striker: K Cawte
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 17.4:
+        non_striker: K Cawte
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Langford
+    - 17.5:
+        non_striker: K Cawte
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+        wicket:
+          player_out: CJ Langford
+          fielders:
+          - JA Burns
+          kind: caught
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Burns
+        batsman: J Mosca
+    - 0.2:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA Burns
+        batsman: J Mosca
+    - 0.3:
+        non_striker: J Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 0.4:
+        non_striker: J Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 0.5:
+        non_striker: J Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 0.6:
+        non_striker: J Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 1.1:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+        wicket:
+          player_out: J Mosca
+          fielders:
+          - H McAleer
+          kind: caught
+    - 1.2:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.3:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Mosca
+    - 1.4:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.5:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.6:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 1.7:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 2.1:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 2.2:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Burns
+    - 2.3:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.4:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 2.5:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.6:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 3.1:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 3.2:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Mosca
+    - 3.3:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 3.4:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 3.5:
+        non_striker: JA Burns
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 3.6:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 3.7:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+        wicket:
+          player_out: JA Burns
+          fielders:
+          - H McAleer
+          kind: caught
+    - 4.1:
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HJ Manenti
+        batsman: AJ Mosca
+    - 4.2:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 4.3:
+        non_striker: HJ Manenti
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 4.4:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 4.5:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 4.6:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 5.1:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 5.2:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 5.3:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 5.4:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 5.5:
+        non_striker: AJ Mosca
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 5.6:
+        non_striker: HJ Manenti
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 6.1:
+        non_striker: AJ Mosca
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 6.2:
+        non_striker: AJ Mosca
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 6.3:
+        non_striker: AJ Mosca
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 6.4:
+        non_striker: HJ Manenti
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 6.5:
+        non_striker: AJ Mosca
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 6.6:
+        non_striker: AJ Mosca
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.1:
+        non_striker: AJ Mosca
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.2:
+        non_striker: HJ Manenti
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 7.3:
+        non_striker: AJ Mosca
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.4:
+        non_striker: HJ Manenti
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 7.5:
+        non_striker: AJ Mosca
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 7.6:
+        non_striker: AJ Mosca
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 8.1:
+        non_striker: HJ Manenti
+        bowler: S Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 8.2:
+        non_striker: AJ Mosca
+        bowler: S Clarke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 8.3:
+        non_striker: AJ Mosca
+        bowler: S Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Manenti
+    - 8.4:
+        non_striker: AJ Mosca
+        bowler: S Clarke
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: HJ Manenti
+    - 8.5:
+        non_striker: AJ Mosca
+        bowler: S Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 8.6:
+        non_striker: AJ Mosca
+        bowler: S Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 8.7:
+        non_striker: HJ Manenti
+        bowler: S Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 9.1:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 9.2:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.3:
+        non_striker: HJ Manenti
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 9.4:
+        non_striker: HJ Manenti
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 9.5:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.6:
+        non_striker: HJ Manenti
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 10.1:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 10.2:
+        non_striker: HJ Manenti
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 10.3:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 10.4:
+        non_striker: HJ Manenti
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 10.5:
+        non_striker: HJ Manenti
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 10.6:
+        non_striker: HJ Manenti
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 11.1:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 11.2:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HJ Manenti
+    - 11.3:
+        non_striker: HJ Manenti
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 11.4:
+        non_striker: HJ Manenti
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 11.5:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - A McAuley
+          kind: caught
+    - 11.6:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 12.1:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 12.2:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 12.3:
+        non_striker: M Campopiano
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 12.4:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 12.5:
+        non_striker: M Campopiano
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 12.6:
+        non_striker: AJ Mosca
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 13.1:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 13.2:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 13.3:
+        non_striker: M Campopiano
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 13.4:
+        non_striker: AJ Mosca
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 13.5:
+        non_striker: M Campopiano
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 13.6:
+        non_striker: M Campopiano
+        bowler: OJ Webster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 14.1:
+        non_striker: AJ Mosca
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 14.2:
+        non_striker: AJ Mosca
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 14.3:
+        non_striker: M Campopiano
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca

@@ -1,0 +1,1946 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Almeria
+  dates:
+  - '2023-09-12'
+  gender: female
+  match_type: T20
+  match_type_number: 1661
+  outcome:
+    winner: Scotland
+    by:
+      runs: 155
+  overs: 20
+  player_of_match:
+  - KE Bryce
+  players:
+    Scotland:
+    - KE Bryce
+    - DEM Carter
+    - SJ Bryce
+    - A Lister
+    - PA Chatterji
+    - EL Watson
+    - AH Maqsood
+    - L Jack
+    - M McColl
+    - HRA Rainey
+    - C Abel
+    France:
+    - L Wykes-Templeman
+    - TE Britton
+    - ME Violleau
+    - IY Mckeon
+    - Ganesh Pooja
+    - AL Seddon
+    - B Verdon
+    - A Bester
+    - Emma Patel
+    - DL Graham
+    - PKM Mahawattage
+  registry:
+    people:
+      A Bester: 047d293e
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      AL Seddon: d12ec7b3
+      Adnan Khan: 45ec7a99
+      B Verdon: d1e75f95
+      C Abel: d92d3563
+      DEM Carter: c3394c16
+      DL Graham: 907e30d9
+      DT Jukes: 7c215d14
+      EL Watson: 45dd7433
+      Emma Patel: 030a38e0
+      Ganesh Pooja: ab144207
+      HE Kearns: fd4959c8
+      HRA Rainey: 7027d12f
+      IY Mckeon: 59ff3c57
+      KE Bryce: f13d3eba
+      L Jack: e565ceb7
+      L Wykes-Templeman: 46c9b2bc
+      M McColl: d5fa2ab3
+      ME Violleau: 69f47625
+      PA Chatterji: 8e7be59c
+      PKM Mahawattage: a413b433
+      Rizwan Akram: b5346f1e
+      SJ Bryce: 2ca65aee
+      TE Britton: 5eceeb7f
+  teams:
+  - Scotland
+  - France
+  toss:
+    winner: Scotland
+    decision: bat
+  umpires:
+  - HE Kearns
+  - Rizwan Akram
+  venue: Desert Springs Cricket Ground, Almeria
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DEM Carter
+        batsman: KE Bryce
+    - 0.2:
+        non_striker: KE Bryce
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 0.3:
+        non_striker: DEM Carter
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 0.4:
+        non_striker: DEM Carter
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 0.5:
+        non_striker: KE Bryce
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 0.6:
+        non_striker: KE Bryce
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 1.1:
+        non_striker: DEM Carter
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.2:
+        non_striker: DEM Carter
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 1.3:
+        non_striker: DEM Carter
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 1.4:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DEM Carter
+    - 1.5:
+        non_striker: DEM Carter
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 1.6:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 1.7:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.1:
+        non_striker: DEM Carter
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.2:
+        non_striker: DEM Carter
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.3:
+        non_striker: KE Bryce
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 2.4:
+        non_striker: KE Bryce
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 2.5:
+        non_striker: KE Bryce
+        bowler: AL Seddon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DEM Carter
+    - 2.6:
+        non_striker: DEM Carter
+        bowler: AL Seddon
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: KE Bryce
+    - 2.7:
+        non_striker: DEM Carter
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.1:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 3.2:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 3.3:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 3.4:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 3.5:
+        non_striker: DEM Carter
+        bowler: DL Graham
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: KE Bryce
+    - 3.6:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 3.7:
+        non_striker: KE Bryce
+        bowler: DL Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 4.1:
+        non_striker: DEM Carter
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 4.2:
+        non_striker: KE Bryce
+        bowler: A Bester
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DEM Carter
+    - 4.3:
+        non_striker: DEM Carter
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.4:
+        non_striker: DEM Carter
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 4.5:
+        non_striker: DEM Carter
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 4.6:
+        non_striker: DEM Carter
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.1:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.2:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 5.3:
+        non_striker: DEM Carter
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 5.4:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.5:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 5.6:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 6.1:
+        non_striker: KE Bryce
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 6.2:
+        non_striker: DEM Carter
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.3:
+        non_striker: KE Bryce
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 6.4:
+        non_striker: DEM Carter
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.5:
+        non_striker: KE Bryce
+        bowler: A Bester
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: DEM Carter
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 6.7:
+        non_striker: KE Bryce
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 7.1:
+        non_striker: DEM Carter
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 7.2:
+        non_striker: DEM Carter
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.3:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.4:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 7.5:
+        non_striker: KE Bryce
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 7.6:
+        non_striker: DEM Carter
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 8.1:
+        non_striker: KE Bryce
+        bowler: IY Mckeon
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DEM Carter
+    - 8.2:
+        non_striker: DEM Carter
+        bowler: IY Mckeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 8.3:
+        non_striker: DEM Carter
+        bowler: IY Mckeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 8.4:
+        non_striker: DEM Carter
+        bowler: IY Mckeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 8.5:
+        non_striker: DEM Carter
+        bowler: IY Mckeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 8.6:
+        non_striker: DEM Carter
+        bowler: IY Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 8.7:
+        non_striker: KE Bryce
+        bowler: IY Mckeon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 9.1:
+        non_striker: KE Bryce
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 9.2:
+        non_striker: DEM Carter
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 9.3:
+        non_striker: DEM Carter
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 9.4:
+        non_striker: DEM Carter
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          fielders:
+          - Ganesh Pooja
+          kind: caught
+    - 9.5:
+        non_striker: DEM Carter
+        bowler: Emma Patel
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: SJ Bryce
+    - 9.6:
+        non_striker: DEM Carter
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 9.7:
+        non_striker: DEM Carter
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.1:
+        non_striker: DEM Carter
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - Ganesh Pooja
+          kind: caught
+    - 10.2:
+        non_striker: DEM Carter
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 10.3:
+        non_striker: DEM Carter
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 10.4:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.5:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.6:
+        non_striker: DEM Carter
+        bowler: ME Violleau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Lister
+    - 10.7:
+        non_striker: DEM Carter
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 11.1:
+        non_striker: A Lister
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - Ganesh Pooja
+          kind: caught
+    - 11.2:
+        non_striker: A Lister
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 11.3:
+        non_striker: PA Chatterji
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 11.4:
+        non_striker: PA Chatterji
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 11.5:
+        non_striker: PA Chatterji
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 11.6:
+        non_striker: A Lister
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.1:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.2:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 12.3:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 12.4:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 12.5:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 12.6:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.1:
+        non_striker: A Lister
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 13.2:
+        non_striker: A Lister
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 13.3:
+        non_striker: PA Chatterji
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Lister
+    - 13.4:
+        non_striker: PA Chatterji
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 13.5:
+        non_striker: PA Chatterji
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 13.6:
+        non_striker: PA Chatterji
+        bowler: Emma Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 14.1:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 14.2:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 14.3:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 14.4:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 14.5:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 14.6:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 15.1:
+        non_striker: A Lister
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.2:
+        non_striker: A Lister
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 15.3:
+        non_striker: A Lister
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 15.4:
+        non_striker: PA Chatterji
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 15.5:
+        non_striker: PA Chatterji
+        bowler: PKM Mahawattage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Lister
+    - 15.6:
+        non_striker: PA Chatterji
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 15.7:
+        non_striker: PA Chatterji
+        bowler: PKM Mahawattage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 16.1:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 16.2:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 16.3:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 16.4:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 16.5:
+        non_striker: PA Chatterji
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 16.6:
+        non_striker: A Lister
+        bowler: ME Violleau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.1:
+        non_striker: A Lister
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 17.2:
+        non_striker: PA Chatterji
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 17.3:
+        non_striker: PA Chatterji
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 17.4:
+        non_striker: PA Chatterji
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Lister
+    - 17.5:
+        non_striker: PA Chatterji
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 17.6:
+        non_striker: PA Chatterji
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 18.1:
+        non_striker: A Lister
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 18.2:
+        non_striker: A Lister
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 18.3:
+        non_striker: PA Chatterji
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 18.4:
+        non_striker: A Lister
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 18.5:
+        non_striker: PA Chatterji
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 18.6:
+        non_striker: A Lister
+        bowler: A Bester
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+        wicket:
+          player_out: PA Chatterji
+          fielders:
+          - L Wykes-Templeman
+          kind: caught
+    - 19.1:
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: EL Watson
+        batsman: A Lister
+    - 19.2:
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: EL Watson
+        batsman: A Lister
+    - 19.3:
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EL Watson
+        batsman: A Lister
+    - 19.4:
+        non_striker: A Lister
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 19.5:
+        non_striker: EL Watson
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 19.6:
+        non_striker: EL Watson
+        bowler: AL Seddon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+- 2nd innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Britton
+        batsman: L Wykes-Templeman
+    - 0.2:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Britton
+        batsman: L Wykes-Templeman
+    - 0.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Britton
+        batsman: L Wykes-Templeman
+    - 0.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Britton
+        batsman: L Wykes-Templeman
+    - 0.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TE Britton
+        batsman: L Wykes-Templeman
+    - 0.6:
+        non_striker: TE Britton
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wykes-Templeman
+    - 1.1:
+        non_striker: L Wykes-Templeman
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TE Britton
+    - 1.2:
+        non_striker: TE Britton
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wykes-Templeman
+        wicket:
+          player_out: L Wykes-Templeman
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 1.3:
+        non_striker: TE Britton
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 1.4:
+        non_striker: TE Britton
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+    - 1.5:
+        non_striker: TE Britton
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Violleau
+        wicket:
+          player_out: ME Violleau
+          kind: bowled
+    - 1.6:
+        non_striker: TE Britton
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IY Mckeon
+    - 2.1:
+        non_striker: TE Britton
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 2.2:
+        non_striker: TE Britton
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IY Mckeon
+    - 2.3:
+        non_striker: TE Britton
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 2.4:
+        non_striker: TE Britton
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IY Mckeon
+    - 2.5:
+        non_striker: TE Britton
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+        wicket:
+          player_out: TE Britton
+          fielders:
+          - KE Bryce
+          - EL Watson
+          kind: run out
+    - 2.6:
+        non_striker: Ganesh Pooja
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 3.1:
+        non_striker: IY Mckeon
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ganesh Pooja
+    - 3.2:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 3.3:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 3.4:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 3.5:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+    - 3.6:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IY Mckeon
+        wicket:
+          player_out: IY Mckeon
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 4.1:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Seddon
+        batsman: Ganesh Pooja
+    - 4.2:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Seddon
+        batsman: Ganesh Pooja
+    - 4.3:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Seddon
+        batsman: Ganesh Pooja
+    - 4.4:
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AL Seddon
+        batsman: Ganesh Pooja
+    - 4.5:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Seddon
+        batsman: Ganesh Pooja
+    - 4.6:
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: AL Seddon
+        batsman: Ganesh Pooja
+    - 4.7:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Seddon
+        batsman: Ganesh Pooja
+    - 4.8:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ganesh Pooja
+    - 5.1:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 5.2:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 5.3:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Seddon
+    - 5.4:
+        non_striker: Ganesh Pooja
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Seddon
+    - 5.5:
+        non_striker: AL Seddon
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ganesh Pooja
+    - 5.6:
+        non_striker: AL Seddon
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ganesh Pooja
+    - 5.7:
+        non_striker: AL Seddon
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ganesh Pooja
+    - 5.8:
+        non_striker: AL Seddon
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ganesh Pooja
+        wicket:
+          player_out: Ganesh Pooja
+          kind: retired hurt
+    - 6.1:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Verdon
+    - 6.2:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Verdon
+    - 6.3:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Verdon
+        wicket:
+          player_out: B Verdon
+          kind: bowled
+    - 6.4:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 6.5:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 6.6:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 7.1:
+        non_striker: A Bester
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AL Seddon
+    - 7.2:
+        non_striker: A Bester
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Seddon
+    - 7.3:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bester
+    - 7.4:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 7.5:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 7.6:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Bester
+    - 7.7:
+        non_striker: A Bester
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Seddon
+    - 8.1:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 8.2:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bester
+    - 8.3:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 8.4:
+        non_striker: AL Seddon
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bester
+    - 8.5:
+        non_striker: A Bester
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 8.6:
+        non_striker: A Bester
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Seddon
+    - 9.1:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 9.2:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bester
+    - 9.3:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 9.4:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+    - 9.5:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bester
+    - 9.6:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bester
+        wicket:
+          player_out: A Bester
+          kind: bowled
+    - 10.1:
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Emma Patel
+        batsman: AL Seddon
+    - 10.2:
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Emma Patel
+        batsman: AL Seddon
+    - 10.3:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Emma Patel
+    - 10.4:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Emma Patel
+    - 10.5:
+        non_striker: Emma Patel
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Seddon
+    - 10.6:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Emma Patel
+    - 10.7:
+        non_striker: AL Seddon
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emma Patel
+    - 11.1:
+        non_striker: Emma Patel
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Seddon
+    - 11.2:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emma Patel
+    - 11.3:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Emma Patel
+    - 11.4:
+        non_striker: Emma Patel
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Seddon
+    - 11.5:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emma Patel
+        wicket:
+          player_out: Emma Patel
+          kind: lbw
+    - 11.6:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Graham
+    - 12.1:
+        non_striker: DL Graham
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 12.2:
+        non_striker: DL Graham
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 12.3:
+        non_striker: DL Graham
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 12.4:
+        non_striker: DL Graham
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 12.5:
+        non_striker: DL Graham
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Seddon
+    - 12.6:
+        non_striker: DL Graham
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+    - 13.1:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Graham
+    - 13.2:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Graham
+    - 13.3:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Graham
+    - 13.4:
+        non_striker: AL Seddon
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Graham
+    - 13.5:
+        non_striker: DL Graham
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Seddon
+    - 13.6:
+        non_striker: DL Graham
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Seddon
+        wicket:
+          player_out: AL Seddon
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 14.1:
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PKM Mahawattage
+        batsman: DL Graham
+    - 14.2:
+        non_striker: PKM Mahawattage
+        bowler: M McColl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Graham
+        wicket:
+          player_out: DL Graham
+          kind: bowled

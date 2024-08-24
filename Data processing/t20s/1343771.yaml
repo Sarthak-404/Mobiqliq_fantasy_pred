@@ -1,0 +1,2201 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-04'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-12-01'
+  gender: male
+  match_type: T20
+  match_type_number: 1926
+  outcome:
+    winner: Eswatini
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - T Sandeep
+  players:
+    Gambia:
+    - Andre Jarju
+    - Mustapha Suwareh
+    - Muhammed Manga
+    - A Conteh
+    - G Riley
+    - Ismaila Tanba
+    - F Campbell
+    - Ousman Bah
+    - ML Bojang
+    - P Campbell
+    - M Jobarteh
+    Eswatini:
+    - T Sandeep
+    - C Forbes
+    - Naeem Gull
+    - Adil Butt
+    - W Dlamini
+    - H Rashid
+    - Umair Qasim
+    - M Jele
+    - Mohammed Alamgir
+    - M Magagula
+    - D Polpitiya
+  registry:
+    people:
+      A Conteh: 97b9cb64
+      Adil Butt: fde53ec1
+      Andre Jarju: 53dd7d8e
+      BP Jele: 7bb1331e
+      C Forbes: 8a9e3cd0
+      C Phiri: ade73404
+      D Polpitiya: b7062209
+      F Campbell: 02c3024c
+      G Riley: af16cd9e
+      Gasana Christian: f5d91a1f
+      H Rashid: 725c73f2
+      Ismaila Tanba: 180e2c15
+      M Jele: 1a8cedc8
+      M Jobarteh: 4a2ce060
+      M Magagula: 7a787b98
+      ML Bojang: c2409632
+      Mohammed Alamgir: e0f12392
+      Muhammed Manga: 6084f6ee
+      Mustapha Suwareh: 44116edc
+      Naeem Gull: 4c49c917
+      Ousman Bah: 95c214dd
+      P Campbell: 3caaf69e
+      SA Fritz: d15e60c8
+      T Sandeep: b794a78d
+      Umair Qasim: e086735b
+      W Dlamini: d2ac882a
+  teams:
+  - Gambia
+  - Eswatini
+  toss:
+    winner: Eswatini
+    decision: field
+  umpires:
+  - BP Jele
+  - Gasana Christian
+  venue: Integrated Polytechnic Regional Centre
+innings:
+- 1st innings:
+    team: Gambia
+    deliveries:
+    - 0.1:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mustapha Suwareh
+        batsman: Andre Jarju
+    - 0.2:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mustapha Suwareh
+        batsman: Andre Jarju
+    - 0.3:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mustapha Suwareh
+        batsman: Andre Jarju
+    - 0.4:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mustapha Suwareh
+        batsman: Andre Jarju
+    - 0.5:
+        non_striker: Andre Jarju
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+    - 0.6:
+        non_striker: Andre Jarju
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustapha Suwareh
+    - 1.1:
+        non_striker: Andre Jarju
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustapha Suwareh
+        wicket:
+          player_out: Mustapha Suwareh
+          kind: bowled
+    - 1.2:
+        non_striker: Andre Jarju
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 1.3:
+        non_striker: Andre Jarju
+        bowler: M Jele
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Muhammed Manga
+    - 1.4:
+        non_striker: Andre Jarju
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammed Manga
+    - 1.5:
+        non_striker: Muhammed Manga
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Andre Jarju
+    - 1.6:
+        non_striker: Andre Jarju
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammed Manga
+    - 1.7:
+        non_striker: Andre Jarju
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammed Manga
+    - 2.1:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Andre Jarju
+        wicket:
+          player_out: Andre Jarju
+          kind: bowled
+    - 2.2:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Conteh
+    - 2.3:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Conteh
+    - 2.4:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Conteh
+    - 2.5:
+        non_striker: A Conteh
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 2.6:
+        non_striker: A Conteh
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 3.1:
+        non_striker: Muhammed Manga
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Conteh
+    - 3.2:
+        non_striker: Muhammed Manga
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Conteh
+    - 3.3:
+        non_striker: Muhammed Manga
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Conteh
+        wicket:
+          player_out: A Conteh
+          fielders:
+          - T Sandeep
+          kind: caught
+    - 3.4:
+        non_striker: Muhammed Manga
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+    - 3.5:
+        non_striker: Muhammed Manga
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+    - 3.6:
+        non_striker: Muhammed Manga
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+    - 4.1:
+        non_striker: G Riley
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 4.2:
+        non_striker: G Riley
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 4.3:
+        non_striker: G Riley
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammed Manga
+    - 4.4:
+        non_striker: G Riley
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammed Manga
+    - 4.5:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+    - 4.6:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Riley
+    - 4.7:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+    - 5.1:
+        non_striker: G Riley
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 5.2:
+        non_striker: G Riley
+        bowler: M Jele
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Muhammed Manga
+    - 5.3:
+        non_striker: G Riley
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 5.4:
+        non_striker: G Riley
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 5.5:
+        non_striker: G Riley
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 5.6:
+        non_striker: G Riley
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 6.1:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+    - 6.2:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+    - 6.3:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Riley
+        wicket:
+          player_out: G Riley
+          kind: bowled
+    - 6.4:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 6.5:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismaila Tanba
+    - 6.6:
+        non_striker: Muhammed Manga
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 7.1:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 7.2:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 7.3:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 7.4:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 7.5:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 7.6:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammed Manga
+    - 8.1:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 8.2:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 8.3:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ismaila Tanba
+    - 8.4:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ismaila Tanba
+    - 8.5:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 8.6:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 8.7:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 9.1:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammed Manga
+    - 9.2:
+        non_striker: Muhammed Manga
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ismaila Tanba
+    - 9.3:
+        non_striker: Muhammed Manga
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ismaila Tanba
+    - 9.4:
+        non_striker: Muhammed Manga
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 9.5:
+        non_striker: Muhammed Manga
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismaila Tanba
+    - 9.6:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 10.1:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismaila Tanba
+    - 10.2:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ismaila Tanba
+    - 10.3:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismaila Tanba
+    - 10.4:
+        non_striker: Ismaila Tanba
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 10.5:
+        non_striker: Ismaila Tanba
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammed Manga
+    - 10.6:
+        non_striker: Ismaila Tanba
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammed Manga
+    - 10.7:
+        non_striker: Muhammed Manga
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismaila Tanba
+    - 11.1:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammed Manga
+    - 11.2:
+        non_striker: Muhammed Manga
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismaila Tanba
+    - 11.3:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 11.4:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammed Manga
+    - 11.5:
+        non_striker: Muhammed Manga
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 11.6:
+        non_striker: Muhammed Manga
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismaila Tanba
+    - 12.1:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+    - 12.2:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammed Manga
+    - 12.3:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammed Manga
+    - 12.4:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammed Manga
+    - 12.5:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammed Manga
+    - 12.6:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammed Manga
+        wicket:
+          player_out: Muhammed Manga
+          fielders:
+          - T Sandeep
+          kind: caught
+    - 12.7:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Campbell
+    - 12.8:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Campbell
+    - 12.9:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Campbell
+    - 13.1:
+        non_striker: F Campbell
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismaila Tanba
+    - 13.2:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Campbell
+    - 13.3:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Campbell
+        wicket:
+          player_out: F Campbell
+          kind: bowled
+    - 13.4:
+        non_striker: Ismaila Tanba
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ousman Bah
+    - 13.5:
+        non_striker: Ousman Bah
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ismaila Tanba
+    - 13.6:
+        non_striker: Ousman Bah
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 14.1:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ousman Bah
+    - 14.2:
+        non_striker: Ousman Bah
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+    - 14.3:
+        non_striker: Ousman Bah
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ismaila Tanba
+    - 14.4:
+        non_striker: Ousman Bah
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismaila Tanba
+    - 14.5:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ousman Bah
+    - 14.6:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ousman Bah
+    - 14.7:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ousman Bah
+    - 14.8:
+        non_striker: Ismaila Tanba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ousman Bah
+    - 15.1:
+        non_striker: Ismaila Tanba
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ousman Bah
+    - 15.2:
+        non_striker: Ismaila Tanba
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ousman Bah
+    - 15.3:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaila Tanba
+        wicket:
+          player_out: Ismaila Tanba
+          kind: lbw
+    - 15.4:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Bojang
+    - 15.5:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Bojang
+    - 15.6:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Bojang
+    - 16.1:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Bojang
+    - 16.2:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Bojang
+    - 16.3:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Bojang
+    - 16.4:
+        non_striker: ML Bojang
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ousman Bah
+    - 16.5:
+        non_striker: ML Bojang
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ousman Bah
+    - 16.6:
+        non_striker: ML Bojang
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Ousman Bah
+    - 17.1:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ML Bojang
+    - 17.2:
+        non_striker: ML Bojang
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ousman Bah
+    - 17.3:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Bojang
+    - 17.4:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Bojang
+    - 17.5:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Bojang
+    - 17.6:
+        non_striker: ML Bojang
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ousman Bah
+    - 18.1:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: ML Bojang
+    - 18.2:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Bojang
+    - 18.3:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Bojang
+    - 18.4:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Bojang
+        wicket:
+          player_out: ML Bojang
+          kind: bowled
+    - 18.5:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Campbell
+    - 18.6:
+        non_striker: Ousman Bah
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Campbell
+    - 19.1:
+        non_striker: P Campbell
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ousman Bah
+    - 19.2:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Campbell
+        wicket:
+          player_out: P Campbell
+          kind: lbw
+    - 19.3:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Jobarteh
+    - 19.4:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Jobarteh
+    - 19.5:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jobarteh
+    - 19.6:
+        non_striker: Ousman Bah
+        bowler: D Polpitiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jobarteh
+        wicket:
+          player_out: M Jobarteh
+          kind: bowled
+- 2nd innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Forbes
+        batsman: T Sandeep
+    - 0.2:
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Forbes
+        batsman: T Sandeep
+    - 0.3:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 0.4:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 0.5:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 0.6:
+        non_striker: C Forbes
+        bowler: Andre Jarju
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Sandeep
+    - 0.7:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 1.1:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 1.2:
+        non_striker: C Forbes
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 1.3:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 1.4:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Forbes
+    - 1.5:
+        non_striker: C Forbes
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 1.6:
+        non_striker: C Forbes
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 2.1:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 2.2:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 2.3:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 2.4:
+        non_striker: C Forbes
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 2.5:
+        non_striker: C Forbes
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 2.6:
+        non_striker: C Forbes
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 3.1:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Forbes
+    - 3.2:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Forbes
+    - 3.3:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 3.4:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 3.5:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Forbes
+    - 3.6:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Forbes
+    - 3.7:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 3.8:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+    - 3.9:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 4.1:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 4.2:
+        non_striker: C Forbes
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 4.3:
+        non_striker: C Forbes
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 4.4:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+        wicket:
+          player_out: C Forbes
+          fielders:
+          - Ismaila Tanba
+          kind: caught
+    - 4.5:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naeem Gull
+    - 4.6:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naeem Gull
+    - 5.1:
+        non_striker: Naeem Gull
+        bowler: M Jobarteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Sandeep
+    - 5.2:
+        non_striker: Naeem Gull
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 5.3:
+        non_striker: Naeem Gull
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 5.4:
+        non_striker: Naeem Gull
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 5.5:
+        non_striker: Naeem Gull
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 5.6:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+    - 5.7:
+        non_striker: T Sandeep
+        bowler: M Jobarteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+    - 6.1:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 6.2:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Naeem Gull
+    - 6.3:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 6.4:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 6.5:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 6.6:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 7.1:
+        non_striker: Naeem Gull
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 7.2:
+        non_striker: Naeem Gull
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 7.3:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naeem Gull
+    - 7.4:
+        non_striker: Naeem Gull
+        bowler: A Conteh
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Sandeep
+    - 7.5:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Naeem Gull
+    - 7.6:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naeem Gull
+    - 7.7:
+        non_striker: Naeem Gull
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 7.8:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+    - 8.1:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 8.2:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naeem Gull
+    - 8.3:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 8.4:
+        non_striker: Naeem Gull
+        bowler: ML Bojang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Sandeep
+    - 8.5:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+        wicket:
+          player_out: Naeem Gull
+          kind: bowled
+    - 8.6:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 9.1:
+        non_striker: Adil Butt
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 9.2:
+        non_striker: Adil Butt
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 9.3:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+        wicket:
+          player_out: Adil Butt
+          kind: bowled
+    - 9.4:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Dlamini
+    - 9.5:
+        non_striker: W Dlamini
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 9.6:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Dlamini
+    - 10.1:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Dlamini
+    - 10.2:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: W Dlamini
+    - 10.3:
+        non_striker: W Dlamini
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 10.4:
+        non_striker: W Dlamini
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 10.5:
+        non_striker: W Dlamini
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 10.6:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Dlamini
+    - 11.1:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Dlamini
+    - 11.2:
+        non_striker: W Dlamini
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 11.3:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Dlamini
+        wicket:
+          player_out: W Dlamini
+          fielders:
+          - M Jobarteh
+          kind: caught
+    - 11.4:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 11.5:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 11.6:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 12.1:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 12.2:
+        non_striker: H Rashid
+        bowler: ML Bojang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Sandeep
+    - 12.3:
+        non_striker: H Rashid
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 12.4:
+        non_striker: H Rashid
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 12.5:
+        non_striker: H Rashid
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 12.6:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 12.7:
+        non_striker: T Sandeep
+        bowler: ML Bojang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 13.1:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 13.2:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 13.3:
+        non_striker: H Rashid
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 13.4:
+        non_striker: H Rashid
+        bowler: A Conteh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Sandeep
+    - 13.5:
+        non_striker: H Rashid
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 13.6:
+        non_striker: T Sandeep
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 13.7:
+        non_striker: H Rashid
+        bowler: A Conteh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 14.1:
+        non_striker: T Sandeep
+        bowler: Mustapha Suwareh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 14.2:
+        non_striker: H Rashid
+        bowler: Mustapha Suwareh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 14.3:
+        non_striker: T Sandeep
+        bowler: Mustapha Suwareh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 14.4:
+        non_striker: H Rashid
+        bowler: Mustapha Suwareh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 14.5:
+        non_striker: T Sandeep
+        bowler: Mustapha Suwareh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+        wicket:
+          player_out: H Rashid
+          fielders:
+          - M Jobarteh
+          kind: caught
+    - 14.6:
+        non_striker: T Sandeep
+        bowler: Mustapha Suwareh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umair Qasim
+    - 15.1:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 15.2:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 15.3:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: T Sandeep
+    - 15.4:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Sandeep
+    - 15.5:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Sandeep
+    - 15.6:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 15.7:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 15.8:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 16.1:
+        non_striker: Umair Qasim
+        bowler: Andre Jarju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Sandeep
+    - 16.2:
+        non_striker: Umair Qasim
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 16.3:
+        non_striker: Umair Qasim
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 16.4:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 16.5:
+        non_striker: Umair Qasim
+        bowler: Andre Jarju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Sandeep
+    - 16.6:
+        non_striker: Umair Qasim
+        bowler: Andre Jarju
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Sandeep
+    - 16.7:
+        non_striker: T Sandeep
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 16.8:
+        non_striker: Umair Qasim
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 16.9:
+        non_striker: Umair Qasim
+        bowler: Andre Jarju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 17.1:
+        non_striker: T Sandeep
+        bowler: Muhammed Manga
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Umair Qasim
+    - 17.2:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+    - 17.3:
+        non_striker: Umair Qasim
+        bowler: Muhammed Manga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Sandeep

@@ -1,0 +1,2213 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port Moresby
+  dates:
+  - '2023-07-23'
+  gender: male
+  match_type: T20
+  match_type_number: 2155
+  outcome:
+    winner: Japan
+    by:
+      runs: 21
+  overs: 20
+  player_of_match:
+  - K Kadowaki-Fleming
+  players:
+    Japan:
+    - L Yamamoto-Lake
+    - A Patmore
+    - S Navaratne
+    - K Kadowaki-Fleming
+    - I Takahashi
+    - S Ravichandran
+    - R Sakurano-Thomas
+    - D Suzuki
+    - M Taniyama
+    - P Kumbhare
+    - R Drake
+    Vanuatu:
+    - N Nipiko
+    - AL Stephen
+    - JP Kaltapau
+    - JD Allan
+    - A Mansale
+    - PK Matautaava
+    - R Tari
+    - J Rasu
+    - SH Obed
+    - W Nalisa
+    - Obed Yosef
+  registry:
+    people:
+      A Kapa: 7c9c0f18
+      A Mansale: a22b4f3f
+      A Patmore: '85119526'
+      AL Stephen: 49f6d023
+      CA Polosak: 26a360d2
+      D Suzuki: 64c81abf
+      I Takahashi: c988daa1
+      J Rasu: 1021b6e5
+      JD Allan: 3758028b
+      JP Kaltapau: d8dccff5
+      K Kadowaki-Fleming: 33290a80
+      L Yamamoto-Lake: fa23405f
+      M Taniyama: cbd91942
+      N Nipiko: c498c510
+      Obed Yosef: a843d7a8
+      P Kumbhare: ef503cfe
+      PK Matautaava: af19aa66
+      R Drake: 57b3c398
+      R Sakurano-Thomas: dd14abf5
+      R Tari: c4d19735
+      S Navaratne: 29573e43
+      S Ravichandran: 9f2be73d
+      SB Haig: 811655b3
+      SH Obed: f49c401e
+      W Nalisa: 673be48f
+      WC Labrooy: 29d4e29b
+  teams:
+  - Japan
+  - Vanuatu
+  toss:
+    winner: Vanuatu
+    decision: field
+  umpires:
+  - A Kapa
+  - CA Polosak
+  venue: Amini Park, Port Moresby
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: J Rasu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Patmore
+        batsman: L Yamamoto-Lake
+    - 0.2:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Patmore
+        batsman: L Yamamoto-Lake
+    - 0.3:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Patmore
+        batsman: L Yamamoto-Lake
+    - 0.4:
+        non_striker: A Patmore
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Yamamoto-Lake
+        wicket:
+          player_out: L Yamamoto-Lake
+          fielders:
+          - Obed Yosef
+          kind: caught
+    - 0.5:
+        non_striker: A Patmore
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Navaratne
+    - 0.6:
+        non_striker: A Patmore
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Navaratne
+    - 0.7:
+        non_striker: S Navaratne
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+        wicket:
+          player_out: A Patmore
+          kind: lbw
+    - 1.1:
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Kadowaki-Fleming
+        batsman: S Navaratne
+    - 1.2:
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Kadowaki-Fleming
+        batsman: S Navaratne
+    - 1.3:
+        non_striker: S Navaratne
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 1.4:
+        non_striker: S Navaratne
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 1.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Navaratne
+    - 1.6:
+        non_striker: S Navaratne
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Navaratne
+    - 2.2:
+        non_striker: S Navaratne
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: S Navaratne
+          fielders:
+          - R Tari
+          - J Rasu
+          kind: run out
+    - 2.3:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Takahashi
+        batsman: K Kadowaki-Fleming
+    - 2.4:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Takahashi
+        batsman: K Kadowaki-Fleming
+    - 2.5:
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: I Takahashi
+        batsman: K Kadowaki-Fleming
+    - 2.6:
+        non_striker: I Takahashi
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 3.1:
+        non_striker: I Takahashi
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 3.2:
+        non_striker: I Takahashi
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 3.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 3.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 3.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 3.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: I Takahashi
+    - 4.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 4.2:
+        non_striker: I Takahashi
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 4.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 4.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 4.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 4.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Takahashi
+    - 5.1:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 5.2:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 5.3:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 5.4:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 5.5:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 5.6:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: AL Stephen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Takahashi
+    - 6.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: AL Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 6.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: AL Stephen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Takahashi
+    - 6.4:
+        non_striker: I Takahashi
+        bowler: AL Stephen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.5:
+        non_striker: I Takahashi
+        bowler: AL Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 6.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: AL Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 6.7:
+        non_striker: I Takahashi
+        bowler: AL Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.1:
+        non_striker: I Takahashi
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 7.2:
+        non_striker: I Takahashi
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 7.4:
+        non_striker: I Takahashi
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 7.5:
+        non_striker: I Takahashi
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 8.1:
+        non_striker: I Takahashi
+        bowler: AL Stephen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 8.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: PK Matautaava
+            out: AL Stephen
+            reason: unknown
+            role: bowler
+        batsman: I Takahashi
+    - 8.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 8.4:
+        non_striker: I Takahashi
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 8.5:
+        non_striker: I Takahashi
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 8.6:
+        non_striker: I Takahashi
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 9.2:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.3:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 9.4:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.5:
+        non_striker: I Takahashi
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 9.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 10.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 10.2:
+        non_striker: I Takahashi
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 10.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+        wicket:
+          player_out: I Takahashi
+          fielders:
+          - JD Allan
+          kind: caught
+    - 10.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 10.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 10.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 11.1:
+        non_striker: S Ravichandran
+        bowler: W Nalisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Kadowaki-Fleming
+    - 11.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 11.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 11.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 11.5:
+        non_striker: S Ravichandran
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 11.6:
+        non_striker: S Ravichandran
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 11.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.2:
+        non_striker: S Ravichandran
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 12.3:
+        non_striker: S Ravichandran
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 12.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.5:
+        non_striker: S Ravichandran
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 12.6:
+        non_striker: S Ravichandran
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 13.1:
+        non_striker: S Ravichandran
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 13.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 13.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.4:
+        non_striker: S Ravichandran
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 13.5:
+        non_striker: S Ravichandran
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 13.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 14.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 14.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 14.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 14.4:
+        non_striker: S Ravichandran
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 14.5:
+        non_striker: S Ravichandran
+        bowler: Obed Yosef
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Kadowaki-Fleming
+    - 14.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 14.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 14.8:
+        non_striker: S Ravichandran
+        bowler: Obed Yosef
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 15.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: SH Obed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 15.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: SH Obed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 15.3:
+        non_striker: S Ravichandran
+        bowler: SH Obed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 15.4:
+        non_striker: S Ravichandran
+        bowler: SH Obed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 15.5:
+        non_striker: S Ravichandran
+        bowler: SH Obed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 15.6:
+        non_striker: S Ravichandran
+        bowler: SH Obed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 16.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+        wicket:
+          player_out: S Ravichandran
+          fielders:
+          - SH Obed
+          kind: caught
+    - 16.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+        wicket:
+          player_out: R Sakurano-Thomas
+          kind: bowled
+    - 16.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki
+    - 16.4:
+        non_striker: D Suzuki
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 16.5:
+        non_striker: D Suzuki
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 16.6:
+        non_striker: D Suzuki
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 17.1:
+        non_striker: D Suzuki
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 17.2:
+        non_striker: D Suzuki
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: K Kadowaki-Fleming
+          fielders:
+          - JD Allan
+          kind: caught
+    - 17.3:
+        non_striker: D Suzuki
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taniyama
+    - 17.4:
+        non_striker: D Suzuki
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taniyama
+    - 17.5:
+        non_striker: D Suzuki
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taniyama
+        wicket:
+          player_out: M Taniyama
+          kind: caught and bowled
+    - 17.6:
+        non_striker: D Suzuki
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Kumbhare
+    - 17.7:
+        non_striker: P Kumbhare
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Suzuki
+    - 18.1:
+        non_striker: D Suzuki
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Kumbhare
+    - 18.2:
+        non_striker: D Suzuki
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kumbhare
+    - 18.3:
+        non_striker: P Kumbhare
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+        wicket:
+          player_out: D Suzuki
+          kind: bowled
+    - 18.4:
+        non_striker: P Kumbhare
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Drake
+    - 18.5:
+        non_striker: P Kumbhare
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Drake
+    - 18.6:
+        non_striker: R Drake
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kumbhare
+    - 19.1:
+        non_striker: R Drake
+        bowler: PK Matautaava
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: P Kumbhare
+    - 19.2:
+        non_striker: R Drake
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kumbhare
+    - 19.3:
+        non_striker: P Kumbhare
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Drake
+    - 19.4:
+        non_striker: P Kumbhare
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Drake
+        wicket:
+          player_out: R Drake
+          kind: bowled
+- 2nd innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AL Stephen
+        batsman: N Nipiko
+    - 0.2:
+        bowler: P Kumbhare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: AL Stephen
+        batsman: N Nipiko
+    - 0.3:
+        non_striker: N Nipiko
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+    - 0.4:
+        non_striker: N Nipiko
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+    - 0.5:
+        non_striker: N Nipiko
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Stephen
+    - 0.6:
+        non_striker: N Nipiko
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Stephen
+    - 1.1:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+    - 1.2:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+    - 1.3:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+    - 1.4:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Stephen
+    - 1.5:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+    - 1.6:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+    - 2.1:
+        non_striker: AL Stephen
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 2.2:
+        non_striker: AL Stephen
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Nipiko
+    - 2.3:
+        non_striker: AL Stephen
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 2.4:
+        non_striker: AL Stephen
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 2.5:
+        non_striker: N Nipiko
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Stephen
+        wicket:
+          player_out: AL Stephen
+          kind: bowled
+    - 2.6:
+        non_striker: N Nipiko
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.1:
+        non_striker: JP Kaltapau
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 3.2:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.3:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.4:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 3.5:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 3.6:
+        non_striker: N Nipiko
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 4.1:
+        non_striker: JP Kaltapau
+        bowler: D Suzuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Nipiko
+    - 4.2:
+        non_striker: JP Kaltapau
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 4.3:
+        non_striker: JP Kaltapau
+        bowler: D Suzuki
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Nipiko
+    - 4.4:
+        non_striker: N Nipiko
+        bowler: D Suzuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Kaltapau
+    - 4.5:
+        non_striker: N Nipiko
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 4.6:
+        non_striker: N Nipiko
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JP Kaltapau
+    - 4.7:
+        non_striker: JP Kaltapau
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 4.8:
+        non_striker: JP Kaltapau
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 4.9:
+        non_striker: JP Kaltapau
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 5.1:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 5.2:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 5.3:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 5.4:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Nipiko
+    - 5.5:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 5.6:
+        non_striker: N Nipiko
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 6.1:
+        non_striker: JP Kaltapau
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Nipiko
+    - 6.2:
+        non_striker: JP Kaltapau
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+        wicket:
+          player_out: N Nipiko
+          fielders:
+          - M Taniyama
+          kind: caught
+    - 6.3:
+        non_striker: JP Kaltapau
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 6.4:
+        non_striker: JP Kaltapau
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 6.5:
+        non_striker: JP Kaltapau
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 6.6:
+        non_striker: JD Allan
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Kaltapau
+    - 6.7:
+        non_striker: JP Kaltapau
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 7.1:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 7.2:
+        non_striker: JD Allan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 7.3:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 7.4:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+    - 7.5:
+        non_striker: JP Kaltapau
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Allan
+    - 7.6:
+        non_striker: JD Allan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 8.1:
+        non_striker: JD Allan
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+        wicket:
+          player_out: JP Kaltapau
+          kind: bowled
+    - 8.2:
+        non_striker: JD Allan
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 8.3:
+        non_striker: A Mansale
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Allan
+        wicket:
+          player_out: JD Allan
+          fielders:
+          - D Suzuki
+          kind: caught
+    - 8.4:
+        non_striker: A Mansale
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 8.5:
+        non_striker: A Mansale
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PK Matautaava
+    - 8.6:
+        non_striker: PK Matautaava
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 9.1:
+        non_striker: A Mansale
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 9.2:
+        non_striker: A Mansale
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+        wicket:
+          player_out: PK Matautaava
+          kind: caught and bowled
+    - 9.3:
+        non_striker: A Mansale
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 9.4:
+        non_striker: A Mansale
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 9.5:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 9.6:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 10.1:
+        non_striker: R Tari
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 10.2:
+        non_striker: R Tari
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 10.3:
+        non_striker: R Tari
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 10.4:
+        non_striker: R Tari
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 10.5:
+        non_striker: R Tari
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 10.6:
+        non_striker: A Mansale
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 11.1:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 11.2:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 11.3:
+        non_striker: A Mansale
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 11.4:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 11.5:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 11.6:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 12.1:
+        non_striker: R Tari
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 12.2:
+        non_striker: A Mansale
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 12.3:
+        non_striker: R Tari
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 12.4:
+        non_striker: A Mansale
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 12.5:
+        non_striker: R Tari
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 12.6:
+        non_striker: R Tari
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 13.1:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 13.2:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 13.3:
+        non_striker: A Mansale
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 13.4:
+        non_striker: A Mansale
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 13.5:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 13.6:
+        non_striker: R Tari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 14.1:
+        non_striker: R Tari
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 14.2:
+        non_striker: R Tari
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 14.3:
+        non_striker: A Mansale
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 14.4:
+        non_striker: R Tari
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mansale
+    - 14.5:
+        non_striker: R Tari
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 14.6:
+        non_striker: A Mansale
+        bowler: R Drake
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: R Tari
+    - 14.7:
+        non_striker: R Tari
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 14.8:
+        non_striker: R Tari
+        bowler: R Drake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 15.1:
+        non_striker: A Mansale
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 15.2:
+        non_striker: A Mansale
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 15.3:
+        non_striker: A Mansale
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 15.4:
+        non_striker: R Tari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 15.5:
+        non_striker: A Mansale
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 15.6:
+        non_striker: R Tari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 16.1:
+        non_striker: R Tari
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 16.2:
+        non_striker: R Tari
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 16.3:
+        non_striker: A Mansale
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 16.4:
+        non_striker: R Tari
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 16.5:
+        non_striker: R Tari
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+        wicket:
+          player_out: A Mansale
+          fielders:
+          - S Navaratne
+          kind: caught
+    - 16.6:
+        non_striker: R Tari
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 17.1:
+        non_striker: J Rasu
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Tari
+    - 17.2:
+        non_striker: J Rasu
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Tari
+    - 17.3:
+        non_striker: J Rasu
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 17.4:
+        non_striker: R Tari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 17.5:
+        non_striker: J Rasu
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tari
+    - 17.6:
+        non_striker: R Tari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 18.1:
+        non_striker: R Tari
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 18.2:
+        non_striker: R Tari
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 18.3:
+        non_striker: J Rasu
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+    - 18.4:
+        non_striker: J Rasu
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tari
+        wicket:
+          player_out: R Tari
+          fielders:
+          - K Kadowaki-Fleming
+          kind: caught
+    - 18.5:
+        non_striker: J Rasu
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Obed
+    - 18.6:
+        non_striker: SH Obed
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 19.1:
+        non_striker: J Rasu
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Obed
+    - 19.2:
+        non_striker: SH Obed
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 19.3:
+        non_striker: SH Obed
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 19.4:
+        non_striker: J Rasu
+        bowler: P Kumbhare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SH Obed
+    - 19.5:
+        non_striker: SH Obed
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 19.6:
+        non_striker: SH Obed
+        bowler: P Kumbhare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+        wicket:
+          player_out: J Rasu
+          fielders:
+          - D Suzuki
+          kind: caught

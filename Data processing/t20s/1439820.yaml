@@ -1,0 +1,1813 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2024-07-09'
+  gender: male
+  match_type: T20
+  match_type_number: 2746
+  outcome:
+    winner: Jersey
+    by:
+      runs: 167
+  overs: 20
+  players:
+    Jersey:
+    - H Carlyon
+    - NA Greenwood
+    - JW Jenner
+    - ZM Tribe
+    - C Brennan
+    - B Ward
+    - DG Blampied
+    - J Sumerauer
+    - JE Dunford
+    - CW Perchard
+    - D Birrell
+    Switzerland:
+    - Faheem Nazir
+    - Idrees Ul Haque
+    - Arjun Vinod
+    - Ahmed Hassan
+    - Abdullah Rana
+    - Jai Sinh
+    - M Stanikzai
+    - Ali Nayyer
+    - NK Aneesh Kumar
+    - Bashir Ahmad
+    - K Fletcher
+  registry:
+    people:
+      Abdullah Rana: c4ab9b94
+      Ahmed Hassan: c439461b
+      Ali Nayyer: 4ec0443d
+      Arjun Vinod: 033e9d59
+      B Ward: 9e0bd203
+      Bashir Ahmad: ffafcfce
+      C Brennan: 80f9fd4f
+      CW Perchard: 9f998ed8
+      D Birrell: aea11d1d
+      DG Blampied: d8976cb7
+      DH Mclean: 281d4749
+      Faheem Nazir: 7e00711f
+      H Carlyon: 42bf1b7d
+      H Pack: fed53c91
+      Idrees Ul Haque: d5b52676
+      J Sumerauer: 0b581ed6
+      JE Dunford: 89a7dd4a
+      JW Jenner: 32a8161e
+      Jai Sinh: 10ae134c
+      Jonathan Kennedy: f7ad4494
+      K Fletcher: 443d1fd8
+      M Stanikzai: ad8d5827
+      N Bathi: 96a0edf9
+      NA Greenwood: 7ca68967
+      NK Aneesh Kumar: e23da78c
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Jersey
+  - Switzerland
+  toss:
+    winner: Jersey
+    decision: bat
+  umpires:
+  - DH Mclean
+  - N Bathi
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.2:
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.3:
+        non_striker: H Carlyon
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 0.4:
+        non_striker: NA Greenwood
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          kind: bowled
+    - 0.5:
+        non_striker: NA Greenwood
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 0.6:
+        non_striker: NA Greenwood
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 1.1:
+        non_striker: NA Greenwood
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 1.2:
+        non_striker: NA Greenwood
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 1.3:
+        non_striker: JW Jenner
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.4:
+        non_striker: JW Jenner
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 1.5:
+        non_striker: JW Jenner
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 1.6:
+        non_striker: NA Greenwood
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JW Jenner
+    - 2.1:
+        non_striker: JW Jenner
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 2.2:
+        non_striker: NA Greenwood
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 2.3:
+        non_striker: NA Greenwood
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 2.4:
+        non_striker: JW Jenner
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - Arjun Vinod
+          kind: caught
+    - 2.5:
+        non_striker: JW Jenner
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZM Tribe
+    - 2.6:
+        non_striker: JW Jenner
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 3.1:
+        non_striker: ZM Tribe
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JW Jenner
+    - 3.2:
+        non_striker: ZM Tribe
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 3.3:
+        non_striker: ZM Tribe
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 3.4:
+        non_striker: ZM Tribe
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JW Jenner
+    - 3.5:
+        non_striker: ZM Tribe
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 3.6:
+        non_striker: ZM Tribe
+        bowler: Bashir Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 4.1:
+        non_striker: JW Jenner
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 4.2:
+        non_striker: JW Jenner
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 4.3:
+        non_striker: ZM Tribe
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 4.4:
+        non_striker: JW Jenner
+        bowler: Abdullah Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZM Tribe
+    - 4.5:
+        non_striker: JW Jenner
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 4.6:
+        non_striker: JW Jenner
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+        wicket:
+          player_out: ZM Tribe
+          kind: bowled
+    - 4.7:
+        non_striker: JW Jenner
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 5.1:
+        non_striker: JW Jenner
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 5.2:
+        non_striker: JW Jenner
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brennan
+    - 5.3:
+        non_striker: JW Jenner
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 5.4:
+        non_striker: C Brennan
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 5.5:
+        non_striker: C Brennan
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 5.6:
+        non_striker: C Brennan
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 6.1:
+        non_striker: JW Jenner
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 6.2:
+        non_striker: C Brennan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 6.3:
+        non_striker: C Brennan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 6.4:
+        non_striker: C Brennan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 6.5:
+        non_striker: C Brennan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 6.6:
+        non_striker: JW Jenner
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 7.1:
+        non_striker: JW Jenner
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 7.2:
+        non_striker: JW Jenner
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 7.3:
+        non_striker: C Brennan
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 7.4:
+        non_striker: C Brennan
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JW Jenner
+    - 7.5:
+        non_striker: C Brennan
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 7.6:
+        non_striker: C Brennan
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 8.1:
+        non_striker: JW Jenner
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 8.2:
+        non_striker: JW Jenner
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 8.3:
+        non_striker: C Brennan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 8.4:
+        non_striker: C Brennan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 8.5:
+        non_striker: C Brennan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 8.6:
+        non_striker: JW Jenner
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 9.1:
+        non_striker: JW Jenner
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 9.2:
+        non_striker: C Brennan
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 9.3:
+        non_striker: JW Jenner
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 9.4:
+        non_striker: JW Jenner
+        bowler: Faheem Nazir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: C Brennan
+    - 9.5:
+        non_striker: JW Jenner
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 9.6:
+        non_striker: JW Jenner
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brennan
+    - 10.1:
+        non_striker: C Brennan
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          fielders:
+          - Arjun Vinod
+          kind: caught
+    - 10.2:
+        non_striker: C Brennan
+        bowler: M Stanikzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Ward
+    - 10.3:
+        non_striker: B Ward
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 10.4:
+        non_striker: C Brennan
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 10.5:
+        non_striker: C Brennan
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 10.6:
+        non_striker: C Brennan
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 11.1:
+        non_striker: B Ward
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 11.2:
+        non_striker: B Ward
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 11.3:
+        non_striker: C Brennan
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 11.4:
+        non_striker: C Brennan
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 11.5:
+        non_striker: C Brennan
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 11.6:
+        non_striker: C Brennan
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 12.1:
+        non_striker: B Ward
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 12.2:
+        non_striker: B Ward
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 12.3:
+        non_striker: B Ward
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 12.4:
+        non_striker: C Brennan
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 12.5:
+        non_striker: C Brennan
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 12.6:
+        non_striker: B Ward
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 13.1:
+        non_striker: C Brennan
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 13.2:
+        non_striker: B Ward
+        bowler: Ali Nayyer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Brennan
+    - 13.3:
+        non_striker: B Ward
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 13.4:
+        non_striker: C Brennan
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 13.5:
+        non_striker: B Ward
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+        wicket:
+          player_out: C Brennan
+          fielders:
+          - Ahmed Hassan
+          kind: caught
+    - 13.6:
+        non_striker: B Ward
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Blampied
+    - 13.7:
+        non_striker: B Ward
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 14.1:
+        non_striker: B Ward
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Blampied
+    - 14.2:
+        non_striker: B Ward
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 14.3:
+        non_striker: DG Blampied
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+        wicket:
+          player_out: B Ward
+          fielders:
+          - Idrees Ul Haque
+          kind: caught
+    - 14.4:
+        non_striker: DG Blampied
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 14.5:
+        non_striker: J Sumerauer
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 14.6:
+        non_striker: DG Blampied
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 15.1:
+        non_striker: J Sumerauer
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 15.2:
+        non_striker: DG Blampied
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 15.3:
+        non_striker: J Sumerauer
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DG Blampied
+    - 15.4:
+        non_striker: J Sumerauer
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Blampied
+    - 15.5:
+        non_striker: J Sumerauer
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 15.6:
+        non_striker: DG Blampied
+        bowler: Abdullah Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 16.1:
+        non_striker: J Sumerauer
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 16.2:
+        non_striker: DG Blampied
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 16.3:
+        non_striker: J Sumerauer
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 16.4:
+        non_striker: DG Blampied
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Sumerauer
+    - 16.5:
+        non_striker: DG Blampied
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 16.6:
+        non_striker: J Sumerauer
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Blampied
+    - 17.1:
+        non_striker: DG Blampied
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 17.2:
+        non_striker: J Sumerauer
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 17.3:
+        non_striker: DG Blampied
+        bowler: K Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Sumerauer
+    - 17.4:
+        non_striker: J Sumerauer
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 17.5:
+        non_striker: DG Blampied
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 17.6:
+        non_striker: DG Blampied
+        bowler: K Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Sumerauer
+    - 17.7:
+        non_striker: DG Blampied
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+        wicket:
+          player_out: J Sumerauer
+          fielders:
+          - Jai Sinh
+          kind: caught
+    - 18.1:
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JE Dunford
+        batsman: DG Blampied
+    - 18.2:
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JE Dunford
+        batsman: DG Blampied
+    - 18.3:
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JE Dunford
+        batsman: DG Blampied
+    - 18.4:
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JE Dunford
+        batsman: DG Blampied
+        wicket:
+          player_out: DG Blampied
+          fielders:
+          - Abdullah Rana
+          kind: run out
+    - 18.5:
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CW Perchard
+        batsman: JE Dunford
+    - 18.6:
+        non_striker: CW Perchard
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Dunford
+    - 19.1:
+        non_striker: JE Dunford
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CW Perchard
+    - 19.2:
+        non_striker: JE Dunford
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 19.3:
+        non_striker: CW Perchard
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Dunford
+        wicket:
+          player_out: CW Perchard
+          fielders:
+          - Ahmed Hassan
+          kind: run out
+    - 19.4:
+        non_striker: JE Dunford
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Birrell
+    - 19.5:
+        non_striker: JE Dunford
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Birrell
+    - 19.6:
+        non_striker: JE Dunford
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Birrell
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        bowler: D Birrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Idrees Ul Haque
+        batsman: Faheem Nazir
+    - 0.2:
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Idrees Ul Haque
+        batsman: Faheem Nazir
+    - 0.3:
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Idrees Ul Haque
+        batsman: Faheem Nazir
+    - 0.4:
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Idrees Ul Haque
+        batsman: Faheem Nazir
+    - 0.5:
+        non_striker: Idrees Ul Haque
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+        wicket:
+          player_out: Faheem Nazir
+          fielders:
+          - J Sumerauer
+          kind: caught
+    - 0.6:
+        non_striker: Idrees Ul Haque
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 0.7:
+        non_striker: Arjun Vinod
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 1.1:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arjun Vinod
+    - 1.2:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 1.3:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arjun Vinod
+    - 1.4:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+        wicket:
+          player_out: Arjun Vinod
+          kind: bowled
+    - 1.5:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Hassan
+    - 1.6:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 1.7:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 1.8:
+        non_striker: Idrees Ul Haque
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 1.9:
+        non_striker: Ahmed Hassan
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Idrees Ul Haque
+    - 2.1:
+        non_striker: Ahmed Hassan
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 2.2:
+        non_striker: Ahmed Hassan
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Idrees Ul Haque
+    - 2.3:
+        non_striker: Ahmed Hassan
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Idrees Ul Haque
+    - 2.4:
+        non_striker: Idrees Ul Haque
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 2.5:
+        non_striker: Idrees Ul Haque
+        bowler: D Birrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Hassan
+    - 2.6:
+        non_striker: Idrees Ul Haque
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 2.7:
+        non_striker: Idrees Ul Haque
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+        wicket:
+          player_out: Ahmed Hassan
+          fielders:
+          - JE Dunford
+          kind: caught
+    - 3.1:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullah Rana
+        batsman: Idrees Ul Haque
+    - 3.2:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Abdullah Rana
+        batsman: Idrees Ul Haque
+    - 3.3:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullah Rana
+        batsman: Idrees Ul Haque
+    - 3.4:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullah Rana
+        batsman: Idrees Ul Haque
+    - 3.5:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullah Rana
+        batsman: Idrees Ul Haque
+    - 3.6:
+        non_striker: Abdullah Rana
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Idrees Ul Haque
+    - 4.1:
+        non_striker: Abdullah Rana
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 4.2:
+        non_striker: Abdullah Rana
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 4.3:
+        non_striker: Abdullah Rana
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 4.4:
+        non_striker: Abdullah Rana
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Idrees Ul Haque
+    - 4.5:
+        non_striker: Abdullah Rana
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 4.6:
+        non_striker: Abdullah Rana
+        bowler: D Birrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Idrees Ul Haque
+    - 5.1:
+        non_striker: Idrees Ul Haque
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Rana
+    - 5.2:
+        non_striker: Idrees Ul Haque
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Rana
+    - 5.3:
+        non_striker: Idrees Ul Haque
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdullah Rana
+    - 5.4:
+        non_striker: Idrees Ul Haque
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdullah Rana
+    - 5.5:
+        non_striker: Idrees Ul Haque
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdullah Rana
+    - 5.6:
+        non_striker: Idrees Ul Haque
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Rana
+    - 6.1:
+        non_striker: Abdullah Rana
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 6.2:
+        non_striker: Abdullah Rana
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Idrees Ul Haque
+    - 6.3:
+        non_striker: Idrees Ul Haque
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Rana
+    - 6.4:
+        non_striker: Idrees Ul Haque
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Rana
+        wicket:
+          player_out: Abdullah Rana
+          kind: bowled
+    - 6.5:
+        non_striker: Idrees Ul Haque
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 6.6:
+        non_striker: Idrees Ul Haque
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 7.1:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 7.2:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Idrees Ul Haque
+    - 7.3:
+        non_striker: Idrees Ul Haque
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 7.4:
+        non_striker: Idrees Ul Haque
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 7.5:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+    - 7.6:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Idrees Ul Haque
+        wicket:
+          player_out: Idrees Ul Haque
+          fielders:
+          - H Carlyon
+          kind: caught
+    - 8.1:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Stanikzai
+        batsman: Jai Sinh
+    - 8.2:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Stanikzai
+        batsman: Jai Sinh
+    - 8.3:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Stanikzai
+        batsman: Jai Sinh
+    - 8.4:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Stanikzai
+        batsman: Jai Sinh
+    - 8.5:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Stanikzai
+        batsman: Jai Sinh
+    - 8.6:
+        non_striker: M Stanikzai
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 9.1:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Stanikzai
+    - 9.2:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stanikzai
+        wicket:
+          player_out: M Stanikzai
+          kind: lbw
+    - 9.3:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 9.4:
+        non_striker: Ali Nayyer
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 9.5:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 9.6:
+        non_striker: Ali Nayyer
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jai Sinh
+    - 10.1:
+        non_striker: Jai Sinh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+        wicket:
+          player_out: Ali Nayyer
+          fielders:
+          - JE Dunford
+          kind: stumped
+    - 10.2:
+        non_striker: Jai Sinh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Aneesh Kumar
+    - 10.3:
+        non_striker: Jai Sinh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Aneesh Kumar
+        wicket:
+          player_out: NK Aneesh Kumar
+          fielders:
+          - ZM Tribe
+          kind: caught
+    - 10.4:
+        non_striker: Jai Sinh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bashir Ahmad
+    - 10.5:
+        non_striker: Jai Sinh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bashir Ahmad
+    - 10.6:
+        non_striker: Jai Sinh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bashir Ahmad
+    - 11.1:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bashir Ahmad
+        wicket:
+          player_out: Bashir Ahmad
+          fielders:
+          - JW Jenner
+          kind: caught
+    - 11.2:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 11.3:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 11.4:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 11.5:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Fletcher
+    - 11.6:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 11.7:
+        non_striker: Jai Sinh
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 12.1:
+        non_striker: K Fletcher
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+        wicket:
+          player_out: Jai Sinh
+          fielders:
+          - H Carlyon
+          kind: caught

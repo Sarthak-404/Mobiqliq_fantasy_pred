@@ -1,0 +1,2272 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2024-05-11'
+  gender: male
+  match_type: T20
+  match_type_number: 2603
+  outcome:
+    winner: Japan
+    by:
+      runs: 158
+  overs: 20
+  player_of_match:
+  - S Ravichandran
+  players:
+    Japan:
+    - K Kato-Stafford
+    - R Sakurano-Thomas
+    - A Patmore
+    - S Ravichandran
+    - A Kadowaki Fleming
+    - KH Abe
+    - I Takahashi
+    - K Lake
+    - K Kubota
+    - M Taniyama
+    - C Hinze
+    Mongolia:
+    - G Ganbold
+    - B Namsrai
+    - L Erdenebulgan
+    - T Amarmend
+    - M Vivekanandan
+    - E Otgonbayar
+    - N Naranbaatar
+    - O Lutbayar
+    - Z Shurentsetseg
+    - T Tumursukh
+    - T Sumiya
+  registry:
+    people:
+      A Kadowaki Fleming: 0abf3da7
+      A Patmore: '85119526'
+      B Namsrai: 1d8a3ca6
+      C Hinze: 626af7ff
+      C Thurgate: 4d8ad58c
+      D Natarajan: aa3ea16d
+      E Otgonbayar: 3f9783fd
+      G Ganbold: 947346d8
+      I Takahashi: c988daa1
+      K Kato-Stafford: e03ca117
+      K Kubota: 42581e6d
+      K Lake: 20321b0c
+      KH Abe: f22d2247
+      L Erdenebulgan: c4f8d754
+      M Taniyama: cbd91942
+      M Vivekanandan: c4e205e4
+      N Naranbaatar: b0e16d9b
+      O Lutbayar: ccd88623
+      R Sakurano-Thomas: dd14abf5
+      S Ravichandran: 9f2be73d
+      T Amarmend: e76c8732
+      T Sumiya: ae19375d
+      T Tumursukh: 4758488e
+      Z Shurentsetseg: 45c6afaf
+  teams:
+  - Japan
+  - Mongolia
+  toss:
+    winner: Japan
+    decision: bat
+  umpires:
+  - C Thurgate
+  - D Natarajan
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Sakurano-Thomas
+        batsman: K Kato-Stafford
+    - 0.2:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kato-Stafford
+        wicket:
+          player_out: K Kato-Stafford
+          fielders:
+          - O Lutbayar
+          kind: caught
+    - 0.3:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 0.4:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 0.5:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 0.6:
+        non_striker: A Patmore
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 1.1:
+        non_striker: A Patmore
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Sakurano-Thomas
+    - 1.2:
+        non_striker: R Sakurano-Thomas
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 1.3:
+        non_striker: R Sakurano-Thomas
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 1.4:
+        non_striker: R Sakurano-Thomas
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 1.5:
+        non_striker: R Sakurano-Thomas
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 1.6:
+        non_striker: A Patmore
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 2.1:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 2.2:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 2.3:
+        non_striker: A Patmore
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 2.4:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 2.5:
+        non_striker: R Sakurano-Thomas
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 2.6:
+        non_striker: A Patmore
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 3.1:
+        non_striker: R Sakurano-Thomas
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 3.2:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 3.3:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sakurano-Thomas
+    - 3.4:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Sakurano-Thomas
+    - 3.5:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 3.6:
+        non_striker: R Sakurano-Thomas
+        bowler: T Amarmend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Patmore
+    - 3.7:
+        non_striker: R Sakurano-Thomas
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 3.8:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 4.1:
+        non_striker: R Sakurano-Thomas
+        bowler: O Lutbayar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Patmore
+    - 4.2:
+        non_striker: R Sakurano-Thomas
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Patmore
+    - 4.3:
+        non_striker: A Patmore
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 4.4:
+        non_striker: A Patmore
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sakurano-Thomas
+    - 4.5:
+        non_striker: R Sakurano-Thomas
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 4.6:
+        non_striker: R Sakurano-Thomas
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 4.7:
+        non_striker: R Sakurano-Thomas
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 5.1:
+        non_striker: R Sakurano-Thomas
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 5.2:
+        non_striker: A Patmore
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+        wicket:
+          player_out: R Sakurano-Thomas
+          fielders:
+          - O Lutbayar
+          kind: caught
+    - 5.3:
+        non_striker: A Patmore
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 5.4:
+        non_striker: A Patmore
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 5.5:
+        non_striker: A Patmore
+        bowler: L Erdenebulgan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Ravichandran
+    - 5.6:
+        non_striker: S Ravichandran
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 6.1:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 6.2:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 6.3:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 6.4:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 6.5:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 6.6:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 6.7:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 6.8:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 6.9:
+        non_striker: S Ravichandran
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 6.10:
+        non_striker: A Patmore
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Ravichandran
+    - 7.1:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 7.2:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 7.3:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 7.4:
+        non_striker: S Ravichandran
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 7.5:
+        non_striker: A Patmore
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 7.6:
+        non_striker: S Ravichandran
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 7.7:
+        non_striker: S Ravichandran
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 8.1:
+        non_striker: A Patmore
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 8.2:
+        non_striker: A Patmore
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 8.3:
+        non_striker: S Ravichandran
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 8.4:
+        non_striker: S Ravichandran
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 8.5:
+        non_striker: A Patmore
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 8.6:
+        non_striker: A Patmore
+        bowler: N Naranbaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 8.7:
+        non_striker: A Patmore
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+        wicket:
+          player_out: A Patmore
+          fielders:
+          - E Otgonbayar
+          - N Naranbaatar
+          kind: run out
+    - 9.1:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 9.2:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 9.3:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kadowaki Fleming
+    - 9.4:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: A Kadowaki Fleming
+    - 9.5:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 9.6:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 10.1:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kadowaki Fleming
+    - 10.2:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 10.3:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 10.4:
+        non_striker: A Kadowaki Fleming
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 10.5:
+        non_striker: A Kadowaki Fleming
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 10.6:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kadowaki Fleming
+    - 10.7:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kadowaki Fleming
+    - 11.1:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 11.2:
+        non_striker: S Ravichandran
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 11.3:
+        non_striker: S Ravichandran
+        bowler: T Amarmend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Kadowaki Fleming
+    - 11.4:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 11.5:
+        non_striker: S Ravichandran
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 11.6:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.1:
+        non_striker: A Kadowaki Fleming
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 12.2:
+        non_striker: A Kadowaki Fleming
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ravichandran
+    - 12.3:
+        non_striker: A Kadowaki Fleming
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ravichandran
+    - 12.4:
+        non_striker: A Kadowaki Fleming
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.5:
+        non_striker: S Ravichandran
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kadowaki Fleming
+    - 12.6:
+        non_striker: S Ravichandran
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 13.1:
+        non_striker: A Kadowaki Fleming
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 13.2:
+        non_striker: A Kadowaki Fleming
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.3:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 13.4:
+        non_striker: A Kadowaki Fleming
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.5:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kadowaki Fleming
+    - 13.6:
+        non_striker: S Ravichandran
+        bowler: Z Shurentsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 14.1:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kadowaki Fleming
+    - 14.2:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 14.3:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 14.4:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 14.5:
+        non_striker: A Kadowaki Fleming
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 14.6:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 15.1:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 15.2:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ravichandran
+    - 15.3:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 15.4:
+        non_striker: S Ravichandran
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kadowaki Fleming
+    - 15.5:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 15.6:
+        non_striker: A Kadowaki Fleming
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 16.1:
+        non_striker: A Kadowaki Fleming
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 16.2:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 16.3:
+        non_striker: A Kadowaki Fleming
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 16.4:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kadowaki Fleming
+    - 16.5:
+        non_striker: S Ravichandran
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 16.6:
+        non_striker: A Kadowaki Fleming
+        bowler: O Lutbayar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: S Ravichandran
+    - 17.1:
+        non_striker: S Ravichandran
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 17.2:
+        non_striker: S Ravichandran
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kadowaki Fleming
+    - 17.3:
+        non_striker: S Ravichandran
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 17.4:
+        non_striker: S Ravichandran
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kadowaki Fleming
+    - 17.5:
+        non_striker: S Ravichandran
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 17.6:
+        non_striker: A Kadowaki Fleming
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 18.1:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: A Kadowaki Fleming
+    - 18.2:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kadowaki Fleming
+    - 18.3:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 18.4:
+        non_striker: A Kadowaki Fleming
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 18.5:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kadowaki Fleming
+    - 18.6:
+        non_striker: S Ravichandran
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 19.1:
+        non_striker: S Ravichandran
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kadowaki Fleming
+    - 19.2:
+        non_striker: A Kadowaki Fleming
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 19.3:
+        non_striker: A Kadowaki Fleming
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 19.4:
+        non_striker: A Kadowaki Fleming
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 19.5:
+        non_striker: A Kadowaki Fleming
+        bowler: L Erdenebulgan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: S Ravichandran
+    - 19.6:
+        non_striker: A Kadowaki Fleming
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+- 2nd innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Namsrai
+        batsman: G Ganbold
+    - 0.2:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Namsrai
+        batsman: G Ganbold
+    - 0.3:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Namsrai
+        batsman: G Ganbold
+    - 0.4:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Namsrai
+        batsman: G Ganbold
+    - 0.5:
+        non_striker: G Ganbold
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Namsrai
+    - 0.6:
+        non_striker: G Ganbold
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 0.7:
+        non_striker: G Ganbold
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 1.1:
+        non_striker: B Namsrai
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ganbold
+    - 1.2:
+        non_striker: B Namsrai
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ganbold
+    - 1.3:
+        non_striker: B Namsrai
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ganbold
+    - 1.4:
+        non_striker: B Namsrai
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ganbold
+    - 1.5:
+        non_striker: B Namsrai
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ganbold
+    - 1.6:
+        non_striker: G Ganbold
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+        wicket:
+          player_out: B Namsrai
+          kind: bowled
+    - 2.1:
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Erdenebulgan
+        batsman: G Ganbold
+    - 2.2:
+        non_striker: L Erdenebulgan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ganbold
+        wicket:
+          player_out: G Ganbold
+          kind: bowled
+    - 2.3:
+        non_striker: L Erdenebulgan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 2.4:
+        non_striker: L Erdenebulgan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Amarmend
+    - 2.5:
+        non_striker: T Amarmend
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 2.6:
+        non_striker: T Amarmend
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Erdenebulgan
+    - 2.7:
+        non_striker: T Amarmend
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 3.1:
+        non_striker: L Erdenebulgan
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Amarmend
+    - 3.2:
+        non_striker: L Erdenebulgan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 3.3:
+        non_striker: L Erdenebulgan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 3.4:
+        non_striker: L Erdenebulgan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 3.5:
+        non_striker: L Erdenebulgan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 3.6:
+        non_striker: L Erdenebulgan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 3.7:
+        non_striker: L Erdenebulgan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Amarmend
+    - 4.1:
+        non_striker: T Amarmend
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 4.2:
+        non_striker: T Amarmend
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 4.3:
+        non_striker: T Amarmend
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 4.4:
+        non_striker: T Amarmend
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+        wicket:
+          player_out: L Erdenebulgan
+          kind: lbw
+    - 4.5:
+        non_striker: T Amarmend
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 4.6:
+        non_striker: T Amarmend
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 5.1:
+        non_striker: M Vivekanandan
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Amarmend
+    - 5.2:
+        non_striker: T Amarmend
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 5.3:
+        non_striker: T Amarmend
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vivekanandan
+    - 5.4:
+        non_striker: T Amarmend
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 5.5:
+        non_striker: M Vivekanandan
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 5.6:
+        non_striker: M Vivekanandan
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 6.1:
+        non_striker: T Amarmend
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 6.2:
+        non_striker: T Amarmend
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 6.3:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+        wicket:
+          player_out: T Amarmend
+          fielders:
+          - S Ravichandran
+          kind: caught
+    - 6.4:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 6.5:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Otgonbayar
+    - 6.6:
+        non_striker: E Otgonbayar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 7.1:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 7.2:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Otgonbayar
+    - 7.3:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 7.4:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+        wicket:
+          player_out: E Otgonbayar
+          fielders:
+          - K Lake
+          kind: caught
+    - 7.5:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 7.6:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 8.1:
+        non_striker: N Naranbaatar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 8.2:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 8.3:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 8.4:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 8.5:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Naranbaatar
+    - 8.6:
+        non_striker: N Naranbaatar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 9.1:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 9.2:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Naranbaatar
+    - 9.3:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 9.4:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 9.5:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 9.6:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Naranbaatar
+    - 9.7:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 9.8:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 10.1:
+        non_striker: N Naranbaatar
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 10.2:
+        non_striker: N Naranbaatar
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 10.3:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 10.4:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 10.5:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 10.6:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Naranbaatar
+    - 10.7:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 11.1:
+        non_striker: N Naranbaatar
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 11.2:
+        non_striker: N Naranbaatar
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 11.3:
+        non_striker: N Naranbaatar
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 11.4:
+        non_striker: N Naranbaatar
+        bowler: I Takahashi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vivekanandan
+    - 11.5:
+        non_striker: N Naranbaatar
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 11.6:
+        non_striker: N Naranbaatar
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 11.7:
+        non_striker: N Naranbaatar
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 12.1:
+        non_striker: M Vivekanandan
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 12.2:
+        non_striker: M Vivekanandan
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 12.3:
+        non_striker: M Vivekanandan
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 12.4:
+        non_striker: M Vivekanandan
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 12.5:
+        non_striker: M Vivekanandan
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 12.6:
+        non_striker: M Vivekanandan
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Naranbaatar
+    - 13.1:
+        non_striker: N Naranbaatar
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 13.2:
+        non_striker: N Naranbaatar
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vivekanandan
+    - 13.3:
+        non_striker: N Naranbaatar
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 13.4:
+        non_striker: N Naranbaatar
+        bowler: C Hinze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vivekanandan
+    - 13.5:
+        non_striker: N Naranbaatar
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 13.6:
+        non_striker: N Naranbaatar
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 13.7:
+        non_striker: M Vivekanandan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 14.1:
+        non_striker: N Naranbaatar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 14.2:
+        non_striker: N Naranbaatar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 14.3:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+        wicket:
+          player_out: N Naranbaatar
+          fielders:
+          - A Patmore
+          kind: stumped
+    - 14.4:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 14.5:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 14.6:
+        non_striker: M Vivekanandan
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 15.1:
+        non_striker: O Lutbayar
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 15.2:
+        non_striker: O Lutbayar
+        bowler: C Hinze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vivekanandan
+    - 15.3:
+        non_striker: O Lutbayar
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+        wicket:
+          player_out: O Lutbayar
+          fielders:
+          - A Patmore
+          - M Taniyama
+          kind: run out
+    - 15.4:
+        non_striker: M Vivekanandan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 15.5:
+        non_striker: M Vivekanandan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Shurentsetseg
+    - 15.6:
+        non_striker: M Vivekanandan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+        wicket:
+          player_out: Z Shurentsetseg
+          kind: lbw
+    - 15.7:
+        non_striker: M Vivekanandan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 16.1:
+        non_striker: T Tumursukh
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 16.2:
+        non_striker: T Tumursukh
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vivekanandan
+    - 16.3:
+        non_striker: T Tumursukh
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 16.4:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 16.5:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 16.6:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 17.1:
+        non_striker: T Tumursukh
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vivekanandan
+    - 17.2:
+        non_striker: T Tumursukh
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 17.3:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 17.4:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 17.5:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 17.6:
+        non_striker: M Vivekanandan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 18.1:
+        non_striker: T Tumursukh
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 18.2:
+        non_striker: T Tumursukh
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 18.3:
+        non_striker: T Tumursukh
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Vivekanandan
+    - 18.4:
+        non_striker: T Tumursukh
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 18.5:
+        non_striker: T Tumursukh
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 18.6:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 19.1:
+        non_striker: T Tumursukh
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 19.2:
+        non_striker: T Tumursukh
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vivekanandan
+    - 19.3:
+        non_striker: T Tumursukh
+        bowler: K Kato-Stafford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vivekanandan
+    - 19.4:
+        non_striker: T Tumursukh
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+        wicket:
+          player_out: M Vivekanandan
+          kind: bowled
+    - 19.5:
+        non_striker: T Tumursukh
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 19.6:
+        non_striker: T Tumursukh
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 19.7:
+        non_striker: T Tumursukh
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sumiya

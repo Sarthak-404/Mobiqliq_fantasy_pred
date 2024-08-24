@@ -1,0 +1,1906 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Phnom Penh
+  dates:
+  - '2023-02-12'
+  gender: female
+  match_type: T20
+  match_type_number: 1358
+  outcome:
+    winner: Singapore
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Vinu Kumar
+  players:
+    Cambodia:
+    - Dok Da Nit
+    - Hor Siv na
+    - Pen Samon
+    - Ouen Sophy
+    - Hon Sovannary
+    - Pech Pisa
+    - Sean Chan Boromey
+    - LY Loch Srey
+    - Phoup Srey Pheak
+    - Heal Theara
+    - Sok Srey Maov
+    Singapore:
+    - Vathana Sreemurugavel
+    - S Merican
+    - Shafina Mahesh
+    - Vinu Kumar
+    - Riyaa Bhasin
+    - NL Jacinta Si Ping
+    - Ada Bhasin
+    - JT Pooranakaran
+    - GK Diviya
+    - H Dhavina
+    - D Prakas
+  registry:
+    people:
+      Ada Bhasin: b1c113d7
+      D Prakas: de8633f1
+      Dok Da Nit: d6ca2714
+      GK Diviya: 992979fa
+      H Dhavina: cd12f384
+      Heal Theara: aae7b7f0
+      Hon Sovannary: 75b65b7e
+      Hor Siv na: 05d1964e
+      JT Pooranakaran: 3a743619
+      LY Loch Srey: a994e18f
+      NL Jacinta Si Ping: 68c9a36f
+      Ouen Sophy: 4477b556
+      PK Singh: 4bf8dd40
+      Pech Pisa: c7eb3b9c
+      Pen Samon: caa4444c
+      Phoup Srey Pheak: 8c73dff5
+      Prasad Anish: a21d62c9
+      Riyaa Bhasin: 3ff26cea
+      S Merican: f3f6f5a0
+      Sean Chan Boromey: 4c84d883
+      Shafina Mahesh: 0c40b02d
+      Sok Srey Maov: c5e3fe3c
+      Vathana Sreemurugavel: eb2d1983
+      Vinu Kumar: 3775b9f9
+  teams:
+  - Cambodia
+  - Singapore
+  toss:
+    winner: Singapore
+    decision: field
+  umpires:
+  - PK Singh
+  - Prasad Anish
+  venue: Morodok Techo National Stadium
+innings:
+- 1st innings:
+    team: Cambodia
+    deliveries:
+    - 0.1:
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hor Siv na
+        batsman: Dok Da Nit
+    - 0.2:
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hor Siv na
+        batsman: Dok Da Nit
+    - 0.3:
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hor Siv na
+        batsman: Dok Da Nit
+    - 0.4:
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hor Siv na
+        batsman: Dok Da Nit
+    - 0.5:
+        non_striker: Hor Siv na
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dok Da Nit
+        wicket:
+          player_out: Dok Da Nit
+          kind: lbw
+    - 0.6:
+        non_striker: Hor Siv na
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 1.1:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hor Siv na
+    - 1.2:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+    - 1.3:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hor Siv na
+        wicket:
+          player_out: Hor Siv na
+          fielders:
+          - Riyaa Bhasin
+          - Ada Bhasin
+          kind: run out
+    - 1.4:
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ouen Sophy
+        batsman: Pen Samon
+    - 1.5:
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ouen Sophy
+        batsman: Pen Samon
+    - 1.6:
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ouen Sophy
+        batsman: Pen Samon
+    - 1.7:
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ouen Sophy
+        batsman: Pen Samon
+    - 1.8:
+        non_striker: Ouen Sophy
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 2.1:
+        non_striker: Pen Samon
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 2.2:
+        non_striker: Pen Samon
+        bowler: GK Diviya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ouen Sophy
+    - 2.3:
+        non_striker: Ouen Sophy
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 2.4:
+        non_striker: Ouen Sophy
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 2.5:
+        non_striker: Ouen Sophy
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 2.6:
+        non_striker: Ouen Sophy
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 3.1:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 3.2:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 3.3:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 3.4:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 3.5:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 3.6:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ouen Sophy
+    - 3.7:
+        non_striker: Pen Samon
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 4.1:
+        non_striker: Ouen Sophy
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pen Samon
+    - 4.2:
+        non_striker: Ouen Sophy
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 4.3:
+        non_striker: Ouen Sophy
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 4.4:
+        non_striker: Ouen Sophy
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 4.5:
+        non_striker: Ouen Sophy
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 4.6:
+        non_striker: Ouen Sophy
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pen Samon
+    - 4.7:
+        non_striker: Ouen Sophy
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 5.1:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 5.2:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 5.3:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 5.4:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ouen Sophy
+    - 5.5:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 5.6:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 5.7:
+        non_striker: Pen Samon
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+    - 6.1:
+        non_striker: Ouen Sophy
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 6.2:
+        non_striker: Ouen Sophy
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pen Samon
+    - 6.3:
+        non_striker: Pen Samon
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ouen Sophy
+    - 6.4:
+        non_striker: Ouen Sophy
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 6.5:
+        non_striker: Ouen Sophy
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pen Samon
+    - 6.6:
+        non_striker: Pen Samon
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ouen Sophy
+        wicket:
+          player_out: Ouen Sophy
+          fielders:
+          - JT Pooranakaran
+          kind: caught
+    - 7.1:
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hon Sovannary
+        batsman: Pen Samon
+    - 7.2:
+        non_striker: Hon Sovannary
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+        wicket:
+          player_out: Hon Sovannary
+          fielders:
+          - H Dhavina
+          kind: run out
+    - 7.3:
+        non_striker: Pen Samon
+        bowler: H Dhavina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Pech Pisa
+    - 7.4:
+        non_striker: Pen Samon
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 7.5:
+        non_striker: Pen Samon
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 7.6:
+        non_striker: Pen Samon
+        bowler: H Dhavina
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Pech Pisa
+    - 7.7:
+        non_striker: Pen Samon
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pech Pisa
+    - 7.8:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 8.1:
+        non_striker: Pen Samon
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 8.2:
+        non_striker: Pen Samon
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pech Pisa
+    - 8.3:
+        non_striker: Pech Pisa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 8.4:
+        non_striker: Pech Pisa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 8.5:
+        non_striker: Pech Pisa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 8.6:
+        non_striker: Pech Pisa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pen Samon
+    - 9.1:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 9.2:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 9.3:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 9.4:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+    - 9.5:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pen Samon
+    - 9.6:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pen Samon
+        wicket:
+          player_out: Pen Samon
+          fielders:
+          - Shafina Mahesh
+          kind: caught
+    - 10.1:
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sean Chan Boromey
+        batsman: Pech Pisa
+    - 10.2:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sean Chan Boromey
+    - 10.3:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sean Chan Boromey
+    - 10.4:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Sean Chan Boromey
+    - 10.5:
+        non_striker: Sean Chan Boromey
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 10.6:
+        non_striker: Sean Chan Boromey
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 11.1:
+        non_striker: Pech Pisa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sean Chan Boromey
+    - 11.2:
+        non_striker: Sean Chan Boromey
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 11.3:
+        non_striker: Sean Chan Boromey
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 11.4:
+        non_striker: Sean Chan Boromey
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 11.5:
+        non_striker: Sean Chan Boromey
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pech Pisa
+    - 11.6:
+        non_striker: Pech Pisa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sean Chan Boromey
+    - 12.1:
+        non_striker: Sean Chan Boromey
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 12.2:
+        non_striker: Sean Chan Boromey
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pech Pisa
+    - 12.3:
+        non_striker: Sean Chan Boromey
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pech Pisa
+    - 12.4:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sean Chan Boromey
+    - 12.5:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sean Chan Boromey
+        wicket:
+          player_out: Sean Chan Boromey
+          kind: lbw
+    - 12.6:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LY Loch Srey
+        wicket:
+          player_out: LY Loch Srey
+          kind: caught and bowled
+    - 12.7:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 13.1:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pech Pisa
+    - 13.2:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 13.3:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Phoup Srey Pheak
+    - 13.4:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pech Pisa
+    - 13.5:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 13.6:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pech Pisa
+    - 13.7:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 14.1:
+        non_striker: Phoup Srey Pheak
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 14.2:
+        non_striker: Phoup Srey Pheak
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pech Pisa
+    - 14.3:
+        non_striker: Phoup Srey Pheak
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 14.4:
+        non_striker: Phoup Srey Pheak
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pech Pisa
+    - 14.5:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 14.6:
+        non_striker: Pech Pisa
+        bowler: Riyaa Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 15.1:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 15.2:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 15.3:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 15.4:
+        non_striker: Phoup Srey Pheak
+        bowler: H Dhavina
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Pech Pisa
+    - 15.5:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+    - 15.6:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Phoup Srey Pheak
+        wicket:
+          player_out: Phoup Srey Pheak
+          kind: bowled
+    - 15.7:
+        non_striker: Pech Pisa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 16.1:
+        non_striker: Heal Theara
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 16.2:
+        non_striker: Heal Theara
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+    - 16.3:
+        non_striker: Heal Theara
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pech Pisa
+        wicket:
+          player_out: Pech Pisa
+          kind: caught and bowled
+    - 16.4:
+        non_striker: Heal Theara
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 16.5:
+        non_striker: Heal Theara
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 16.6:
+        non_striker: Heal Theara
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 17.1:
+        non_striker: Sok Srey Maov
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 17.2:
+        non_striker: Sok Srey Maov
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 17.3:
+        non_striker: Sok Srey Maov
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 17.4:
+        non_striker: Sok Srey Maov
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Heal Theara
+    - 17.5:
+        non_striker: Sok Srey Maov
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Heal Theara
+    - 17.6:
+        non_striker: Heal Theara
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 18.1:
+        non_striker: Sok Srey Maov
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 18.2:
+        non_striker: Sok Srey Maov
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 18.3:
+        non_striker: Sok Srey Maov
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Heal Theara
+    - 18.4:
+        non_striker: Heal Theara
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 18.5:
+        non_striker: Heal Theara
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 18.6:
+        non_striker: Heal Theara
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 19.1:
+        non_striker: Sok Srey Maov
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Heal Theara
+    - 19.2:
+        non_striker: Sok Srey Maov
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Heal Theara
+    - 19.3:
+        non_striker: Heal Theara
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 19.4:
+        non_striker: Heal Theara
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 19.5:
+        non_striker: Heal Theara
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+    - 19.6:
+        non_striker: Heal Theara
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sok Srey Maov
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Merican
+        batsman: Vathana Sreemurugavel
+    - 0.2:
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Merican
+        batsman: Vathana Sreemurugavel
+    - 0.3:
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Merican
+        batsman: Vathana Sreemurugavel
+    - 0.4:
+        non_striker: Vathana Sreemurugavel
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Merican
+    - 0.5:
+        non_striker: Vathana Sreemurugavel
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Merican
+    - 0.6:
+        non_striker: Vathana Sreemurugavel
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Merican
+    - 0.7:
+        non_striker: Vathana Sreemurugavel
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Merican
+    - 0.8:
+        non_striker: Vathana Sreemurugavel
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Merican
+        wicket:
+          player_out: S Merican
+          kind: lbw
+    - 1.1:
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shafina Mahesh
+        batsman: Vathana Sreemurugavel
+    - 1.2:
+        non_striker: Vathana Sreemurugavel
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 1.3:
+        non_striker: Vathana Sreemurugavel
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 1.4:
+        non_striker: Vathana Sreemurugavel
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafina Mahesh
+    - 1.5:
+        non_striker: Vathana Sreemurugavel
+        bowler: LY Loch Srey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 1.6:
+        non_striker: Vathana Sreemurugavel
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 1.7:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vathana Sreemurugavel
+    - 2.1:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 2.2:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vathana Sreemurugavel
+    - 2.3:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 2.4:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vathana Sreemurugavel
+    - 2.5:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vathana Sreemurugavel
+    - 2.6:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 2.7:
+        non_striker: Shafina Mahesh
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vathana Sreemurugavel
+    - 2.8:
+        non_striker: Vathana Sreemurugavel
+        bowler: Sok Srey Maov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 3.1:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vathana Sreemurugavel
+    - 3.2:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 3.3:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 3.4:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 3.5:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 3.6:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 3.7:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vathana Sreemurugavel
+    - 4.1:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 4.2:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 4.3:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+    - 4.4:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vathana Sreemurugavel
+    - 4.5:
+        non_striker: Vathana Sreemurugavel
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 4.6:
+        non_striker: Vathana Sreemurugavel
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 5.1:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vathana Sreemurugavel
+        wicket:
+          player_out: Vathana Sreemurugavel
+          fielders:
+          - Sok Srey Maov
+          kind: caught
+    - 5.2:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.3:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.4:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.5:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.6:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Vinu Kumar
+    - 6.1:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 6.2:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 6.3:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 6.4:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 6.5:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 6.6:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 7.1:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 7.2:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 7.3:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 7.4:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 7.5:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 7.6:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 7.7:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 8.1:
+        non_striker: Shafina Mahesh
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 8.2:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 8.3:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 8.4:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 8.5:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 8.6:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 8.7:
+        non_striker: Vinu Kumar
+        bowler: Heal Theara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 9.1:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 9.2:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 9.3:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 9.4:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 9.5:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 9.6:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 9.7:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 9.8:
+        non_striker: Vinu Kumar
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Shafina Mahesh
+    - 9.9:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 9.10:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 9.11:
+        non_striker: Shafina Mahesh
+        bowler: Phoup Srey Pheak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 10.1:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 10.2:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafina Mahesh
+    - 10.3:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafina Mahesh
+    - 10.4:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 10.5:
+        non_striker: Vinu Kumar
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 10.6:
+        non_striker: Shafina Mahesh
+        bowler: Hor Siv na
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.1:
+        non_striker: Vinu Kumar
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 11.2:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.3:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.4:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.5:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 11.6:
+        non_striker: Shafina Mahesh
+        bowler: LY Loch Srey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar

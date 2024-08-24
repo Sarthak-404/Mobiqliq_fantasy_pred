@@ -1,0 +1,2154 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nairobi
+  dates:
+  - '2024-07-05'
+  gender: male
+  match_type: T20
+  match_type_number: 2735
+  outcome:
+    winner: Kenya
+    by:
+      runs: 49
+  overs: 20
+  player_of_match:
+  - RR Patel
+  players:
+    Kenya:
+    - RN Patel
+    - Tanzeel Sheikh
+    - N Mugabe
+    - RR Patel
+    - S Singh
+    - SO Ngoche
+    - JS Kundi
+    - LN Oluoch
+    - Vraj Patel
+    - F Mutua
+    - GM Muthui
+    Rwanda:
+    - D Ndikubwimana
+    - O Manishimwe
+    - Hamza Khan
+    - O Tuyisenge
+    - Yves Cyusa
+    - M Akayezu
+    - C Rububagumya
+    - E Kubwimana
+    - Muhammad Nadir
+    - E Rukiriza
+    - Z Bimenyimana
+  registry:
+    people:
+      Asgarali Kassam: 88aaf2d7
+      C Rububagumya: 8088632c
+      D Ndikubwimana: 3cbedf51
+      D Odhiambo: '45994517'
+      E Kubwimana: bfc7799f
+      E Rukiriza: 3ac13a94
+      E Sebareme: f99a219a
+      F Mutua: 21b67523
+      GM Muthui: d7e51f87
+      Hamza Khan: 44a5f2b2
+      JS Kundi: '092ccf20'
+      LN Oluoch: eb4f9c61
+      M Akayezu: 1f3b9f8d
+      Muhammad Nadir: '090f96e4'
+      N Mugabe: 3e28808e
+      O Manishimwe: fb31ca49
+      O Tuyisenge: e6a6888f
+      RN Patel: db1bf9c2
+      RR Patel: 7fa6bd8e
+      S Singh: 612a395c
+      SO Ngoche: 49118dc7
+      Tanzeel Sheikh: 5493ad5c
+      Vraj Patel: 2af28253
+      Yves Cyusa: b5aa28ce
+      Z Bimenyimana: ba57fb08
+  teams:
+  - Kenya
+  - Rwanda
+  toss:
+    winner: Kenya
+    decision: bat
+  umpires:
+  - Asgarali Kassam
+  - D Odhiambo
+  venue: Sikh Union Club Ground, Nairobi
+innings:
+- 1st innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tanzeel Sheikh
+        batsman: RN Patel
+    - 0.2:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Tanzeel Sheikh
+        batsman: RN Patel
+    - 0.3:
+        non_striker: Tanzeel Sheikh
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+        wicket:
+          player_out: RN Patel
+          fielders:
+          - M Akayezu
+          kind: caught
+    - 0.4:
+        non_striker: Tanzeel Sheikh
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 0.5:
+        non_striker: Tanzeel Sheikh
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Mugabe
+    - 0.6:
+        non_striker: Tanzeel Sheikh
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 0.7:
+        non_striker: N Mugabe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzeel Sheikh
+    - 1.1:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Mugabe
+    - 1.2:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 1.3:
+        non_striker: N Mugabe
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tanzeel Sheikh
+    - 1.4:
+        non_striker: N Mugabe
+        bowler: E Kubwimana
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: Tanzeel Sheikh
+    - 1.5:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 1.6:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Mugabe
+    - 1.7:
+        non_striker: N Mugabe
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzeel Sheikh
+    - 2.1:
+        non_striker: N Mugabe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Tanzeel Sheikh
+    - 2.2:
+        non_striker: N Mugabe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzeel Sheikh
+    - 2.3:
+        non_striker: N Mugabe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzeel Sheikh
+    - 2.4:
+        non_striker: Tanzeel Sheikh
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mugabe
+    - 2.5:
+        non_striker: Tanzeel Sheikh
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Mugabe
+    - 2.6:
+        non_striker: Tanzeel Sheikh
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 3.1:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mugabe
+    - 3.2:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mugabe
+    - 3.3:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mugabe
+    - 3.4:
+        non_striker: Tanzeel Sheikh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 3.5:
+        non_striker: N Mugabe
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzeel Sheikh
+        wicket:
+          player_out: Tanzeel Sheikh
+          kind: lbw
+    - 3.6:
+        non_striker: N Mugabe
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 4.1:
+        non_striker: RR Patel
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 4.2:
+        non_striker: N Mugabe
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 4.3:
+        non_striker: RR Patel
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 4.4:
+        non_striker: RR Patel
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 4.5:
+        non_striker: N Mugabe
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 4.6:
+        non_striker: N Mugabe
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 5.1:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 5.2:
+        non_striker: RR Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 5.3:
+        non_striker: RR Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 5.4:
+        non_striker: RR Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 5.5:
+        non_striker: RR Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mugabe
+    - 5.6:
+        non_striker: RR Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 6.1:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 6.2:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 6.3:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 6.4:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 6.5:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 6.6:
+        non_striker: RR Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 7.1:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 7.2:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 7.3:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 7.4:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 7.5:
+        non_striker: RR Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 7.6:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+        wicket:
+          player_out: RR Patel
+          fielders:
+          - E Sebareme (sub)
+          kind: caught
+    - 8.1:
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Singh
+        batsman: N Mugabe
+    - 8.2:
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Singh
+        batsman: N Mugabe
+    - 8.3:
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Singh
+        batsman: N Mugabe
+    - 8.4:
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Singh
+        batsman: N Mugabe
+    - 8.5:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 8.6:
+        non_striker: S Singh
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 9.1:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 9.2:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 9.3:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 9.4:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 9.5:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 9.6:
+        non_striker: S Singh
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 10.1:
+        non_striker: S Singh
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Mugabe
+    - 10.2:
+        non_striker: S Singh
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 10.3:
+        non_striker: S Singh
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Mugabe
+    - 10.4:
+        non_striker: S Singh
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 10.5:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 10.6:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 11.1:
+        non_striker: S Singh
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 11.2:
+        non_striker: S Singh
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Mugabe
+    - 11.3:
+        non_striker: S Singh
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+    - 11.4:
+        non_striker: S Singh
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Mugabe
+    - 11.5:
+        non_striker: S Singh
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 11.6:
+        non_striker: N Mugabe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 12.1:
+        non_striker: S Singh
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 12.2:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 12.3:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 12.4:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 12.5:
+        non_striker: S Singh
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Mugabe
+    - 12.6:
+        non_striker: N Mugabe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 13.1:
+        non_striker: N Mugabe
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 13.2:
+        non_striker: S Singh
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Mugabe
+    - 13.3:
+        non_striker: S Singh
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Mugabe
+    - 13.4:
+        non_striker: S Singh
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mugabe
+        wicket:
+          player_out: N Mugabe
+          kind: bowled
+    - 13.5:
+        non_striker: S Singh
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 13.6:
+        non_striker: S Singh
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 14.1:
+        non_striker: S Singh
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 14.2:
+        non_striker: SO Ngoche
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 14.3:
+        non_striker: S Singh
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 14.4:
+        non_striker: SO Ngoche
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 14.5:
+        non_striker: S Singh
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 14.6:
+        non_striker: S Singh
+        bowler: Yves Cyusa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Ngoche
+    - 15.1:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 15.2:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 15.3:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 15.4:
+        non_striker: S Singh
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 15.5:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 15.6:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Singh
+    - 15.7:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 16.1:
+        non_striker: SO Ngoche
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 16.2:
+        non_striker: SO Ngoche
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 16.3:
+        non_striker: SO Ngoche
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 16.4:
+        non_striker: SO Ngoche
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 16.5:
+        non_striker: SO Ngoche
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 16.6:
+        non_striker: SO Ngoche
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 17.1:
+        non_striker: S Singh
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 17.2:
+        non_striker: SO Ngoche
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 17.3:
+        non_striker: SO Ngoche
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 17.4:
+        non_striker: SO Ngoche
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+        wicket:
+          player_out: S Singh
+          fielders:
+          - O Manishimwe
+          kind: caught
+    - 17.5:
+        non_striker: SO Ngoche
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Kundi
+    - 17.6:
+        non_striker: JS Kundi
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 18.1:
+        non_striker: JS Kundi
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 18.2:
+        non_striker: JS Kundi
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 18.3:
+        non_striker: JS Kundi
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 18.4:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Kundi
+    - 18.5:
+        non_striker: JS Kundi
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 18.6:
+        non_striker: SO Ngoche
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Kundi
+    - 19.1:
+        non_striker: SO Ngoche
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JS Kundi
+    - 19.2:
+        non_striker: SO Ngoche
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Kundi
+        wicket:
+          player_out: JS Kundi
+          kind: bowled
+    - 19.3:
+        non_striker: SO Ngoche
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 19.4:
+        non_striker: LN Oluoch
+        bowler: E Kubwimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Ngoche
+    - 19.5:
+        non_striker: LN Oluoch
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 19.6:
+        non_striker: LN Oluoch
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 19.7:
+        non_striker: LN Oluoch
+        bowler: E Kubwimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+- 2nd innings:
+    team: Rwanda
+    absent_hurt:
+    - Z Bimenyimana
+    deliveries:
+    - 0.1:
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Manishimwe
+        batsman: D Ndikubwimana
+    - 0.2:
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Manishimwe
+        batsman: D Ndikubwimana
+    - 0.3:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Manishimwe
+    - 0.4:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 0.5:
+        non_striker: O Manishimwe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 0.6:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Manishimwe
+    - 0.7:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Manishimwe
+    - 0.8:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Manishimwe
+    - 1.1:
+        non_striker: O Manishimwe
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 1.2:
+        non_striker: O Manishimwe
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 1.3:
+        non_striker: D Ndikubwimana
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 1.4:
+        non_striker: D Ndikubwimana
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 1.5:
+        non_striker: D Ndikubwimana
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Manishimwe
+    - 1.6:
+        non_striker: D Ndikubwimana
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 2.1:
+        non_striker: O Manishimwe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 2.2:
+        non_striker: O Manishimwe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 2.3:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Manishimwe
+    - 2.4:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 2.5:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+        wicket:
+          player_out: O Manishimwe
+          fielders:
+          - Tanzeel Sheikh
+          kind: caught
+    - 2.6:
+        non_striker: D Ndikubwimana
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 3.1:
+        non_striker: Hamza Khan
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 3.2:
+        non_striker: Hamza Khan
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 3.3:
+        non_striker: Hamza Khan
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 3.4:
+        non_striker: Hamza Khan
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 3.5:
+        non_striker: D Ndikubwimana
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 3.6:
+        non_striker: D Ndikubwimana
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 4.1:
+        non_striker: Hamza Khan
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 4.2:
+        non_striker: Hamza Khan
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 4.3:
+        non_striker: Hamza Khan
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 4.4:
+        non_striker: Hamza Khan
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 4.5:
+        non_striker: Hamza Khan
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 4.6:
+        non_striker: Hamza Khan
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 5.1:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 5.2:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 5.3:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 5.4:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 5.5:
+        non_striker: Hamza Khan
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 5.6:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 6.1:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 6.2:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 6.3:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 6.4:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 6.5:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 6.6:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.1:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 7.2:
+        non_striker: Hamza Khan
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 7.3:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 7.4:
+        non_striker: Hamza Khan
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.5:
+        non_striker: Hamza Khan
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 7.6:
+        non_striker: D Ndikubwimana
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 8.1:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 8.2:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 8.3:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Khan
+    - 8.4:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 8.5:
+        non_striker: D Ndikubwimana
+        bowler: SO Ngoche
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hamza Khan
+    - 8.6:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 9.1:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          kind: caught and bowled
+    - 9.2:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 9.3:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 9.4:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 9.5:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 9.6:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 10.1:
+        non_striker: O Tuyisenge
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 10.2:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 10.3:
+        non_striker: O Tuyisenge
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 10.4:
+        non_striker: O Tuyisenge
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 10.5:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Tuyisenge
+    - 10.6:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Tuyisenge
+    - 11.1:
+        non_striker: O Tuyisenge
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 11.2:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 11.3:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 11.4:
+        non_striker: O Tuyisenge
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 11.5:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Tuyisenge
+    - 11.6:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+        wicket:
+          player_out: O Tuyisenge
+          fielders:
+          - GM Muthui
+          kind: caught
+    - 12.1:
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yves Cyusa
+        batsman: Hamza Khan
+    - 12.2:
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yves Cyusa
+        batsman: Hamza Khan
+    - 12.3:
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yves Cyusa
+        batsman: Hamza Khan
+    - 12.4:
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yves Cyusa
+        batsman: Hamza Khan
+    - 12.5:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 12.6:
+        non_striker: Hamza Khan
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yves Cyusa
+    - 13.1:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 13.2:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 13.3:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 13.4:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yves Cyusa
+    - 13.5:
+        non_striker: Hamza Khan
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 13.6:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 14.1:
+        non_striker: Yves Cyusa
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Khan
+    - 14.2:
+        non_striker: Yves Cyusa
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+        wicket:
+          player_out: Hamza Khan
+          fielders:
+          - S Singh
+          kind: stumped
+    - 14.3:
+        non_striker: Yves Cyusa
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 14.4:
+        non_striker: Yves Cyusa
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Akayezu
+    - 14.5:
+        non_striker: Yves Cyusa
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 14.6:
+        non_striker: M Akayezu
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yves Cyusa
+    - 15.1:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 15.2:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 15.3:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Akayezu
+    - 15.4:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Akayezu
+    - 15.5:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Akayezu
+    - 15.6:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+        wicket:
+          player_out: M Akayezu
+          fielders:
+          - F Mutua
+          kind: caught
+    - 15.7:
+        non_striker: Yves Cyusa
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 16.1:
+        non_striker: Yves Cyusa
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 16.2:
+        non_striker: C Rububagumya
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 16.3:
+        non_striker: C Rububagumya
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 16.4:
+        non_striker: C Rububagumya
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 16.5:
+        non_striker: C Rububagumya
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 16.6:
+        non_striker: Yves Cyusa
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 17.1:
+        non_striker: Yves Cyusa
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+        wicket:
+          player_out: C Rububagumya
+          kind: bowled
+    - 17.2:
+        non_striker: Yves Cyusa
+        bowler: F Mutua
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: E Kubwimana
+    - 17.3:
+        non_striker: Yves Cyusa
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kubwimana
+    - 17.4:
+        non_striker: Yves Cyusa
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kubwimana
+        wicket:
+          player_out: E Kubwimana
+          fielders:
+          - Vraj Patel
+          kind: caught
+    - 17.5:
+        non_striker: Yves Cyusa
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 17.6:
+        non_striker: Muhammad Nadir
+        bowler: F Mutua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yves Cyusa
+    - 17.7:
+        non_striker: Muhammad Nadir
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 18.1:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yves Cyusa
+    - 18.2:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yves Cyusa
+    - 18.3:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yves Cyusa
+    - 18.4:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yves Cyusa
+    - 18.5:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+    - 18.6:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yves Cyusa
+    - 18.7:
+        non_striker: Yves Cyusa
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadir
+    - 18.8:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yves Cyusa
+    - 18.9:
+        non_striker: Muhammad Nadir
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yves Cyusa
+        wicket:
+          player_out: Yves Cyusa
+          fielders:
+          - RR Patel
+          kind: caught
+    - 19.1:
+        non_striker: E Rukiriza
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadir
+        wicket:
+          player_out: Muhammad Nadir
+          fielders:
+          - Tanzeel Sheikh
+          kind: caught

@@ -1,0 +1,2052 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-05-13'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Gibraltar
+  dates:
+  - '2023-05-07'
+  gender: male
+  match_type: T20
+  match_type_number: 2062
+  outcome:
+    winner: Portugal
+    by:
+      wickets: 1
+  overs: 20
+  player_of_match:
+  - Suman Ghimire
+  players:
+    Gibraltar:
+    - BAA Zammitt
+    - L Bruce
+    - JD Freyone
+    - IDM Latin
+    - KJ Stagno
+    - K Nestor
+    - JA Fitzgerald
+    - RJ Hatchman
+    - A Reyes
+    - N Advani
+    - K Mirpuri
+    Portugal:
+    - Kuldeep
+    - ARA Chambers
+    - M Machado
+    - Azhar Andani
+    - Amir Zaib
+    - Najjam Shahzad
+    - F Stoman
+    - Sirajullah Khadim
+    - Suman Ghimire
+    - Zohaib Sarwar
+    - Junaid Khan
+  registry:
+    people:
+      A Reyes: fd2b8c06
+      ARA Chambers: 8db27a28
+      Amir Zaib: 973006cc
+      Azhar Andani: b5bd99da
+      BAA Zammitt: 0e102c3b
+      F Stoman: 69e53eb3
+      IDM Latin: 78f719ea
+      JA Fitzgerald: 4e6ff836
+      JD Freyone: 7cd7eb50
+      Junaid Khan: be0077ba
+      K Mirpuri: 441006af
+      K Nestor: b89cde87
+      KJ Stagno: 46ad7e01
+      Kuldeep: 61c48027
+      L Bruce: 2a03bd2f
+      M Machado: fd34bcb0
+      N Advani: e4f6147b
+      Najjam Shahzad: 58aa33cd
+      RJ Hatchman: 01c05b6c
+      S Maynard: 12a7e02a
+      SG Chandiramani: 4fa795d2
+      Sirajullah Khadim: ff36e706
+      Suman Ghimire: 7d990412
+      T Atoloye: 9d4f3a74
+      Zohaib Sarwar: bd3cecc6
+  teams:
+  - Gibraltar
+  - Portugal
+  toss:
+    winner: Gibraltar
+    decision: bat
+  umpires:
+  - SG Chandiramani
+  - T Atoloye
+  venue: Europa Sports Complex
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: BAA Zammitt
+    - 0.2:
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: BAA Zammitt
+    - 0.3:
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: BAA Zammitt
+    - 0.4:
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: BAA Zammitt
+    - 0.5:
+        bowler: Junaid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: L Bruce
+        batsman: BAA Zammitt
+    - 0.6:
+        non_striker: BAA Zammitt
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.1:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAA Zammitt
+        wicket:
+          player_out: BAA Zammitt
+          kind: lbw
+    - 1.2:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Freyone
+    - 1.3:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 1.4:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 1.5:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Freyone
+    - 1.6:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 1.7:
+        non_striker: JD Freyone
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.8:
+        non_striker: JD Freyone
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 2.1:
+        non_striker: JD Freyone
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.2:
+        non_striker: JD Freyone
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 2.3:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 2.4:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 2.5:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 2.6:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 3.1:
+        non_striker: JD Freyone
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 3.2:
+        non_striker: JD Freyone
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 3.3:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 3.4:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Freyone
+    - 3.5:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 3.6:
+        non_striker: JD Freyone
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 4.1:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+        wicket:
+          player_out: JD Freyone
+          fielders:
+          - Kuldeep
+          kind: caught
+    - 4.2:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 4.3:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 4.4:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 4.5:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 4.6:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 5.1:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IDM Latin
+    - 5.2:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 5.3:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 5.4:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IDM Latin
+    - 5.5:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 5.6:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 6.1:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 6.2:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 6.3:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 6.4:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 6.5:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 6.6:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 7.1:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 7.2:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 7.3:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 7.4:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 7.5:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 7.6:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 7.7:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 8.1:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 8.2:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 8.3:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 8.4:
+        non_striker: IDM Latin
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 8.5:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 8.6:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 9.1:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 9.2:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 9.3:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 9.4:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 9.5:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 9.6:
+        non_striker: IDM Latin
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 10.1:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+        wicket:
+          player_out: IDM Latin
+          fielders:
+          - Kuldeep
+          kind: stumped
+    - 10.2:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 10.3:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 10.4:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 10.5:
+        non_striker: L Bruce
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 10.6:
+        non_striker: KJ Stagno
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 11.1:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 11.2:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 11.3:
+        non_striker: KJ Stagno
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Bruce
+    - 11.4:
+        non_striker: KJ Stagno
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 11.5:
+        non_striker: KJ Stagno
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 11.6:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 12.1:
+        non_striker: KJ Stagno
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Bruce
+    - 12.2:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Stagno
+    - 12.3:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 12.4:
+        non_striker: KJ Stagno
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 12.5:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 12.6:
+        non_striker: KJ Stagno
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 12.7:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+        wicket:
+          player_out: KJ Stagno
+          kind: bowled
+    - 13.1:
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Nestor
+        batsman: L Bruce
+    - 13.2:
+        non_striker: L Bruce
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 13.3:
+        non_striker: K Nestor
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 13.4:
+        non_striker: K Nestor
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 13.5:
+        non_striker: K Nestor
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 13.6:
+        non_striker: K Nestor
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 13.7:
+        non_striker: K Nestor
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 13.8:
+        non_striker: K Nestor
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 14.1:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 14.2:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 14.3:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 14.4:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 14.5:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 14.6:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 15.1:
+        non_striker: L Bruce
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 15.2:
+        non_striker: L Bruce
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: K Nestor
+          fielders:
+          - F Stoman
+          kind: caught
+    - 15.3:
+        non_striker: L Bruce
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 15.4:
+        non_striker: JA Fitzgerald
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 15.5:
+        non_striker: L Bruce
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: JA Fitzgerald
+    - 15.6:
+        non_striker: L Bruce
+        bowler: Zohaib Sarwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Fitzgerald
+    - 16.1:
+        non_striker: JA Fitzgerald
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 16.2:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 16.3:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 16.4:
+        non_striker: JA Fitzgerald
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 16.5:
+        non_striker: JA Fitzgerald
+        bowler: Suman Ghimire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Bruce
+    - 16.6:
+        non_striker: L Bruce
+        bowler: Suman Ghimire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Fitzgerald
+    - 17.1:
+        non_striker: JA Fitzgerald
+        bowler: Junaid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 17.2:
+        non_striker: JA Fitzgerald
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 17.3:
+        non_striker: JA Fitzgerald
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 17.4:
+        non_striker: JA Fitzgerald
+        bowler: Junaid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Bruce
+    - 17.5:
+        non_striker: L Bruce
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 17.6:
+        non_striker: JA Fitzgerald
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 17.7:
+        non_striker: JA Fitzgerald
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 18.1:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 18.2:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 18.3:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 18.4:
+        non_striker: JA Fitzgerald
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 18.5:
+        non_striker: L Bruce
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 18.6:
+        non_striker: JA Fitzgerald
+        bowler: F Stoman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 19.1:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Fitzgerald
+    - 19.2:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 19.3:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 19.4:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Fitzgerald
+    - 19.5:
+        non_striker: L Bruce
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 19.6:
+        non_striker: JA Fitzgerald
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+- 2nd innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ARA Chambers
+        batsman: Kuldeep
+    - 0.2:
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ARA Chambers
+        batsman: Kuldeep
+    - 0.3:
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ARA Chambers
+        batsman: Kuldeep
+    - 0.4:
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ARA Chambers
+        batsman: Kuldeep
+    - 0.5:
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ARA Chambers
+        batsman: Kuldeep
+    - 0.6:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+        wicket:
+          player_out: Kuldeep
+          kind: bowled
+    - 1.1:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Machado
+        batsman: ARA Chambers
+    - 1.2:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Machado
+    - 1.3:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Machado
+        wicket:
+          player_out: M Machado
+          fielders:
+          - KJ Stagno
+          kind: caught
+    - 1.4:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 1.5:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 1.6:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 2.1:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Andani
+    - 2.2:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azhar Andani
+    - 2.3:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 2.4:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 2.5:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 2.6:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 2.7:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARA Chambers
+    - 3.1:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 3.2:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 3.3:
+        non_striker: Azhar Andani
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 3.4:
+        non_striker: Azhar Andani
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ARA Chambers
+    - 3.5:
+        non_striker: Azhar Andani
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 3.6:
+        non_striker: Azhar Andani
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 3.7:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 4.1:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 4.2:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+    - 4.3:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Andani
+    - 4.4:
+        non_striker: Azhar Andani
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 4.5:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Andani
+        wicket:
+          player_out: Azhar Andani
+          kind: bowled
+    - 4.6:
+        non_striker: ARA Chambers
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Zaib
+    - 5.1:
+        non_striker: Amir Zaib
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 5.2:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 5.3:
+        non_striker: Amir Zaib
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 5.4:
+        non_striker: Amir Zaib
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 5.5:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 5.6:
+        non_striker: ARA Chambers
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 6.1:
+        non_striker: ARA Chambers
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 6.2:
+        non_striker: Amir Zaib
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 6.3:
+        non_striker: Amir Zaib
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 6.4:
+        non_striker: ARA Chambers
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 6.5:
+        non_striker: ARA Chambers
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 6.6:
+        non_striker: ARA Chambers
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+        wicket:
+          player_out: Amir Zaib
+          kind: bowled
+    - 7.1:
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Najjam Shahzad
+        batsman: ARA Chambers
+    - 7.2:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+    - 7.3:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+    - 7.4:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najjam Shahzad
+    - 7.5:
+        non_striker: Najjam Shahzad
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 7.6:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+    - 8.1:
+        non_striker: Najjam Shahzad
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+    - 8.2:
+        non_striker: Najjam Shahzad
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 8.3:
+        non_striker: ARA Chambers
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najjam Shahzad
+    - 8.4:
+        non_striker: Najjam Shahzad
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARA Chambers
+    - 8.5:
+        non_striker: ARA Chambers
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+    - 8.6:
+        non_striker: ARA Chambers
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najjam Shahzad
+    - 9.1:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najjam Shahzad
+    - 9.2:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najjam Shahzad
+    - 9.3:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+    - 9.4:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najjam Shahzad
+    - 9.5:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najjam Shahzad
+    - 9.6:
+        non_striker: ARA Chambers
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+        wicket:
+          player_out: Najjam Shahzad
+          fielders:
+          - BAA Zammitt
+          kind: caught
+    - 10.1:
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Stoman
+        batsman: ARA Chambers
+    - 10.2:
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Stoman
+        batsman: ARA Chambers
+    - 10.3:
+        non_striker: F Stoman
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARA Chambers
+        wicket:
+          player_out: ARA Chambers
+          kind: bowled
+    - 10.4:
+        non_striker: F Stoman
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sirajullah Khadim
+    - 10.5:
+        non_striker: F Stoman
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 10.6:
+        non_striker: F Stoman
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 10.7:
+        non_striker: Sirajullah Khadim
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Stoman
+    - 11.1:
+        non_striker: F Stoman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 11.2:
+        non_striker: Sirajullah Khadim
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Stoman
+    - 11.3:
+        non_striker: F Stoman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 11.4:
+        non_striker: Sirajullah Khadim
+        bowler: RJ Hatchman
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: F Stoman
+    - 11.5:
+        non_striker: F Stoman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 11.6:
+        non_striker: Sirajullah Khadim
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Stoman
+    - 11.7:
+        non_striker: Sirajullah Khadim
+        bowler: RJ Hatchman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Stoman
+    - 11.8:
+        non_striker: Sirajullah Khadim
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Stoman
+    - 12.1:
+        non_striker: Sirajullah Khadim
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Stoman
+        wicket:
+          player_out: F Stoman
+          fielders:
+          - JD Freyone
+          - KJ Stagno
+          kind: run out
+    - 12.2:
+        non_striker: Sirajullah Khadim
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suman Ghimire
+    - 12.3:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 12.4:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 12.5:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 12.6:
+        non_striker: Sirajullah Khadim
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suman Ghimire
+    - 13.1:
+        non_striker: Suman Ghimire
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 13.2:
+        non_striker: Suman Ghimire
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+        wicket:
+          player_out: Sirajullah Khadim
+          fielders:
+          - IDM Latin
+          kind: run out
+    - 13.3:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Zohaib Sarwar
+        batsman: Suman Ghimire
+    - 13.4:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zohaib Sarwar
+        batsman: Suman Ghimire
+    - 13.5:
+        non_striker: Suman Ghimire
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 13.6:
+        non_striker: Suman Ghimire
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 14.1:
+        non_striker: Zohaib Sarwar
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suman Ghimire
+    - 14.2:
+        non_striker: Zohaib Sarwar
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suman Ghimire
+    - 14.3:
+        non_striker: Zohaib Sarwar
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suman Ghimire
+    - 14.4:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 14.5:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+        wicket:
+          player_out: Zohaib Sarwar
+          kind: bowled
+    - 14.6:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Khan
+    - 15.1:
+        non_striker: Junaid Khan
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suman Ghimire
+    - 15.2:
+        non_striker: Junaid Khan
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Suman Ghimire
+    - 15.3:
+        non_striker: Junaid Khan
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suman Ghimire
+    - 15.4:
+        non_striker: Suman Ghimire
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Junaid Khan
+    - 15.5:
+        non_striker: Suman Ghimire
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Khan
+    - 15.6:
+        non_striker: Junaid Khan
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suman Ghimire
+    - 16.1:
+        non_striker: Junaid Khan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suman Ghimire
+    - 16.2:
+        non_striker: Junaid Khan
+        bowler: K Mirpuri
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Suman Ghimire
+    - 16.3:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Junaid Khan
+    - 16.4:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Junaid Khan
+    - 16.5:
+        non_striker: Suman Ghimire
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Khan
+    - 16.6:
+        non_striker: Junaid Khan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Suman Ghimire

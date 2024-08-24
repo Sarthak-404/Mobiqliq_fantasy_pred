@@ -1,0 +1,1944 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  dates:
+  - '2022-11-02'
+  gender: male
+  match_type: T20
+  match_type_number: 1860
+  outcome:
+    winner: India
+    by:
+      runs: 5
+    method: D/L
+  overs: 20
+  player_of_match:
+  - V Kohli
+  players:
+    India:
+    - KL Rahul
+    - RG Sharma
+    - V Kohli
+    - SA Yadav
+    - HH Pandya
+    - KD Karthik
+    - AR Patel
+    - R Ashwin
+    - B Kumar
+    - Mohammed Shami
+    - Arshdeep Singh
+    Bangladesh:
+    - Nazmul Hossain Shanto
+    - Liton Das
+    - Shakib Al Hasan
+    - Afif Hossain
+    - Yasir Ali Chowdhury
+    - Nurul Hasan
+    - Mosaddek Hossain
+    - Taskin Ahmed
+    - Hasan Mahmud
+    - Shoriful Islam
+    - Mustafizur Rahman
+  registry:
+    people:
+      AR Patel: 2e171977
+      AT Holdstock: 6fa3258c
+      Afif Hossain: '37138918'
+      Arshdeep Singh: 244048f6
+      B Kumar: 2e81a32d
+      CM Brown: 448f4f1c
+      DC Boon: e79a1fe3
+      DJ Hooda: 73ad96ed
+      HH Pandya: dbe50b21
+      Hasan Mahmud: 80ad39ac
+      KD Karthik: c03f1114
+      KL Rahul: b17e2f24
+      Liton Das: 0404d43c
+      M Erasmus: 15d3c895
+      Mohammed Shami: 8cf9814c
+      Mosaddek Hossain: 8919756f
+      Mustafizur Rahman: 0a8fce53
+      Nazmul Hossain Shanto: 1274d7ab
+      Nurul Hasan: d365d463
+      R Ashwin: 495d42a5
+      RG Sharma: 740742ef
+      RK Illingworth: '20672246'
+      SA Yadav: 271f83cd
+      Shakib Al Hasan: 7dc35884
+      Shoriful Islam: bb34fd31
+      Taskin Ahmed: ef18b66e
+      V Kohli: ba607b88
+      Yasir Ali Chowdhury: 5791b840
+  teams:
+  - India
+  - Bangladesh
+  toss:
+    winner: Bangladesh
+    decision: field
+  umpires:
+  - CM Brown
+  - M Erasmus
+  venue: Adelaide Oval
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.3:
+        non_striker: RG Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.4:
+        non_striker: RG Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.5:
+        non_striker: RG Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.6:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.1:
+        non_striker: RG Sharma
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.2:
+        non_striker: RG Sharma
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KL Rahul
+    - 1.3:
+        non_striker: RG Sharma
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.4:
+        non_striker: RG Sharma
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.5:
+        non_striker: KL Rahul
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 1.6:
+        non_striker: RG Sharma
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 1.7:
+        non_striker: RG Sharma
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.1:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.2:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 2.5:
+        non_striker: RG Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.6:
+        non_striker: RG Sharma
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.1:
+        non_striker: KL Rahul
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.2:
+        non_striker: KL Rahul
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - Yasir Ali Chowdhury
+          kind: caught
+    - 3.3:
+        non_striker: KL Rahul
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 3.4:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 3.6:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 4.2:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 4.3:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 4.4:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 4.5:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 4.6:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 5.1:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.2:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.5:
+        non_striker: KL Rahul
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 5.6:
+        non_striker: KL Rahul
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.1:
+        non_striker: V Kohli
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.2:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 6.3:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.4:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.5:
+        non_striker: KL Rahul
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 6.6:
+        non_striker: V Kohli
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.1:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 7.2:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.3:
+        non_striker: KL Rahul
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 7.4:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 7.5:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.6:
+        non_striker: KL Rahul
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 8.1:
+        non_striker: KL Rahul
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 8.2:
+        non_striker: KL Rahul
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.3:
+        non_striker: KL Rahul
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 8.4:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: KL Rahul
+    - 8.5:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 8.6:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 8.7:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 8.8:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.1:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 9.2:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - Mustafizur Rahman
+          kind: caught
+    - 9.3:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 9.5:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 10.2:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 10.4:
+        non_striker: SA Yadav
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 10.5:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.1:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 11.2:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 11.5:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 11.6:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.1:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.2:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 12.3:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 12.4:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.5:
+        non_striker: SA Yadav
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 12.6:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 13.1:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 13.2:
+        non_striker: SA Yadav
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 13.3:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          kind: bowled
+    - 13.4:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 13.5:
+        non_striker: HH Pandya
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 13.6:
+        non_striker: V Kohli
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.1:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.2:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 14.3:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.4:
+        non_striker: HH Pandya
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 14.5:
+        non_striker: HH Pandya
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 14.6:
+        non_striker: HH Pandya
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 15.1:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Yasir Ali Chowdhury
+          kind: caught
+    - 15.2:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 15.3:
+        non_striker: KD Karthik
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 15.4:
+        non_striker: KD Karthik
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 15.5:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 15.6:
+        non_striker: KD Karthik
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: V Kohli
+    - 15.7:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KD Karthik
+    - 16.1:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Karthik
+    - 16.2:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Karthik
+    - 16.3:
+        non_striker: KD Karthik
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kohli
+    - 16.4:
+        non_striker: KD Karthik
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 16.5:
+        non_striker: KD Karthik
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 16.6:
+        non_striker: KD Karthik
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 16.7:
+        non_striker: KD Karthik
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: KD Karthik
+          fielders:
+          - Shakib Al Hasan
+          - Shoriful Islam
+          kind: run out
+    - 17.1:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 17.2:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patel
+    - 17.3:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 17.4:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 17.5:
+        non_striker: V Kohli
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 17.6:
+        non_striker: AR Patel
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 18.1:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - Shakib Al Hasan
+          kind: caught
+    - 18.2:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 18.3:
+        non_striker: R Ashwin
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 18.4:
+        non_striker: V Kohli
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 18.5:
+        non_striker: R Ashwin
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 18.6:
+        non_striker: R Ashwin
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 19.1:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 19.2:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ashwin
+    - 19.3:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ashwin
+    - 19.4:
+        non_striker: V Kohli
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 19.5:
+        non_striker: R Ashwin
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 19.6:
+        non_striker: R Ashwin
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.2:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.3:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 0.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 0.5:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.6:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 1.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 1.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 1.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 2.1:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 2.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 2.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 2.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 2.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 2.6:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 3.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Liton Das
+    - 3.4:
+        non_striker: Liton Das
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.5:
+        non_striker: Liton Das
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.6:
+        non_striker: Liton Das
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 4.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.3:
+        non_striker: Liton Das
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 4.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 4.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 5.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 5.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 5.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.6:
+        non_striker: Liton Das
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 6.1:
+        non_striker: Liton Das
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 6.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 6.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 6.4:
+        non_striker: Liton Das
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 6.5:
+        non_striker: Liton Das
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 6.6:
+        non_striker: Liton Das
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.2:
+        non_striker: Liton Das
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - KL Rahul
+          kind: run out
+    - 7.3:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.4:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 7.5:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.2:
+        non_striker: Shakib Al Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nazmul Hossain Shanto
+    - 8.3:
+        non_striker: Shakib Al Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 8.4:
+        non_striker: Shakib Al Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 8.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.6:
+        non_striker: Shakib Al Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 9.1:
+        non_striker: Shakib Al Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          fielders:
+          - SA Yadav
+          kind: caught
+    - 9.2:
+        non_striker: Shakib Al Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 9.3:
+        non_striker: Afif Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 9.4:
+        non_striker: Shakib Al Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 9.5:
+        non_striker: Afif Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 9.6:
+        non_striker: Afif Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 10.1:
+        non_striker: Afif Hossain
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 10.2:
+        non_striker: Afif Hossain
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 10.3:
+        non_striker: Afif Hossain
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 10.4:
+        non_striker: Afif Hossain
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 10.5:
+        non_striker: Afif Hossain
+        bowler: R Ashwin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Shakib Al Hasan
+    - 10.6:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 10.7:
+        non_striker: Shakib Al Hasan
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 11.1:
+        non_striker: Shakib Al Hasan
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - SA Yadav
+          kind: caught
+    - 11.2:
+        non_striker: Shakib Al Hasan
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 11.3:
+        non_striker: Shakib Al Hasan
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 11.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 11.5:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - DJ Hooda (sub)
+          kind: caught
+    - 11.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 12.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 12.2:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+        wicket:
+          player_out: Yasir Ali Chowdhury
+          fielders:
+          - Arshdeep Singh
+          kind: caught
+    - 12.3:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mosaddek Hossain
+    - 12.4:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 12.5:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+        wicket:
+          player_out: Mosaddek Hossain
+          kind: bowled
+    - 12.6:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 13.1:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 13.2:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 13.3:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nurul Hasan
+    - 13.4:
+        non_striker: Nurul Hasan
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Taskin Ahmed
+    - 13.5:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 13.6:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 14.1:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taskin Ahmed
+    - 14.2:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 14.3:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Taskin Ahmed
+    - 14.4:
+        non_striker: Nurul Hasan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 14.5:
+        non_striker: Taskin Ahmed
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 14.6:
+        non_striker: Taskin Ahmed
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 15.1:
+        non_striker: Nurul Hasan
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 15.2:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nurul Hasan
+    - 15.3:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 15.4:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 15.5:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 15.6:
+        non_striker: Taskin Ahmed
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan

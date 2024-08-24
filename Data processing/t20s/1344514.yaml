@@ -1,0 +1,1829 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: East London
+  dates:
+  - '2023-01-25'
+  gender: female
+  match_type: T20
+  match_type_number: 1346
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - T Brits
+  players:
+    West Indies:
+    - RS Williams
+    - B Cooper
+    - SA Campbelle
+    - SS Grimmond
+    - S Gajnabi
+    - HK Matthews
+    - ASS Fletcher
+    - SS Connell
+    - SJ Bruce
+    - K Ramharack
+    - K Schultz
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - M Kapp
+    - S Luus
+    - CL Tryon
+    - A Dercksen
+    - N de Klerk
+    - S Jafta
+    - TS Sekhukhune
+    - M Klaas
+    - N Mlaba
+  registry:
+    people:
+      A Dercksen: d2b1f515
+      ASS Fletcher: 42d9dd09
+      B Cooper: ac0edb42
+      CL Tryon: 4d4605e6
+      HK Matthews: d32cf49a
+      K Ramharack: 321c980e
+      K Schultz: 6900060d
+      L Wolvaardt: e60f81c9
+      M Kapp: 63e3b6b3
+      M Klaas: ce85fcaf
+      N Mlaba: 686362af
+      N de Klerk: ea544967
+      PJ Vosloo: 93a6d2d0
+      RN Hendricks: 92edb363
+      RS Williams: 406de451
+      S Gajnabi: c35739a1
+      S Jafta: '34304210'
+      S Luus: 6d76bc23
+      SA Campbelle: a7cd72b2
+      SA Fritz: d15e60c8
+      SJ Bruce: aeccf5cc
+      SS Connell: 2f9a6bd1
+      SS Grimmond: 6bebf334
+      T Brits: '06659caa'
+      TC Mokorosi: e93c3cf8
+      TS Sekhukhune: 6e28e586
+  teams:
+  - West Indies
+  - South Africa
+  toss:
+    winner: West Indies
+    decision: bat
+  umpires:
+  - RN Hendricks
+  - TC Mokorosi
+  venue: Buffalo Park, East London
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: B Cooper
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 0.2:
+        non_striker: RS Williams
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 0.3:
+        non_striker: RS Williams
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 0.4:
+        non_striker: RS Williams
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 0.5:
+        non_striker: RS Williams
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 0.6:
+        non_striker: RS Williams
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 1.1:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.2:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.3:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.4:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+        wicket:
+          player_out: RS Williams
+          fielders:
+          - M Klaas
+          kind: caught
+    - 1.5:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 1.6:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 2.1:
+        non_striker: SA Campbelle
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 2.2:
+        non_striker: SA Campbelle
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 2.3:
+        non_striker: SA Campbelle
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Cooper
+    - 2.4:
+        non_striker: B Cooper
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 2.5:
+        non_striker: SA Campbelle
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 2.6:
+        non_striker: SA Campbelle
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Cooper
+    - 3.1:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.2:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.3:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.4:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.5:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.6:
+        non_striker: B Cooper
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.1:
+        non_striker: SA Campbelle
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 4.2:
+        non_striker: SA Campbelle
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+        wicket:
+          player_out: SA Campbelle
+          fielders:
+          - CL Tryon
+          kind: run out
+    - 4.3:
+        non_striker: B Cooper
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 4.4:
+        non_striker: B Cooper
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 4.5:
+        non_striker: B Cooper
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 4.6:
+        non_striker: B Cooper
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 5.1:
+        non_striker: SS Grimmond
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 5.2:
+        non_striker: SS Grimmond
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: B Cooper
+    - 5.3:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 5.4:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 5.5:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 5.6:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 6.1:
+        non_striker: SS Grimmond
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 6.2:
+        non_striker: SS Grimmond
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 6.3:
+        non_striker: SS Grimmond
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 6.4:
+        non_striker: SS Grimmond
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Cooper
+    - 6.5:
+        non_striker: SS Grimmond
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 6.6:
+        non_striker: SS Grimmond
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Cooper
+    - 7.1:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 7.2:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 7.3:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Grimmond
+    - 7.4:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Grimmond
+    - 7.5:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 7.6:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 7.7:
+        non_striker: B Cooper
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Grimmond
+    - 8.1:
+        non_striker: B Cooper
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+        wicket:
+          player_out: SS Grimmond
+          kind: lbw
+    - 8.2:
+        non_striker: B Cooper
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 8.3:
+        non_striker: B Cooper
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 8.4:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 8.5:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 8.6:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 9.1:
+        non_striker: B Cooper
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 9.2:
+        non_striker: S Gajnabi
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Cooper
+    - 9.3:
+        non_striker: B Cooper
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 9.4:
+        non_striker: B Cooper
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gajnabi
+    - 9.5:
+        non_striker: B Cooper
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gajnabi
+    - 9.6:
+        non_striker: B Cooper
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 10.1:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+    - 10.2:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Cooper
+        wicket:
+          player_out: B Cooper
+          fielders:
+          - A Dercksen
+          kind: caught
+    - 10.3:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HK Matthews
+    - 10.4:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 10.5:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gajnabi
+    - 10.6:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 11.1:
+        non_striker: S Gajnabi
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.2:
+        non_striker: HK Matthews
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 11.3:
+        non_striker: S Gajnabi
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 11.4:
+        non_striker: S Gajnabi
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 11.5:
+        non_striker: S Gajnabi
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.6:
+        non_striker: HK Matthews
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 12.1:
+        non_striker: S Gajnabi
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 12.2:
+        non_striker: S Gajnabi
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 12.3:
+        non_striker: HK Matthews
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 12.4:
+        non_striker: S Gajnabi
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 12.5:
+        non_striker: S Gajnabi
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 12.6:
+        non_striker: S Gajnabi
+        bowler: A Dercksen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 13.1:
+        non_striker: S Gajnabi
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 13.2:
+        non_striker: HK Matthews
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 13.3:
+        non_striker: S Gajnabi
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 13.4:
+        non_striker: S Gajnabi
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 13.5:
+        non_striker: HK Matthews
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 13.6:
+        non_striker: HK Matthews
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 14.1:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 14.2:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 14.3:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 14.4:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 14.5:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gajnabi
+    - 14.6:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 15.1:
+        non_striker: HK Matthews
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 15.2:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 15.3:
+        non_striker: HK Matthews
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 15.4:
+        non_striker: HK Matthews
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 15.5:
+        non_striker: HK Matthews
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 15.6:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 15.7:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 16.1:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gajnabi
+    - 16.2:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 16.3:
+        non_striker: S Gajnabi
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 16.4:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 16.5:
+        non_striker: S Gajnabi
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 16.6:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 16.7:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 17.1:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 17.2:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 17.3:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 17.4:
+        non_striker: HK Matthews
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 17.5:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 17.6:
+        non_striker: S Gajnabi
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 18.1:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 18.2:
+        non_striker: HK Matthews
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 18.3:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 18.4:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 18.5:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 18.6:
+        non_striker: S Gajnabi
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 18.7:
+        non_striker: HK Matthews
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 19.1:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+        wicket:
+          player_out: S Gajnabi
+          kind: bowled
+    - 19.2:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ASS Fletcher
+    - 19.3:
+        non_striker: HK Matthews
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ASS Fletcher
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - S Jafta
+          - N Mlaba
+          kind: run out
+    - 19.4:
+        non_striker: ASS Fletcher
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Connell
+    - 19.5:
+        non_striker: SS Connell
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 19.6:
+        non_striker: ASS Fletcher
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SS Connell
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.5:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.6:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 0.7:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 0.8:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.4:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 2.5:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 3.1:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 3.2:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 3.3:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 3.4:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.3:
+        non_striker: L Wolvaardt
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 4.4:
+        non_striker: T Brits
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 4.5:
+        non_striker: T Brits
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.6:
+        non_striker: L Wolvaardt
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.1:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.2:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 5.3:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.4:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.5:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.6:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 6.1:
+        non_striker: T Brits
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 6.2:
+        non_striker: T Brits
+        bowler: ASS Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wolvaardt
+    - 6.3:
+        non_striker: T Brits
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.4:
+        non_striker: L Wolvaardt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.5:
+        non_striker: L Wolvaardt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.6:
+        non_striker: L Wolvaardt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 6.7:
+        non_striker: L Wolvaardt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 7.1:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 7.2:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.3:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 7.4:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 7.5:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 7.6:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.1:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.2:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.3:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.4:
+        non_striker: L Wolvaardt
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 8.5:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 8.6:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 9.1:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 9.2:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 9.3:
+        non_striker: T Brits
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 9.4:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 9.5:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 9.6:
+        non_striker: L Wolvaardt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 10.1:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 10.2:
+        non_striker: L Wolvaardt
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 10.3:
+        non_striker: L Wolvaardt
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 10.4:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 10.5:
+        non_striker: L Wolvaardt
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 10.6:
+        non_striker: T Brits
+        bowler: S Gajnabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 11.1:
+        non_striker: T Brits
+        bowler: K Schultz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Wolvaardt
+    - 11.2:
+        non_striker: L Wolvaardt
+        bowler: K Schultz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Brits
+    - 11.3:
+        non_striker: L Wolvaardt
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 11.4:
+        non_striker: L Wolvaardt
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 11.5:
+        non_striker: T Brits
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 11.6:
+        non_striker: L Wolvaardt
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 11.7:
+        non_striker: L Wolvaardt
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Brits
+    - 11.8:
+        non_striker: L Wolvaardt
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 12.1:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 12.2:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 12.3:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 12.4:
+        non_striker: L Wolvaardt
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 12.5:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 12.6:
+        non_striker: T Brits
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 13.1:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 13.2:
+        non_striker: T Brits
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 13.3:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 13.4:
+        non_striker: L Wolvaardt
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits

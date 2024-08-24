@@ -1,0 +1,411 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-11-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2023-11-24'
+  gender: male
+  match_type: T20
+  match_type_number: 2361
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Nigeria:
+    - Sulaimon Runsewe
+    - D Ajekun
+    - AA Onikoyi
+    - JO Adedeji
+    - P Aho
+    - IO Okpe
+    - P Useni
+    - R Abdulkareem
+    - SA Okpe
+    - C Udekwe
+    - I Danladi
+    Rwanda:
+    - E Dusingizimana
+    - D Ndikubwimana
+    - O Tuyisenge
+    - C Rububagumya
+    - Z Bimenyimana
+    - M Akayezu
+    - E Sebareme
+    - O Manishimwe
+    - E Rukiriza
+    - Hamza Khan
+    - Muhammad Nadir
+  registry:
+    people:
+      A Louw: 5eecae5d
+      AA Onikoyi: 409ce380
+      C Rububagumya: 8088632c
+      C Udekwe: 74a578d0
+      D Ajekun: 2494ff9e
+      D Ndikubwimana: 3cbedf51
+      E Dusingizimana: c15e7ba4
+      E Rukiriza: 3ac13a94
+      E Sebareme: f99a219a
+      F Mutizwa: d3e83eef
+      GH Pienaar: 3516e46b
+      Hamza Khan: 44a5f2b2
+      I Danladi: c156cc1f
+      IO Okpe: 1c5c3dce
+      JO Adedeji: abee08c7
+      Lauren Agenbag: 40849abd
+      M Akayezu: 1f3b9f8d
+      Muhammad Nadir: '090f96e4'
+      O Manishimwe: fb31ca49
+      O Tuyisenge: e6a6888f
+      P Aho: 2e392afa
+      P Useni: 71fa64d6
+      R Abdulkareem: b9e07e44
+      SA Okpe: 681f522f
+      Sulaimon Runsewe: c25d26dc
+      Z Bimenyimana: ba57fb08
+  teams:
+  - Nigeria
+  - Rwanda
+  toss:
+    winner: Rwanda
+    decision: field
+  umpires:
+  - A Louw
+  - F Mutizwa
+  venue: Wanderers Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ajekun
+        batsman: Sulaimon Runsewe
+    - 0.2:
+        non_striker: Sulaimon Runsewe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 0.3:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 0.4:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 0.5:
+        non_striker: Sulaimon Runsewe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 0.6:
+        non_striker: Sulaimon Runsewe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ajekun
+    - 1.1:
+        non_striker: D Ajekun
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 1.2:
+        non_striker: Sulaimon Runsewe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 1.3:
+        non_striker: Sulaimon Runsewe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 1.4:
+        non_striker: D Ajekun
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+        wicket:
+          player_out: Sulaimon Runsewe
+          fielders:
+          - C Rububagumya
+          kind: caught
+    - 1.5:
+        non_striker: D Ajekun
+        bowler: Muhammad Nadir
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: AA Onikoyi
+    - 1.6:
+        non_striker: D Ajekun
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 2.1:
+        non_striker: AA Onikoyi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 2.2:
+        non_striker: AA Onikoyi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 2.3:
+        non_striker: AA Onikoyi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ajekun
+    - 2.4:
+        non_striker: AA Onikoyi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 2.5:
+        non_striker: AA Onikoyi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ajekun
+    - 2.6:
+        non_striker: AA Onikoyi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 2.7:
+        non_striker: AA Onikoyi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Ajekun
+    - 2.8:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+        wicket:
+          player_out: AA Onikoyi
+          kind: bowled
+    - 3.1:
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JO Adedeji
+        batsman: D Ajekun
+    - 3.2:
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JO Adedeji
+        batsman: D Ajekun
+    - 3.3:
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JO Adedeji
+        batsman: D Ajekun
+    - 3.4:
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JO Adedeji
+        batsman: D Ajekun
+    - 3.5:
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JO Adedeji
+        batsman: D Ajekun
+    - 3.6:
+        non_striker: D Ajekun
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 4.1:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Adedeji
+    - 4.2:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Adedeji
+    - 4.3:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 4.4:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 4.5:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 4.6:
+        non_striker: D Ajekun
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 5.1:
+        non_striker: JO Adedeji
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ajekun
+    - 5.2:
+        non_striker: JO Adedeji
+        bowler: Muhammad Nadir
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: D Ajekun
+    - 5.3:
+        non_striker: JO Adedeji
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 5.4:
+        non_striker: JO Adedeji
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 5.5:
+        non_striker: JO Adedeji
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 5.6:
+        non_striker: D Ajekun
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 5.7:
+        non_striker: JO Adedeji
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun

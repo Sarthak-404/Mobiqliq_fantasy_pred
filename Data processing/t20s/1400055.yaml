@@ -1,0 +1,2228 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gibraltar
+  dates:
+  - '2023-10-15'
+  gender: male
+  match_type: T20
+  match_type_number: 2315
+  outcome:
+    winner: Gibraltar
+    by:
+      runs: 24
+  overs: 20
+  player_of_match:
+  - KJ Stagno
+  players:
+    Gibraltar:
+    - BA Pai
+    - L Bruce
+    - KJ Stagno
+    - P Hatchman
+    - K Nestor
+    - S Bodha
+    - JA Fitzgerald
+    - K Mirpuri
+    - J Horrocks
+    - A Reyes
+    - A Sawyer
+    Luxembourg:
+    - TC Barker
+    - SKS Gill
+    - V Vijh
+    - Anoop Orsu
+    - J Barker
+    - T Martin
+    - J Mees
+    - M Dixit
+    - Milad Momend
+    - H Virdee
+    - A Nanda
+  registry:
+    people:
+      A Nanda: 704e0160
+      A Reyes: fd2b8c06
+      A Sawyer: 201d3a67
+      Anoop Orsu: 488b7e22
+      BA Pai: 716bf559
+      H Virdee: '38952986'
+      J Barker: c18cecbe
+      J Horrocks: 1c8cd1c3
+      J Mees: ab1445ea
+      JA Fitzgerald: 4e6ff836
+      K Mirpuri: 441006af
+      K Nestor: b89cde87
+      KJ Stagno: 46ad7e01
+      L Bruce: 2a03bd2f
+      M Dixit: d85d52c2
+      Milad Momend: 84880baf
+      P Hatchman: b504e8b8
+      S Bodha: 00467a76
+      S Maynard: 12a7e02a
+      SKS Gill: faef026c
+      T Atoloye: 9d4f3a74
+      T Martin: 32e97806
+      TC Barker: c31adb5c
+      V Vijh: b857468a
+  teams:
+  - Gibraltar
+  - Luxembourg
+  toss:
+    winner: Luxembourg
+    decision: field
+  umpires:
+  - S Maynard
+  - T Atoloye
+  venue: Europa Sports Complex
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bruce
+        batsman: BA Pai
+    - 0.2:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 0.3:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 0.4:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.5:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.6:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 0.7:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.8:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 0.9:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.1:
+        non_striker: L Bruce
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 1.2:
+        non_striker: L Bruce
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 1.3:
+        non_striker: L Bruce
+        bowler: Milad Momend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 1.4:
+        non_striker: L Bruce
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 1.5:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.6:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.7:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.1:
+        non_striker: L Bruce
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 2.2:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          fielders:
+          - J Mees
+          kind: caught
+    - 2.3:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 2.4:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 2.5:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 2.6:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 3.1:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 3.2:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 3.3:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 3.4:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 3.5:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 3.6:
+        non_striker: BA Pai
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 4.1:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 4.2:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 4.3:
+        non_striker: BA Pai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 4.4:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 4.5:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 4.6:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 5.1:
+        non_striker: KJ Stagno
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+        wicket:
+          player_out: BA Pai
+          fielders:
+          - H Virdee
+          kind: caught
+    - 5.2:
+        non_striker: KJ Stagno
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+    - 5.3:
+        non_striker: KJ Stagno
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatchman
+    - 5.4:
+        non_striker: P Hatchman
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 5.5:
+        non_striker: KJ Stagno
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+    - 5.6:
+        non_striker: KJ Stagno
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatchman
+    - 6.1:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+    - 6.2:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatchman
+    - 6.3:
+        non_striker: P Hatchman
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 6.4:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Hatchman
+    - 6.5:
+        non_striker: P Hatchman
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 6.6:
+        non_striker: P Hatchman
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 7.1:
+        non_striker: KJ Stagno
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+    - 7.2:
+        non_striker: KJ Stagno
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+    - 7.3:
+        non_striker: KJ Stagno
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Hatchman
+        wicket:
+          player_out: P Hatchman
+          fielders:
+          - A Nanda
+          kind: caught
+    - 7.4:
+        non_striker: KJ Stagno
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 7.5:
+        non_striker: K Nestor
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 7.6:
+        non_striker: K Nestor
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 8.1:
+        non_striker: KJ Stagno
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 8.2:
+        non_striker: K Nestor
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 8.3:
+        non_striker: K Nestor
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 8.4:
+        non_striker: K Nestor
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 8.5:
+        non_striker: KJ Stagno
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 8.6:
+        non_striker: K Nestor
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 9.1:
+        non_striker: K Nestor
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 9.2:
+        non_striker: K Nestor
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 9.3:
+        non_striker: K Nestor
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 9.4:
+        non_striker: K Nestor
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 9.5:
+        non_striker: KJ Stagno
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 9.6:
+        non_striker: KJ Stagno
+        bowler: H Virdee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 10.1:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 10.2:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 10.3:
+        non_striker: KJ Stagno
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 10.4:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 10.5:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 10.6:
+        non_striker: KJ Stagno
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 11.1:
+        non_striker: K Nestor
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 11.2:
+        non_striker: K Nestor
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 11.3:
+        non_striker: K Nestor
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 11.4:
+        non_striker: KJ Stagno
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Nestor
+    - 11.5:
+        non_striker: KJ Stagno
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 11.6:
+        non_striker: KJ Stagno
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 12.1:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 12.2:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 12.3:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 12.4:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 12.5:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 12.6:
+        non_striker: K Nestor
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 13.1:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: K Nestor
+          kind: bowled
+    - 13.2:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bodha
+    - 13.3:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 13.4:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 13.5:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 13.6:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 13.7:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 14.1:
+        non_striker: S Bodha
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 14.2:
+        non_striker: S Bodha
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 14.3:
+        non_striker: S Bodha
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 14.4:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 14.5:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bodha
+    - 14.6:
+        non_striker: KJ Stagno
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 15.1:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bodha
+    - 15.2:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 15.3:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 15.4:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 15.5:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 15.6:
+        non_striker: KJ Stagno
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 15.7:
+        non_striker: S Bodha
+        bowler: T Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 16.1:
+        non_striker: KJ Stagno
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 16.2:
+        non_striker: KJ Stagno
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 16.3:
+        non_striker: S Bodha
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 16.4:
+        non_striker: S Bodha
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+        wicket:
+          player_out: KJ Stagno
+          fielders:
+          - Anoop Orsu
+          kind: caught
+    - 16.5:
+        non_striker: S Bodha
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 16.6:
+        non_striker: JA Fitzgerald
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 17.1:
+        non_striker: JA Fitzgerald
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 17.2:
+        non_striker: JA Fitzgerald
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 17.3:
+        non_striker: S Bodha
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Fitzgerald
+    - 17.4:
+        non_striker: S Bodha
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+    - 17.5:
+        non_striker: S Bodha
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Fitzgerald
+    - 17.6:
+        non_striker: JA Fitzgerald
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+        wicket:
+          player_out: S Bodha
+          fielders:
+          - T Martin
+          kind: caught
+    - 18.1:
+        non_striker: K Mirpuri
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Fitzgerald
+        wicket:
+          player_out: JA Fitzgerald
+          fielders:
+          - A Nanda
+          kind: caught
+    - 18.2:
+        non_striker: K Mirpuri
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Horrocks
+    - 18.3:
+        non_striker: K Mirpuri
+        bowler: V Vijh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: J Horrocks
+    - 18.4:
+        non_striker: K Mirpuri
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Horrocks
+    - 18.5:
+        non_striker: K Mirpuri
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Horrocks
+        wicket:
+          player_out: J Horrocks
+          fielders:
+          - J Mees
+          kind: run out
+    - 18.6:
+        non_striker: K Mirpuri
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 18.7:
+        non_striker: A Reyes
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 19.1:
+        non_striker: A Reyes
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 19.2:
+        non_striker: K Mirpuri
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 19.3:
+        non_striker: A Reyes
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 19.4:
+        non_striker: K Mirpuri
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 19.5:
+        non_striker: K Mirpuri
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Reyes
+    - 19.6:
+        non_striker: K Mirpuri
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SKS Gill
+        batsman: TC Barker
+    - 0.2:
+        non_striker: TC Barker
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKS Gill
+    - 0.3:
+        non_striker: TC Barker
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 0.4:
+        non_striker: TC Barker
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 0.5:
+        non_striker: TC Barker
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 0.6:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Barker
+    - 0.7:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 1.1:
+        non_striker: TC Barker
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 1.2:
+        non_striker: TC Barker
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 1.3:
+        non_striker: SKS Gill
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 1.4:
+        non_striker: SKS Gill
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: K Nestor
+            out: BA Pai
+            reason: injury
+            role: bowler
+        batsman: TC Barker
+    - 1.5:
+        non_striker: TC Barker
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 1.6:
+        non_striker: SKS Gill
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 2.1:
+        non_striker: TC Barker
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 2.2:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Barker
+    - 2.3:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 2.4:
+        non_striker: TC Barker
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 2.5:
+        non_striker: TC Barker
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 2.6:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 3.1:
+        non_striker: TC Barker
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 3.2:
+        non_striker: TC Barker
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SKS Gill
+    - 3.3:
+        non_striker: TC Barker
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 3.4:
+        non_striker: SKS Gill
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TC Barker
+    - 3.5:
+        non_striker: TC Barker
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKS Gill
+    - 3.6:
+        non_striker: TC Barker
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 3.7:
+        non_striker: SKS Gill
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Barker
+    - 4.1:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 4.2:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          fielders:
+          - P Hatchman
+          kind: caught
+    - 4.3:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 4.4:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 4.5:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 4.6:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 5.1:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 5.2:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 5.3:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 5.4:
+        non_striker: V Vijh
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 5.5:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 5.6:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 6.1:
+        non_striker: V Vijh
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 6.2:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 6.3:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 6.4:
+        non_striker: V Vijh
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 6.5:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          fielders:
+          - KJ Stagno
+          - J Horrocks
+          kind: run out
+    - 6.6:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 7.1:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 7.2:
+        non_striker: Anoop Orsu
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 7.3:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anoop Orsu
+    - 7.4:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 7.5:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 7.6:
+        non_striker: Anoop Orsu
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 7.7:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 8.1:
+        non_striker: Anoop Orsu
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 8.2:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 8.3:
+        non_striker: Anoop Orsu
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 8.4:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 8.5:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+        wicket:
+          player_out: Anoop Orsu
+          fielders:
+          - P Hatchman
+          kind: caught
+    - 8.6:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 9.1:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 9.2:
+        non_striker: J Barker
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 9.3:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 9.4:
+        non_striker: J Barker
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 9.5:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 9.6:
+        non_striker: J Barker
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 10.1:
+        non_striker: J Barker
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 10.2:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Barker
+    - 10.3:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+        wicket:
+          player_out: J Barker
+          fielders:
+          - K Nestor
+          kind: caught
+    - 10.4:
+        non_striker: SKS Gill
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 10.5:
+        non_striker: T Martin
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 10.6:
+        non_striker: T Martin
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 11.1:
+        non_striker: T Martin
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 11.2:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Martin
+    - 11.3:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Martin
+    - 11.4:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Martin
+    - 11.5:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Martin
+    - 11.6:
+        non_striker: SKS Gill
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Martin
+    - 12.1:
+        non_striker: T Martin
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKS Gill
+    - 12.2:
+        non_striker: T Martin
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 12.3:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 12.4:
+        non_striker: T Martin
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 12.5:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 12.6:
+        non_striker: T Martin
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 13.1:
+        non_striker: T Martin
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 13.2:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Martin
+    - 13.3:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Martin
+    - 13.4:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 13.5:
+        non_striker: T Martin
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 13.6:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 14.1:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Martin
+    - 14.2:
+        non_striker: T Martin
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 14.3:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 14.4:
+        non_striker: T Martin
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 14.5:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Martin
+    - 14.6:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 15.1:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Martin
+    - 15.2:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Martin
+    - 15.3:
+        non_striker: T Martin
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 15.4:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Martin
+    - 15.5:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Martin
+        wicket:
+          player_out: T Martin
+          fielders:
+          - S Bodha
+          kind: caught
+    - 15.6:
+        non_striker: SKS Gill
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 15.7:
+        non_striker: J Mees
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKS Gill
+    - 16.1:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 16.2:
+        non_striker: J Mees
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 16.3:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 16.4:
+        non_striker: J Mees
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKS Gill
+    - 16.5:
+        non_striker: J Mees
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SKS Gill
+    - 16.6:
+        non_striker: J Mees
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SKS Gill
+    - 17.1:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 17.2:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mees
+    - 17.3:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 17.4:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 17.5:
+        non_striker: J Mees
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SKS Gill
+    - 17.6:
+        non_striker: SKS Gill
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Mees
+    - 17.7:
+        non_striker: J Mees
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 18.1:
+        non_striker: J Mees
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 18.2:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 18.3:
+        non_striker: SKS Gill
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+        wicket:
+          player_out: SKS Gill
+          fielders:
+          - L Bruce
+          - J Horrocks
+          kind: run out
+    - 18.4:
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Dixit
+        batsman: J Mees
+    - 18.5:
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Dixit
+        batsman: J Mees
+    - 18.6:
+        non_striker: M Dixit
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 19.1:
+        non_striker: M Dixit
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mees
+    - 19.2:
+        non_striker: M Dixit
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 19.3:
+        non_striker: J Mees
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dixit
+        wicket:
+          player_out: M Dixit
+          fielders:
+          - KJ Stagno
+          kind: caught
+    - 19.4:
+        non_striker: J Mees
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milad Momend
+    - 19.5:
+        non_striker: J Mees
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milad Momend
+    - 19.6:
+        non_striker: J Mees
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milad Momend
+        wicket:
+          player_out: Milad Momend
+          kind: bowled
+    - 19.7:
+        non_striker: J Mees
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Virdee

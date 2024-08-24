@@ -1,0 +1,1745 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-06-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Spinaceto
+  dates:
+  - '2024-06-13'
+  gender: male
+  match_type: T20
+  match_type_number: 2673
+  outcome:
+    winner: Romania
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - M Koli
+  players:
+    Hungary:
+    - Abbas Ghani
+    - V Ravindran
+    - HV Mandhyan
+    - Sheikh Rasik
+    - Abhishek Ahuja
+    - M Fontaine
+    - Ali Farasat
+    - Danyal Akbar
+    - Muhammad Burhan
+    - SA Mohandas
+    - Amal Jacob
+    Romania:
+    - Taranjeet Singh
+    - AN Lascu
+    - Muhammad Moiz
+    - V Saini
+    - S Vashisht
+    - Rameez Khan
+    - Ali Hussain
+    - A Rajshekara
+    - S Nadigotla
+    - P Hingorani
+    - M Koli
+  registry:
+    people:
+      A Rajshekara: 1f3e41fe
+      AN Lascu: e2c882d1
+      Abbas Ghani: a8f91f78
+      Abhishek Ahuja: 65cf74b4
+      Adeel Ashiq: e44cb88f
+      Ali Farasat: 5845b99b
+      Ali Hussain: b8fe81be
+      Amal Jacob: 5772882c
+      Danyal Akbar: 5757c506
+      G McCrea: 46f4a901
+      HV Mandhyan: 11f56b14
+      M Fontaine: 1339f52a
+      M Koli: eb0f2802
+      MJ Saggers: 402d5937
+      Muhammad Burhan: a92609f2
+      Muhammad Moiz: 906b7d48
+      P Hingorani: ecfdfbad
+      Rameez Khan: ee86a890
+      S Nadigotla: b78b3ffd
+      S Vashisht: 20ac8219
+      SA Mohandas: 8b0b3bba
+      Sheikh Rasik: 5f25b104
+      Taranjeet Singh: ec483176
+      V Ravindran: e5ecb1ef
+      V Saini: 0fa81719
+      WPM van Liemt: 2bd48588
+  teams:
+  - Hungary
+  - Romania
+  toss:
+    winner: Romania
+    decision: field
+  umpires:
+  - Adeel Ashiq
+  - WPM van Liemt
+  venue: Roma Cricket Ground
+innings:
+- 1st innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.2:
+        non_striker: Abbas Ghani
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ravindran
+    - 0.3:
+        non_striker: Abbas Ghani
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Ravindran
+    - 0.4:
+        non_striker: Abbas Ghani
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ravindran
+    - 0.5:
+        non_striker: Abbas Ghani
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ravindran
+    - 0.6:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 0.7:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+        wicket:
+          player_out: Abbas Ghani
+          kind: bowled
+    - 1.1:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HV Mandhyan
+        batsman: V Ravindran
+    - 1.2:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HV Mandhyan
+        batsman: V Ravindran
+    - 1.3:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HV Mandhyan
+        batsman: V Ravindran
+    - 1.4:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HV Mandhyan
+        batsman: V Ravindran
+    - 1.5:
+        non_striker: V Ravindran
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 1.6:
+        non_striker: HV Mandhyan
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ravindran
+    - 2.1:
+        non_striker: HV Mandhyan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 2.2:
+        non_striker: HV Mandhyan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 2.3:
+        non_striker: HV Mandhyan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ravindran
+    - 2.4:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 2.5:
+        non_striker: HV Mandhyan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ravindran
+    - 2.6:
+        non_striker: HV Mandhyan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ravindran
+    - 3.1:
+        non_striker: V Ravindran
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 3.2:
+        non_striker: V Ravindran
+        bowler: AN Lascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HV Mandhyan
+    - 3.3:
+        non_striker: V Ravindran
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+        wicket:
+          player_out: HV Mandhyan
+          fielders:
+          - S Nadigotla
+          - P Hingorani
+          kind: run out
+    - 3.4:
+        non_striker: V Ravindran
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheikh Rasik
+    - 3.5:
+        non_striker: Sheikh Rasik
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 3.6:
+        non_striker: Sheikh Rasik
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 3.7:
+        non_striker: Sheikh Rasik
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Ravindran
+    - 4.1:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 4.2:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 4.3:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 4.4:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 4.5:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 4.6:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheikh Rasik
+    - 5.1:
+        non_striker: V Ravindran
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 5.2:
+        non_striker: V Ravindran
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 5.3:
+        non_striker: V Ravindran
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 5.4:
+        non_striker: V Ravindran
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 5.5:
+        non_striker: V Ravindran
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 5.6:
+        non_striker: V Ravindran
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+    - 6.1:
+        non_striker: Sheikh Rasik
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ravindran
+    - 6.2:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sheikh Rasik
+    - 6.3:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheikh Rasik
+        wicket:
+          player_out: Sheikh Rasik
+          kind: hit wicket
+    - 6.4:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 6.5:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+        wicket:
+          player_out: Abhishek Ahuja
+          kind: bowled
+    - 6.6:
+        non_striker: V Ravindran
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Fontaine
+    - 7.1:
+        non_striker: M Fontaine
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 7.2:
+        non_striker: M Fontaine
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ravindran
+    - 7.3:
+        non_striker: M Fontaine
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Ravindran
+    - 7.4:
+        non_striker: M Fontaine
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 7.5:
+        non_striker: M Fontaine
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+    - 7.6:
+        non_striker: M Fontaine
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ravindran
+    - 8.1:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Fontaine
+        wicket:
+          player_out: M Fontaine
+          kind: bowled
+    - 8.2:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Farasat
+    - 8.3:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 8.4:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 8.5:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Farasat
+    - 8.6:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 8.7:
+        non_striker: Ali Farasat
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+        wicket:
+          player_out: V Ravindran
+          kind: lbw
+    - 9.1:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Danyal Akbar
+        batsman: Ali Farasat
+    - 9.2:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Danyal Akbar
+        batsman: Ali Farasat
+    - 9.3:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Danyal Akbar
+        batsman: Ali Farasat
+    - 9.4:
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Danyal Akbar
+        batsman: Ali Farasat
+    - 9.5:
+        non_striker: Ali Farasat
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Danyal Akbar
+    - 9.6:
+        non_striker: Ali Farasat
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Danyal Akbar
+    - 10.1:
+        non_striker: Danyal Akbar
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 10.2:
+        non_striker: Ali Farasat
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 10.3:
+        non_striker: Ali Farasat
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 10.4:
+        non_striker: Danyal Akbar
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 10.5:
+        non_striker: Ali Farasat
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 10.6:
+        non_striker: Danyal Akbar
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 11.1:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 11.2:
+        non_striker: Ali Farasat
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 11.3:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Farasat
+    - 11.4:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Farasat
+    - 11.5:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Farasat
+    - 11.6:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 12.1:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Farasat
+    - 12.2:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 12.3:
+        non_striker: Ali Farasat
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 12.4:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 12.5:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 12.6:
+        non_striker: Ali Farasat
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 13.1:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Farasat
+    - 13.2:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 13.3:
+        non_striker: Ali Farasat
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 13.4:
+        non_striker: Ali Farasat
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 13.5:
+        non_striker: Ali Farasat
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 13.6:
+        non_striker: Ali Farasat
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 14.1:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 14.2:
+        non_striker: Ali Farasat
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 14.3:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 14.4:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Farasat
+    - 14.5:
+        non_striker: Danyal Akbar
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 14.6:
+        non_striker: Ali Farasat
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 15.1:
+        non_striker: Ali Farasat
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Danyal Akbar
+    - 15.2:
+        non_striker: Ali Farasat
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 15.3:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Farasat
+    - 15.4:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+        wicket:
+          player_out: Ali Farasat
+          fielders:
+          - S Nadigotla
+          kind: caught
+    - 15.5:
+        non_striker: Danyal Akbar
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Burhan
+    - 15.6:
+        non_striker: Muhammad Burhan
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 15.7:
+        non_striker: Muhammad Burhan
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 16.1:
+        non_striker: Danyal Akbar
+        bowler: M Koli
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Muhammad Burhan
+    - 16.2:
+        non_striker: Danyal Akbar
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Burhan
+    - 16.3:
+        non_striker: Muhammad Burhan
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Danyal Akbar
+    - 16.4:
+        non_striker: Muhammad Burhan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 16.5:
+        non_striker: Danyal Akbar
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Burhan
+    - 16.6:
+        non_striker: Danyal Akbar
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Burhan
+        wicket:
+          player_out: Muhammad Burhan
+          fielders:
+          - Muhammad Moiz
+          kind: caught
+    - 16.7:
+        non_striker: Danyal Akbar
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mohandas
+        wicket:
+          player_out: SA Mohandas
+          kind: bowled
+    - 16.8:
+        non_striker: Danyal Akbar
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Amal Jacob
+    - 17.1:
+        non_striker: Danyal Akbar
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amal Jacob
+    - 17.2:
+        non_striker: Amal Jacob
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Akbar
+    - 17.3:
+        non_striker: Danyal Akbar
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 17.4:
+        non_striker: Danyal Akbar
+        bowler: AN Lascu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amal Jacob
+    - 17.5:
+        non_striker: Danyal Akbar
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 17.6:
+        non_striker: Danyal Akbar
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amal Jacob
+    - 17.7:
+        non_striker: Danyal Akbar
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 18.1:
+        non_striker: Amal Jacob
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+    - 18.2:
+        non_striker: Amal Jacob
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Akbar
+        wicket:
+          player_out: Danyal Akbar
+          fielders:
+          - S Nadigotla
+          kind: caught
+- 2nd innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AN Lascu
+        batsman: Taranjeet Singh
+    - 0.2:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AN Lascu
+        batsman: Taranjeet Singh
+    - 0.3:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AN Lascu
+        batsman: Taranjeet Singh
+    - 0.4:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AN Lascu
+        batsman: Taranjeet Singh
+    - 0.5:
+        non_striker: Taranjeet Singh
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 0.6:
+        non_striker: Taranjeet Singh
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 0.7:
+        non_striker: AN Lascu
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taranjeet Singh
+    - 1.1:
+        non_striker: Taranjeet Singh
+        bowler: Abbas Ghani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Lascu
+    - 1.2:
+        non_striker: Taranjeet Singh
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 1.3:
+        non_striker: Taranjeet Singh
+        bowler: Abbas Ghani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Lascu
+    - 1.4:
+        non_striker: Taranjeet Singh
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 1.5:
+        non_striker: Taranjeet Singh
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 1.6:
+        non_striker: AN Lascu
+        bowler: Abbas Ghani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taranjeet Singh
+    - 1.7:
+        non_striker: AN Lascu
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 1.8:
+        non_striker: AN Lascu
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taranjeet Singh
+    - 1.9:
+        non_striker: AN Lascu
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taranjeet Singh
+    - 2.1:
+        non_striker: Taranjeet Singh
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 2.2:
+        non_striker: Taranjeet Singh
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 2.3:
+        non_striker: Taranjeet Singh
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 2.4:
+        non_striker: AN Lascu
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 2.5:
+        non_striker: AN Lascu
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 2.6:
+        non_striker: AN Lascu
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 3.1:
+        non_striker: Taranjeet Singh
+        bowler: Sheikh Rasik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AN Lascu
+    - 3.2:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 3.3:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+        wicket:
+          player_out: Taranjeet Singh
+          fielders:
+          - Abhishek Ahuja
+          kind: caught
+    - 3.4:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 3.5:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Moiz
+    - 3.6:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 3.7:
+        non_striker: Muhammad Moiz
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 4.1:
+        non_striker: AN Lascu
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 4.2:
+        non_striker: AN Lascu
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 4.3:
+        non_striker: Muhammad Moiz
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 4.4:
+        non_striker: Muhammad Moiz
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 4.5:
+        non_striker: Muhammad Moiz
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 4.6:
+        non_striker: Muhammad Moiz
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 5.1:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Moiz
+    - 5.2:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 5.3:
+        non_striker: Muhammad Moiz
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 5.4:
+        non_striker: Muhammad Moiz
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 5.5:
+        non_striker: Muhammad Moiz
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AN Lascu
+    - 5.6:
+        non_striker: Muhammad Moiz
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 6.1:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 6.2:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 6.3:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 6.4:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 6.5:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Moiz
+    - 6.6:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 6.7:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 7.1:
+        non_striker: AN Lascu
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 7.2:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 7.3:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 7.4:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AN Lascu
+    - 7.5:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 7.6:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 8.1:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Muhammad Moiz
+    - 8.2:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 8.3:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 8.4:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 8.5:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 8.6:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 9.1:
+        non_striker: AN Lascu
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 9.2:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Lascu
+    - 9.3:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 9.4:
+        non_striker: AN Lascu
+        bowler: Amal Jacob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Moiz
+    - 9.5:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 9.6:
+        non_striker: Muhammad Moiz
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 10.1:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 10.2:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Muhammad Moiz
+    - 10.3:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 10.4:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 10.5:
+        non_striker: AN Lascu
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 10.6:
+        non_striker: Muhammad Moiz
+        bowler: Muhammad Burhan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Lascu
+    - 11.1:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+        wicket:
+          player_out: Muhammad Moiz
+          fielders:
+          - Danyal Akbar
+          kind: caught
+    - 11.2:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 11.3:
+        non_striker: V Saini
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 11.4:
+        non_striker: V Saini
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 11.5:
+        non_striker: AN Lascu
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 11.6:
+        non_striker: V Saini
+        bowler: Sheikh Rasik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+    - 12.1:
+        non_striker: AN Lascu
+        bowler: M Fontaine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini

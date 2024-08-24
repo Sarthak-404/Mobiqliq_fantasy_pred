@@ -1,0 +1,2166 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2023-07-23'
+  gender: male
+  match_type: T20
+  match_type_number: 2158
+  outcome:
+    winner: Italy
+    by:
+      runs: 25
+  overs: 20
+  player_of_match:
+  - WL Madsen
+  players:
+    Italy:
+    - J Mosca
+    - BAD Manenti
+    - WL Madsen
+    - AJ Mosca
+    - G Stewart
+    - M Campopiano
+    - HJ Manenti
+    - GP Meade
+    - GK Berg
+    - Jaspreet Singh
+    - CJPF Kalugamage
+    Jersey:
+    - H Carlyon
+    - J Sumerauer
+    - NA Greenwood
+    - AM Tribe
+    - JW Jenner
+    - B Ward
+    - JAD Lawrenson
+    - C Brennan
+    - DG Blampied
+    - CW Perchard
+    - EJB Miles
+  registry:
+    people:
+      AJ Mosca: 19c56e6e
+      AM Tribe: 86f84b37
+      B Ward: 9e0bd203
+      BAD Manenti: ab21795b
+      C Brennan: 80f9fd4f
+      CJPF Kalugamage: 31c04b7b
+      CW Perchard: 9f998ed8
+      DA Haggo: e6789a88
+      DG Blampied: d8976cb7
+      EJB Miles: 6b46ce43
+      G Stewart: a77472dc
+      GK Berg: '42151725'
+      GP Meade: 3957a70a
+      H Carlyon: 42bf1b7d
+      HJ Manenti: 0e56c514
+      J Jensen: fc80e7a2
+      J Mosca: 8f02f6a8
+      J Sumerauer: 0b581ed6
+      JAD Lawrenson: c810b349
+      JW Jenner: 32a8161e
+      Jaspreet Singh: d76ab352
+      M Campopiano: 26d80a9d
+      N Bathi: 96a0edf9
+      NA Greenwood: 7ca68967
+      Phil Whitticase: 99d5f6fa
+      WL Madsen: 86e0f3f0
+  teams:
+  - Italy
+  - Jersey
+  toss:
+    winner: Jersey
+    decision: field
+  umpires:
+  - DA Haggo
+  - J Jensen
+  venue: Goldenacre, Edinburgh
+innings:
+- 1st innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.2:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.3:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.4:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.5:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.6:
+        non_striker: J Mosca
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 1.1:
+        non_striker: J Mosca
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 1.2:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 1.3:
+        non_striker: J Mosca
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 1.4:
+        non_striker: J Mosca
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 1.5:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 1.6:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 2.1:
+        non_striker: BAD Manenti
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 2.2:
+        non_striker: BAD Manenti
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.3:
+        non_striker: BAD Manenti
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.4:
+        non_striker: BAD Manenti
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 2.5:
+        non_striker: BAD Manenti
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 2.6:
+        non_striker: J Mosca
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 3.1:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 3.2:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 3.3:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Mosca
+    - 3.4:
+        non_striker: J Mosca
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 3.5:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 3.6:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 4.1:
+        non_striker: BAD Manenti
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mosca
+    - 4.2:
+        non_striker: BAD Manenti
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.3:
+        non_striker: BAD Manenti
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.4:
+        non_striker: BAD Manenti
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.5:
+        non_striker: BAD Manenti
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.6:
+        non_striker: BAD Manenti
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 4.7:
+        non_striker: J Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 5.1:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 5.2:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 5.3:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 5.4:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 5.5:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mosca
+    - 5.6:
+        non_striker: BAD Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 6.1:
+        non_striker: J Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 6.2:
+        non_striker: J Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 6.3:
+        non_striker: BAD Manenti
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 6.4:
+        non_striker: J Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 6.5:
+        non_striker: J Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 6.6:
+        non_striker: J Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 7.1:
+        non_striker: J Mosca
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 7.2:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 7.3:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 7.4:
+        non_striker: J Mosca
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 7.5:
+        non_striker: J Mosca
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 7.6:
+        non_striker: BAD Manenti
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 8.1:
+        non_striker: BAD Manenti
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 8.2:
+        non_striker: J Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+        wicket:
+          player_out: BAD Manenti
+          kind: bowled
+    - 8.3:
+        non_striker: J Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 8.4:
+        non_striker: J Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 8.5:
+        non_striker: J Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 8.6:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+        wicket:
+          player_out: J Mosca
+          fielders:
+          - J Sumerauer
+          kind: caught
+    - 9.1:
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AJ Mosca
+        batsman: WL Madsen
+    - 9.2:
+        non_striker: WL Madsen
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 9.3:
+        non_striker: AJ Mosca
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WL Madsen
+    - 9.4:
+        non_striker: AJ Mosca
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 9.5:
+        non_striker: AJ Mosca
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 9.6:
+        non_striker: WL Madsen
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 10.1:
+        non_striker: AJ Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 10.2:
+        non_striker: AJ Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 10.3:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 10.4:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 10.5:
+        non_striker: AJ Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 10.6:
+        non_striker: AJ Mosca
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WL Madsen
+    - 11.1:
+        non_striker: WL Madsen
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 11.2:
+        non_striker: AJ Mosca
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 11.3:
+        non_striker: WL Madsen
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 11.4:
+        non_striker: WL Madsen
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 11.5:
+        non_striker: AJ Mosca
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 11.6:
+        non_striker: WL Madsen
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 12.1:
+        non_striker: WL Madsen
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 12.2:
+        non_striker: AJ Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WL Madsen
+    - 12.3:
+        non_striker: AJ Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 12.4:
+        non_striker: AJ Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 12.5:
+        non_striker: WL Madsen
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 12.6:
+        non_striker: AJ Mosca
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 13.1:
+        non_striker: AJ Mosca
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 13.2:
+        non_striker: WL Madsen
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 13.3:
+        non_striker: AJ Mosca
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 13.4:
+        non_striker: WL Madsen
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+        wicket:
+          player_out: AJ Mosca
+          fielders:
+          - C Brennan
+          kind: caught
+    - 13.5:
+        non_striker: WL Madsen
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+        wicket:
+          player_out: G Stewart
+          kind: bowled
+    - 13.6:
+        non_striker: WL Madsen
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 14.1:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 14.2:
+        non_striker: M Campopiano
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 14.3:
+        non_striker: M Campopiano
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 14.4:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 14.5:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 14.6:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Campopiano
+    - 15.1:
+        non_striker: M Campopiano
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WL Madsen
+    - 15.2:
+        non_striker: M Campopiano
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 15.3:
+        non_striker: M Campopiano
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 15.4:
+        non_striker: WL Madsen
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 15.5:
+        non_striker: M Campopiano
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 15.6:
+        non_striker: WL Madsen
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Campopiano
+    - 16.1:
+        non_striker: M Campopiano
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 16.2:
+        non_striker: M Campopiano
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 16.3:
+        non_striker: WL Madsen
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 16.4:
+        non_striker: M Campopiano
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WL Madsen
+    - 16.5:
+        non_striker: M Campopiano
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 16.6:
+        non_striker: M Campopiano
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+        wicket:
+          player_out: WL Madsen
+          fielders:
+          - JW Jenner
+          kind: caught
+    - 17.1:
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: HJ Manenti
+        batsman: M Campopiano
+    - 17.2:
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: HJ Manenti
+        batsman: M Campopiano
+    - 17.3:
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HJ Manenti
+        batsman: M Campopiano
+    - 17.4:
+        non_striker: M Campopiano
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 17.5:
+        non_striker: HJ Manenti
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 17.6:
+        non_striker: M Campopiano
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          kind: bowled
+    - 18.1:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GP Meade
+        batsman: M Campopiano
+    - 18.2:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GP Meade
+        batsman: M Campopiano
+    - 18.3:
+        non_striker: M Campopiano
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+        wicket:
+          player_out: GP Meade
+          fielders:
+          - AM Tribe
+          kind: run out
+    - 18.4:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GK Berg
+        batsman: M Campopiano
+    - 18.5:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GK Berg
+        batsman: M Campopiano
+    - 18.6:
+        non_striker: GK Berg
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 19.1:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Campopiano
+    - 19.2:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Campopiano
+    - 19.3:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Campopiano
+    - 19.4:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Campopiano
+    - 19.5:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+        wicket:
+          player_out: M Campopiano
+          fielders:
+          - NA Greenwood
+          kind: caught
+    - 19.6:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jaspreet Singh
+- 2nd innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Sumerauer
+        batsman: H Carlyon
+    - 0.2:
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Sumerauer
+        batsman: H Carlyon
+    - 0.3:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Sumerauer
+    - 0.4:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 0.5:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 0.6:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 1.1:
+        non_striker: H Carlyon
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Sumerauer
+    - 1.2:
+        non_striker: H Carlyon
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+        wicket:
+          player_out: J Sumerauer
+          fielders:
+          - M Campopiano
+          kind: caught
+    - 1.3:
+        non_striker: H Carlyon
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 1.4:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Carlyon
+    - 1.5:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Carlyon
+    - 1.6:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 1.7:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Carlyon
+    - 1.8:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 1.9:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.1:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 2.2:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA Greenwood
+    - 2.3:
+        non_striker: NA Greenwood
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.4:
+        non_striker: NA Greenwood
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 2.5:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 2.6:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 3.1:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 3.2:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 3.3:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.4:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 3.5:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 3.6:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 4.1:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.2:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Tribe
+    - 4.3:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.4:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.5:
+        non_striker: NA Greenwood
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 4.6:
+        non_striker: AM Tribe
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 4.7:
+        non_striker: AM Tribe
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 5.1:
+        non_striker: AM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 5.2:
+        non_striker: NA Greenwood
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 5.3:
+        non_striker: NA Greenwood
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.4:
+        non_striker: NA Greenwood
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.5:
+        non_striker: NA Greenwood
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 5.6:
+        non_striker: AM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 6.1:
+        non_striker: NA Greenwood
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 6.2:
+        non_striker: AM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 6.3:
+        non_striker: AM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 6.4:
+        non_striker: AM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 6.5:
+        non_striker: AM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 6.6:
+        non_striker: NA Greenwood
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.1:
+        non_striker: NA Greenwood
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.2:
+        non_striker: AM Tribe
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 7.3:
+        non_striker: NA Greenwood
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 7.4:
+        non_striker: NA Greenwood
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 7.5:
+        non_striker: NA Greenwood
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Tribe
+    - 7.6:
+        non_striker: NA Greenwood
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.7:
+        non_striker: AM Tribe
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NA Greenwood
+    - 8.1:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 8.2:
+        non_striker: NA Greenwood
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 8.3:
+        non_striker: NA Greenwood
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 8.4:
+        non_striker: NA Greenwood
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 8.5:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 8.6:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 9.1:
+        non_striker: AM Tribe
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 9.2:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 9.3:
+        non_striker: AM Tribe
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 9.4:
+        non_striker: AM Tribe
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 9.5:
+        non_striker: AM Tribe
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 9.6:
+        non_striker: NA Greenwood
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 10.1:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 10.2:
+        non_striker: NA Greenwood
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.3:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - CJPF Kalugamage
+          kind: caught
+    - 10.4:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 10.5:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 10.6:
+        non_striker: AM Tribe
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 11.1:
+        non_striker: JW Jenner
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 11.2:
+        non_striker: JW Jenner
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+        wicket:
+          player_out: AM Tribe
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 11.3:
+        non_striker: JW Jenner
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 11.4:
+        non_striker: B Ward
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 11.5:
+        non_striker: B Ward
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: JW Jenner
+    - 11.6:
+        non_striker: JW Jenner
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 12.1:
+        non_striker: JW Jenner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 12.2:
+        non_striker: JW Jenner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 12.3:
+        non_striker: JW Jenner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 12.4:
+        non_striker: B Ward
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 12.5:
+        non_striker: B Ward
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 12.6:
+        non_striker: JW Jenner
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 13.1:
+        non_striker: JW Jenner
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 13.2:
+        non_striker: B Ward
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JW Jenner
+    - 13.3:
+        non_striker: B Ward
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 13.4:
+        non_striker: JW Jenner
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 13.5:
+        non_striker: JW Jenner
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ward
+    - 13.6:
+        non_striker: JW Jenner
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 14.1:
+        non_striker: B Ward
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 14.2:
+        non_striker: JW Jenner
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 14.3:
+        non_striker: B Ward
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JW Jenner
+    - 14.4:
+        non_striker: B Ward
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 14.5:
+        non_striker: JW Jenner
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+        wicket:
+          player_out: B Ward
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 14.6:
+        non_striker: JW Jenner
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 15.1:
+        non_striker: JW Jenner
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 15.2:
+        non_striker: JW Jenner
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 15.3:
+        non_striker: JAD Lawrenson
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 15.4:
+        non_striker: JW Jenner
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JAD Lawrenson
+    - 15.5:
+        non_striker: JW Jenner
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 15.6:
+        non_striker: JAD Lawrenson
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          fielders:
+          - BAD Manenti
+          kind: caught
+    - 16.1:
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Brennan
+        batsman: JAD Lawrenson
+    - 16.2:
+        non_striker: JAD Lawrenson
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 16.3:
+        non_striker: C Brennan
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 16.4:
+        non_striker: JAD Lawrenson
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 16.5:
+        non_striker: JAD Lawrenson
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 16.6:
+        non_striker: C Brennan
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 17.1:
+        non_striker: C Brennan
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 17.2:
+        non_striker: C Brennan
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 17.3:
+        non_striker: JAD Lawrenson
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 17.4:
+        non_striker: JAD Lawrenson
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+        wicket:
+          player_out: C Brennan
+          fielders:
+          - WL Madsen
+          kind: caught
+    - 17.5:
+        non_striker: JAD Lawrenson
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Blampied
+    - 17.6:
+        non_striker: JAD Lawrenson
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Blampied
+    - 18.1:
+        non_striker: DG Blampied
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 18.2:
+        non_striker: JAD Lawrenson
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Blampied
+        wicket:
+          player_out: DG Blampied
+          kind: lbw
+    - 18.3:
+        non_striker: JAD Lawrenson
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 18.4:
+        non_striker: CW Perchard
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 18.5:
+        non_striker: JAD Lawrenson
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 18.6:
+        non_striker: CW Perchard
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JAD Lawrenson
+    - 18.7:
+        non_striker: JAD Lawrenson
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 19.1:
+        non_striker: JAD Lawrenson
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+    - 19.2:
+        non_striker: JAD Lawrenson
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+    - 19.3:
+        non_striker: JAD Lawrenson
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+    - 19.4:
+        non_striker: JAD Lawrenson
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CW Perchard
+    - 19.5:
+        non_striker: JAD Lawrenson
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+        wicket:
+          player_out: CW Perchard
+          fielders:
+          - Jaspreet Singh
+          kind: caught
+    - 19.6:
+        non_striker: JAD Lawrenson
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+        wicket:
+          player_out: EJB Miles
+          kind: caught and bowled

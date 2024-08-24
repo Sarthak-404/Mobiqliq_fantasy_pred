@@ -1,0 +1,2357 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-17'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-11-17'
+  gender: male
+  match_type: T20
+  match_type_number: 1886
+  outcome:
+    winner: Lesotho
+    by:
+      runs: 31
+  overs: 20
+  player_of_match:
+  - LM Gabriel
+  players:
+    Lesotho:
+    - Maaz Khan
+    - C Tlali
+    - Sameer Patel
+    - LM Gabriel
+    - Waseem Yaqoob
+    - Khan Arbaaz
+    - YYM Jakda
+    - ME Leoela
+    - TD Chaoana
+    - MV Matsau
+    - TG Thamae
+    Mali:
+    - M Sidibe
+    - Mohamed Coulibaly
+    - D Traore
+    - MS Diawara
+    - MT Diaby
+    - CA Keita
+    - TM Macalou
+    - SG Diaby
+    - MS Diakite
+    - S Kamate
+    - L Sanogo
+  registry:
+    people:
+      C Tlali: 70841eab
+      CA Keita: 5b9b8d98
+      D Odhiambo: '45994517'
+      D Traore: 273be75a
+      IO Oyieko: de4828fa
+      Khan Arbaaz: b84be97f
+      L Sanogo: abbc06cf
+      LM Gabriel: 88a5adcf
+      M Sidibe: 78091b14
+      ME Leoela: 3b107df5
+      MS Diakite: 69795fcd
+      MS Diawara: 8c95e2dd
+      MT Diaby: 5d00cd6f
+      MV Matsau: dad64776
+      Maaz Khan: 6f14ddcb
+      Mohamed Coulibaly: 86ea6123
+      R D'Mello: f3c22863
+      S Kamate: d7af6207
+      S Wadvalla: c1a1acf3
+      SG Diaby: fe3e9880
+      Sameer Patel: 2bae86b6
+      TD Chaoana: 16ddd36b
+      TG Thamae: d08fe309
+      TM Macalou: 8a9320a1
+      Waseem Yaqoob: 06b387f1
+      YYM Jakda: 2e3dc859
+  teams:
+  - Lesotho
+  - Mali
+  toss:
+    winner: Mali
+    decision: field
+  umpires:
+  - IO Oyieko
+  - R D'Mello
+  venue: Integrated Polytechnic Regional Centre
+innings:
+- 1st innings:
+    team: Lesotho
+    deliveries:
+    - 0.1:
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Tlali
+        batsman: Maaz Khan
+    - 0.2:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+        wicket:
+          player_out: Maaz Khan
+          fielders:
+          - Mohamed Coulibaly
+          kind: caught
+    - 0.3:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameer Patel
+    - 0.4:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Patel
+    - 0.5:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tlali
+    - 0.6:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tlali
+    - 0.7:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 0.8:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 0.9:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 1.1:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameer Patel
+    - 1.2:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sameer Patel
+    - 1.3:
+        non_striker: Sameer Patel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 1.4:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 1.5:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 1.6:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 2.1:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 2.2:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tlali
+    - 2.3:
+        non_striker: Sameer Patel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 2.4:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 2.5:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sameer Patel
+    - 2.6:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 2.7:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 2.8:
+        non_striker: C Tlali
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Patel
+    - 3.1:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sameer Patel
+    - 3.2:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Sameer Patel
+    - 3.3:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 3.4:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 3.5:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Patel
+    - 3.6:
+        non_striker: Sameer Patel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 3.7:
+        non_striker: C Tlali
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameer Patel
+    - 4.1:
+        non_striker: Sameer Patel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tlali
+    - 4.2:
+        non_striker: Sameer Patel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 4.3:
+        non_striker: C Tlali
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+    - 4.4:
+        non_striker: C Tlali
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+        wicket:
+          player_out: Sameer Patel
+          fielders:
+          - L Sanogo
+          kind: caught
+    - 4.5:
+        non_striker: C Tlali
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 4.6:
+        non_striker: C Tlali
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Gabriel
+    - 4.7:
+        non_striker: C Tlali
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Gabriel
+    - 5.1:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tlali
+    - 5.2:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tlali
+    - 5.3:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tlali
+    - 5.4:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 5.5:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+        wicket:
+          player_out: C Tlali
+          fielders:
+          - S Kamate
+          kind: caught
+    - 5.6:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 6.1:
+        non_striker: Waseem Yaqoob
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: LM Gabriel
+    - 6.2:
+        non_striker: Waseem Yaqoob
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 6.3:
+        non_striker: Waseem Yaqoob
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Gabriel
+    - 6.4:
+        non_striker: Waseem Yaqoob
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 6.5:
+        non_striker: LM Gabriel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 6.6:
+        non_striker: LM Gabriel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 6.7:
+        non_striker: LM Gabriel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Yaqoob
+    - 6.8:
+        non_striker: LM Gabriel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 7.1:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 7.2:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 7.3:
+        non_striker: Waseem Yaqoob
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 7.4:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Yaqoob
+    - 7.5:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 7.6:
+        non_striker: Waseem Yaqoob
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 8.1:
+        non_striker: Waseem Yaqoob
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 8.2:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Yaqoob
+    - 8.3:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Waseem Yaqoob
+    - 8.4:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Yaqoob
+    - 8.5:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Waseem Yaqoob
+    - 8.6:
+        non_striker: Waseem Yaqoob
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Gabriel
+    - 8.7:
+        non_striker: Waseem Yaqoob
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Gabriel
+    - 8.8:
+        non_striker: Waseem Yaqoob
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Gabriel
+    - 8.9:
+        non_striker: Waseem Yaqoob
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 9.1:
+        non_striker: Waseem Yaqoob
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 9.2:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 9.3:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 9.4:
+        non_striker: Waseem Yaqoob
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 9.5:
+        non_striker: Waseem Yaqoob
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 9.6:
+        non_striker: Waseem Yaqoob
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 10.1:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Yaqoob
+    - 10.2:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 10.3:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 10.4:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 10.5:
+        non_striker: Waseem Yaqoob
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 10.6:
+        non_striker: Waseem Yaqoob
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 10.7:
+        non_striker: LM Gabriel
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Yaqoob
+    - 11.1:
+        non_striker: Waseem Yaqoob
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 11.2:
+        non_striker: Waseem Yaqoob
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 11.3:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 11.4:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 11.5:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 11.6:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Yaqoob
+    - 12.1:
+        non_striker: Waseem Yaqoob
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 12.2:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+        wicket:
+          player_out: Waseem Yaqoob
+          kind: bowled
+    - 12.3:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+    - 12.4:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+    - 12.5:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khan Arbaaz
+    - 12.6:
+        non_striker: Khan Arbaaz
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 13.1:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 13.2:
+        non_striker: Khan Arbaaz
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 13.3:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+    - 13.4:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khan Arbaaz
+    - 13.5:
+        non_striker: Khan Arbaaz
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 13.6:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 14.1:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 14.2:
+        non_striker: Khan Arbaaz
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 14.3:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+    - 14.4:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 14.5:
+        non_striker: Khan Arbaaz
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 14.6:
+        non_striker: LM Gabriel
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 15.1:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khan Arbaaz
+    - 15.2:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 15.3:
+        non_striker: Khan Arbaaz
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Gabriel
+    - 15.4:
+        non_striker: Khan Arbaaz
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 15.5:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+    - 15.6:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 16.1:
+        non_striker: LM Gabriel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+    - 16.2:
+        non_striker: LM Gabriel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+    - 16.3:
+        non_striker: LM Gabriel
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 16.4:
+        non_striker: Khan Arbaaz
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Gabriel
+    - 16.5:
+        non_striker: Khan Arbaaz
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Gabriel
+    - 16.6:
+        non_striker: Khan Arbaaz
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 16.7:
+        non_striker: Khan Arbaaz
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Gabriel
+    - 17.1:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khan Arbaaz
+    - 17.2:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khan Arbaaz
+    - 17.3:
+        non_striker: Khan Arbaaz
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 17.4:
+        non_striker: Khan Arbaaz
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Gabriel
+    - 17.5:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khan Arbaaz
+        wicket:
+          player_out: Khan Arbaaz
+          kind: bowled
+    - 17.6:
+        non_striker: LM Gabriel
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YYM Jakda
+        wicket:
+          player_out: YYM Jakda
+          kind: lbw
+    - 18.1:
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ME Leoela
+        batsman: LM Gabriel
+    - 18.2:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Leoela
+    - 18.3:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Leoela
+    - 18.4:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Leoela
+    - 18.5:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Leoela
+    - 18.6:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Leoela
+    - 18.7:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Leoela
+    - 18.8:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Leoela
+    - 18.9:
+        non_striker: LM Gabriel
+        bowler: MS Diawara
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: ME Leoela
+    - 18.10:
+        non_striker: ME Leoela
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+    - 19.1:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Leoela
+    - 19.2:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Leoela
+    - 19.3:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Leoela
+    - 19.4:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Leoela
+    - 19.5:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Leoela
+    - 19.6:
+        non_striker: LM Gabriel
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ME Leoela
+    - 19.7:
+        non_striker: ME Leoela
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Gabriel
+    - 19.8:
+        non_striker: ME Leoela
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LM Gabriel
+- 2nd innings:
+    team: Mali
+    deliveries:
+    - 0.1:
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Coulibaly
+        batsman: M Sidibe
+    - 0.2:
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Coulibaly
+        batsman: M Sidibe
+    - 0.3:
+        non_striker: Mohamed Coulibaly
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sidibe
+        wicket:
+          player_out: M Sidibe
+          fielders:
+          - TG Thamae
+          kind: caught
+    - 0.4:
+        non_striker: Mohamed Coulibaly
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Traore
+    - 0.5:
+        non_striker: Mohamed Coulibaly
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Traore
+    - 0.6:
+        non_striker: Mohamed Coulibaly
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Traore
+    - 0.7:
+        non_striker: Mohamed Coulibaly
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Traore
+    - 1.1:
+        non_striker: D Traore
+        bowler: Khan Arbaaz
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Mohamed Coulibaly
+    - 1.2:
+        non_striker: Mohamed Coulibaly
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Traore
+        wicket:
+          player_out: Mohamed Coulibaly
+          fielders:
+          - Khan Arbaaz
+          - TD Chaoana
+          kind: run out
+    - 1.3:
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MS Diawara
+        batsman: D Traore
+    - 1.4:
+        non_striker: D Traore
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diawara
+    - 1.5:
+        non_striker: MS Diawara
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Traore
+    - 1.6:
+        non_striker: MS Diawara
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Traore
+    - 1.7:
+        non_striker: MS Diawara
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Traore
+    - 2.1:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Traore
+    - 2.2:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Traore
+    - 2.3:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Traore
+    - 2.4:
+        non_striker: D Traore
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Diawara
+    - 2.5:
+        non_striker: D Traore
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 2.6:
+        non_striker: D Traore
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 2.7:
+        non_striker: D Traore
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 2.8:
+        non_striker: D Traore
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diawara
+    - 3.1:
+        non_striker: D Traore
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diawara
+    - 3.2:
+        non_striker: MS Diawara
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Traore
+    - 3.3:
+        non_striker: MS Diawara
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Traore
+        wicket:
+          player_out: D Traore
+          kind: lbw
+    - 3.4:
+        non_striker: MS Diawara
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Diaby
+    - 3.5:
+        non_striker: MT Diaby
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 3.6:
+        non_striker: MT Diaby
+        bowler: Khan Arbaaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 4.1:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 4.2:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 4.3:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+        wicket:
+          player_out: MT Diaby
+          kind: bowled
+    - 4.4:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 4.5:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Keita
+    - 4.6:
+        non_striker: MS Diawara
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 5.1:
+        non_striker: CA Keita
+        bowler: LM Gabriel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Diawara
+    - 5.2:
+        non_striker: CA Keita
+        bowler: LM Gabriel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diawara
+    - 5.3:
+        non_striker: MS Diawara
+        bowler: LM Gabriel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 5.4:
+        non_striker: MS Diawara
+        bowler: LM Gabriel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Keita
+    - 5.5:
+        non_striker: CA Keita
+        bowler: LM Gabriel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diawara
+    - 5.6:
+        non_striker: MS Diawara
+        bowler: LM Gabriel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Keita
+    - 5.7:
+        non_striker: MS Diawara
+        bowler: LM Gabriel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Keita
+    - 5.8:
+        non_striker: MS Diawara
+        bowler: LM Gabriel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 6.1:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 6.2:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Diawara
+    - 6.3:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 6.4:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diawara
+    - 6.5:
+        non_striker: MS Diawara
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 6.6:
+        non_striker: MS Diawara
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Keita
+    - 7.1:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 7.2:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 7.3:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          role:
+          - in: TM Macalou
+            out: MS Diawara
+            reason: injury
+            role: batter
+        batsman: TM Macalou
+    - 7.4:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 7.5:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 7.6:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 8.1:
+        non_striker: TM Macalou
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 8.2:
+        non_striker: TM Macalou
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 8.3:
+        non_striker: TM Macalou
+        bowler: MV Matsau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Keita
+    - 8.4:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Macalou
+    - 8.5:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Macalou
+    - 8.6:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: TM Macalou
+    - 8.7:
+        non_striker: CA Keita
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Macalou
+    - 8.8:
+        non_striker: TM Macalou
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Keita
+    - 9.1:
+        non_striker: TM Macalou
+        bowler: TD Chaoana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: CA Keita
+    - 9.2:
+        non_striker: TM Macalou
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Keita
+    - 9.3:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Macalou
+    - 9.4:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 9.5:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 9.6:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 9.7:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Macalou
+    - 10.1:
+        non_striker: CA Keita
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 10.2:
+        non_striker: CA Keita
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 10.3:
+        non_striker: CA Keita
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+        wicket:
+          player_out: TM Macalou
+          kind: bowled
+    - 10.4:
+        non_striker: CA Keita
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Diaby
+    - 10.5:
+        non_striker: CA Keita
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Diaby
+    - 10.6:
+        non_striker: SG Diaby
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 11.1:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Diaby
+    - 11.2:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Diaby
+    - 11.3:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Diaby
+    - 11.4:
+        non_striker: SG Diaby
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Keita
+    - 11.5:
+        non_striker: SG Diaby
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Keita
+    - 11.6:
+        non_striker: SG Diaby
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 12.1:
+        non_striker: CA Keita
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Diaby
+    - 12.2:
+        non_striker: SG Diaby
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 12.3:
+        non_striker: SG Diaby
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Keita
+    - 12.4:
+        non_striker: SG Diaby
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Keita
+    - 12.5:
+        non_striker: SG Diaby
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Keita
+    - 12.6:
+        non_striker: SG Diaby
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 13.1:
+        non_striker: CA Keita
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Diaby
+    - 13.2:
+        non_striker: CA Keita
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Diaby
+    - 13.3:
+        non_striker: CA Keita
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Diaby
+    - 13.4:
+        non_striker: CA Keita
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Diaby
+    - 13.5:
+        non_striker: CA Keita
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Diaby
+    - 13.6:
+        non_striker: CA Keita
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Diaby
+    - 13.7:
+        non_striker: CA Keita
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Diaby
+    - 13.8:
+        non_striker: SG Diaby
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CA Keita
+    - 13.9:
+        non_striker: SG Diaby
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 14.1:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Diaby
+    - 14.2:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Diaby
+        wicket:
+          player_out: SG Diaby
+          kind: bowled
+    - 14.3:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 14.4:
+        non_striker: CA Keita
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diawara
+    - 14.5:
+        non_striker: MS Diawara
+        bowler: TD Chaoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Keita
+    - 14.6:
+        non_striker: MS Diawara
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 14.7:
+        non_striker: MS Diawara
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+        wicket:
+          player_out: CA Keita
+          kind: bowled
+    - 15.1:
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MS Diakite
+        batsman: MS Diawara
+    - 15.2:
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Diakite
+        batsman: MS Diawara
+    - 15.3:
+        non_striker: MS Diakite
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+        wicket:
+          player_out: MS Diawara
+          kind: bowled
+    - 15.4:
+        non_striker: MS Diakite
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 15.5:
+        non_striker: MS Diakite
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kamate
+    - 15.6:
+        non_striker: MS Diakite
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 15.7:
+        non_striker: MS Diakite
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kamate
+    - 15.8:
+        non_striker: MS Diakite
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kamate
+    - 16.1:
+        non_striker: MS Diakite
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kamate
+    - 16.2:
+        non_striker: MS Diakite
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kamate
+    - 16.3:
+        non_striker: S Kamate
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Diakite
+    - 16.4:
+        non_striker: MS Diakite
+        bowler: MV Matsau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kamate
+    - 16.5:
+        non_striker: MS Diakite
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kamate
+    - 16.6:
+        non_striker: S Kamate
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Diakite
+    - 16.7:
+        non_striker: S Kamate
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diakite
+        wicket:
+          player_out: MS Diakite
+          kind: caught and bowled
+    - 17.1:
+        non_striker: S Kamate
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Sanogo
+    - 17.2:
+        non_striker: S Kamate
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sanogo
+    - 17.3:
+        non_striker: S Kamate
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sanogo
+    - 17.4:
+        non_striker: S Kamate
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Sanogo
+    - 17.5:
+        non_striker: L Sanogo
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kamate
+    - 17.6:
+        non_striker: L Sanogo
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+        wicket:
+          player_out: S Kamate
+          fielders:
+          - C Tlali
+          kind: caught

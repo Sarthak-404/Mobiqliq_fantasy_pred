@@ -1,0 +1,1556 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-29'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Chattogram
+  dates:
+  - '2023-03-27'
+  gender: male
+  match_type: T20
+  match_type_number: 2034
+  outcome:
+    winner: Bangladesh
+    by:
+      runs: 22
+    method: D/L
+  overs: 20
+  player_of_match:
+  - Rony Talukdar
+  players:
+    Bangladesh:
+    - Liton Das
+    - Rony Talukdar
+    - Nazmul Hossain Shanto
+    - Shamim Hossain
+    - Towhid Hridoy
+    - Shakib Al Hasan
+    - Mehedi Hasan Miraz
+    - Taskin Ahmed
+    - Nasum Ahmed
+    - Mustafizur Rahman
+    - Hasan Mahmud
+    Ireland:
+    - PR Stirling
+    - GR Adair
+    - L Tucker
+    - HT Tector
+    - GH Dockrell
+    - GJ Delany
+    - C Campher
+    - MR Adair
+    - CA Young
+    - GI Hume
+    - B White
+  registry:
+    people:
+      B White: 1a448be0
+      C Campher: 478a63e7
+      CA Young: bd0a4a7d
+      DC Boon: e79a1fe3
+      GH Dockrell: 99cddc5e
+      GI Hume: 25550d06
+      GJ Delany: 33b3d2df
+      GR Adair: 4ec96094
+      Gazi Sohel: f0df3ed7
+      HT Tector: 59ea70a4
+      Hasan Mahmud: 80ad39ac
+      L Tucker: 3979b5e0
+      Liton Das: 0404d43c
+      MR Adair: fc55ec67
+      Masudur Rahman: 9581ac6b
+      Mehedi Hasan Miraz: c58b0108
+      Mustafizur Rahman: 0a8fce53
+      Nasum Ahmed: 37654b75
+      Nazmul Hossain Shanto: 1274d7ab
+      PR Stirling: cf494ffe
+      Rony Talukdar: 8bd614b2
+      Shakib Al Hasan: 7dc35884
+      Shamim Hossain: 711249d1
+      Sharfuddoula: 63896abb
+      Tanvir Ahmed: ea2df1f1
+      Taskin Ahmed: ef18b66e
+      Towhid Hridoy: 9e52a414
+  teams:
+  - Bangladesh
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - Gazi Sohel
+  - Masudur Rahman
+  venue: Zahur Ahmed Chowdhury Stadium, Chattogram
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 0.2:
+        non_striker: Liton Das
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 0.3:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.4:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 0.5:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.6:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Liton Das
+    - 0.7:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 1.1:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rony Talukdar
+    - 1.2:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 1.3:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rony Talukdar
+    - 1.4:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 1.5:
+        non_striker: Rony Talukdar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 1.6:
+        non_striker: Rony Talukdar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 1.7:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 2.1:
+        non_striker: Liton Das
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 2.2:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.3:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 2.4:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 2.5:
+        non_striker: Liton Das
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 2.6:
+        non_striker: Liton Das
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rony Talukdar
+    - 3.1:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 3.2:
+        non_striker: Liton Das
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rony Talukdar
+    - 3.3:
+        non_striker: Liton Das
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 3.4:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.5:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 3.6:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 4.1:
+        non_striker: Liton Das
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 4.2:
+        non_striker: Rony Talukdar
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.3:
+        non_striker: Liton Das
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 4.4:
+        non_striker: Rony Talukdar
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 4.5:
+        non_striker: Rony Talukdar
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 4.6:
+        non_striker: Rony Talukdar
+        bowler: GJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Liton Das
+    - 5.1:
+        non_striker: Rony Talukdar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.2:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rony Talukdar
+    - 5.3:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rony Talukdar
+    - 5.4:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rony Talukdar
+    - 5.5:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rony Talukdar
+    - 5.6:
+        non_striker: Liton Das
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 6.1:
+        non_striker: Liton Das
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 6.2:
+        non_striker: Liton Das
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rony Talukdar
+    - 6.3:
+        non_striker: Liton Das
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 6.4:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 6.5:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 6.6:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.1:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 7.2:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 7.4:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.5:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 7.6:
+        non_striker: Rony Talukdar
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 8.1:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 8.2:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 8.3:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 8.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 8.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rony Talukdar
+    - 8.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rony Talukdar
+    - 9.1:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 9.2:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nazmul Hossain Shanto
+    - 9.3:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 9.4:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 9.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 9.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rony Talukdar
+    - 10.1:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 10.2:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Shanto
+    - 10.3:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Shanto
+    - 10.4:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          fielders:
+          - L Tucker
+          kind: stumped
+    - 10.5:
+        non_striker: Rony Talukdar
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 10.6:
+        non_striker: Shamim Hossain
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 10.7:
+        non_striker: Shamim Hossain
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 10.8:
+        non_striker: Shamim Hossain
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rony Talukdar
+    - 11.1:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 11.2:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 11.3:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamim Hossain
+    - 11.4:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shamim Hossain
+    - 11.5:
+        non_striker: Rony Talukdar
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 11.6:
+        non_striker: Shamim Hossain
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rony Talukdar
+    - 11.7:
+        non_striker: Shamim Hossain
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 12.1:
+        non_striker: Rony Talukdar
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 12.2:
+        non_striker: Rony Talukdar
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 12.3:
+        non_striker: Shamim Hossain
+        bowler: GJ Delany
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Rony Talukdar
+    - 12.4:
+        non_striker: Shamim Hossain
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rony Talukdar
+    - 12.5:
+        non_striker: Shamim Hossain
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 12.6:
+        non_striker: Shamim Hossain
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 13.1:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 13.2:
+        non_striker: Shamim Hossain
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rony Talukdar
+    - 13.3:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 13.4:
+        non_striker: Rony Talukdar
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 13.5:
+        non_striker: Shamim Hossain
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rony Talukdar
+    - 13.6:
+        non_striker: Shamim Hossain
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rony Talukdar
+    - 13.7:
+        non_striker: Shamim Hossain
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+        wicket:
+          player_out: Rony Talukdar
+          kind: bowled
+    - 14.1:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 14.2:
+        non_striker: Shamim Hossain
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 14.3:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamim Hossain
+    - 14.4:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 14.5:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamim Hossain
+    - 14.6:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 15.1:
+        non_striker: Towhid Hridoy
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 15.2:
+        non_striker: Shamim Hossain
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 15.3:
+        non_striker: Towhid Hridoy
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 15.4:
+        non_striker: Shamim Hossain
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 15.5:
+        non_striker: Towhid Hridoy
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 15.6:
+        non_striker: Towhid Hridoy
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shamim Hossain
+    - 16.1:
+        non_striker: Towhid Hridoy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+        wicket:
+          player_out: Shamim Hossain
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 16.2:
+        non_striker: Towhid Hridoy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 16.3:
+        non_striker: Towhid Hridoy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 16.4:
+        non_striker: Towhid Hridoy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 16.5:
+        non_striker: Towhid Hridoy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 16.6:
+        non_striker: Towhid Hridoy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 17.1:
+        non_striker: Shakib Al Hasan
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 17.2:
+        non_striker: Towhid Hridoy
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 17.3:
+        non_striker: Towhid Hridoy
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 17.4:
+        non_striker: Towhid Hridoy
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 17.5:
+        non_striker: Shakib Al Hasan
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 17.6:
+        non_striker: Towhid Hridoy
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 18.1:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 18.2:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 18.3:
+        non_striker: Towhid Hridoy
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 18.4:
+        non_striker: Shakib Al Hasan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Towhid Hridoy
+    - 18.5:
+        non_striker: Shakib Al Hasan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Towhid Hridoy
+    - 18.6:
+        non_striker: Shakib Al Hasan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+        wicket:
+          player_out: Towhid Hridoy
+          fielders:
+          - GJ Delany
+          kind: caught
+    - 19.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 19.2:
+        non_striker: Shakib Al Hasan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 19.3:
+        non_striker: Shakib Al Hasan
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GR Adair
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: GR Adair
+        bowler: Nasum Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: GR Adair
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: GR Adair
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 0.5:
+        non_striker: GR Adair
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 0.6:
+        non_striker: GR Adair
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.7:
+        non_striker: PR Stirling
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.4:
+        non_striker: PR Stirling
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: GR Adair
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.2:
+        non_striker: PR Stirling
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.3:
+        non_striker: PR Stirling
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          kind: bowled
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 2.6:
+        non_striker: L Tucker
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.1:
+        non_striker: PR Stirling
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          kind: bowled
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 3.3:
+        non_striker: PR Stirling
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 3.4:
+        non_striker: HT Tector
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          kind: bowled
+    - 3.5:
+        non_striker: HT Tector
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - Shamim Hossain
+          kind: caught
+    - 3.6:
+        non_striker: HT Tector
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 4.1:
+        non_striker: GJ Delany
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 4.2:
+        non_striker: GJ Delany
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 4.3:
+        non_striker: GJ Delany
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 4.4:
+        non_striker: GJ Delany
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.5:
+        non_striker: HT Tector
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 4.6:
+        non_striker: GJ Delany
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 4.7:
+        non_striker: GJ Delany
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 5.1:
+        non_striker: GJ Delany
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 5.2:
+        non_striker: HT Tector
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 5.3:
+        non_striker: HT Tector
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 5.4:
+        non_striker: HT Tector
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 5.5:
+        non_striker: HT Tector
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 5.6:
+        non_striker: HT Tector
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 6.1:
+        non_striker: GJ Delany
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.2:
+        non_striker: HT Tector
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 6.3:
+        non_striker: HT Tector
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 6.4:
+        non_striker: HT Tector
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 6.5:
+        non_striker: GJ Delany
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 6.6:
+        non_striker: GJ Delany
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.1:
+        non_striker: GJ Delany
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - Mehedi Hasan Miraz
+          kind: caught
+    - 7.2:
+        non_striker: GJ Delany
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 7.3:
+        non_striker: GJ Delany
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 7.4:
+        non_striker: C Campher
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 7.5:
+        non_striker: C Campher
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GJ Delany
+    - 7.6:
+        non_striker: C Campher
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 7.7:
+        non_striker: C Campher
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany

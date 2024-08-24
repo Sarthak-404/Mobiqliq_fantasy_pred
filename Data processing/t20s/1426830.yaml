@@ -1,0 +1,2186 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  dates:
+  - '2024-05-10'
+  gender: male
+  match_type: T20
+  match_type_number: 2601
+  outcome:
+    winner: Ireland
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - A Balbirnie
+  players:
+    Pakistan:
+    - Saim Ayub
+    - Mohammad Rizwan
+    - Babar Azam
+    - Fakhar Zaman
+    - Azam Khan
+    - Shadab Khan
+    - Iftikhar Ahmed
+    - Shaheen Shah Afridi
+    - Imad Wasim
+    - Naseem Shah
+    - Abbas Afridi
+    Ireland:
+    - A Balbirnie
+    - PR Stirling
+    - L Tucker
+    - HT Tector
+    - GH Dockrell
+    - GJ Delany
+    - C Campher
+    - MR Adair
+    - BJ McCarthy
+    - CA Young
+    - B White
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      Abbas Afridi: 2cec2a92
+      Aidan Seaver: 862c0b16
+      Azam Khan: ee8f1a6d
+      B White: 1a448be0
+      BJ McCarthy: 3766056b
+      Babar Azam: 8a75e999
+      C Campher: 478a63e7
+      CA Young: bd0a4a7d
+      Fakhar Zaman: 1777c020
+      G McCrea: 46f4a901
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      HT Tector: 59ea70a4
+      Iftikhar Ahmed: 29e253dd
+      Imad Wasim: 9cb8d7a6
+      Jonathan Kennedy: f7ad4494
+      L Tucker: 3979b5e0
+      M Hawthorne: ea123ee4
+      MR Adair: fc55ec67
+      Mohammad Rizwan: 2f26ac1a
+      Naseem Shah: 9c9af282
+      PR Stirling: cf494ffe
+      R Black: 156c8fb1
+      Saim Ayub: 33609a8c
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+  teams:
+  - Pakistan
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - M Hawthorne
+  venue: Castle Avenue, Dublin
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Mohammad Rizwan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 0.2:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 0.3:
+        non_striker: Mohammad Rizwan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 0.4:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.5:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.6:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.1:
+        non_striker: Mohammad Rizwan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 1.2:
+        non_striker: Mohammad Rizwan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.3:
+        non_striker: Mohammad Rizwan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.4:
+        non_striker: Mohammad Rizwan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.5:
+        non_striker: Mohammad Rizwan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - HT Tector
+          kind: run out
+    - 1.6:
+        non_striker: Babar Azam
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.1:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 2.2:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.3:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.4:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.5:
+        non_striker: Saim Ayub
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.6:
+        non_striker: Babar Azam
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.1:
+        non_striker: Saim Ayub
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.2:
+        non_striker: Saim Ayub
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.3:
+        non_striker: Saim Ayub
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 3.4:
+        non_striker: Saim Ayub
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.5:
+        non_striker: Saim Ayub
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.6:
+        non_striker: Saim Ayub
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 3.7:
+        non_striker: Saim Ayub
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.1:
+        non_striker: Babar Azam
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 4.2:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.3:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.4:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.5:
+        non_striker: Babar Azam
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 4.6:
+        non_striker: Babar Azam
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 5.1:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.2:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 5.3:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.4:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.5:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.6:
+        non_striker: Babar Azam
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 6.1:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 6.2:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.3:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.4:
+        non_striker: Babar Azam
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saim Ayub
+    - 6.5:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.6:
+        non_striker: Saim Ayub
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 7.1:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 7.2:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 7.3:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 7.5:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 7.6:
+        non_striker: Saim Ayub
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.1:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.2:
+        non_striker: Babar Azam
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 8.3:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 8.4:
+        non_striker: Saim Ayub
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.5:
+        non_striker: Babar Azam
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 8.6:
+        non_striker: Babar Azam
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 9.1:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 9.2:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 9.3:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 9.4:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 9.5:
+        non_striker: Saim Ayub
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.6:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 10.1:
+        non_striker: Saim Ayub
+        bowler: B White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 10.2:
+        non_striker: Saim Ayub
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.3:
+        non_striker: Saim Ayub
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 10.4:
+        non_striker: Saim Ayub
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.5:
+        non_striker: Saim Ayub
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.6:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 11.1:
+        non_striker: Saim Ayub
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.2:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - C Campher
+          kind: caught
+    - 11.3:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 11.4:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 11.5:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 11.6:
+        non_striker: Babar Azam
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 12.1:
+        non_striker: Fakhar Zaman
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 12.2:
+        non_striker: Fakhar Zaman
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.3:
+        non_striker: Babar Azam
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fakhar Zaman
+    - 12.4:
+        non_striker: Babar Azam
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 12.5:
+        non_striker: Fakhar Zaman
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 12.6:
+        non_striker: Fakhar Zaman
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 12.7:
+        non_striker: Fakhar Zaman
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.8:
+        non_striker: Babar Azam
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 13.1:
+        non_striker: Fakhar Zaman
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.2:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 13.3:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 13.4:
+        non_striker: Babar Azam
+        bowler: B White
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Fakhar Zaman
+    - 13.5:
+        non_striker: Fakhar Zaman
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 13.6:
+        non_striker: Fakhar Zaman
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 14.1:
+        non_striker: Babar Azam
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 14.2:
+        non_striker: Babar Azam
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 14.3:
+        non_striker: Fakhar Zaman
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - MR Adair
+          kind: caught
+    - 14.4:
+        non_striker: Fakhar Zaman
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 14.5:
+        non_striker: Fakhar Zaman
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - B White
+          kind: caught
+    - 14.6:
+        non_striker: Fakhar Zaman
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 15.1:
+        non_striker: Shadab Khan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 15.2:
+        non_striker: Shadab Khan
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fakhar Zaman
+    - 15.3:
+        non_striker: Shadab Khan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - BJ McCarthy
+          kind: run out
+    - 15.4:
+        non_striker: Fakhar Zaman
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 15.5:
+        non_striker: Fakhar Zaman
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iftikhar Ahmed
+    - 15.6:
+        non_striker: Fakhar Zaman
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Iftikhar Ahmed
+    - 15.7:
+        non_striker: Fakhar Zaman
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 16.1:
+        non_striker: Fakhar Zaman
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 16.2:
+        non_striker: Iftikhar Ahmed
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 16.3:
+        non_striker: Iftikhar Ahmed
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 16.4:
+        non_striker: Fakhar Zaman
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 16.5:
+        non_striker: Iftikhar Ahmed
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fakhar Zaman
+    - 16.6:
+        non_striker: Fakhar Zaman
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 17.1:
+        non_striker: Iftikhar Ahmed
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 17.2:
+        non_striker: Fakhar Zaman
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iftikhar Ahmed
+    - 17.3:
+        non_striker: Fakhar Zaman
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iftikhar Ahmed
+    - 17.4:
+        non_striker: Fakhar Zaman
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 17.5:
+        non_striker: Iftikhar Ahmed
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          fielders:
+          - BJ McCarthy
+          kind: caught
+    - 17.6:
+        non_striker: Iftikhar Ahmed
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.1:
+        non_striker: Iftikhar Ahmed
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 18.2:
+        non_striker: Iftikhar Ahmed
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheen Shah Afridi
+    - 18.3:
+        non_striker: Iftikhar Ahmed
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 18.4:
+        non_striker: Iftikhar Ahmed
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 18.5:
+        non_striker: Iftikhar Ahmed
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 18.6:
+        non_striker: Iftikhar Ahmed
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheen Shah Afridi
+    - 19.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iftikhar Ahmed
+    - 19.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Iftikhar Ahmed
+    - 19.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iftikhar Ahmed
+    - 19.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iftikhar Ahmed
+    - 19.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iftikhar Ahmed
+    - 19.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iftikhar Ahmed
+    - 19.7:
+        non_striker: Iftikhar Ahmed
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: PR Stirling
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.7:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 1.8:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.1:
+        non_striker: L Tucker
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.4:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 2.5:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.6:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.1:
+        non_striker: L Tucker
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 3.2:
+        non_striker: L Tucker
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.3:
+        non_striker: L Tucker
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 3.4:
+        non_striker: L Tucker
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: L Tucker
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.6:
+        non_striker: L Tucker
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.1:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - Fakhar Zaman
+          kind: caught
+    - 4.2:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.3:
+        non_striker: HT Tector
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.4:
+        non_striker: HT Tector
+        bowler: Abbas Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Balbirnie
+    - 4.5:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 4.6:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.1:
+        non_striker: HT Tector
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 5.2:
+        non_striker: HT Tector
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 5.6:
+        non_striker: HT Tector
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 6.1:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.2:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.3:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.4:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 6.5:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.6:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.1:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.2:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 7.3:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 7.4:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.5:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.6:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 8.1:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 8.2:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 8.3:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 8.4:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.5:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.6:
+        non_striker: HT Tector
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 8.7:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.1:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 9.2:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 9.3:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.4:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.5:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 9.6:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 10.1:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.2:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 10.3:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.4:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.5:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 10.6:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 11.1:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 11.2:
+        non_striker: HT Tector
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 11.3:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 11.4:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 11.5:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 11.6:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.1:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 12.2:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.3:
+        non_striker: HT Tector
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 12.4:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 12.5:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 12.6:
+        non_striker: A Balbirnie
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.1:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.2:
+        non_striker: GH Dockrell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 13.3:
+        non_striker: GH Dockrell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 13.4:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 13.5:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 13.6:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Dockrell
+    - 13.7:
+        non_striker: A Balbirnie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 14.1:
+        non_striker: GH Dockrell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 14.2:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Dockrell
+    - 14.3:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 14.4:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 14.5:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.6:
+        non_striker: GH Dockrell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 14.7:
+        non_striker: GH Dockrell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 14.8:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 15.1:
+        non_striker: GH Dockrell
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 15.2:
+        non_striker: GH Dockrell
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 15.3:
+        non_striker: GH Dockrell
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 15.4:
+        non_striker: GH Dockrell
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 15.5:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 15.6:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.1:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - Fakhar Zaman
+          kind: caught
+    - 16.2:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 16.3:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 16.4:
+        non_striker: A Balbirnie
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 16.5:
+        non_striker: GJ Delany
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 16.6:
+        non_striker: GJ Delany
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 17.1:
+        non_striker: GJ Delany
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 17.2:
+        non_striker: GJ Delany
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 17.3:
+        non_striker: GJ Delany
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 17.4:
+        non_striker: GJ Delany
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 17.5:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 17.6:
+        non_striker: A Balbirnie
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 18.1:
+        non_striker: GJ Delany
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 18.2:
+        non_striker: GJ Delany
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 18.3:
+        non_striker: A Balbirnie
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 18.4:
+        non_striker: GJ Delany
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 18.5:
+        non_striker: GJ Delany
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: bowled
+    - 18.6:
+        non_striker: GJ Delany
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 18.7:
+        non_striker: GJ Delany
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 19.1:
+        non_striker: GJ Delany
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 19.2:
+        non_striker: GJ Delany
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 19.3:
+        non_striker: GJ Delany
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 19.4:
+        non_striker: GJ Delany
+        bowler: Abbas Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 19.5:
+        non_striker: GJ Delany
+        bowler: Abbas Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Campher

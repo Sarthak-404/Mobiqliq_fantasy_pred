@@ -1,0 +1,1879 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2023-02-21'
+  gender: male
+  match_type: T20
+  match_type_number: 1996
+  outcome:
+    winner: Bermuda
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Argentina:
+    - P Baron
+    - R Escobar
+    - A Ferguson
+    - LA Musiani
+    - A Kirschbaum
+    - T Rossi
+    - P Arrighi
+    - AAP Rivero
+    - S Rossi
+    - H Fennell
+    - A Husain
+    Bermuda:
+    - KS Leverock
+    - TS Fray
+    - T Manders
+    - DMW Rawlins
+    - MO Jones
+    - JE Pitcher
+    - D Sabir
+    - Z Burgess
+    - S Smith
+    - DL Brangman
+    - JDA Richardson
+  registry:
+    people:
+      A Elliott: f48d5563
+      A Ferguson: 4a8d1b14
+      A Husain: 034d3c52
+      A Kirschbaum: d953bf92
+      AAP Rivero: 1911dcbc
+      D Sabir: 04bc296f
+      DL Brangman: dab18aa5
+      DMW Rawlins: f1eb3c73
+      Emmerson Carrington: a428109a
+      H Fennell: 0d38ab25
+      JDA Richardson: e8c00c13
+      JE Pitcher: ab126ea8
+      KS Leverock: e1592949
+      LA Musiani: efbd35a9
+      MO Jones: 0e0afd8b
+      N Duguid: '64495506'
+      P Arrighi: 79e754db
+      P Baron: c6d1b1e4
+      R Escobar: 9fa5496f
+      Reon King: 20fbf68c
+      S Rossi: 56544f81
+      S Smith: 18a0ba24
+      T Manders: 6d2b9724
+      T Rossi: 5470418a
+      TS Fray: c7537f8a
+      Z Burgess: d0042e16
+  teams:
+  - Argentina
+  - Bermuda
+  toss:
+    winner: Argentina
+    decision: bat
+  umpires:
+  - Emmerson Carrington
+  - N Duguid
+  venue: St Albans Club, Buenos Aires
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: DL Brangman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: R Escobar
+        batsman: P Baron
+    - 0.2:
+        non_striker: P Baron
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+        wicket:
+          player_out: R Escobar
+          fielders:
+          - S Smith
+          kind: caught
+    - 0.3:
+        non_striker: P Baron
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 0.4:
+        non_striker: A Ferguson
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 0.5:
+        non_striker: A Ferguson
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Baron
+    - 0.6:
+        non_striker: A Ferguson
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.1:
+        non_striker: P Baron
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 1.2:
+        non_striker: P Baron
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 1.3:
+        non_striker: P Baron
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 1.4:
+        non_striker: P Baron
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 1.5:
+        non_striker: P Baron
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Ferguson
+    - 1.6:
+        non_striker: P Baron
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+        wicket:
+          player_out: A Ferguson
+          kind: bowled
+    - 2.1:
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LA Musiani
+        batsman: P Baron
+    - 2.2:
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LA Musiani
+        batsman: P Baron
+    - 2.3:
+        non_striker: P Baron
+        bowler: KS Leverock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LA Musiani
+    - 2.4:
+        non_striker: P Baron
+        bowler: KS Leverock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Musiani
+    - 2.5:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 2.6:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 2.7:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.1:
+        non_striker: P Baron
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Musiani
+    - 3.2:
+        non_striker: LA Musiani
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 3.3:
+        non_striker: LA Musiani
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.4:
+        non_striker: LA Musiani
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: bowled
+    - 3.5:
+        non_striker: LA Musiani
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 3.6:
+        non_striker: A Kirschbaum
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 4.1:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.2:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.3:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Kirschbaum
+    - 4.4:
+        non_striker: A Kirschbaum
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 4.5:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.6:
+        non_striker: LA Musiani
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.1:
+        non_striker: A Kirschbaum
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 5.2:
+        non_striker: A Kirschbaum
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Musiani
+    - 5.3:
+        non_striker: A Kirschbaum
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LA Musiani
+    - 5.4:
+        non_striker: A Kirschbaum
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LA Musiani
+    - 5.5:
+        non_striker: A Kirschbaum
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Musiani
+    - 5.6:
+        non_striker: A Kirschbaum
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 5.7:
+        non_striker: LA Musiani
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.8:
+        non_striker: LA Musiani
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.1:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 6.2:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 6.3:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 6.4:
+        non_striker: LA Musiani
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.5:
+        non_striker: LA Musiani
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.6:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 7.1:
+        non_striker: LA Musiani
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 7.2:
+        non_striker: LA Musiani
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 7.3:
+        non_striker: LA Musiani
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 7.4:
+        non_striker: LA Musiani
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 7.5:
+        non_striker: LA Musiani
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 7.6:
+        non_striker: LA Musiani
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 8.1:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 8.2:
+        non_striker: LA Musiani
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 8.3:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+        wicket:
+          player_out: LA Musiani
+          fielders:
+          - D Sabir
+          kind: caught
+    - 8.4:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 8.5:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 8.6:
+        non_striker: A Kirschbaum
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 9.1:
+        non_striker: T Rossi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 9.2:
+        non_striker: A Kirschbaum
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 9.3:
+        non_striker: T Rossi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 9.4:
+        non_striker: T Rossi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 9.5:
+        non_striker: A Kirschbaum
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 9.6:
+        non_striker: A Kirschbaum
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 10.1:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          kind: caught and bowled
+    - 10.2:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Arrighi
+    - 10.3:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+    - 10.4:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+    - 10.5:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+    - 10.6:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+    - 10.7:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+    - 11.1:
+        non_striker: P Arrighi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 11.2:
+        non_striker: T Rossi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 11.3:
+        non_striker: P Arrighi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 11.4:
+        non_striker: T Rossi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 11.5:
+        non_striker: P Arrighi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rossi
+    - 11.6:
+        non_striker: P Arrighi
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.1:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+    - 12.2:
+        non_striker: T Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 12.3:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.4:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.5:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+        wicket:
+          player_out: T Rossi
+          kind: bowled
+    - 12.6:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 13.1:
+        non_striker: AAP Rivero
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 13.2:
+        non_striker: P Arrighi
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 13.3:
+        non_striker: AAP Rivero
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Arrighi
+    - 13.4:
+        non_striker: AAP Rivero
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Arrighi
+    - 13.5:
+        non_striker: AAP Rivero
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Arrighi
+    - 13.6:
+        non_striker: AAP Rivero
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 14.1:
+        non_striker: AAP Rivero
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 14.2:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 14.3:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 14.4:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 14.5:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.6:
+        non_striker: AAP Rivero
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+    - 15.1:
+        non_striker: P Arrighi
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 15.2:
+        non_striker: P Arrighi
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 15.3:
+        non_striker: P Arrighi
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 15.4:
+        non_striker: P Arrighi
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 15.5:
+        non_striker: AAP Rivero
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+        wicket:
+          player_out: AAP Rivero
+          fielders:
+          - MO Jones
+          - Z Burgess
+          kind: run out
+    - 15.6:
+        non_striker: S Rossi
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 16.1:
+        non_striker: S Rossi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 16.2:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rossi
+    - 16.3:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rossi
+        wicket:
+          player_out: S Rossi
+          fielders:
+          - Z Burgess
+          kind: caught
+    - 16.4:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Fennell
+    - 16.5:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 16.6:
+        non_striker: H Fennell
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Arrighi
+    - 16.7:
+        non_striker: P Arrighi
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Fennell
+        wicket:
+          player_out: H Fennell
+          fielders:
+          - JDA Richardson
+          kind: caught
+    - 17.1:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Husain
+        batsman: P Arrighi
+    - 17.2:
+        non_striker: A Husain
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Arrighi
+        wicket:
+          player_out: P Arrighi
+          fielders:
+          - S Smith
+          kind: stumped
+- 2nd innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: TS Fray
+        batsman: KS Leverock
+    - 0.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TS Fray
+        batsman: KS Leverock
+    - 0.3:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TS Fray
+        batsman: KS Leverock
+    - 0.4:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TS Fray
+        batsman: KS Leverock
+    - 0.5:
+        non_striker: KS Leverock
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Fray
+    - 0.6:
+        non_striker: KS Leverock
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Fray
+    - 1.1:
+        non_striker: TS Fray
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 1.2:
+        non_striker: TS Fray
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 1.3:
+        non_striker: TS Fray
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Leverock
+    - 1.4:
+        non_striker: TS Fray
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Leverock
+    - 1.5:
+        non_striker: TS Fray
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 1.6:
+        non_striker: TS Fray
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 1.7:
+        non_striker: TS Fray
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+        wicket:
+          player_out: KS Leverock
+          kind: caught and bowled
+    - 2.1:
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+    - 2.2:
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+    - 2.3:
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+    - 2.4:
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+    - 2.5:
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Manders
+        batsman: TS Fray
+    - 2.6:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Fray
+        wicket:
+          player_out: TS Fray
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 3.1:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DMW Rawlins
+        batsman: T Manders
+    - 3.2:
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DMW Rawlins
+        batsman: T Manders
+    - 3.3:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DMW Rawlins
+        batsman: T Manders
+    - 3.4:
+        non_striker: T Manders
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 3.5:
+        non_striker: T Manders
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 3.6:
+        non_striker: T Manders
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 3.7:
+        non_striker: DMW Rawlins
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 4.1:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 4.2:
+        non_striker: DMW Rawlins
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 4.3:
+        non_striker: DMW Rawlins
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 4.4:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 4.5:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 4.6:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 5.1:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 5.2:
+        non_striker: DMW Rawlins
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 5.3:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 5.4:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 5.5:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 5.6:
+        non_striker: DMW Rawlins
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 6.1:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 6.2:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 6.3:
+        non_striker: DMW Rawlins
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 6.4:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 6.5:
+        non_striker: T Manders
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 6.6:
+        non_striker: DMW Rawlins
+        bowler: P Arrighi
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: T Manders
+    - 6.7:
+        non_striker: DMW Rawlins
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 7.1:
+        non_striker: DMW Rawlins
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 7.2:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.3:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.4:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 7.5:
+        non_striker: T Manders
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 7.6:
+        non_striker: DMW Rawlins
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 8.1:
+        non_striker: DMW Rawlins
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Manders
+    - 8.2:
+        non_striker: DMW Rawlins
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 8.3:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 8.4:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 8.5:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+        wicket:
+          player_out: DMW Rawlins
+          fielders:
+          - S Rossi
+          kind: caught
+    - 8.6:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Jones
+    - 8.7:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 8.8:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 9.1:
+        non_striker: T Manders
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 9.2:
+        non_striker: T Manders
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 9.3:
+        non_striker: T Manders
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 9.4:
+        non_striker: MO Jones
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 9.5:
+        non_striker: T Manders
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 9.6:
+        non_striker: T Manders
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 10.1:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 10.2:
+        non_striker: MO Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Manders
+    - 10.3:
+        non_striker: MO Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Manders
+    - 10.4:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 10.5:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Jones
+    - 10.6:
+        non_striker: T Manders
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 11.1:
+        non_striker: T Manders
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Jones
+    - 11.2:
+        non_striker: T Manders
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 11.3:
+        non_striker: MO Jones
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Manders
+    - 11.4:
+        non_striker: MO Jones
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 11.5:
+        non_striker: MO Jones
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+        wicket:
+          player_out: T Manders
+          fielders:
+          - S Rossi
+          kind: caught
+    - 11.6:
+        non_striker: MO Jones
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Pitcher
+    - 11.7:
+        non_striker: JE Pitcher
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 11.8:
+        non_striker: JE Pitcher
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Jones
+    - 12.1:
+        non_striker: MO Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Pitcher
+    - 12.2:
+        non_striker: MO Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Pitcher
+    - 12.3:
+        non_striker: JE Pitcher
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 12.4:
+        non_striker: MO Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Pitcher
+    - 12.5:
+        non_striker: MO Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Pitcher
+    - 12.6:
+        non_striker: JE Pitcher
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 13.1:
+        non_striker: JE Pitcher
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Jones
+    - 13.2:
+        non_striker: JE Pitcher
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 13.3:
+        non_striker: JE Pitcher
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 13.4:
+        non_striker: MO Jones
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Pitcher
+    - 13.5:
+        non_striker: MO Jones
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Pitcher
+    - 13.6:
+        non_striker: MO Jones
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Pitcher
+    - 13.7:
+        non_striker: MO Jones
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Pitcher
+    - 14.1:
+        non_striker: JE Pitcher
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 14.2:
+        non_striker: JE Pitcher
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 14.3:
+        non_striker: JE Pitcher
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 14.4:
+        non_striker: JE Pitcher
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Jones
+    - 14.5:
+        non_striker: JE Pitcher
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 14.6:
+        non_striker: MO Jones
+        bowler: P Arrighi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Pitcher
+    - 15.1:
+        non_striker: JE Pitcher
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 15.2:
+        non_striker: JE Pitcher
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Jones
+    - 15.3:
+        non_striker: MO Jones
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Pitcher
+    - 15.4:
+        non_striker: JE Pitcher
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Jones
+    - 15.5:
+        non_striker: JE Pitcher
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Jones

@@ -1,0 +1,666 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-05'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-12-05'
+  gender: male
+  match_type: T20
+  match_type_number: 1936
+  outcome:
+    winner: Sierra Leone
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - L Lamin
+  players:
+    Sierra Leone:
+    - A Gbla
+    - A Turay
+    - G Ngegba
+    - L Lamin
+    - Zahid Khan
+    - G Sesay
+    - M Kpaka
+    - Mohamed Khan
+    - R Coker
+    - S Conteh
+    - J Bangura
+    Eswatini:
+    - Adil Butt
+    - T Sandeep
+    - Umair Qasim
+    - Naeem Gull
+    - H Rashid
+    - M Jele
+    - M Magagula
+    - Eric Phiri
+    - C Forbes
+    - D Polpitiya
+    - W Dlamini
+  registry:
+    people:
+      A Gbla: 34ab1e6e
+      A Turay: 11a22126
+      Adil Butt: fde53ec1
+      C Forbes: 8a9e3cd0
+      C Phiri: ade73404
+      D Polpitiya: b7062209
+      Eric Phiri: b6355062
+      G Ngegba: 69caf2be
+      G Sesay: c556b9d2
+      H Rashid: 725c73f2
+      J Bangura: d7acab5d
+      L Lamin: 5a970aab
+      Lauren Agenbag: 40849abd
+      M Jele: 1a8cedc8
+      M Kpaka: c381cec5
+      M Magagula: 7a787b98
+      Mohamed Khan: 13501ff4
+      Naeem Gull: 4c49c917
+      R Coker: 3239c8a9
+      S Conteh: 8f70fff7
+      SA Fritz: d15e60c8
+      T Sandeep: b794a78d
+      Umair Qasim: e086735b
+      W Dlamini: d2ac882a
+      Zahid Khan: bf896894
+  teams:
+  - Sierra Leone
+  - Eswatini
+  toss:
+    winner: Eswatini
+    decision: field
+  umpires:
+  - C Phiri
+  - Lauren Agenbag
+  venue: Integrated Polytechnic Regional Centre
+innings:
+- 1st innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Turay
+        batsman: A Gbla
+    - 0.2:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Turay
+        batsman: A Gbla
+    - 0.3:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Turay
+        batsman: A Gbla
+    - 0.4:
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Turay
+        batsman: A Gbla
+    - 0.5:
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: A Turay
+        batsman: A Gbla
+    - 0.6:
+        non_striker: A Gbla
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Turay
+    - 0.7:
+        non_striker: A Gbla
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Turay
+        wicket:
+          player_out: A Gbla
+          fielders:
+          - Adil Butt
+          - M Magagula
+          kind: run out
+    - 1.1:
+        non_striker: A Turay
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+    - 1.2:
+        non_striker: A Turay
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+    - 1.3:
+        non_striker: A Turay
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ngegba
+    - 1.4:
+        non_striker: A Turay
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ngegba
+    - 1.5:
+        non_striker: A Turay
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Ngegba
+    - 1.6:
+        non_striker: A Turay
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Ngegba
+    - 1.7:
+        non_striker: A Turay
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+    - 2.1:
+        non_striker: G Ngegba
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turay
+        wicket:
+          player_out: A Turay
+          kind: bowled
+    - 2.2:
+        non_striker: G Ngegba
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lamin
+    - 2.3:
+        non_striker: G Ngegba
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 2.4:
+        non_striker: L Lamin
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ngegba
+    - 2.5:
+        non_striker: G Ngegba
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 2.6:
+        non_striker: L Lamin
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Ngegba
+    - 2.7:
+        non_striker: L Lamin
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ngegba
+    - 3.1:
+        non_striker: L Lamin
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ngegba
+        wicket:
+          player_out: G Ngegba
+          fielders:
+          - T Sandeep
+          kind: caught
+    - 3.2:
+        non_striker: L Lamin
+        bowler: M Magagula
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Zahid Khan
+    - 3.3:
+        non_striker: Zahid Khan
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 3.4:
+        non_striker: L Lamin
+        bowler: M Magagula
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Zahid Khan
+    - 3.5:
+        non_striker: Zahid Khan
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lamin
+    - 3.6:
+        non_striker: Zahid Khan
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lamin
+    - 3.7:
+        non_striker: Zahid Khan
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 3.8:
+        non_striker: Zahid Khan
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 4.1:
+        non_striker: Zahid Khan
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 4.2:
+        non_striker: L Lamin
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zahid Khan
+    - 4.3:
+        non_striker: L Lamin
+        bowler: H Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zahid Khan
+    - 4.4:
+        non_striker: L Lamin
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Khan
+        wicket:
+          player_out: Zahid Khan
+          kind: bowled
+    - 4.5:
+        non_striker: L Lamin
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Sesay
+    - 4.6:
+        non_striker: L Lamin
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Sesay
+    - 4.7:
+        non_striker: G Sesay
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Lamin
+- 2nd innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Sandeep
+        batsman: Adil Butt
+    - 0.2:
+        non_striker: Adil Butt
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 0.3:
+        non_striker: T Sandeep
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 0.4:
+        non_striker: T Sandeep
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 0.5:
+        non_striker: Adil Butt
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+        wicket:
+          player_out: T Sandeep
+          kind: bowled
+    - 0.6:
+        non_striker: Adil Butt
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 1.1:
+        non_striker: Umair Qasim
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 1.2:
+        non_striker: Umair Qasim
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 1.3:
+        non_striker: Umair Qasim
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 1.4:
+        non_striker: Umair Qasim
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Adil Butt
+    - 1.5:
+        non_striker: Umair Qasim
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adil Butt
+    - 1.6:
+        non_striker: Umair Qasim
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+        wicket:
+          player_out: Adil Butt
+          kind: bowled
+    - 2.1:
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Naeem Gull
+        batsman: Umair Qasim
+    - 2.2:
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Naeem Gull
+        batsman: Umair Qasim
+    - 2.3:
+        non_striker: Umair Qasim
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naeem Gull
+    - 2.4:
+        non_striker: Naeem Gull
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 2.5:
+        non_striker: Umair Qasim
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naeem Gull
+    - 2.6:
+        non_striker: Umair Qasim
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naeem Gull
+    - 3.1:
+        non_striker: Naeem Gull
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 3.2:
+        non_striker: Naeem Gull
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 3.3:
+        non_striker: Naeem Gull
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 3.4:
+        non_striker: Naeem Gull
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umair Qasim
+    - 3.5:
+        non_striker: Naeem Gull
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 3.6:
+        non_striker: Naeem Gull
+        bowler: G Sesay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umair Qasim
+    - 4.1:
+        non_striker: Umair Qasim
+        bowler: Mohamed Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Naeem Gull
+    - 4.2:
+        non_striker: Naeem Gull
+        bowler: Mohamed Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+        wicket:
+          player_out: Umair Qasim
+          fielders:
+          - J Bangura
+          kind: caught
+    - 4.3:
+        non_striker: Naeem Gull
+        bowler: Mohamed Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Rashid
+    - 4.4:
+        non_striker: H Rashid
+        bowler: Mohamed Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naeem Gull
+    - 4.5:
+        non_striker: H Rashid
+        bowler: Mohamed Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+    - 4.6:
+        non_striker: H Rashid
+        bowler: Mohamed Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+        wicket:
+          player_out: Naeem Gull
+          kind: bowled

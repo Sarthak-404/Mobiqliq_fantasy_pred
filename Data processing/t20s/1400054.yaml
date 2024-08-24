@@ -1,0 +1,1865 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gibraltar
+  dates:
+  - '2023-10-05'
+  gender: male
+  match_type: T20
+  match_type_number: 2294
+  outcome:
+    winner: Gibraltar
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - BA Pai
+  players:
+    Serbia:
+    - S Ivetic
+    - A Mene-Ejegi
+    - A Dizija
+    - LA Dunbar
+    - WAE Burton
+    - J Reb
+    - N Zimonjic
+    - AA Gajic
+    - P Nedeljkovic
+    - M Sarenac
+    - A Djorovic
+    Gibraltar:
+    - BA Pai
+    - KJ Stagno
+    - MO Bacarese
+    - IDM Latin
+    - K Nestor
+    - K Mirpuri
+    - A Reyes
+    - JA Fitzgerald
+    - L Bruce
+    - J Horrocks
+    - S Bodha
+  registry:
+    people:
+      A Dizija: 6483c062
+      A Djorovic: 677c18f9
+      A Elliott: f48d5563
+      A Mene-Ejegi: e4f13acd
+      A Reyes: fd2b8c06
+      AA Gajic: a768a762
+      BA Pai: 716bf559
+      IDM Latin: 78f719ea
+      J Horrocks: 1c8cd1c3
+      J Reb: 880eca04
+      JA Fitzgerald: 4e6ff836
+      K Mirpuri: 441006af
+      K Nestor: b89cde87
+      KJ Stagno: 46ad7e01
+      L Bruce: 2a03bd2f
+      LA Dunbar: f50433e9
+      M Sarenac: f5ba4611
+      MO Bacarese: 486f252b
+      N Zimonjic: 638f451b
+      P Nedeljkovic: 87e87dd2
+      R Cunningham: 6779e840
+      S Bodha: 00467a76
+      S Ivetic: 04ab1575
+      WAE Burton: b0358c6d
+  teams:
+  - Serbia
+  - Gibraltar
+  toss:
+    winner: Serbia
+    decision: bat
+  umpires:
+  - A Elliott
+  - R Cunningham
+  venue: Europa Sports Complex
+innings:
+- 1st innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mene-Ejegi
+        batsman: S Ivetic
+    - 0.2:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mene-Ejegi
+        batsman: S Ivetic
+    - 0.3:
+        non_striker: S Ivetic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 0.4:
+        non_striker: A Mene-Ejegi
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 0.5:
+        non_striker: A Mene-Ejegi
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 0.6:
+        non_striker: A Mene-Ejegi
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 1.1:
+        non_striker: A Mene-Ejegi
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 1.2:
+        non_striker: S Ivetic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+    - 1.3:
+        non_striker: S Ivetic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+        wicket:
+          player_out: A Mene-Ejegi
+          fielders:
+          - L Bruce
+          kind: caught
+    - 1.4:
+        non_striker: S Ivetic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.5:
+        non_striker: S Ivetic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.6:
+        non_striker: S Ivetic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 2.1:
+        non_striker: A Dizija
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 2.2:
+        non_striker: S Ivetic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 2.3:
+        non_striker: S Ivetic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+        wicket:
+          player_out: A Dizija
+          kind: bowled
+    - 2.4:
+        non_striker: S Ivetic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.5:
+        non_striker: S Ivetic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.6:
+        non_striker: S Ivetic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.1:
+        non_striker: LA Dunbar
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.2:
+        non_striker: LA Dunbar
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.3:
+        non_striker: LA Dunbar
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Ivetic
+    - 3.4:
+        non_striker: S Ivetic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 3.5:
+        non_striker: LA Dunbar
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.6:
+        non_striker: LA Dunbar
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 4.1:
+        non_striker: LA Dunbar
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 4.2:
+        non_striker: LA Dunbar
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+        wicket:
+          player_out: S Ivetic
+          fielders:
+          - L Bruce
+          kind: caught
+    - 4.3:
+        non_striker: LA Dunbar
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 4.4:
+        non_striker: LA Dunbar
+        bowler: BA Pai
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: WAE Burton
+    - 4.5:
+        non_striker: LA Dunbar
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 4.6:
+        non_striker: WAE Burton
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 4.7:
+        non_striker: LA Dunbar
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 5.1:
+        non_striker: LA Dunbar
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 5.2:
+        non_striker: WAE Burton
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dunbar
+    - 5.3:
+        non_striker: WAE Burton
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 5.4:
+        non_striker: WAE Burton
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 5.5:
+        non_striker: WAE Burton
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 5.6:
+        non_striker: WAE Burton
+        bowler: S Bodha
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: LA Dunbar
+    - 6.1:
+        non_striker: LA Dunbar
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 6.2:
+        non_striker: LA Dunbar
+        bowler: K Mirpuri
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: WAE Burton
+    - 6.3:
+        non_striker: LA Dunbar
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 6.4:
+        non_striker: LA Dunbar
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 6.5:
+        non_striker: LA Dunbar
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 6.6:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 7.1:
+        non_striker: LA Dunbar
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 7.2:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 7.3:
+        non_striker: LA Dunbar
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 7.4:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+        wicket:
+          player_out: LA Dunbar
+          fielders:
+          - K Mirpuri
+          kind: caught
+    - 7.5:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Reb
+    - 7.6:
+        non_striker: J Reb
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 8.1:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+    - 8.2:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Reb
+    - 8.3:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+    - 8.4:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+    - 8.5:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+    - 8.6:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Reb
+    - 9.1:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Reb
+    - 9.2:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+    - 9.3:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+    - 9.4:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+    - 9.5:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Reb
+        wicket:
+          player_out: J Reb
+          fielders:
+          - L Bruce
+          kind: caught
+    - 9.6:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 10.1:
+        non_striker: N Zimonjic
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 10.2:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+        wicket:
+          player_out: N Zimonjic
+          kind: lbw
+    - 10.3:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Gajic
+    - 10.4:
+        non_striker: AA Gajic
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 10.5:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 10.6:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 11.1:
+        non_striker: AA Gajic
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 11.2:
+        non_striker: AA Gajic
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 11.3:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 11.4:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Gajic
+    - 11.5:
+        non_striker: AA Gajic
+        bowler: J Horrocks
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: WAE Burton
+    - 11.6:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Gajic
+    - 11.7:
+        non_striker: WAE Burton
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Gajic
+    - 12.1:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 12.2:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 12.3:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 12.4:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Gajic
+    - 12.5:
+        non_striker: AA Gajic
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 12.6:
+        non_striker: WAE Burton
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 13.1:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: WAE Burton
+    - 13.2:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+        wicket:
+          player_out: WAE Burton
+          fielders:
+          - KJ Stagno
+          kind: run out
+    - 13.3:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 13.4:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 13.5:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 13.6:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nedeljkovic
+    - 13.7:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nedeljkovic
+    - 13.8:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 13.9:
+        non_striker: AA Gajic
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 14.1:
+        non_striker: P Nedeljkovic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 14.2:
+        non_striker: P Nedeljkovic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 14.3:
+        non_striker: P Nedeljkovic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Gajic
+    - 14.4:
+        non_striker: AA Gajic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nedeljkovic
+    - 14.5:
+        non_striker: P Nedeljkovic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+        wicket:
+          player_out: AA Gajic
+          kind: caught and bowled
+    - 14.6:
+        non_striker: P Nedeljkovic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Sarenac
+    - 15.1:
+        non_striker: M Sarenac
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 15.2:
+        non_striker: M Sarenac
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 15.3:
+        non_striker: M Sarenac
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 15.4:
+        non_striker: M Sarenac
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 15.5:
+        non_striker: M Sarenac
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nedeljkovic
+    - 15.6:
+        non_striker: P Nedeljkovic
+        bowler: J Horrocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 16.1:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+    - 16.2:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nedeljkovic
+        wicket:
+          player_out: P Nedeljkovic
+          kind: bowled
+    - 16.3:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 16.4:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 2
+          noballs: 1
+        batsman: A Djorovic
+    - 16.5:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Djorovic
+    - 16.6:
+        non_striker: A Djorovic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 16.7:
+        non_striker: A Djorovic
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 17.1:
+        non_striker: M Sarenac
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 17.2:
+        non_striker: M Sarenac
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 17.3:
+        non_striker: M Sarenac
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 17.4:
+        non_striker: M Sarenac
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Djorovic
+    - 17.5:
+        non_striker: A Djorovic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 17.6:
+        non_striker: A Djorovic
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 18.1:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Djorovic
+    - 18.2:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Djorovic
+    - 18.3:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 18.4:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 18.5:
+        non_striker: M Sarenac
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+        wicket:
+          player_out: A Djorovic
+          kind: caught and bowled
+- 2nd innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Stagno
+        batsman: BA Pai
+    - 0.2:
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Stagno
+        batsman: BA Pai
+    - 0.3:
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KJ Stagno
+        batsman: BA Pai
+    - 0.4:
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Stagno
+        batsman: BA Pai
+    - 0.5:
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: KJ Stagno
+        batsman: BA Pai
+    - 0.6:
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ Stagno
+        batsman: BA Pai
+    - 0.7:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 1.1:
+        non_striker: KJ Stagno
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 1.2:
+        non_striker: KJ Stagno
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 1.3:
+        non_striker: KJ Stagno
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 1.4:
+        non_striker: BA Pai
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 1.5:
+        non_striker: BA Pai
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Stagno
+    - 1.6:
+        non_striker: BA Pai
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 1.7:
+        non_striker: KJ Stagno
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 1.8:
+        non_striker: KJ Stagno
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 2.1:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+        wicket:
+          player_out: KJ Stagno
+          kind: bowled
+    - 2.2:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 2.3:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Bacarese
+    - 2.4:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MO Bacarese
+    - 2.5:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 2.6:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 3.1:
+        non_striker: BA Pai
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 3.2:
+        non_striker: BA Pai
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Bacarese
+    - 3.3:
+        non_striker: MO Bacarese
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 3.4:
+        non_striker: MO Bacarese
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 3.5:
+        non_striker: MO Bacarese
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 3.6:
+        non_striker: MO Bacarese
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 4.1:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 4.2:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 4.3:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 4.4:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MO Bacarese
+    - 4.5:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 4.6:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 5.1:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 5.2:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 5.3:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 5.4:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 5.5:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 5.6:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 6.1:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 6.2:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Bacarese
+    - 6.3:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.4:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 6.5:
+        non_striker: BA Pai
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MO Bacarese
+    - 6.6:
+        non_striker: MO Bacarese
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 7.1:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+    - 7.2:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Bacarese
+        wicket:
+          player_out: MO Bacarese
+          fielders:
+          - P Nedeljkovic
+          kind: caught
+    - 7.3:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 7.4:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 7.5:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 7.6:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 8.1:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 8.2:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 8.3:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 8.4:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+        wicket:
+          player_out: IDM Latin
+          fielders:
+          - LA Dunbar
+          kind: caught
+    - 8.5:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 8.6:
+        non_striker: K Nestor
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.1:
+        non_striker: K Nestor
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 9.2:
+        non_striker: K Nestor
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 9.3:
+        non_striker: K Nestor
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 9.4:
+        non_striker: K Nestor
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.5:
+        non_striker: BA Pai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 9.6:
+        non_striker: K Nestor
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 10.1:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Nestor
+    - 10.2:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 10.3:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 10.4:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 10.5:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 10.6:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 10.7:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Nestor
+    - 10.8:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 11.1:
+        non_striker: K Nestor
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.2:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 11.3:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 11.4:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Nestor
+    - 11.5:
+        non_striker: K Nestor
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.6:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Nestor
+    - 11.7:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 12.1:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 12.2:
+        non_striker: K Nestor
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 12.3:
+        non_striker: BA Pai
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 12.4:
+        non_striker: K Nestor
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 12.5:
+        non_striker: K Nestor
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 12.6:
+        non_striker: K Nestor
+        bowler: A Dizija
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 13.1:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 13.2:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 13.3:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 13.4:
+        non_striker: K Nestor
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA Pai
+    - 13.5:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 13.6:
+        non_striker: BA Pai
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 14.1:
+        non_striker: K Nestor
+        bowler: S Ivetic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai

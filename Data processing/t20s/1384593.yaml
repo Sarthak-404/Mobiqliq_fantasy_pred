@@ -1,0 +1,2239 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-14'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2023-07-14'
+  gender: male
+  match_type: T20
+  match_type_number: 2137
+  outcome:
+    winner: Malta
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - Zeeshan Khan
+  players:
+    Malta:
+    - Zeeshan Khan
+    - Fanyan Mughal
+    - DR Patankar
+    - Aaftab Alam Khan
+    - B Arora
+    - VP Thamotharam
+    - Waqas Ahmad
+    - E Mathew
+    - A Bishnoi
+    - C Sudarsanan
+    - Washeem Abbas
+    Romania:
+    - R Satheesan
+    - Taranjeet Singh
+    - V Saini
+    - S Nadigotla
+    - S Periyalwar
+    - Abdul Shakoor
+    - S Vashisht
+    - Gaurav Mishra
+    - M Koli
+    - Luca Petre
+    - S Thakur
+  registry:
+    people:
+      A Bishnoi: 376557f7
+      Aaftab Alam Khan: 9dbc77b3
+      Abdul Shakoor: d52b13a6
+      B Arora: 39e9f0c9
+      C Sudarsanan: 391a825b
+      DR Patankar: e661915c
+      E Mathew: e00acf74
+      Fanyan Mughal: e85bb4b3
+      Gaurav Mishra: 507dd87f
+      J Hilhorst: 8a1350d4
+      Jaswinder Singh: 63aa8148
+      Luca Petre: b31d458f
+      M Koli: eb0f2802
+      R Satheesan: 1125ebe4
+      S Fernando: bbeb5b15
+      S Harnal: 756fe781
+      S Nadigotla: b78b3ffd
+      S Periyalwar: d207e4fb
+      S Thakur: a073f2ff
+      S Vashisht: 20ac8219
+      Taranjeet Singh: ec483176
+      V Saini: 0fa81719
+      VP Thamotharam: eb40ed89
+      Vinay Malhotra: 452837d1
+      Waqas Ahmad: 82623a3a
+      Washeem Abbas: 6de4e430
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - Malta
+  - Romania
+  toss:
+    winner: Malta
+    decision: bat
+  umpires:
+  - J Hilhorst
+  - S Harnal
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fanyan Mughal
+        batsman: Zeeshan Khan
+    - 0.2:
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Fanyan Mughal
+        batsman: Zeeshan Khan
+    - 0.3:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 0.4:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 0.5:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fanyan Mughal
+    - 0.6:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 1.1:
+        non_striker: Fanyan Mughal
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 1.2:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+        wicket:
+          player_out: Fanyan Mughal
+          fielders:
+          - V Saini
+          kind: caught
+    - 1.3:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Patankar
+    - 1.4:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 1.5:
+        non_striker: DR Patankar
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 1.6:
+        non_striker: DR Patankar
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 1.7:
+        non_striker: DR Patankar
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 2.1:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Patankar
+    - 2.2:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Patankar
+    - 2.3:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Patankar
+    - 2.4:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Patankar
+    - 2.5:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Patankar
+    - 2.6:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Patankar
+    - 3.1:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DR Patankar
+    - 3.2:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Patankar
+    - 3.3:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Patankar
+    - 3.4:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Patankar
+        wicket:
+          player_out: DR Patankar
+          fielders:
+          - M Koli
+          kind: caught
+    - 3.5:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaftab Alam Khan
+        wicket:
+          player_out: Aaftab Alam Khan
+          kind: bowled
+    - 3.6:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.1:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 4.2:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 4.3:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 4.4:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 4.5:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 4.6:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 4.7:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 5.1:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 5.2:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 5.3:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 5.4:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 5.5:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 5.6:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 6.1:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 6.2:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 6.3:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 6.4:
+        non_striker: B Arora
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 6.5:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Arora
+    - 6.6:
+        non_striker: Zeeshan Khan
+        bowler: Gaurav Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 7.1:
+        non_striker: B Arora
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Khan
+    - 7.2:
+        non_striker: B Arora
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 7.3:
+        non_striker: B Arora
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 7.4:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 7.5:
+        non_striker: B Arora
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 7.6:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 7.7:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 8.1:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 8.2:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.3:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.4:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 8.5:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.6:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Arora
+    - 9.1:
+        non_striker: B Arora
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Khan
+    - 9.2:
+        non_striker: B Arora
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 9.3:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 9.4:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Arora
+    - 9.5:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 9.6:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 10.1:
+        non_striker: B Arora
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 10.2:
+        non_striker: B Arora
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 10.3:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 10.4:
+        non_striker: B Arora
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 10.5:
+        non_striker: B Arora
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 10.6:
+        non_striker: B Arora
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 11.1:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 11.2:
+        non_striker: Zeeshan Khan
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 11.3:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 11.4:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 11.5:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 11.6:
+        non_striker: B Arora
+        bowler: S Vashisht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 12.1:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Arora
+    - 12.2:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 12.3:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+        wicket:
+          player_out: B Arora
+          fielders:
+          - S Nadigotla
+          kind: caught
+    - 12.4:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 12.5:
+        non_striker: VP Thamotharam
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 12.6:
+        non_striker: VP Thamotharam
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 13.1:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 13.2:
+        non_striker: VP Thamotharam
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Khan
+    - 13.3:
+        non_striker: VP Thamotharam
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 13.4:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 13.5:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 13.6:
+        non_striker: VP Thamotharam
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 14.1:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VP Thamotharam
+    - 14.2:
+        non_striker: VP Thamotharam
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 14.3:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 14.4:
+        non_striker: VP Thamotharam
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 14.5:
+        non_striker: VP Thamotharam
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 14.6:
+        non_striker: VP Thamotharam
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 15.1:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 15.2:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 15.3:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VP Thamotharam
+    - 15.4:
+        non_striker: Zeeshan Khan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 15.5:
+        non_striker: VP Thamotharam
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 15.6:
+        non_striker: VP Thamotharam
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 16.1:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+        wicket:
+          player_out: VP Thamotharam
+          fielders:
+          - Gaurav Mishra
+          kind: caught
+    - 16.2:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ahmad
+    - 16.3:
+        non_striker: Waqas Ahmad
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 16.4:
+        non_striker: Waqas Ahmad
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 16.5:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqas Ahmad
+    - 16.6:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ahmad
+    - 16.7:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waqas Ahmad
+    - 17.1:
+        non_striker: Waqas Ahmad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 17.2:
+        non_striker: Waqas Ahmad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 17.3:
+        non_striker: Waqas Ahmad
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 17.4:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ahmad
+        wicket:
+          player_out: Waqas Ahmad
+          fielders:
+          - Gaurav Mishra
+          kind: caught
+    - 17.5:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Mathew
+    - 17.6:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Mathew
+    - 18.1:
+        non_striker: E Mathew
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 18.2:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Mathew
+    - 18.3:
+        non_striker: Zeeshan Khan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Mathew
+    - 18.4:
+        non_striker: E Mathew
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 18.5:
+        non_striker: E Mathew
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 18.6:
+        non_striker: E Mathew
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 19.1:
+        non_striker: E Mathew
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+    - 19.2:
+        non_striker: E Mathew
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 19.3:
+        non_striker: E Mathew
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 19.4:
+        non_striker: E Mathew
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 19.5:
+        non_striker: Zeeshan Khan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Mathew
+        wicket:
+          player_out: E Mathew
+          fielders:
+          - V Saini
+          - S Nadigotla
+          kind: run out
+    - 19.6:
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Bishnoi
+        batsman: Zeeshan Khan
+    - 19.7:
+        non_striker: A Bishnoi
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Khan
+- 2nd innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Taranjeet Singh
+        batsman: R Satheesan
+    - 0.2:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Taranjeet Singh
+        batsman: R Satheesan
+    - 0.3:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Taranjeet Singh
+        batsman: R Satheesan
+    - 0.4:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Taranjeet Singh
+        batsman: R Satheesan
+    - 0.5:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Taranjeet Singh
+        batsman: R Satheesan
+    - 0.6:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Taranjeet Singh
+        batsman: R Satheesan
+    - 0.7:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Taranjeet Singh
+        batsman: R Satheesan
+    - 0.8:
+        non_striker: Taranjeet Singh
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 1.1:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Taranjeet Singh
+    - 1.2:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 1.3:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taranjeet Singh
+    - 1.4:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+        wicket:
+          player_out: Taranjeet Singh
+          fielders:
+          - C Sudarsanan
+          kind: caught
+    - 1.5:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Saini
+    - 1.6:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 2.1:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 2.2:
+        non_striker: V Saini
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Satheesan
+    - 2.3:
+        non_striker: V Saini
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 2.4:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+    - 2.5:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Saini
+    - 2.6:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+    - 2.7:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 3.1:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+    - 3.2:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+    - 3.3:
+        non_striker: R Satheesan
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 3.4:
+        non_striker: V Saini
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 3.5:
+        non_striker: V Saini
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Satheesan
+    - 3.6:
+        non_striker: V Saini
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 4.1:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Saini
+    - 4.2:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Saini
+    - 4.3:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Saini
+    - 4.4:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Saini
+    - 4.5:
+        non_striker: V Saini
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 4.6:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Saini
+    - 4.7:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+        wicket:
+          player_out: V Saini
+          fielders:
+          - Aaftab Alam Khan
+          kind: caught
+    - 4.8:
+        non_striker: R Satheesan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 5.1:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 5.2:
+        non_striker: S Nadigotla
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 5.3:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nadigotla
+    - 5.4:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nadigotla
+    - 5.5:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 5.6:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nadigotla
+    - 5.7:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nadigotla
+    - 6.1:
+        non_striker: S Nadigotla
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Satheesan
+    - 6.2:
+        non_striker: S Nadigotla
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 6.3:
+        non_striker: S Nadigotla
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 6.4:
+        non_striker: S Nadigotla
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 6.5:
+        non_striker: R Satheesan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 6.6:
+        non_striker: R Satheesan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 6.7:
+        non_striker: S Nadigotla
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Satheesan
+    - 7.1:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 7.2:
+        non_striker: S Nadigotla
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 7.3:
+        non_striker: S Nadigotla
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 7.4:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 7.5:
+        non_striker: S Nadigotla
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 7.6:
+        non_striker: R Satheesan
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nadigotla
+    - 8.1:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nadigotla
+    - 8.2:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 8.3:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+    - 8.4:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nadigotla
+        wicket:
+          player_out: S Nadigotla
+          fielders:
+          - C Sudarsanan
+          kind: stumped
+    - 8.5:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+    - 8.6:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Periyalwar
+    - 9.1:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Periyalwar
+    - 9.2:
+        non_striker: S Periyalwar
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 9.3:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Periyalwar
+        wicket:
+          player_out: S Periyalwar
+          fielders:
+          - C Sudarsanan
+          kind: caught
+    - 9.4:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Shakoor
+    - 9.5:
+        non_striker: Abdul Shakoor
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Satheesan
+    - 9.6:
+        non_striker: Abdul Shakoor
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 10.1:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Shakoor
+    - 10.2:
+        non_striker: Abdul Shakoor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 10.3:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Shakoor
+    - 10.4:
+        non_striker: Abdul Shakoor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Satheesan
+    - 10.5:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Shakoor
+    - 10.6:
+        non_striker: R Satheesan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Shakoor
+    - 11.1:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Shakoor
+    - 11.2:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Shakoor
+    - 11.3:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Shakoor
+    - 11.4:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdul Shakoor
+    - 11.5:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Shakoor
+    - 11.6:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Shakoor
+        wicket:
+          player_out: Abdul Shakoor
+          fielders:
+          - VP Thamotharam
+          kind: caught
+    - 11.7:
+        non_striker: R Satheesan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 12.1:
+        non_striker: S Vashisht
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+    - 12.2:
+        non_striker: S Vashisht
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Satheesan
+        wicket:
+          player_out: R Satheesan
+          fielders:
+          - DR Patankar
+          kind: caught
+    - 12.3:
+        non_striker: S Vashisht
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Mishra
+    - 12.4:
+        non_striker: S Vashisht
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gaurav Mishra
+    - 12.5:
+        non_striker: S Vashisht
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Mishra
+    - 12.6:
+        non_striker: S Vashisht
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Mishra
+    - 13.1:
+        non_striker: Gaurav Mishra
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vashisht
+    - 13.2:
+        non_striker: Gaurav Mishra
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 13.3:
+        non_striker: S Vashisht
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gaurav Mishra
+    - 13.4:
+        non_striker: S Vashisht
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Mishra
+    - 13.5:
+        non_striker: Gaurav Mishra
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vashisht
+    - 13.6:
+        non_striker: Gaurav Mishra
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+        wicket:
+          player_out: S Vashisht
+          fielders:
+          - Aaftab Alam Khan
+          kind: caught
+    - 14.1:
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Koli
+        batsman: Gaurav Mishra
+    - 14.2:
+        non_striker: Gaurav Mishra
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Koli
+    - 14.3:
+        non_striker: Gaurav Mishra
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Koli
+    - 14.4:
+        non_striker: Gaurav Mishra
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Koli
+    - 14.5:
+        non_striker: M Koli
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Mishra
+    - 14.6:
+        non_striker: Gaurav Mishra
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+        wicket:
+          player_out: Gaurav Mishra
+          fielders:
+          - Jaswinder Singh (sub)
+          - B Arora
+          kind: run out
+    - 15.1:
+        non_striker: M Koli
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luca Petre
+    - 15.2:
+        non_striker: Luca Petre
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Koli
+    - 15.3:
+        non_striker: Luca Petre
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Koli
+    - 15.4:
+        non_striker: Luca Petre
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Koli
+    - 15.5:
+        non_striker: Luca Petre
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 15.6:
+        non_striker: M Koli
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luca Petre
+    - 16.1:
+        non_striker: Luca Petre
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 16.2:
+        non_striker: M Koli
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luca Petre
+    - 16.3:
+        non_striker: Luca Petre
+        bowler: A Bishnoi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Koli
+    - 16.4:
+        non_striker: Luca Petre
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Koli
+    - 16.5:
+        non_striker: Luca Petre
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 16.6:
+        non_striker: M Koli
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luca Petre
+    - 16.7:
+        non_striker: Luca Petre
+        bowler: A Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 17.1:
+        non_striker: Luca Petre
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Koli
+    - 17.2:
+        non_striker: Luca Petre
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Koli
+    - 17.3:
+        non_striker: Luca Petre
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Koli
+    - 17.4:
+        non_striker: Luca Petre
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 17.5:
+        non_striker: M Koli
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luca Petre
+    - 17.6:
+        non_striker: M Koli
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luca Petre
+    - 18.1:
+        non_striker: Luca Petre
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Koli
+    - 18.2:
+        non_striker: Luca Petre
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 18.3:
+        non_striker: M Koli
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luca Petre
+    - 18.4:
+        non_striker: M Koli
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luca Petre
+        wicket:
+          player_out: Luca Petre
+          kind: bowled
+    - 18.5:
+        non_striker: M Koli
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakur
+    - 18.6:
+        non_striker: M Koli
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thakur
+    - 18.7:
+        non_striker: M Koli
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakur
+    - 19.1:
+        non_striker: M Koli
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakur
+    - 19.2:
+        non_striker: M Koli
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakur
+    - 19.3:
+        non_striker: S Thakur
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Koli
+    - 19.4:
+        non_striker: S Thakur
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Koli
+    - 19.5:
+        non_striker: S Thakur
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 19.6:
+        non_striker: M Koli
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakur

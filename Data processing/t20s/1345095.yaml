@@ -1,0 +1,1837 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  dates:
+  - '2023-01-24'
+  gender: female
+  match_type: T20
+  match_type_number: 1345
+  outcome:
+    winner: Australia
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - ML Schutt
+  players:
+    Pakistan:
+    - Muneeba Ali
+    - Javeria Khan
+    - Bismah Maroof
+    - Sadaf Shamas
+    - Nida Dar
+    - Umaima Sohail
+    - Ayesha Naseem
+    - Fatima Sana
+    - Aiman Anwer
+    - Tuba Hassan
+    - Sadia Iqbal
+    Australia:
+    - EA Perry
+    - MM Lanning
+    - TM McGrath
+    - A Gardner
+    - BL Mooney
+    - GM Harris
+    - A Sutherland
+    - JL Jonassen
+    - A King
+    - ML Schutt
+    - D Brown
+  registry:
+    people:
+      A Gardner: bc969efb
+      A King: '83558266'
+      A Sutherland: 65d9b6b6
+      Aiman Anwer: c736a96b
+      Ayesha Naseem: 8c2c0a03
+      BL Mooney: 52d1dbc8
+      Bismah Maroof: 3b770527
+      CA Polosak: 26a360d2
+      D Brown: 2e81be88
+      EA Perry: be150fc8
+      Eloise Sheridan: d8d43840
+      Fatima Sana: ea9c54de
+      GM Harris: '72166006'
+      JL Jonassen: 0475a86b
+      Javeria Khan: d921449d
+      ML Schutt: 17608a6f
+      MM Lanning: 27e003ce
+      MW Graham-Smith: 18aca3ce
+      Muneeba Ali: 86fdf668
+      Nida Dar: ed840f44
+      SAJ Craig: 689f2eed
+      SR Bernard: 800187dc
+      Sadaf Shamas: f19c8dc0
+      Sadia Iqbal: 53bb50f0
+      TM McGrath: ca5acfa4
+      Tuba Hassan: 0d56e9a5
+      Umaima Sohail: 821d7d46
+  teams:
+  - Pakistan
+  - Australia
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - Eloise Sheridan
+  - SAJ Craig
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javeria Khan
+        batsman: Muneeba Ali
+    - 0.2:
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Javeria Khan
+        batsman: Muneeba Ali
+    - 0.3:
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javeria Khan
+        batsman: Muneeba Ali
+    - 0.4:
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javeria Khan
+        batsman: Muneeba Ali
+    - 0.5:
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Javeria Khan
+        batsman: Muneeba Ali
+    - 0.6:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 0.7:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Javeria Khan
+    - 0.8:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Javeria Khan
+    - 0.9:
+        non_striker: Javeria Khan
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Muneeba Ali
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan
+    - 1.3:
+        non_striker: Muneeba Ali
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 1.4:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 1.5:
+        non_striker: Muneeba Ali
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 1.6:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.1:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 2.2:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 2.3:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 2.4:
+        non_striker: Javeria Khan
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.5:
+        non_striker: Javeria Khan
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.6:
+        non_striker: Javeria Khan
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.1:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javeria Khan
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javeria Khan
+    - 3.3:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Javeria Khan
+    - 3.4:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 3.5:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 3.6:
+        non_striker: Javeria Khan
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.1:
+        non_striker: Muneeba Ali
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 4.2:
+        non_striker: Javeria Khan
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          kind: bowled
+    - 4.3:
+        non_striker: Javeria Khan
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 4.4:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 4.5:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 4.6:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 5.1:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 5.2:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.3:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.4:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+        wicket:
+          player_out: Sadaf Shamas
+          fielders:
+          - EA Perry
+          kind: caught
+    - 5.5:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 5.6:
+        non_striker: Javeria Khan
+        bowler: ML Schutt
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Nida Dar
+    - 6.1:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 6.2:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+        wicket:
+          player_out: Javeria Khan
+          kind: bowled
+    - 6.3:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 6.4:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 6.5:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 6.6:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 7.1:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 7.2:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 7.3:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 7.4:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 7.5:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 7.6:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 8.1:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 8.2:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 8.3:
+        non_striker: Nida Dar
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umaima Sohail
+    - 8.4:
+        non_striker: Nida Dar
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 8.5:
+        non_striker: Nida Dar
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 8.6:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 9.1:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 9.2:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umaima Sohail
+    - 9.3:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 9.4:
+        non_striker: Umaima Sohail
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 9.5:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umaima Sohail
+    - 9.6:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 10.1:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 10.2:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 10.3:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 10.4:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Nida Dar
+          kind: caught and bowled
+    - 10.5:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 10.6:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 11.1:
+        non_striker: Ayesha Naseem
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 11.2:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 11.3:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 11.4:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Ayesha Naseem
+    - 11.5:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ayesha Naseem
+    - 11.6:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 11.7:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 12.1:
+        non_striker: Ayesha Naseem
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 12.2:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 12.3:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Naseem
+    - 12.4:
+        non_striker: Ayesha Naseem
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 12.5:
+        non_striker: Ayesha Naseem
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 12.6:
+        non_striker: Ayesha Naseem
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 13.1:
+        non_striker: Ayesha Naseem
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 13.2:
+        non_striker: Umaima Sohail
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 13.3:
+        non_striker: Umaima Sohail
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 13.4:
+        non_striker: Umaima Sohail
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Naseem
+    - 13.5:
+        non_striker: Ayesha Naseem
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 13.6:
+        non_striker: Umaima Sohail
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 14.1:
+        non_striker: Ayesha Naseem
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 14.2:
+        non_striker: Ayesha Naseem
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 14.3:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 14.4:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 14.5:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ayesha Naseem
+    - 14.6:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayesha Naseem
+    - 14.7:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Naseem
+    - 15.1:
+        non_striker: Ayesha Naseem
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 15.2:
+        non_striker: Ayesha Naseem
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 15.3:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ayesha Naseem
+    - 15.4:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 15.5:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+        wicket:
+          player_out: Ayesha Naseem
+          kind: bowled
+    - 15.6:
+        non_striker: Umaima Sohail
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 16.1:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 16.2:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 16.3:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 16.4:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          fielders:
+          - MM Lanning
+          kind: caught
+    - 16.5:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aiman Anwer
+    - 16.6:
+        non_striker: Aiman Anwer
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 17.1:
+        non_striker: Umaima Sohail
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aiman Anwer
+    - 17.2:
+        non_striker: Aiman Anwer
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 17.3:
+        non_striker: Umaima Sohail
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aiman Anwer
+    - 17.4:
+        non_striker: Aiman Anwer
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umaima Sohail
+    - 17.5:
+        non_striker: Aiman Anwer
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umaima Sohail
+    - 17.6:
+        non_striker: Aiman Anwer
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 18.1:
+        non_striker: Aiman Anwer
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+        wicket:
+          player_out: Umaima Sohail
+          fielders:
+          - GM Harris
+          kind: caught
+    - 18.2:
+        non_striker: Aiman Anwer
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 18.3:
+        non_striker: Aiman Anwer
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+        wicket:
+          player_out: Tuba Hassan
+          fielders:
+          - GM Harris
+          kind: caught
+    - 18.4:
+        non_striker: Aiman Anwer
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadia Iqbal
+    - 18.5:
+        non_striker: Sadia Iqbal
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aiman Anwer
+    - 18.6:
+        non_striker: Aiman Anwer
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadia Iqbal
+    - 19.1:
+        non_striker: Aiman Anwer
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadia Iqbal
+    - 19.2:
+        non_striker: Sadia Iqbal
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aiman Anwer
+    - 19.3:
+        non_striker: Sadia Iqbal
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aiman Anwer
+    - 19.4:
+        non_striker: Aiman Anwer
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadia Iqbal
+    - 19.5:
+        non_striker: Sadia Iqbal
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aiman Anwer
+    - 19.6:
+        non_striker: Sadia Iqbal
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aiman Anwer
+        wicket:
+          player_out: Aiman Anwer
+          kind: lbw
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MM Lanning
+        batsman: EA Perry
+    - 0.2:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 0.3:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 0.4:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 0.5:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Lanning
+    - 0.6:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 0.7:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 1.1:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 1.2:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 1.3:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 1.4:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 1.5:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 1.6:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+        wicket:
+          player_out: MM Lanning
+          kind: bowled
+    - 2.1:
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TM McGrath
+        batsman: EA Perry
+    - 2.2:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 2.3:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 2.4:
+        non_striker: TM McGrath
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.5:
+        non_striker: TM McGrath
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: EA Perry
+    - 2.6:
+        non_striker: TM McGrath
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 2.7:
+        non_striker: TM McGrath
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 3.1:
+        non_striker: TM McGrath
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.2:
+        non_striker: TM McGrath
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 3.3:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.4:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.5:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 3.6:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 4.1:
+        non_striker: TM McGrath
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.2:
+        non_striker: TM McGrath
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.3:
+        non_striker: TM McGrath
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 4.4:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 4.5:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 4.6:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 5.1:
+        non_striker: TM McGrath
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.2:
+        non_striker: EA Perry
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 5.3:
+        non_striker: EA Perry
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 5.4:
+        non_striker: TM McGrath
+        bowler: Nida Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Perry
+    - 5.5:
+        non_striker: TM McGrath
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.6:
+        non_striker: EA Perry
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 5.7:
+        non_striker: TM McGrath
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.1:
+        non_striker: TM McGrath
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.2:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 6.3:
+        non_striker: TM McGrath
+        bowler: Aiman Anwer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EA Perry
+    - 6.4:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 6.5:
+        non_striker: TM McGrath
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.6:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 7.1:
+        non_striker: EA Perry
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          kind: bowled
+    - 7.2:
+        non_striker: EA Perry
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.3:
+        non_striker: A Gardner
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.4:
+        non_striker: EA Perry
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.5:
+        non_striker: A Gardner
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 7.6:
+        non_striker: A Gardner
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 8.1:
+        non_striker: EA Perry
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 8.2:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.3:
+        non_striker: EA Perry
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 8.4:
+        non_striker: EA Perry
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 8.5:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 8.6:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 9.1:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 9.2:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 9.3:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 9.4:
+        non_striker: EA Perry
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 9.5:
+        non_striker: A Gardner
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 9.6:
+        non_striker: A Gardner
+        bowler: Aiman Anwer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.1:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.2:
+        non_striker: EA Perry
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 10.3:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 10.4:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.5:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.6:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 11.1:
+        non_striker: A Gardner
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 11.2:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 11.3:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 11.4:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 11.5:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 11.6:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 12.1:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 12.2:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.3:
+        non_striker: EA Perry
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 12.4:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.5:
+        non_striker: EA Perry
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 12.6:
+        non_striker: A Gardner
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 13.1:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 13.2:
+        non_striker: A Gardner
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.3:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 13.4:
+        non_striker: A Gardner
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry

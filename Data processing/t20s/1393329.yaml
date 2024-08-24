@@ -1,0 +1,2214 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2023-08-25'
+  gender: male
+  match_type: T20
+  match_type_number: 2217
+  outcome:
+    winner: Uganda
+    by:
+      runs: 19
+  overs: 20
+  player_of_match:
+  - AR Ramjani
+  players:
+    Uganda:
+    - RG Mukasa
+    - S Sesazi
+    - R Lutaaya
+    - RB Patel
+    - AR Ramjani
+    - K Waiswa
+    - B Masaba
+    - CN Kakuru
+    - P Murungi
+    - Bilal Hassun
+    - J Sebanja
+    - H Ssenyondo
+    Tanzania:
+    - AR Patwa
+    - II Selemani
+    - AP Rajeevan
+    - DA Mehta
+    - MO Kitunda
+    - AM Kimote
+    - S Thakor
+    - SA Jumbe
+    - M Yunusu Issa
+    - YM Nkanya
+    - JJ Nyambo
+  registry:
+    people:
+      AM Kimote: 34e36b65
+      AP Rajeevan: 63d6f031
+      AR Patwa: b43f7a6a
+      AR Ramjani: 30d8136b
+      B Masaba: f33cfd25
+      Bilal Hassun: 1a9e9efe
+      CN Kakuru: f6aed283
+      DA Mehta: 61a7d6e9
+      H Ssenyondo: 2b7609f1
+      II Selemani: b2dadc51
+      J Sebanja: 1e78c51c
+      JJ Nyambo: ffb3b559
+      K Waiswa: a3a275ec
+      M Yunusu Issa: bbab35a3
+      MO Kitunda: badef0dc
+      P Murungi: fbdc5ab1
+      R Lutaaya: 04e0cdec
+      RB Patel: f88dc8de
+      RG Mukasa: 011f6b42
+      S Sesazi: c2c975f9
+      S Thakor: '0848ac5f'
+      SA Jumbe: '91056862'
+      YM Nkanya: 9238dd92
+  teams:
+  - Uganda
+  - Tanzania
+  toss:
+    winner: Uganda
+    decision: bat
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+        wicket:
+          player_out: RG Mukasa
+          fielders:
+          - AP Rajeevan
+          kind: caught
+    - 0.2:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Lutaaya
+    - 0.3:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sesazi
+    - 0.4:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 0.5:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 0.6:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 1.1:
+        non_striker: R Lutaaya
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sesazi
+    - 1.2:
+        non_striker: R Lutaaya
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sesazi
+    - 1.3:
+        non_striker: R Lutaaya
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 1.4:
+        non_striker: R Lutaaya
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 1.5:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Lutaaya
+    - 1.6:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Lutaaya
+    - 1.7:
+        non_striker: R Lutaaya
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 1.8:
+        non_striker: R Lutaaya
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 2.1:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 2.2:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 2.3:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 2.4:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 2.5:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 2.6:
+        non_striker: R Lutaaya
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 3.1:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 3.2:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Lutaaya
+    - 3.3:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Lutaaya
+    - 3.4:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 3.5:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Lutaaya
+    - 3.6:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Lutaaya
+    - 4.1:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 4.2:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+        wicket:
+          player_out: R Lutaaya
+          fielders:
+          - DA Mehta
+          kind: caught
+    - 4.3:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RB Patel
+    - 4.4:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+        wicket:
+          player_out: RB Patel
+          kind: retired hurt
+    - 4.5:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 4.6:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Ramjani
+    - 4.7:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 4.8:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 5.1:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 5.2:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 5.3:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 5.4:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 5.5:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 5.6:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 6.1:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+        wicket:
+          player_out: S Sesazi
+          fielders:
+          - M Yunusu Issa
+          kind: caught
+    - 6.2:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 6.3:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 6.4:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: K Waiswa
+    - 6.5:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 6.6:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 7.1:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Waiswa
+    - 7.2:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 7.3:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 7.4:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Waiswa
+    - 7.5:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 7.6:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 8.1:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 8.2:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 8.3:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 8.4:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 8.5:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 8.6:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 9.1:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 9.2:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 9.3:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 9.4:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Waiswa
+    - 9.5:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 9.6:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Waiswa
+    - 9.7:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 10.1:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 10.2:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Waiswa
+    - 10.3:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 10.4:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 10.5:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Waiswa
+    - 10.6:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 11.1:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 11.2:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AR Ramjani
+    - 11.3:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 11.4:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 11.5:
+        non_striker: AR Ramjani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 11.6:
+        non_striker: K Waiswa
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 12.1:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Waiswa
+    - 12.2:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Waiswa
+    - 12.3:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Waiswa
+    - 12.4:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 12.5:
+        non_striker: AR Ramjani
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 12.6:
+        non_striker: K Waiswa
+        bowler: JJ Nyambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 13.1:
+        non_striker: K Waiswa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 13.2:
+        non_striker: K Waiswa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 13.3:
+        non_striker: AR Ramjani
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 13.4:
+        non_striker: K Waiswa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 13.5:
+        non_striker: K Waiswa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 13.6:
+        non_striker: K Waiswa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 14.1:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Waiswa
+    - 14.2:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Waiswa
+    - 14.3:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 14.4:
+        non_striker: K Waiswa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 14.5:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+        wicket:
+          player_out: K Waiswa
+          kind: bowled
+    - 14.6:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 15.1:
+        non_striker: B Masaba
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 15.2:
+        non_striker: AR Ramjani
+        bowler: M Yunusu Issa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Masaba
+    - 15.3:
+        non_striker: AR Ramjani
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 15.4:
+        non_striker: AR Ramjani
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+        wicket:
+          player_out: B Masaba
+          fielders:
+          - AR Patwa
+          kind: caught
+    - 15.5:
+        non_striker: AR Ramjani
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 15.6:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 15.7:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 16.1:
+        non_striker: CN Kakuru
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 16.2:
+        non_striker: AR Ramjani
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 16.3:
+        non_striker: CN Kakuru
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 16.4:
+        non_striker: CN Kakuru
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Ramjani
+    - 16.5:
+        non_striker: CN Kakuru
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 16.6:
+        non_striker: AR Ramjani
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 17.1:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Ramjani
+    - 17.2:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Ramjani
+    - 17.3:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Ramjani
+    - 17.4:
+        non_striker: AR Ramjani
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 17.5:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Ramjani
+    - 17.6:
+        non_striker: AR Ramjani
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 18.1:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 18.2:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: P Murungi
+            out: RB Patel
+            team: Uganda
+            reason: concussion_substitute
+        batsman: CN Kakuru
+        wicket:
+          player_out: CN Kakuru
+          fielders:
+          - DA Mehta
+          kind: caught
+    - 18.3:
+        non_striker: AR Ramjani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+        wicket:
+          player_out: AR Ramjani
+          fielders:
+          - AP Rajeevan
+          - AM Kimote
+          kind: run out
+    - 18.4:
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Bilal Hassun
+        batsman: P Murungi
+    - 18.5:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Bilal Hassun
+        batsman: P Murungi
+    - 18.6:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Hassun
+        batsman: P Murungi
+    - 18.7:
+        non_striker: Bilal Hassun
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 19.1:
+        non_striker: P Murungi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Hassun
+    - 19.2:
+        non_striker: P Murungi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Hassun
+        wicket:
+          player_out: Bilal Hassun
+          fielders:
+          - AR Patwa
+          kind: caught
+    - 19.3:
+        non_striker: P Murungi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sebanja
+    - 19.4:
+        non_striker: J Sebanja
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 19.5:
+        non_striker: J Sebanja
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+        wicket:
+          player_out: P Murungi
+          kind: bowled
+    - 19.6:
+        non_striker: J Sebanja
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+- 2nd innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.2:
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.3:
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.4:
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.5:
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.6:
+        non_striker: II Selemani
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 1.1:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 1.2:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 1.3:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patwa
+    - 1.4:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 1.5:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 1.6:
+        non_striker: AR Patwa
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 2.1:
+        non_striker: II Selemani
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 2.2:
+        non_striker: AR Patwa
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 2.3:
+        non_striker: AR Patwa
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+        wicket:
+          player_out: II Selemani
+          fielders:
+          - CN Kakuru
+          kind: caught
+    - 2.4:
+        non_striker: AR Patwa
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 2.5:
+        non_striker: AR Patwa
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 2.6:
+        non_striker: AP Rajeevan
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 3.1:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patwa
+    - 3.2:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patwa
+    - 3.3:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 3.4:
+        non_striker: AR Patwa
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Rajeevan
+    - 3.5:
+        non_striker: AR Patwa
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 3.6:
+        non_striker: AR Patwa
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 3.7:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AR Patwa
+    - 3.8:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 4.1:
+        non_striker: AR Patwa
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 4.2:
+        non_striker: AP Rajeevan
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 4.3:
+        non_striker: AP Rajeevan
+        bowler: J Sebanja
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AR Patwa
+    - 4.4:
+        non_striker: AP Rajeevan
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+        wicket:
+          player_out: AR Patwa
+          kind: bowled
+    - 4.5:
+        non_striker: AP Rajeevan
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 4.6:
+        non_striker: AP Rajeevan
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 4.7:
+        non_striker: AP Rajeevan
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 5.1:
+        non_striker: DA Mehta
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 5.2:
+        non_striker: DA Mehta
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 5.3:
+        non_striker: DA Mehta
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 5.4:
+        non_striker: DA Mehta
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 5.5:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 5.6:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Mehta
+    - 6.1:
+        non_striker: DA Mehta
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 6.2:
+        non_striker: DA Mehta
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 6.3:
+        non_striker: AP Rajeevan
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 6.4:
+        non_striker: DA Mehta
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AP Rajeevan
+    - 6.5:
+        non_striker: AP Rajeevan
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Mehta
+    - 6.6:
+        non_striker: DA Mehta
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 7.1:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 7.2:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 7.3:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+        wicket:
+          player_out: DA Mehta
+          kind: bowled
+    - 7.4:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 7.5:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 7.6:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 8.1:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 8.2:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 8.3:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Rajeevan
+    - 8.4:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 8.5:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 8.6:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 8.7:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 9.1:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 9.2:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MO Kitunda
+    - 9.3:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 9.4:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 9.5:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 9.6:
+        non_striker: MO Kitunda
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 10.1:
+        non_striker: AP Rajeevan
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 10.2:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 10.3:
+        non_striker: AP Rajeevan
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 10.4:
+        non_striker: AP Rajeevan
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 10.5:
+        non_striker: AP Rajeevan
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 10.6:
+        non_striker: AP Rajeevan
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 11.1:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 11.2:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 11.3:
+        non_striker: AP Rajeevan
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 11.4:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: AP Rajeevan
+    - 11.5:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 11.6:
+        non_striker: AP Rajeevan
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 12.1:
+        non_striker: AP Rajeevan
+        bowler: P Murungi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MO Kitunda
+    - 12.2:
+        non_striker: AP Rajeevan
+        bowler: P Murungi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 12.3:
+        non_striker: AP Rajeevan
+        bowler: P Murungi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 12.4:
+        non_striker: MO Kitunda
+        bowler: P Murungi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 12.5:
+        non_striker: MO Kitunda
+        bowler: P Murungi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 12.6:
+        non_striker: MO Kitunda
+        bowler: P Murungi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 13.1:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 13.2:
+        non_striker: MO Kitunda
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 13.3:
+        non_striker: MO Kitunda
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 13.4:
+        non_striker: MO Kitunda
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 13.5:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 13.6:
+        non_striker: AP Rajeevan
+        bowler: AR Ramjani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 14.1:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Rajeevan
+    - 14.2:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 14.3:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 14.4:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Rajeevan
+    - 14.5:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 14.6:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 15.1:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+        wicket:
+          player_out: AP Rajeevan
+          kind: lbw
+    - 15.2:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kimote
+    - 15.3:
+        non_striker: AM Kimote
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 15.4:
+        non_striker: AM Kimote
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 15.5:
+        non_striker: AM Kimote
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 15.6:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kimote
+    - 16.1:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+    - 16.2:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+    - 16.3:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kimote
+    - 16.4:
+        non_striker: AM Kimote
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 16.5:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+        wicket:
+          player_out: AM Kimote
+          kind: bowled
+    - 16.6:
+        non_striker: MO Kitunda
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+        wicket:
+          player_out: S Thakor
+          kind: bowled
+    - 17.1:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SA Jumbe
+        batsman: MO Kitunda
+    - 17.2:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SA Jumbe
+        batsman: MO Kitunda
+    - 17.3:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Jumbe
+    - 17.4:
+        non_striker: MO Kitunda
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 17.5:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 17.6:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Kitunda
+    - 18.1:
+        non_striker: SA Jumbe
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 18.2:
+        non_striker: SA Jumbe
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 18.3:
+        non_striker: SA Jumbe
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 18.4:
+        non_striker: SA Jumbe
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Kitunda
+    - 18.5:
+        non_striker: SA Jumbe
+        bowler: J Sebanja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Kitunda
+    - 18.6:
+        non_striker: SA Jumbe
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 18.7:
+        non_striker: SA Jumbe
+        bowler: J Sebanja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 19.1:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 19.2:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Jumbe
+    - 19.3:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 19.4:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 19.5:
+        non_striker: MO Kitunda
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 19.6:
+        non_striker: SA Jumbe
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda

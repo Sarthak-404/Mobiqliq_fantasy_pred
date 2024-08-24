@@ -1,0 +1,748 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hobart
+  dates:
+  - '2022-10-24'
+  gender: male
+  match_type: T20
+  match_type_number: 1844
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Zimbabwe:
+    - RW Chakabva
+    - CR Ervine
+    - SC Williams
+    - Sikandar Raza
+    - W Madhevere
+    - M Shumba
+    - RP Burl
+    - LM Jongwe
+    - R Ngarava
+    - TL Chatara
+    - B Muzarabani
+    South Africa:
+    - Q de Kock
+    - T Bavuma
+    - RR Rossouw
+    - AK Markram
+    - DA Miller
+    - T Stubbs
+    - WD Parnell
+    - KA Maharaj
+    - K Rabada
+    - A Nortje
+    - L Ngidi
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AK Markram: 6a26221c
+      Ahsan Raza: e0e5b209
+      B Muzarabani: 449f4e3c
+      CB Gaffaney: d5ac41d8
+      CR Ervine: c96311d4
+      DA Miller: d67d5f00
+      DC Boon: e79a1fe3
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      L Ngidi: f834dcfc
+      LM Jongwe: b8704508
+      M Shumba: 6766ca00
+      MA Gough: 76752ac8
+      Nitin Menon: e1d41d9e
+      Q de Kock: 372455c4
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      RR Rossouw: cad00a4d
+      RW Chakabva: 2f0d7e4a
+      SC Williams: afe57f7a
+      Sikandar Raza: 26d041c4
+      T Bavuma: 9ffd1ac1
+      T Stubbs: 85b3fab2
+      TL Chatara: 5bbabe59
+      W Madhevere: a879b92c
+      WD Parnell: 3a60e0b5
+  teams:
+  - Zimbabwe
+  - South Africa
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - Ahsan Raza
+  - MA Gough
+  venue: Bellerive Oval, Hobart
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: CR Ervine
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 0.2:
+        non_striker: RW Chakabva
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 0.3:
+        non_striker: RW Chakabva
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 0.4:
+        non_striker: CR Ervine
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 0.5:
+        non_striker: RW Chakabva
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 0.6:
+        non_striker: CR Ervine
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 1.1:
+        non_striker: RW Chakabva
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 1.2:
+        non_striker: RW Chakabva
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 1.3:
+        non_striker: CR Ervine
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 1.4:
+        non_striker: CR Ervine
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 1.5:
+        non_striker: CR Ervine
+        bowler: WD Parnell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RW Chakabva
+    - 1.6:
+        non_striker: RW Chakabva
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - L Ngidi
+          kind: caught
+    - 2.1:
+        non_striker: SC Williams
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RW Chakabva
+    - 2.2:
+        non_striker: SC Williams
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+        wicket:
+          player_out: RW Chakabva
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 2.3:
+        non_striker: SC Williams
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 2.4:
+        non_striker: SC Williams
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 2.5:
+        non_striker: SC Williams
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.6:
+        non_striker: SC Williams
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 3.1:
+        non_striker: W Madhevere
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 3.2:
+        non_striker: SC Williams
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 3.3:
+        non_striker: SC Williams
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 3.4:
+        non_striker: SC Williams
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: SC Williams
+          fielders:
+          - DA Miller
+          kind: run out
+    - 3.5:
+        non_striker: W Madhevere
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 3.6:
+        non_striker: W Madhevere
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 4.1:
+        non_striker: M Shumba
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 4.2:
+        non_striker: M Shumba
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Madhevere
+    - 4.3:
+        non_striker: M Shumba
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 4.4:
+        non_striker: W Madhevere
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 4.5:
+        non_striker: W Madhevere
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 4.6:
+        non_striker: W Madhevere
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Shumba
+    - 4.7:
+        non_striker: W Madhevere
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 4.8:
+        non_striker: W Madhevere
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 5.1:
+        non_striker: W Madhevere
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 5.2:
+        non_striker: W Madhevere
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 5.3:
+        non_striker: W Madhevere
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 5.4:
+        non_striker: M Shumba
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 5.5:
+        non_striker: M Shumba
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 5.6:
+        non_striker: W Madhevere
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 6.1:
+        non_striker: M Shumba
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 6.2:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 6.3:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 6.4:
+        non_striker: M Shumba
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 6.5:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 6.6:
+        non_striker: M Shumba
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 7.1:
+        non_striker: W Madhevere
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 7.2:
+        non_striker: W Madhevere
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 7.3:
+        non_striker: M Shumba
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Madhevere
+    - 7.4:
+        non_striker: M Shumba
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 7.5:
+        non_striker: M Shumba
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 7.6:
+        non_striker: M Shumba
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 8.1:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Shumba
+    - 8.2:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 8.3:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 5
+          total: 6
+          batsman: 1
+        extras:
+          penalty: 5
+        batsman: M Shumba
+    - 8.4:
+        non_striker: M Shumba
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 8.5:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Shumba
+    - 8.6:
+        non_striker: M Shumba
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: W Madhevere
+    - 8.7:
+        non_striker: W Madhevere
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+        wicket:
+          player_out: M Shumba
+          fielders:
+          - Q de Kock
+          kind: caught
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Bavuma
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: T Bavuma
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: T Bavuma
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: T Bavuma
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: T Bavuma
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: T Bavuma
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: T Bavuma
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: T Bavuma
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: T Bavuma
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: T Bavuma
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: T Bavuma
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: T Bavuma
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.7:
+        non_striker: T Bavuma
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 2.2:
+        non_striker: T Bavuma
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: T Bavuma
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 2.5:
+        non_striker: T Bavuma
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: T Bavuma
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Q de Kock
+    - 2.7:
+        non_striker: T Bavuma
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Q de Kock

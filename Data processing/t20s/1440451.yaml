@@ -1,0 +1,2282 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2024-07-08'
+  gender: female
+  match_type: T20
+  match_type_number: 1951
+  outcome:
+    winner: Bhutan
+    by:
+      runs: 43
+  overs: 20
+  players:
+    Bhutan:
+    - N Choden
+    - T Zangmo
+    - K Dema
+    - D Wangmo
+    - Y Choden
+    - S Choden
+    - A Gurung
+    - Chado Om
+    - R Choden
+    - Sonam
+    - Sangay Zangmo
+    Singapore:
+    - RR Seth
+    - Shafina Mahesh
+    - H Dhavina
+    - Vinu Kumar
+    - Ada Bhasin
+    - DA Galia
+    - PSR Gurusinghe
+    - LAR Bommareddy
+    - GK Diviya
+    - JT Pooranakaran
+    - JS Pooranakaran
+  registry:
+    people:
+      A Gurung: 10854c82
+      Ada Bhasin: b1c113d7
+      Chado Om: f53fa89c
+      D Wangmo: 760fcf65
+      DA Galia: ae0b5b95
+      Edi Agustinus: 6ee9fbb9
+      GK Diviya: 992979fa
+      H Dhavina: cd12f384
+      IGS Arsa: 68d52634
+      JS Pooranakaran: 417bde96
+      JT Pooranakaran: 3a743619
+      K Dema: 0b211a32
+      LAR Bommareddy: 3da8cd3a
+      N Choden: a904600a
+      PSR Gurusinghe: 591a7004
+      R Choden: c0266a6e
+      RR Seth: 7ccc0a38
+      S Choden: e1e0775d
+      Sangay Zangmo: e03e2148
+      Shafina Mahesh: 0c40b02d
+      Sonam: '09cbca15'
+      T Zangmo: b1f21c0f
+      Tshering Choden: 7d741623
+      V Kalidas: 42d76418
+      Vinu Kumar: 3775b9f9
+      Y Choden: 6f17c546
+  teams:
+  - Bhutan
+  - Singapore
+  toss:
+    winner: Singapore
+    decision: field
+  umpires:
+  - IGS Arsa
+  - V Kalidas
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Zangmo
+        batsman: N Choden
+    - 0.2:
+        non_striker: N Choden
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 0.3:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 0.4:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 0.5:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+        wicket:
+          player_out: N Choden
+          fielders:
+          - LAR Bommareddy
+          kind: caught
+    - 0.6:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dema
+    - 1.1:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.2:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.3:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Dema
+    - 1.4:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 1.5:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dema
+    - 1.6:
+        non_striker: K Dema
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 2.1:
+        non_striker: K Dema
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 2.2:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 2.3:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 2.4:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dema
+    - 2.5:
+        non_striker: K Dema
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 2.6:
+        non_striker: K Dema
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 3.1:
+        non_striker: K Dema
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 3.2:
+        non_striker: K Dema
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Zangmo
+    - 3.3:
+        non_striker: K Dema
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Zangmo
+    - 3.4:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Dema
+    - 3.5:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+        wicket:
+          player_out: K Dema
+          fielders:
+          - Vinu Kumar
+          kind: caught
+    - 3.6:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 3.7:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 3.8:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 4.1:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 4.2:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 4.3:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 4.4:
+        non_striker: T Zangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 4.5:
+        non_striker: T Zangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 4.6:
+        non_striker: T Zangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 5.1:
+        non_striker: D Wangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 5.2:
+        non_striker: D Wangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 5.3:
+        non_striker: T Zangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 5.4:
+        non_striker: T Zangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 5.5:
+        non_striker: T Zangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 5.6:
+        non_striker: T Zangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 6.1:
+        non_striker: D Wangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 6.2:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 6.3:
+        non_striker: D Wangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 6.4:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 6.5:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 6.6:
+        non_striker: D Wangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 7.1:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 7.2:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 7.3:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: D Wangmo
+    - 7.4:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 7.5:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 7.6:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 7.7:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 8.1:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wangmo
+    - 8.2:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 8.3:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 8.4:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 8.5:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 8.6:
+        non_striker: T Zangmo
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 9.1:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 9.2:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Wangmo
+    - 9.3:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 9.4:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Wangmo
+    - 9.5:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 9.6:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 10.1:
+        non_striker: T Zangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 10.2:
+        non_striker: T Zangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 10.3:
+        non_striker: T Zangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 10.4:
+        non_striker: T Zangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 10.5:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 10.6:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 11.1:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 11.2:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wangmo
+    - 11.3:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 4
+          batsman: 3
+        extras:
+          noballs: 1
+        batsman: D Wangmo
+    - 11.4:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Zangmo
+    - 11.5:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 11.6:
+        non_striker: T Zangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 11.7:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Zangmo
+    - 11.8:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 12.1:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 12.2:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 12.3:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 12.4:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 12.5:
+        non_striker: D Wangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 12.6:
+        non_striker: T Zangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 13.1:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wangmo
+    - 13.2:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 13.3:
+        non_striker: D Wangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 13.4:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 13.5:
+        non_striker: T Zangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 13.6:
+        non_striker: D Wangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+        wicket:
+          player_out: T Zangmo
+          fielders:
+          - Vinu Kumar
+          kind: caught
+    - 13.7:
+        non_striker: D Wangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Choden
+    - 14.1:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 14.2:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 14.3:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 14.4:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Choden
+    - 14.5:
+        non_striker: D Wangmo
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Choden
+    - 14.6:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 15.1:
+        non_striker: Y Choden
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Wangmo
+    - 15.2:
+        non_striker: Y Choden
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 15.3:
+        non_striker: Y Choden
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wangmo
+    - 15.4:
+        non_striker: Y Choden
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wangmo
+    - 15.5:
+        non_striker: Y Choden
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 15.6:
+        non_striker: D Wangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 15.7:
+        non_striker: D Wangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 15.8:
+        non_striker: D Wangmo
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 16.1:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 16.2:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 16.3:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 16.4:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 16.5:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 16.6:
+        non_striker: Y Choden
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 17.1:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+        wicket:
+          player_out: Y Choden
+          fielders:
+          - Ada Bhasin
+          kind: caught
+    - 17.2:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Choden
+    - 17.3:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 17.4:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 17.5:
+        non_striker: S Choden
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 17.6:
+        non_striker: S Choden
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 17.7:
+        non_striker: D Wangmo
+        bowler: JS Pooranakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 18.1:
+        non_striker: D Wangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Choden
+    - 18.2:
+        non_striker: S Choden
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 18.3:
+        non_striker: S Choden
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 18.4:
+        non_striker: S Choden
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 18.5:
+        non_striker: D Wangmo
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 18.6:
+        non_striker: S Choden
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 19.1:
+        non_striker: S Choden
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 19.2:
+        non_striker: D Wangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Choden
+    - 19.3:
+        non_striker: D Wangmo
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 19.4:
+        non_striker: S Choden
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wangmo
+    - 19.5:
+        non_striker: S Choden
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 19.6:
+        non_striker: S Choden
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shafina Mahesh
+        batsman: RR Seth
+    - 0.2:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: RR Seth
+    - 0.3:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shafina Mahesh
+        batsman: RR Seth
+    - 0.4:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 0.5:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 0.6:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 0.7:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 1.1:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 1.2:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 1.3:
+        non_striker: Shafina Mahesh
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+        wicket:
+          player_out: Shafina Mahesh
+          fielders:
+          - K Dema
+          - D Wangmo
+          kind: run out
+    - 1.4:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 1.5:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Dhavina
+    - 1.6:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 2.1:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 2.2:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 2.3:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 2.4:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 2.5:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 2.6:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 3.1:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 3.2:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Dhavina
+    - 3.3:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 3.4:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 3.5:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 3.6:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 4.1:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 4.2:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 4.3:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 4.4:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 4.5:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 4.6:
+        non_striker: RR Seth
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 5.1:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 5.2:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Dhavina
+    - 5.3:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 5.4:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Dhavina
+    - 5.5:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 5.6:
+        non_striker: RR Seth
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Dhavina
+    - 5.7:
+        non_striker: H Dhavina
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 6.1:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 6.2:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 6.3:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Dhavina
+    - 6.4:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 6.5:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Dhavina
+    - 6.6:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Dhavina
+    - 6.7:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 6.8:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Dhavina
+    - 6.9:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 6.10:
+        non_striker: RR Seth
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Dhavina
+    - 7.1:
+        non_striker: RR Seth
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 7.2:
+        non_striker: RR Seth
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Dhavina
+    - 7.3:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 7.4:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+        wicket:
+          player_out: RR Seth
+          fielders:
+          - D Wangmo
+          kind: caught
+    - 7.5:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 7.6:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 8.1:
+        non_striker: Vinu Kumar
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 8.2:
+        non_striker: Vinu Kumar
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 8.3:
+        non_striker: Vinu Kumar
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Dhavina
+    - 8.4:
+        non_striker: H Dhavina
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 8.5:
+        non_striker: H Dhavina
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 8.6:
+        non_striker: H Dhavina
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 9.1:
+        non_striker: Vinu Kumar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 9.2:
+        non_striker: Vinu Kumar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+    - 9.3:
+        non_striker: Vinu Kumar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Dhavina
+    - 9.4:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 9.5:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vinu Kumar
+    - 9.6:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 9.7:
+        non_striker: H Dhavina
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Vinu Kumar
+          fielders:
+          - Y Choden
+          kind: caught
+    - 10.1:
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ada Bhasin
+        batsman: H Dhavina
+    - 10.2:
+        non_striker: H Dhavina
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+    - 10.3:
+        non_striker: H Dhavina
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+    - 10.4:
+        non_striker: H Dhavina
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+    - 10.5:
+        non_striker: H Dhavina
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ada Bhasin
+    - 10.6:
+        non_striker: Ada Bhasin
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Dhavina
+        wicket:
+          player_out: H Dhavina
+          fielders:
+          - K Dema
+          kind: caught
+    - 11.1:
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Galia
+        batsman: Ada Bhasin
+    - 11.2:
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Galia
+        batsman: Ada Bhasin
+    - 11.3:
+        non_striker: DA Galia
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+        wicket:
+          player_out: Ada Bhasin
+          kind: bowled
+    - 11.4:
+        non_striker: DA Galia
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 11.5:
+        non_striker: DA Galia
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 11.6:
+        non_striker: DA Galia
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 12.1:
+        non_striker: PSR Gurusinghe
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Galia
+    - 12.2:
+        non_striker: PSR Gurusinghe
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 12.3:
+        non_striker: PSR Gurusinghe
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 12.4:
+        non_striker: DA Galia
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 12.5:
+        non_striker: DA Galia
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 12.6:
+        non_striker: DA Galia
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PSR Gurusinghe
+    - 12.7:
+        non_striker: PSR Gurusinghe
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Galia
+    - 12.8:
+        non_striker: PSR Gurusinghe
+        bowler: Sonam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Galia
+    - 12.9:
+        non_striker: PSR Gurusinghe
+        bowler: Sonam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 13.1:
+        non_striker: DA Galia
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 13.2:
+        non_striker: PSR Gurusinghe
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+        wicket:
+          player_out: DA Galia
+          fielders:
+          - D Wangmo
+          - R Choden
+          kind: run out
+    - 13.3:
+        non_striker: PSR Gurusinghe
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 13.4:
+        non_striker: LAR Bommareddy
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.5:
+        non_striker: LAR Bommareddy
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.6:
+        non_striker: LAR Bommareddy
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 14.1:
+        non_striker: LAR Bommareddy
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 14.2:
+        non_striker: LAR Bommareddy
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 14.3:
+        non_striker: LAR Bommareddy
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 14.4:
+        non_striker: LAR Bommareddy
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 14.5:
+        non_striker: LAR Bommareddy
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 14.6:
+        non_striker: PSR Gurusinghe
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 15.1:
+        non_striker: LAR Bommareddy
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 15.2:
+        non_striker: LAR Bommareddy
+        bowler: R Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 15.3:
+        non_striker: LAR Bommareddy
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 15.4:
+        non_striker: LAR Bommareddy
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 15.5:
+        non_striker: PSR Gurusinghe
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 15.6:
+        non_striker: PSR Gurusinghe
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LAR Bommareddy
+    - 15.7:
+        non_striker: PSR Gurusinghe
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 16.1:
+        non_striker: PSR Gurusinghe
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 16.2:
+        non_striker: LAR Bommareddy
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 16.3:
+        non_striker: PSR Gurusinghe
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LAR Bommareddy
+    - 16.4:
+        non_striker: PSR Gurusinghe
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 16.5:
+        non_striker: PSR Gurusinghe
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 16.6:
+        non_striker: PSR Gurusinghe
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 17.1:
+        non_striker: PSR Gurusinghe
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 17.2:
+        non_striker: PSR Gurusinghe
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 17.3:
+        non_striker: LAR Bommareddy
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 17.4:
+        non_striker: PSR Gurusinghe
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 17.5:
+        non_striker: LAR Bommareddy
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+        wicket:
+          player_out: PSR Gurusinghe
+          kind: lbw
+    - 17.6:
+        non_striker: LAR Bommareddy
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+        wicket:
+          player_out: GK Diviya
+          fielders:
+          - Tshering Choden (sub)
+          kind: caught
+    - 18.1:
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JT Pooranakaran
+        batsman: LAR Bommareddy
+    - 18.2:
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JT Pooranakaran
+        batsman: LAR Bommareddy
+    - 18.3:
+        non_striker: LAR Bommareddy
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Pooranakaran
+    - 18.4:
+        non_striker: LAR Bommareddy
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Pooranakaran
+    - 18.5:
+        non_striker: JT Pooranakaran
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 18.6:
+        non_striker: LAR Bommareddy
+        bowler: N Choden
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JT Pooranakaran
+    - 18.7:
+        non_striker: JT Pooranakaran
+        bowler: N Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 19.1:
+        non_striker: JT Pooranakaran
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy
+    - 19.2:
+        non_striker: LAR Bommareddy
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Pooranakaran
+    - 19.3:
+        non_striker: LAR Bommareddy
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Pooranakaran
+    - 19.4:
+        non_striker: LAR Bommareddy
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Pooranakaran
+    - 19.5:
+        non_striker: JT Pooranakaran
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LAR Bommareddy
+    - 19.6:
+        non_striker: JT Pooranakaran
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LAR Bommareddy

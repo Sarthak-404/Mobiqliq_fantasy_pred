@@ -1,0 +1,2266 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gibraltar
+  dates:
+  - '2023-05-07'
+  gender: male
+  match_type: T20
+  match_type_number: 2063
+  outcome:
+    winner: Malta
+    by:
+      runs: 1
+  overs: 20
+  player_of_match:
+  - Fazil Rahman
+  players:
+    Malta:
+    - SSM Stanislaus
+    - Jaspal Singh
+    - RR Bastiansz
+    - N Khanna
+    - VP Thamotharam
+    - Fanyan Mughal
+    - Aaftab Alam Khan
+    - Amar Sharma
+    - Fazil Rahman
+    - D Marks
+    - Yash Singh
+    Gibraltar:
+    - KJ Stagno
+    - L Bruce
+    - JD Freyone
+    - IDM Latin
+    - BAA Zammitt
+    - K Nestor
+    - RJ Hatchman
+    - A Reyes
+    - K Mirpuri
+    - S Bodha
+    - BA Pai
+  registry:
+    people:
+      A Reyes: fd2b8c06
+      Aaftab Alam Khan: 9dbc77b3
+      Amar Sharma: 14e1fdab
+      BA Pai: 716bf559
+      BAA Zammitt: 0e102c3b
+      D Marks: '0813a8b1'
+      DR Patankar: e661915c
+      Fanyan Mughal: e85bb4b3
+      Fazil Rahman: d18b7f34
+      IDM Latin: 78f719ea
+      JD Freyone: 7cd7eb50
+      Jaspal Singh: adca37a2
+      K Mirpuri: 441006af
+      K Nestor: b89cde87
+      KJ Stagno: 46ad7e01
+      L Bruce: 2a03bd2f
+      N Khanna: 0ec6a7c3
+      R Cunningham: 6779e840
+      RJ Hatchman: 01c05b6c
+      RR Bastiansz: 5365f10f
+      S Bodha: 00467a76
+      S Maynard: 12a7e02a
+      SG Chandiramani: 4fa795d2
+      SSM Stanislaus: 34dd3fd9
+      VP Thamotharam: eb40ed89
+      Yash Singh: 7adc2d68
+  teams:
+  - Malta
+  - Gibraltar
+  toss:
+    winner: Malta
+    decision: bat
+  umpires:
+  - S Maynard
+  - SG Chandiramani
+  venue: Europa Sports Complex
+innings:
+- 1st innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jaspal Singh
+        batsman: SSM Stanislaus
+    - 0.2:
+        non_striker: SSM Stanislaus
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 0.3:
+        non_striker: SSM Stanislaus
+        bowler: BA Pai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Jaspal Singh
+    - 0.4:
+        non_striker: Jaspal Singh
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 0.5:
+        non_striker: Jaspal Singh
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 0.6:
+        non_striker: Jaspal Singh
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 1.1:
+        non_striker: Jaspal Singh
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SSM Stanislaus
+    - 1.2:
+        non_striker: Jaspal Singh
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 1.3:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 1.4:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+        wicket:
+          player_out: Jaspal Singh
+          kind: bowled
+    - 1.5:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RR Bastiansz
+    - 1.6:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 1.7:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 2.1:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 2.2:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.3:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 2.4:
+        non_striker: SSM Stanislaus
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 2.5:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 2.6:
+        non_striker: SSM Stanislaus
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Bastiansz
+    - 3.1:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SSM Stanislaus
+    - 3.2:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 3.3:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 3.4:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 3.5:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SSM Stanislaus
+    - 3.6:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 3.7:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 4.1:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.2:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.3:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.4:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.5:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 4.6:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.1:
+        non_striker: SSM Stanislaus
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 5.2:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.3:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.4:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 5.5:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 5.6:
+        non_striker: RR Bastiansz
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 6.1:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 6.2:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 6.3:
+        non_striker: SSM Stanislaus
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 6.4:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SSM Stanislaus
+    - 6.5:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 6.6:
+        non_striker: RR Bastiansz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 7.1:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 7.2:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 7.3:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 7.4:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 7.5:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 7.6:
+        non_striker: SSM Stanislaus
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 8.1:
+        non_striker: RR Bastiansz
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 8.2:
+        non_striker: SSM Stanislaus
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 8.3:
+        non_striker: SSM Stanislaus
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Bastiansz
+    - 8.4:
+        non_striker: SSM Stanislaus
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 8.5:
+        non_striker: SSM Stanislaus
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 8.6:
+        non_striker: RR Bastiansz
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SSM Stanislaus
+    - 9.1:
+        non_striker: SSM Stanislaus
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 9.2:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 9.3:
+        non_striker: SSM Stanislaus
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Bastiansz
+    - 9.4:
+        non_striker: SSM Stanislaus
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 9.5:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 9.6:
+        non_striker: RR Bastiansz
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+        wicket:
+          player_out: SSM Stanislaus
+          fielders:
+          - L Bruce
+          kind: caught
+    - 10.1:
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Khanna
+        batsman: RR Bastiansz
+    - 10.2:
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Khanna
+        batsman: RR Bastiansz
+    - 10.3:
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Khanna
+        batsman: RR Bastiansz
+    - 10.4:
+        non_striker: RR Bastiansz
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Khanna
+        wicket:
+          player_out: N Khanna
+          fielders:
+          - IDM Latin
+          kind: caught
+    - 10.5:
+        non_striker: RR Bastiansz
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 10.6:
+        non_striker: RR Bastiansz
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 10.7:
+        non_striker: RR Bastiansz
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VP Thamotharam
+    - 10.8:
+        non_striker: RR Bastiansz
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 11.1:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+    - 11.2:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Bastiansz
+    - 11.3:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 11.4:
+        non_striker: RR Bastiansz
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 11.5:
+        non_striker: RR Bastiansz
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 11.6:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Bastiansz
+    - 12.1:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Bastiansz
+        wicket:
+          player_out: RR Bastiansz
+          fielders:
+          - JD Freyone
+          kind: caught
+    - 12.2:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 12.3:
+        non_striker: Fanyan Mughal
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 12.4:
+        non_striker: Fanyan Mughal
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 12.5:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 12.6:
+        non_striker: Fanyan Mughal
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 13.1:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 13.2:
+        non_striker: Fanyan Mughal
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 13.3:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 13.4:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+        wicket:
+          player_out: Fanyan Mughal
+          fielders:
+          - K Mirpuri
+          kind: caught
+    - 13.5:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Aaftab Alam Khan
+    - 13.6:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaftab Alam Khan
+    - 13.7:
+        non_striker: Aaftab Alam Khan
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 14.1:
+        non_striker: Aaftab Alam Khan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 14.2:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaftab Alam Khan
+    - 14.3:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaftab Alam Khan
+        wicket:
+          player_out: Aaftab Alam Khan
+          fielders:
+          - KJ Stagno
+          kind: caught
+    - 14.4:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amar Sharma
+    - 14.5:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 14.6:
+        non_striker: VP Thamotharam
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 15.1:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 15.2:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Sharma
+    - 15.3:
+        non_striker: Amar Sharma
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 15.4:
+        non_striker: Amar Sharma
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 15.5:
+        non_striker: Amar Sharma
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 15.6:
+        non_striker: Amar Sharma
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 16.1:
+        non_striker: Amar Sharma
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 16.2:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amar Sharma
+    - 16.3:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+    - 16.4:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Sharma
+        wicket:
+          player_out: Amar Sharma
+          fielders:
+          - A Reyes
+          kind: caught
+    - 16.5:
+        non_striker: VP Thamotharam
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazil Rahman
+    - 16.6:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 17.1:
+        non_striker: Fazil Rahman
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 17.2:
+        non_striker: Fazil Rahman
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 17.3:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Rahman
+    - 17.4:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Fazil Rahman
+    - 17.5:
+        non_striker: Fazil Rahman
+        bowler: S Bodha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: VP Thamotharam
+    - 17.6:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Rahman
+    - 17.7:
+        non_striker: VP Thamotharam
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Rahman
+    - 18.1:
+        non_striker: Fazil Rahman
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 18.2:
+        non_striker: Fazil Rahman
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 18.3:
+        non_striker: Fazil Rahman
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 18.4:
+        non_striker: Fazil Rahman
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 18.5:
+        non_striker: VP Thamotharam
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fazil Rahman
+    - 18.6:
+        non_striker: VP Thamotharam
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazil Rahman
+    - 19.1:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 19.2:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 19.3:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VP Thamotharam
+    - 19.4:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: VP Thamotharam
+    - 19.5:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 19.6:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 19.7:
+        non_striker: Fazil Rahman
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+- 2nd innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Bruce
+        batsman: KJ Stagno
+    - 0.2:
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Bruce
+        batsman: KJ Stagno
+    - 0.3:
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: L Bruce
+        batsman: KJ Stagno
+    - 0.4:
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: L Bruce
+        batsman: KJ Stagno
+    - 0.5:
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bruce
+        batsman: KJ Stagno
+    - 0.6:
+        non_striker: L Bruce
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 1.1:
+        non_striker: KJ Stagno
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          fielders:
+          - Jaspal Singh
+          kind: caught
+    - 1.2:
+        non_striker: KJ Stagno
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 1.3:
+        non_striker: KJ Stagno
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Freyone
+    - 1.4:
+        non_striker: KJ Stagno
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 1.5:
+        non_striker: KJ Stagno
+        bowler: Fazil Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Freyone
+    - 1.6:
+        non_striker: KJ Stagno
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 1.7:
+        non_striker: KJ Stagno
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 2.1:
+        non_striker: JD Freyone
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Stagno
+    - 2.2:
+        non_striker: JD Freyone
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 2.3:
+        non_striker: KJ Stagno
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 2.4:
+        non_striker: JD Freyone
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Stagno
+    - 2.5:
+        non_striker: JD Freyone
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 2.6:
+        non_striker: KJ Stagno
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 3.1:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 3.2:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 3.3:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 3.4:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+        wicket:
+          player_out: KJ Stagno
+          fielders:
+          - N Khanna
+          kind: caught
+    - 3.5:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 3.6:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IDM Latin
+    - 3.7:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDM Latin
+    - 4.1:
+        non_striker: IDM Latin
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 4.2:
+        non_striker: IDM Latin
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 4.3:
+        non_striker: IDM Latin
+        bowler: D Marks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Freyone
+    - 4.4:
+        non_striker: IDM Latin
+        bowler: D Marks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JD Freyone
+    - 4.5:
+        non_striker: JD Freyone
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 4.6:
+        non_striker: IDM Latin
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Freyone
+    - 4.7:
+        non_striker: IDM Latin
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 5.1:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+        wicket:
+          player_out: IDM Latin
+          fielders:
+          - Fanyan Mughal
+          kind: caught
+    - 5.2:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAA Zammitt
+    - 5.3:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAA Zammitt
+    - 5.4:
+        non_striker: JD Freyone
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAA Zammitt
+    - 5.5:
+        non_striker: BAA Zammitt
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 5.6:
+        non_striker: BAA Zammitt
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 6.1:
+        non_striker: JD Freyone
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BAA Zammitt
+    - 6.2:
+        non_striker: JD Freyone
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAA Zammitt
+    - 6.3:
+        non_striker: JD Freyone
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAA Zammitt
+        wicket:
+          player_out: BAA Zammitt
+          fielders:
+          - Aaftab Alam Khan
+          kind: caught
+    - 6.4:
+        non_striker: JD Freyone
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 6.5:
+        non_striker: K Nestor
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 6.6:
+        non_striker: K Nestor
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 6.7:
+        non_striker: JD Freyone
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 7.1:
+        non_striker: JD Freyone
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Nestor
+    - 7.2:
+        non_striker: JD Freyone
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 7.3:
+        non_striker: K Nestor
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 7.4:
+        non_striker: K Nestor
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 7.5:
+        non_striker: JD Freyone
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 7.6:
+        non_striker: K Nestor
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+        wicket:
+          player_out: JD Freyone
+          fielders:
+          - RR Bastiansz
+          kind: caught
+    - 8.1:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RJ Hatchman
+        batsman: K Nestor
+    - 8.2:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RJ Hatchman
+        batsman: K Nestor
+    - 8.3:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RJ Hatchman
+        batsman: K Nestor
+    - 8.4:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RJ Hatchman
+        batsman: K Nestor
+    - 8.5:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: RJ Hatchman
+        batsman: K Nestor
+    - 8.6:
+        non_striker: RJ Hatchman
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 9.1:
+        non_striker: K Nestor
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Hatchman
+    - 9.2:
+        non_striker: K Nestor
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 9.3:
+        non_striker: RJ Hatchman
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 9.4:
+        non_striker: RJ Hatchman
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nestor
+    - 9.5:
+        non_striker: RJ Hatchman
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Nestor
+    - 9.6:
+        non_striker: RJ Hatchman
+        bowler: Yash Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 10.1:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: K Nestor
+          fielders:
+          - DR Patankar (sub)
+          kind: caught
+    - 10.2:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 10.3:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 10.4:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 10.5:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 10.6:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 10.7:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 10.8:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 11.1:
+        non_striker: RJ Hatchman
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+        wicket:
+          player_out: A Reyes
+          kind: lbw
+    - 11.2:
+        non_striker: RJ Hatchman
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 11.3:
+        non_striker: K Mirpuri
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 11.4:
+        non_striker: K Mirpuri
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 11.5:
+        non_striker: K Mirpuri
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Hatchman
+    - 11.6:
+        non_striker: K Mirpuri
+        bowler: Fazil Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 12.1:
+        non_striker: K Mirpuri
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 12.2:
+        non_striker: K Mirpuri
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 12.3:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 12.4:
+        non_striker: K Mirpuri
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 12.5:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 12.6:
+        non_striker: RJ Hatchman
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 13.1:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 13.2:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 13.3:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 13.4:
+        non_striker: RJ Hatchman
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 13.5:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+        wicket:
+          player_out: RJ Hatchman
+          fielders:
+          - Aaftab Alam Khan
+          kind: stumped
+    - 13.6:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 14.1:
+        non_striker: S Bodha
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 14.2:
+        non_striker: K Mirpuri
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 14.3:
+        non_striker: S Bodha
+        bowler: D Marks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mirpuri
+    - 14.4:
+        non_striker: S Bodha
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mirpuri
+    - 14.5:
+        non_striker: S Bodha
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 14.6:
+        non_striker: K Mirpuri
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 14.7:
+        non_striker: S Bodha
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 15.1:
+        non_striker: S Bodha
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 15.2:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 15.3:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 15.4:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bodha
+    - 15.5:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bodha
+    - 15.6:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 15.7:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bodha
+    - 16.1:
+        non_striker: S Bodha
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mirpuri
+    - 16.2:
+        non_striker: S Bodha
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 16.3:
+        non_striker: K Mirpuri
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bodha
+    - 16.4:
+        non_striker: K Mirpuri
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bodha
+    - 16.5:
+        non_striker: K Mirpuri
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bodha
+    - 16.6:
+        non_striker: K Mirpuri
+        bowler: D Marks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bodha
+    - 16.7:
+        non_striker: K Mirpuri
+        bowler: D Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 17.1:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 17.2:
+        non_striker: S Bodha
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 17.3:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bodha
+    - 17.4:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bodha
+    - 17.5:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 17.6:
+        non_striker: S Bodha
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 17.7:
+        non_striker: K Mirpuri
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+        wicket:
+          player_out: S Bodha
+          fielders:
+          - Jaspal Singh
+          kind: caught
+    - 18.1:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BA Pai
+        batsman: K Mirpuri
+    - 18.2:
+        non_striker: K Mirpuri
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 18.3:
+        non_striker: BA Pai
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 18.4:
+        non_striker: BA Pai
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 18.5:
+        non_striker: K Mirpuri
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 18.6:
+        non_striker: K Mirpuri
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 19.1:
+        non_striker: K Mirpuri
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 19.2:
+        non_striker: BA Pai
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 19.3:
+        non_striker: K Mirpuri
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 19.4:
+        non_striker: BA Pai
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 19.5:
+        non_striker: K Mirpuri
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 19.6:
+        non_striker: K Mirpuri
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai

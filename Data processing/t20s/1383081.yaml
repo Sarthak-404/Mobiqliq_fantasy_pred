@@ -1,0 +1,2016 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2023-07-25'
+  gender: male
+  match_type: T20
+  match_type_number: 2166
+  outcome:
+    winner: Scotland
+    by:
+      runs: 166
+  overs: 20
+  player_of_match:
+  - HG Munsey
+  players:
+    Scotland:
+    - HG Munsey
+    - OJ Hairs
+    - BJ McMullen
+    - RD Berrington
+    - TSS Mackintosh
+    - MA Leask
+    - CN Greaves
+    - MRJ Watt
+    - SM Sharif
+    - GT Main
+    - BJ Currie
+    Austria:
+    - N Wijesekera
+    - Iqbal Hossain
+    - Razmal Shigiwal
+    - A Randhawa
+    - Shahil Momin
+    - MPS Cheema
+    - Umair Tariq
+    - Jaweed Sadran
+    - Abdullah Akbarjan
+    - Sahel Zadran
+    - A Nathwani
+  registry:
+    people:
+      A Nathwani: f1c4f2ea
+      A Randhawa: 1798078c
+      Abdullah Akbarjan: 5de198db
+      BJ Currie: 2ecd844a
+      BJ McMullen: 436c763a
+      CN Greaves: f42064d5
+      DA Haggo: e6789a88
+      GT Main: 4ebc70ca
+      HG Munsey: ff014c34
+      Iqbal Hossain: e1824e7d
+      J Jensen: fc80e7a2
+      Jaweed Sadran: c1f05d1d
+      M Jameson: bdf1ffe3
+      MA Leask: '28131839'
+      MPS Cheema: 97181d1b
+      MRJ Watt: 1252f71a
+      N Wijesekera: 85dcc96d
+      OJ Hairs: c8a7b014
+      Phil Whitticase: 99d5f6fa
+      RD Berrington: e21bc7f3
+      Razmal Shigiwal: 60cc80ac
+      SM Sharif: f43dd8c2
+      Sahel Zadran: dae28050
+      Shahil Momin: 46821fbd
+      TSS Mackintosh: f5ef7ac3
+      Umair Tariq: 67ec2b09
+  teams:
+  - Scotland
+  - Austria
+  toss:
+    winner: Austria
+    decision: field
+  umpires:
+  - DA Haggo
+  - J Jensen
+  venue: Goldenacre, Edinburgh
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: OJ Hairs
+        batsman: HG Munsey
+    - 0.2:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: OJ Hairs
+        batsman: HG Munsey
+    - 0.3:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: OJ Hairs
+        batsman: HG Munsey
+    - 0.4:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: OJ Hairs
+        batsman: HG Munsey
+    - 0.5:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: OJ Hairs
+        batsman: HG Munsey
+    - 0.6:
+        non_striker: OJ Hairs
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 1.2:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.3:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.4:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 1.5:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.6:
+        non_striker: HG Munsey
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+    - 2.1:
+        non_striker: OJ Hairs
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: OJ Hairs
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.3:
+        non_striker: OJ Hairs
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.4:
+        non_striker: OJ Hairs
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.5:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hairs
+    - 2.6:
+        non_striker: OJ Hairs
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.1:
+        non_striker: HG Munsey
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hairs
+    - 3.2:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 3.3:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 3.4:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 3.5:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.6:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 3.7:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 3.8:
+        non_striker: OJ Hairs
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 4.1:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OJ Hairs
+    - 4.2:
+        non_striker: OJ Hairs
+        bowler: Jaweed Sadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 4.3:
+        non_striker: OJ Hairs
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 4.4:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Hairs
+    - 4.5:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Hairs
+    - 4.6:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OJ Hairs
+    - 4.7:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+    - 5.1:
+        non_striker: OJ Hairs
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.2:
+        non_striker: OJ Hairs
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.3:
+        non_striker: OJ Hairs
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.4:
+        non_striker: OJ Hairs
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.5:
+        non_striker: OJ Hairs
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 5.6:
+        non_striker: OJ Hairs
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 6.1:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Hairs
+    - 6.2:
+        non_striker: OJ Hairs
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 6.3:
+        non_striker: OJ Hairs
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 6.4:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+    - 6.5:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OJ Hairs
+    - 6.6:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+        wicket:
+          player_out: OJ Hairs
+          fielders:
+          - A Randhawa
+          kind: caught
+    - 7.1:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: BJ McMullen
+        batsman: HG Munsey
+    - 7.2:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: BJ McMullen
+        batsman: HG Munsey
+    - 7.3:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BJ McMullen
+        batsman: HG Munsey
+    - 7.4:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BJ McMullen
+        batsman: HG Munsey
+    - 7.5:
+        non_striker: HG Munsey
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 7.6:
+        non_striker: BJ McMullen
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 8.1:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ McMullen
+    - 8.2:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 8.3:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 8.4:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 8.5:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 8.6:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 9.1:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.2:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 9.3:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 9.4:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 9.5:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 9.6:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 10.1:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 10.2:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 10.3:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 10.4:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 10.5:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 10.6:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 11.1:
+        non_striker: HG Munsey
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 11.2:
+        non_striker: BJ McMullen
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 11.3:
+        non_striker: BJ McMullen
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 11.4:
+        non_striker: BJ McMullen
+        bowler: A Nathwani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 11.5:
+        non_striker: BJ McMullen
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 11.6:
+        non_striker: BJ McMullen
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 11.7:
+        non_striker: HG Munsey
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 12.1:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 12.2:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 12.3:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 12.4:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 12.5:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 12.6:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 13.1:
+        non_striker: BJ McMullen
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 13.2:
+        non_striker: HG Munsey
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 13.3:
+        non_striker: BJ McMullen
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 13.4:
+        non_striker: BJ McMullen
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 13.5:
+        non_striker: BJ McMullen
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 13.6:
+        non_striker: BJ McMullen
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 14.1:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 14.2:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 14.3:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 14.4:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 14.5:
+        non_striker: HG Munsey
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 14.6:
+        non_striker: BJ McMullen
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 15.1:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 15.2:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 15.3:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 15.4:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 15.5:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 15.6:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 15.7:
+        non_striker: HG Munsey
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 16.1:
+        non_striker: HG Munsey
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 16.2:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 16.3:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          kind: lbw
+    - 16.4:
+        non_striker: BJ McMullen
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 16.5:
+        non_striker: RD Berrington
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 16.6:
+        non_striker: RD Berrington
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 17.1:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 17.2:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 17.3:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 17.4:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 17.5:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 17.6:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 18.1:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 18.2:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 18.3:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 18.4:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 18.5:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 18.6:
+        non_striker: BJ McMullen
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 19.1:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 19.2:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 19.3:
+        non_striker: RD Berrington
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 19.4:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 19.5:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 19.6:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RD Berrington
+    - 19.7:
+        non_striker: BJ McMullen
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+- 2nd innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Iqbal Hossain
+        batsman: N Wijesekera
+    - 0.2:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Iqbal Hossain
+        batsman: N Wijesekera
+    - 0.3:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Iqbal Hossain
+        batsman: N Wijesekera
+    - 0.4:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Iqbal Hossain
+        batsman: N Wijesekera
+    - 0.5:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Iqbal Hossain
+        batsman: N Wijesekera
+    - 0.6:
+        non_striker: Iqbal Hossain
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 1.1:
+        non_striker: N Wijesekera
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Iqbal Hossain
+    - 1.2:
+        non_striker: Iqbal Hossain
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 1.3:
+        non_striker: Iqbal Hossain
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wijesekera
+    - 1.4:
+        non_striker: N Wijesekera
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 1.5:
+        non_striker: N Wijesekera
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 1.6:
+        non_striker: N Wijesekera
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 2.1:
+        non_striker: N Wijesekera
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iqbal Hossain
+    - 2.2:
+        non_striker: N Wijesekera
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Iqbal Hossain
+    - 2.3:
+        non_striker: N Wijesekera
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+        wicket:
+          player_out: Iqbal Hossain
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 2.4:
+        non_striker: N Wijesekera
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 2.5:
+        non_striker: Razmal Shigiwal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wijesekera
+    - 2.6:
+        non_striker: N Wijesekera
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 3.1:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 3.2:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 3.3:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 3.4:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 3.5:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Wijesekera
+    - 3.6:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wijesekera
+    - 4.1:
+        non_striker: Razmal Shigiwal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 4.2:
+        non_striker: Razmal Shigiwal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 4.3:
+        non_striker: Razmal Shigiwal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 4.4:
+        non_striker: Razmal Shigiwal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 4.5:
+        non_striker: Razmal Shigiwal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 4.6:
+        non_striker: Razmal Shigiwal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 5.1:
+        non_striker: N Wijesekera
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 5.2:
+        non_striker: N Wijesekera
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 5.3:
+        non_striker: N Wijesekera
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 5.4:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Wijesekera
+    - 5.5:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 5.6:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 5.7:
+        non_striker: Razmal Shigiwal
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+    - 6.1:
+        non_striker: N Wijesekera
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 6.2:
+        non_striker: Razmal Shigiwal
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wijesekera
+    - 6.3:
+        non_striker: N Wijesekera
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 6.4:
+        non_striker: N Wijesekera
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 6.5:
+        non_striker: N Wijesekera
+        bowler: MA Leask
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Razmal Shigiwal
+    - 6.6:
+        non_striker: N Wijesekera
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+        wicket:
+          player_out: Razmal Shigiwal
+          fielders:
+          - TSS Mackintosh
+          kind: caught
+    - 7.1:
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Randhawa
+        batsman: N Wijesekera
+    - 7.2:
+        non_striker: A Randhawa
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wijesekera
+        wicket:
+          player_out: N Wijesekera
+          fielders:
+          - RD Berrington
+          kind: caught
+    - 7.3:
+        non_striker: A Randhawa
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahil Momin
+    - 7.4:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Randhawa
+    - 7.5:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 7.6:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 7.7:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 8.1:
+        non_striker: A Randhawa
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahil Momin
+    - 8.2:
+        non_striker: Shahil Momin
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 8.3:
+        non_striker: A Randhawa
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+    - 8.4:
+        non_striker: A Randhawa
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahil Momin
+    - 8.5:
+        non_striker: Shahil Momin
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 8.6:
+        non_striker: Shahil Momin
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 9.1:
+        non_striker: A Randhawa
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahil Momin
+    - 9.2:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 9.3:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Randhawa
+    - 9.4:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 9.5:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 9.6:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 9.7:
+        non_striker: Shahil Momin
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Randhawa
+    - 10.1:
+        non_striker: A Randhawa
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+        wicket:
+          player_out: Shahil Momin
+          fielders:
+          - CN Greaves
+          kind: caught
+    - 10.2:
+        non_striker: A Randhawa
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 10.3:
+        non_striker: MPS Cheema
+        bowler: MA Leask
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Randhawa
+    - 10.4:
+        non_striker: MPS Cheema
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 10.5:
+        non_striker: MPS Cheema
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+        wicket:
+          player_out: A Randhawa
+          kind: lbw
+    - 10.6:
+        non_striker: MPS Cheema
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Tariq
+    - 11.1:
+        non_striker: MPS Cheema
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umair Tariq
+    - 11.2:
+        non_striker: MPS Cheema
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Tariq
+        wicket:
+          player_out: Umair Tariq
+          fielders:
+          - RD Berrington
+          kind: caught
+    - 11.3:
+        non_striker: MPS Cheema
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaweed Sadran
+    - 11.4:
+        non_striker: Jaweed Sadran
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 11.5:
+        non_striker: MPS Cheema
+        bowler: GT Main
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jaweed Sadran
+    - 11.6:
+        non_striker: MPS Cheema
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jaweed Sadran
+    - 11.7:
+        non_striker: MPS Cheema
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaweed Sadran
+    - 12.1:
+        non_striker: Jaweed Sadran
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 12.2:
+        non_striker: Jaweed Sadran
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPS Cheema
+    - 12.3:
+        non_striker: Jaweed Sadran
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+    - 12.4:
+        non_striker: Jaweed Sadran
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+        wicket:
+          player_out: MPS Cheema
+          fielders:
+          - TSS Mackintosh
+          kind: run out
+    - 12.5:
+        non_striker: Jaweed Sadran
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+    - 12.6:
+        non_striker: Jaweed Sadran
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+    - 13.1:
+        non_striker: Abdullah Akbarjan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaweed Sadran
+    - 13.2:
+        non_striker: Jaweed Sadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+    - 13.3:
+        non_striker: Jaweed Sadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+    - 13.4:
+        non_striker: Jaweed Sadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Akbarjan
+    - 13.5:
+        non_striker: Abdullah Akbarjan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaweed Sadran
+    - 13.6:
+        non_striker: Abdullah Akbarjan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaweed Sadran
+    - 14.1:
+        non_striker: Jaweed Sadran
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdullah Akbarjan
+    - 14.2:
+        non_striker: Jaweed Sadran
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+    - 14.3:
+        non_striker: Jaweed Sadran
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Akbarjan
+        wicket:
+          player_out: Abdullah Akbarjan
+          kind: bowled
+    - 14.4:
+        non_striker: Jaweed Sadran
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahel Zadran
+    - 14.5:
+        non_striker: Jaweed Sadran
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahel Zadran
+    - 14.6:
+        non_striker: Jaweed Sadran
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahel Zadran
+    - 15.1:
+        non_striker: Sahel Zadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jaweed Sadran
+    - 15.2:
+        non_striker: Sahel Zadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaweed Sadran
+    - 15.3:
+        non_striker: Sahel Zadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaweed Sadran
+    - 15.4:
+        non_striker: Sahel Zadran
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Jaweed Sadran
+    - 15.5:
+        non_striker: Sahel Zadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaweed Sadran
+    - 15.6:
+        non_striker: Jaweed Sadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahel Zadran
+    - 15.7:
+        non_striker: Jaweed Sadran
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahel Zadran
+        wicket:
+          player_out: Sahel Zadran
+          fielders:
+          - TSS Mackintosh
+          kind: caught
+    - 16.1:
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Nathwani
+        batsman: Jaweed Sadran
+    - 16.2:
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Nathwani
+        batsman: Jaweed Sadran
+    - 16.3:
+        non_striker: A Nathwani
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaweed Sadran
+        wicket:
+          player_out: Jaweed Sadran
+          kind: bowled

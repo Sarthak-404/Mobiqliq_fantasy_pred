@@ -1,0 +1,1265 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port Vila
+  dates:
+  - '2023-09-04'
+  gender: female
+  match_type: T20
+  match_type_number: 1594
+  outcome:
+    winner: Papua New Guinea
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - S Jimmy
+  players:
+    Samoa:
+    - VM Andrew
+    - AF Aoina
+    - J Sanele
+    - T Lafai
+    - Leitu Leong
+    - RP Johnston
+    - TH Semau
+    - F Sisifo
+    - AM Kupito
+    - V Tafea
+    - TM Faimalo
+    Papua New Guinea:
+    - N Vare
+    - B Tau
+    - T Ruma
+    - K Arua
+    - S Jimmy
+    - P Siaka
+    - K Frank
+    - HJ Thomas
+    - GP Tom
+    - V Araa
+    - I Toua
+  registry:
+    people:
+      AF Aoina: 217f5194
+      AM Kupito: e97f6f96
+      B Tau: 3a6cbb8e
+      CA Polosak: 26a360d2
+      F Sisifo: eff8319a
+      GP Tom: 88bcd09d
+      HJ Thomas: a3034d3d
+      I Toua: 83cde44d
+      J Sanele: 67bd483c
+      K Arua: 8ce69204
+      K Frank: f7e96532
+      L McCabe: 1dbc4a64
+      Leitu Leong: 672e1aea
+      M Kenni: 1feb0d3c
+      N Vare: 20ace887
+      P Siaka: 595433d2
+      RP Johnston: c110235a
+      RW Stratford: '85489579'
+      S Jimmy: 2daa8e40
+      T Lafai: 10cfda7c
+      T Ruma: 3697a0ff
+      TH Semau: 175d59dd
+      TM Faimalo: e8cea6cf
+      V Araa: 040f11e8
+      V Tafea: 611298bd
+      VM Andrew: ca9a7e09
+  teams:
+  - Samoa
+  - Papua New Guinea
+  toss:
+    winner: Papua New Guinea
+    decision: field
+  umpires:
+  - L McCabe
+  - M Kenni
+  venue: Vanuatu Cricket Ground
+innings:
+- 1st innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AF Aoina
+        batsman: VM Andrew
+    - 0.2:
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Aoina
+        batsman: VM Andrew
+    - 0.3:
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AF Aoina
+        batsman: VM Andrew
+    - 0.4:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Aoina
+    - 0.5:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Aoina
+    - 0.6:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 0.7:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Aoina
+    - 1.1:
+        non_striker: VM Andrew
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 1.2:
+        non_striker: VM Andrew
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+    - 1.3:
+        non_striker: VM Andrew
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Aoina
+    - 1.4:
+        non_striker: VM Andrew
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+        wicket:
+          player_out: AF Aoina
+          kind: bowled
+    - 1.5:
+        non_striker: VM Andrew
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 1.6:
+        non_striker: VM Andrew
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 2.1:
+        non_striker: J Sanele
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VM Andrew
+    - 2.2:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 2.3:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 2.4:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 2.5:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 2.6:
+        non_striker: VM Andrew
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 3.1:
+        non_striker: J Sanele
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Andrew
+    - 3.2:
+        non_striker: J Sanele
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Andrew
+        wicket:
+          player_out: VM Andrew
+          fielders:
+          - V Araa
+          kind: caught
+    - 3.3:
+        non_striker: J Sanele
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 3.4:
+        non_striker: J Sanele
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 3.5:
+        non_striker: J Sanele
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 3.6:
+        non_striker: J Sanele
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 4.1:
+        non_striker: T Lafai
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 4.2:
+        non_striker: T Lafai
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Sanele
+    - 4.3:
+        non_striker: T Lafai
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sanele
+    - 4.4:
+        non_striker: J Sanele
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 4.5:
+        non_striker: J Sanele
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Lafai
+    - 4.6:
+        non_striker: J Sanele
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Lafai
+    - 5.1:
+        non_striker: T Lafai
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 5.2:
+        non_striker: T Lafai
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 5.3:
+        non_striker: T Lafai
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Sanele
+    - 5.4:
+        non_striker: T Lafai
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sanele
+    - 5.5:
+        non_striker: J Sanele
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 5.6:
+        non_striker: J Sanele
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+        wicket:
+          player_out: T Lafai
+          kind: bowled
+    - 6.1:
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Leitu Leong
+        batsman: J Sanele
+    - 6.2:
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Leitu Leong
+        batsman: J Sanele
+    - 6.3:
+        non_striker: J Sanele
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+    - 6.4:
+        non_striker: J Sanele
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+    - 6.5:
+        non_striker: J Sanele
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Leitu Leong
+    - 6.6:
+        non_striker: Leitu Leong
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Sanele
+    - 7.1:
+        non_striker: Leitu Leong
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 7.2:
+        non_striker: Leitu Leong
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sanele
+    - 7.3:
+        non_striker: J Sanele
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+    - 7.4:
+        non_striker: J Sanele
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Leitu Leong
+    - 7.5:
+        non_striker: Leitu Leong
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+        wicket:
+          player_out: J Sanele
+          fielders:
+          - K Frank
+          kind: caught
+    - 7.6:
+        non_striker: Leitu Leong
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 8.1:
+        non_striker: RP Johnston
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+    - 8.2:
+        non_striker: RP Johnston
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Leitu Leong
+    - 8.3:
+        non_striker: Leitu Leong
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+        wicket:
+          player_out: Leitu Leong
+          fielders:
+          - B Tau
+          - T Ruma
+          kind: run out
+    - 8.4:
+        non_striker: RP Johnston
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Semau
+        wicket:
+          player_out: TH Semau
+          kind: lbw
+    - 8.5:
+        non_striker: RP Johnston
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Sisifo
+    - 8.6:
+        non_striker: RP Johnston
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Sisifo
+    - 9.1:
+        non_striker: F Sisifo
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 9.2:
+        non_striker: F Sisifo
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Johnston
+    - 9.3:
+        non_striker: RP Johnston
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 9.4:
+        non_striker: F Sisifo
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Johnston
+    - 9.5:
+        non_striker: F Sisifo
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Johnston
+    - 9.6:
+        non_striker: RP Johnston
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+        wicket:
+          player_out: F Sisifo
+          fielders:
+          - K Frank
+          kind: caught
+    - 9.7:
+        non_striker: RP Johnston
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kupito
+        wicket:
+          player_out: AM Kupito
+          fielders:
+          - V Araa
+          kind: caught
+    - 10.1:
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Tafea
+        batsman: RP Johnston
+    - 10.2:
+        non_striker: RP Johnston
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Tafea
+    - 10.3:
+        non_striker: V Tafea
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 10.4:
+        non_striker: V Tafea
+        bowler: K Arua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Johnston
+    - 10.5:
+        non_striker: V Tafea
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Johnston
+    - 10.6:
+        non_striker: V Tafea
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Johnston
+    - 10.7:
+        non_striker: RP Johnston
+        bowler: K Arua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Tafea
+    - 11.1:
+        non_striker: V Tafea
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 11.2:
+        non_striker: V Tafea
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Johnston
+    - 11.3:
+        non_striker: RP Johnston
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Tafea
+    - 11.4:
+        non_striker: RP Johnston
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Tafea
+    - 11.5:
+        non_striker: RP Johnston
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Tafea
+    - 11.6:
+        non_striker: RP Johnston
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Tafea
+    - 11.7:
+        non_striker: V Tafea
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 12.1:
+        non_striker: RP Johnston
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Tafea
+    - 12.2:
+        non_striker: RP Johnston
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Tafea
+    - 12.3:
+        non_striker: RP Johnston
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Tafea
+    - 12.4:
+        non_striker: RP Johnston
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Tafea
+    - 12.5:
+        non_striker: V Tafea
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Johnston
+        wicket:
+          player_out: RP Johnston
+          fielders:
+          - B Tau
+          - K Frank
+          kind: run out
+    - 12.6:
+        non_striker: V Tafea
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+        wicket:
+          player_out: TM Faimalo
+          fielders:
+          - B Tau
+          kind: stumped
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.2:
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.3:
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.4:
+        bowler: V Tafea
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.5:
+        bowler: V Tafea
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.6:
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.7:
+        non_striker: N Vare
+        bowler: V Tafea
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 0.8:
+        non_striker: N Vare
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 0.9:
+        non_striker: N Vare
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 1.1:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.2:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.3:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 1.4:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.5:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 1.6:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 1.7:
+        non_striker: N Vare
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.1:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.2:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 2.3:
+        non_striker: N Vare
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 2.4:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 2.5:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.6:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.7:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.1:
+        non_striker: N Vare
+        bowler: J Sanele
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: B Tau
+    - 3.2:
+        non_striker: N Vare
+        bowler: J Sanele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B Tau
+    - 3.3:
+        non_striker: N Vare
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.4:
+        non_striker: N Vare
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.5:
+        non_striker: N Vare
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.6:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.7:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.8:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 4.1:
+        non_striker: N Vare
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.2:
+        non_striker: N Vare
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.3:
+        non_striker: N Vare
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.4:
+        non_striker: N Vare
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.5:
+        non_striker: N Vare
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 4.6:
+        non_striker: N Vare
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 5.1:
+        non_striker: B Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 5.2:
+        non_striker: B Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 5.3:
+        non_striker: B Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.4:
+        non_striker: B Tau
+        bowler: AF Aoina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 5.5:
+        non_striker: B Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          fielders:
+          - J Sanele
+          kind: caught
+    - 5.6:
+        non_striker: B Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 5.7:
+        non_striker: B Tau
+        bowler: AF Aoina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 6.1:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Ruma
+    - 6.2:
+        non_striker: T Ruma
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 6.3:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Ruma
+    - 6.4:
+        non_striker: B Tau
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 6.5:
+        non_striker: T Ruma
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tau
+    - 6.6:
+        non_striker: T Ruma
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 7.1:
+        non_striker: T Ruma
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 7.2:
+        non_striker: T Ruma
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 7.3:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 7.4:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.5:
+        non_striker: B Tau
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma

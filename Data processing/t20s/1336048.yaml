@@ -1,0 +1,1881 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chester-le-Street
+  dates:
+  - '2023-08-30'
+  gender: male
+  match_type: T20
+  match_type_number: 2225
+  outcome:
+    winner: England
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - BA Carse
+  players:
+    New Zealand:
+    - FH Allen
+    - DP Conway
+    - TL Seifert
+    - GD Phillips
+    - MS Chapman
+    - DJ Mitchell
+    - MJ Santner
+    - AF Milne
+    - IS Sodhi
+    - TG Southee
+    - LH Ferguson
+    England:
+    - JM Bairstow
+    - WG Jacks
+    - DJ Malan
+    - HC Brook
+    - LS Livingstone
+    - JC Buttler
+    - MM Ali
+    - SM Curran
+    - AU Rashid
+    - BA Carse
+    - L Wood
+  registry:
+    people:
+      AF Milne: 350bb1b1
+      AG Wharf: 2e0fcc58
+      AU Rashid: 249d60c9
+      BA Carse: cad40f5e
+      BC Broad: d6a7dd38
+      DJ Malan: ad9c32a2
+      DJ Millns: 46ecfe40
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      HC Brook: 4ae1755b
+      IS Sodhi: 641ac5ff
+      JC Buttler: 99b75528
+      JM Bairstow: abb83e27
+      L Wood: 65b6943c
+      LH Ferguson: 2f9d0389
+      LS Livingstone: 50c6bc2b
+      M Burns: b3bd0666
+      MJ Saggers: 402d5937
+      MJ Santner: e4a0deae
+      MM Ali: bb351c23
+      MS Chapman: 7fa12533
+      SM Curran: e94915e6
+      TG Southee: 13c35c9e
+      TL Seifert: 4663bd23
+      WG Jacks: 9caf69a1
+  teams:
+  - New Zealand
+  - England
+  toss:
+    winner: England
+    decision: field
+  umpires:
+  - MJ Saggers
+  - M Burns
+  venue: Riverside Ground, Chester-le-Street
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: DP Conway
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.2:
+        non_striker: DP Conway
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: DP Conway
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.4:
+        non_striker: DP Conway
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.5:
+        non_striker: DP Conway
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.6:
+        non_striker: DP Conway
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.1:
+        non_striker: FH Allen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 1.2:
+        non_striker: FH Allen
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 1.3:
+        non_striker: FH Allen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.4:
+        non_striker: FH Allen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.5:
+        non_striker: DP Conway
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.6:
+        non_striker: DP Conway
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.7:
+        non_striker: FH Allen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.1:
+        non_striker: DP Conway
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.2:
+        non_striker: DP Conway
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.3:
+        non_striker: DP Conway
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.4:
+        non_striker: DP Conway
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.5:
+        non_striker: FH Allen
+        bowler: BA Carse
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 2.6:
+        non_striker: DP Conway
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.1:
+        non_striker: FH Allen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.2:
+        non_striker: FH Allen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.3:
+        non_striker: FH Allen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 3.4:
+        non_striker: FH Allen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.5:
+        non_striker: FH Allen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.6:
+        non_striker: FH Allen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 4.1:
+        non_striker: TL Seifert
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.2:
+        non_striker: FH Allen
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.3:
+        non_striker: TL Seifert
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: bowled
+    - 4.4:
+        non_striker: TL Seifert
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.6:
+        non_striker: TL Seifert
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.1:
+        non_striker: GD Phillips
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.2:
+        non_striker: GD Phillips
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          kind: bowled
+    - 5.3:
+        non_striker: GD Phillips
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.4:
+        non_striker: GD Phillips
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.5:
+        non_striker: GD Phillips
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MS Chapman
+    - 5.6:
+        non_striker: MS Chapman
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.1:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 6.2:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.3:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.4:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.6:
+        non_striker: MS Chapman
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.2:
+        non_striker: GD Phillips
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 7.3:
+        non_striker: MS Chapman
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.4:
+        non_striker: GD Phillips
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          kind: bowled
+    - 7.5:
+        non_striker: GD Phillips
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.6:
+        non_striker: GD Phillips
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 8.2:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.5:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: GD Phillips
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.3:
+        non_striker: GD Phillips
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: GD Phillips
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 10.1:
+        non_striker: GD Phillips
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 10.3:
+        non_striker: DJ Mitchell
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.4:
+        non_striker: GD Phillips
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: DJ Mitchell
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 10.6:
+        non_striker: DJ Mitchell
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.1:
+        non_striker: DJ Mitchell
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.2:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 11.3:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - HC Brook
+          kind: caught
+    - 11.4:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 11.5:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.6:
+        non_striker: MJ Santner
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 12.1:
+        non_striker: GD Phillips
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.2:
+        non_striker: MJ Santner
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 12.3:
+        non_striker: MJ Santner
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.4:
+        non_striker: GD Phillips
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.5:
+        non_striker: MJ Santner
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 12.6:
+        non_striker: MJ Santner
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.1:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 13.2:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.3:
+        non_striker: MJ Santner
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 13.4:
+        non_striker: MJ Santner
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.5:
+        non_striker: MJ Santner
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.6:
+        non_striker: MJ Santner
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 14.1:
+        non_striker: MJ Santner
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 14.2:
+        non_striker: MJ Santner
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 14.3:
+        non_striker: MJ Santner
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 14.4:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          fielders:
+          - L Wood
+          kind: caught
+    - 14.5:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 14.6:
+        non_striker: GD Phillips
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 15.1:
+        non_striker: AF Milne
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 15.2:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 15.3:
+        non_striker: AF Milne
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 15.4:
+        non_striker: AF Milne
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 15.5:
+        non_striker: AF Milne
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 15.6:
+        non_striker: GD Phillips
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 16.1:
+        non_striker: AF Milne
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 16.2:
+        non_striker: AF Milne
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 16.3:
+        non_striker: AF Milne
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - SM Curran
+          kind: caught
+    - 16.4:
+        non_striker: AF Milne
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 16.5:
+        non_striker: AF Milne
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IS Sodhi
+    - 16.6:
+        non_striker: AF Milne
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 17.1:
+        non_striker: IS Sodhi
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 17.2:
+        non_striker: AF Milne
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 17.3:
+        non_striker: IS Sodhi
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 17.4:
+        non_striker: AF Milne
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IS Sodhi
+    - 17.5:
+        non_striker: AF Milne
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 17.6:
+        non_striker: IS Sodhi
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AF Milne
+    - 18.1:
+        non_striker: AF Milne
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IS Sodhi
+    - 18.2:
+        non_striker: AF Milne
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: IS Sodhi
+    - 18.3:
+        non_striker: IS Sodhi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 18.4:
+        non_striker: AF Milne
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 18.5:
+        non_striker: AF Milne
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 18.6:
+        non_striker: AF Milne
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IS Sodhi
+    - 19.1:
+        non_striker: IS Sodhi
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+        wicket:
+          player_out: AF Milne
+          kind: bowled
+    - 19.2:
+        non_striker: IS Sodhi
+        bowler: BA Carse
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TG Southee
+    - 19.3:
+        non_striker: IS Sodhi
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 19.4:
+        non_striker: IS Sodhi
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Southee
+    - 19.5:
+        non_striker: IS Sodhi
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 19.6:
+        non_striker: TG Southee
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          fielders:
+          - SM Curran
+          kind: caught
+    - 19.7:
+        non_striker: TG Southee
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Bairstow
+    - 0.2:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Bairstow
+    - 0.3:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+        wicket:
+          player_out: JM Bairstow
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 0.4:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 0.5:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 0.6:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 0.7:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 0.8:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 1.1:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 1.2:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.3:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.4:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.5:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 1.6:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 1.7:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DJ Malan
+    - 1.8:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 2.1:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 2.2:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 2.3:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 2.4:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 2.5:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 2.6:
+        non_striker: WG Jacks
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 3.1:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 3.2:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 3.3:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 3.4:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 3.5:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 3.6:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 4.1:
+        non_striker: WG Jacks
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.2:
+        non_striker: WG Jacks
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 4.3:
+        non_striker: WG Jacks
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 4.4:
+        non_striker: WG Jacks
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 4.5:
+        non_striker: WG Jacks
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 4.6:
+        non_striker: DJ Malan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 5.1:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 5.2:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.3:
+        non_striker: DJ Malan
+        bowler: AF Milne
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: WG Jacks
+    - 5.4:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 5.5:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 5.6:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 5.7:
+        non_striker: WG Jacks
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.1:
+        non_striker: WG Jacks
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.2:
+        non_striker: WG Jacks
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.3:
+        non_striker: DJ Malan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - FH Allen
+          kind: caught
+    - 6.4:
+        non_striker: DJ Malan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 6.5:
+        non_striker: HC Brook
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.6:
+        non_striker: HC Brook
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 7.1:
+        non_striker: DJ Malan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.2:
+        non_striker: HC Brook
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.3:
+        non_striker: DJ Malan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 7.4:
+        non_striker: DJ Malan
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HC Brook
+    - 7.5:
+        non_striker: HC Brook
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.6:
+        non_striker: DJ Malan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.1:
+        non_striker: HC Brook
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.2:
+        non_striker: DJ Malan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.3:
+        non_striker: DJ Malan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 8.4:
+        non_striker: DJ Malan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 8.5:
+        non_striker: DJ Malan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 8.6:
+        non_striker: DJ Malan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 9.1:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.2:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.3:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 9.4:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 9.5:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.6:
+        non_striker: DJ Malan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.1:
+        non_striker: DJ Malan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.2:
+        non_striker: HC Brook
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.3:
+        non_striker: HC Brook
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 10.4:
+        non_striker: HC Brook
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 10.5:
+        non_striker: HC Brook
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.6:
+        non_striker: DJ Malan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.7:
+        non_striker: HC Brook
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 11.1:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 11.2:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 11.3:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 11.4:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 11.5:
+        non_striker: DJ Malan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 11.6:
+        non_striker: HC Brook
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 12.1:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 12.2:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LS Livingstone
+    - 12.3:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: LS Livingstone
+    - 12.4:
+        non_striker: LS Livingstone
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: HC Brook
+    - 12.5:
+        non_striker: LS Livingstone
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 12.6:
+        non_striker: HC Brook
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 12.7:
+        non_striker: LS Livingstone
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 12.8:
+        non_striker: LS Livingstone
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 13.1:
+        non_striker: LS Livingstone
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 13.2:
+        non_striker: LS Livingstone
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 13.3:
+        non_striker: LS Livingstone
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 13.4:
+        non_striker: LS Livingstone
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 13.5:
+        non_striker: LS Livingstone
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 13.6:
+        non_striker: HC Brook
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone

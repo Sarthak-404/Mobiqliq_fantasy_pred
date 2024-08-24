@@ -1,0 +1,2269 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2024-07-28'
+  gender: female
+  match_type: T20
+  match_type_number: 1978
+  outcome:
+    winner: Italy
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - EC Bargna
+  players:
+    Germany:
+    - A Bierwisch
+    - CM Gough
+    - JE Ronalds
+    - A Doddaballapur
+    - K Vijayaraghavan
+    - A Kohli
+    - ST Frohnmayer
+    - S Kolcharam
+    - S Sadarangani
+    - EC Bargna
+    - MS Beresford
+    Italy:
+    - M Rathnayake
+    - EL Bartram
+    - Ilenia Sims
+    - K Peddrick
+    - C Mahamalage
+    - D Nanayakkara
+    - S Malwatta
+    - S Kanankege
+    - ECB Moore
+    - N Asuramanage
+    - T Araliya
+  registry:
+    people:
+      A Bierwisch: b51d654f
+      A Doddaballapur: fe4f5d2b
+      A Kohli: eb9082b2
+      C Mahamalage: 3250b7db
+      CM Gough: f1328a90
+      D Nanayakkara: dbf22922
+      EC Bargna: 9908d470
+      ECB Moore: d0ff93a9
+      EL Bartram: 5fa7f030
+      Ilenia Sims: 03c98aa6
+      J Flannery: 22431c5a
+      JE Ronalds: d4f98302
+      K Peddrick: a031b75e
+      K Vijayaraghavan: '048da365'
+      M Jameson: bdf1ffe3
+      M Rathnayake: a969dc4c
+      MS Beresford: 26eb73f9
+      N Asuramanage: 46dff613
+      N Dhanawade: bc68912b
+      S Kanankege: '01815edc'
+      S Kolcharam: 761c929e
+      S Malwatta: bc11f3a3
+      S Sadarangani: acd030a0
+      ST Frohnmayer: 7e8bcfc1
+      T Araliya: d423f390
+  teams:
+  - Germany
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - J Flannery
+  - N Dhanawade
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: CM Gough
+        batsman: A Bierwisch
+    - 0.2:
+        non_striker: A Bierwisch
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CM Gough
+    - 0.3:
+        non_striker: CM Gough
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Bierwisch
+    - 0.4:
+        non_striker: CM Gough
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bierwisch
+    - 0.5:
+        non_striker: CM Gough
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bierwisch
+    - 0.6:
+        non_striker: A Bierwisch
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 0.7:
+        non_striker: A Bierwisch
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+        wicket:
+          player_out: CM Gough
+          fielders:
+          - M Rathnayake
+          - S Kanankege
+          kind: run out
+    - 1.1:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JE Ronalds
+        batsman: A Bierwisch
+    - 1.2:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JE Ronalds
+        batsman: A Bierwisch
+    - 1.3:
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JE Ronalds
+        batsman: A Bierwisch
+    - 1.4:
+        non_striker: A Bierwisch
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Ronalds
+    - 1.5:
+        non_striker: JE Ronalds
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bierwisch
+    - 1.6:
+        non_striker: A Bierwisch
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 2.1:
+        non_striker: JE Ronalds
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bierwisch
+    - 2.2:
+        non_striker: JE Ronalds
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bierwisch
+    - 2.3:
+        non_striker: JE Ronalds
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bierwisch
+        wicket:
+          player_out: A Bierwisch
+          fielders:
+          - EL Bartram
+          - ECB Moore
+          kind: run out
+    - 2.4:
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Doddaballapur
+        batsman: JE Ronalds
+    - 2.5:
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Doddaballapur
+        batsman: JE Ronalds
+    - 2.6:
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Doddaballapur
+        batsman: JE Ronalds
+    - 2.7:
+        non_striker: A Doddaballapur
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 3.1:
+        non_striker: JE Ronalds
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 3.2:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+    - 3.3:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+        wicket:
+          player_out: JE Ronalds
+          fielders:
+          - M Rathnayake
+          kind: caught
+    - 3.4:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.5:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 3.6:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 3.7:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 4.1:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 4.2:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 4.3:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 4.4:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 4.5:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 4.6:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 4.7:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 5.1:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.2:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.3:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 5.4:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 5.5:
+        non_striker: K Vijayaraghavan
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 5.6:
+        non_striker: A Doddaballapur
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 6.1:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 6.2:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 6.3:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 6.4:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 6.5:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 6.6:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 7.1:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 7.2:
+        non_striker: K Vijayaraghavan
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Doddaballapur
+    - 7.3:
+        non_striker: K Vijayaraghavan
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 7.4:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 7.5:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 7.6:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 7.7:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 8.1:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 8.2:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 8.3:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 8.4:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Doddaballapur
+    - 8.5:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 8.6:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Doddaballapur
+    - 8.7:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 8.8:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 8.9:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 9.1:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Vijayaraghavan
+    - 9.2:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 9.3:
+        non_striker: K Vijayaraghavan
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 9.4:
+        non_striker: K Vijayaraghavan
+        bowler: ECB Moore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 9.5:
+        non_striker: K Vijayaraghavan
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 9.6:
+        non_striker: K Vijayaraghavan
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 9.7:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 9.8:
+        non_striker: A Doddaballapur
+        bowler: ECB Moore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 10.1:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 10.2:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 10.3:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 10.4:
+        non_striker: A Doddaballapur
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 10.5:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Doddaballapur
+    - 10.6:
+        non_striker: K Vijayaraghavan
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 11.1:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 11.2:
+        non_striker: K Vijayaraghavan
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Doddaballapur
+    - 11.3:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Vijayaraghavan
+    - 11.4:
+        non_striker: K Vijayaraghavan
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 11.5:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: K Vijayaraghavan
+    - 11.6:
+        non_striker: K Vijayaraghavan
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 11.7:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 12.1:
+        non_striker: A Doddaballapur
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+        wicket:
+          player_out: K Vijayaraghavan
+          fielders:
+          - M Rathnayake
+          - N Asuramanage
+          kind: run out
+    - 12.2:
+        non_striker: A Doddaballapur
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 12.3:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 12.4:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 12.5:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 12.6:
+        non_striker: A Doddaballapur
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 13.1:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 13.2:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 13.3:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 13.4:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 13.5:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 13.6:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 13.7:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 13.8:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 13.9:
+        non_striker: A Kohli
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 14.1:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Doddaballapur
+    - 14.2:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Doddaballapur
+    - 14.3:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 14.4:
+        non_striker: A Doddaballapur
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 14.5:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Doddaballapur
+    - 14.6:
+        non_striker: A Kohli
+        bowler: Ilenia Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 15.1:
+        non_striker: A Kohli
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 15.2:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 15.3:
+        non_striker: A Doddaballapur
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 15.4:
+        non_striker: A Kohli
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+        wicket:
+          player_out: A Doddaballapur
+          fielders:
+          - EL Bartram
+          kind: run out
+    - 15.5:
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ST Frohnmayer
+        batsman: A Kohli
+    - 15.6:
+        non_striker: ST Frohnmayer
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 16.1:
+        non_striker: A Kohli
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Frohnmayer
+    - 16.2:
+        non_striker: ST Frohnmayer
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 16.3:
+        non_striker: ST Frohnmayer
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 16.4:
+        non_striker: A Kohli
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Frohnmayer
+    - 16.5:
+        non_striker: A Kohli
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Frohnmayer
+    - 16.6:
+        non_striker: A Kohli
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Frohnmayer
+    - 16.7:
+        non_striker: ST Frohnmayer
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 17.1:
+        non_striker: A Kohli
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Frohnmayer
+    - 17.2:
+        non_striker: ST Frohnmayer
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+        wicket:
+          player_out: A Kohli
+          fielders:
+          - EL Bartram
+          kind: caught
+    - 17.3:
+        non_striker: ST Frohnmayer
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 17.4:
+        non_striker: S Kolcharam
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Frohnmayer
+        wicket:
+          player_out: ST Frohnmayer
+          fielders:
+          - D Nanayakkara
+          kind: run out
+    - 17.5:
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sadarangani
+        batsman: S Kolcharam
+    - 17.6:
+        non_striker: S Sadarangani
+        bowler: D Nanayakkara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 18.1:
+        non_striker: S Sadarangani
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kolcharam
+    - 18.2:
+        non_striker: S Sadarangani
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kolcharam
+    - 18.3:
+        non_striker: S Sadarangani
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kolcharam
+    - 18.4:
+        non_striker: S Kolcharam
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+        wicket:
+          player_out: S Sadarangani
+          fielders:
+          - EL Bartram
+          - D Nanayakkara
+          kind: run out
+    - 18.5:
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: EC Bargna
+        batsman: S Kolcharam
+    - 18.6:
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: EC Bargna
+        batsman: S Kolcharam
+    - 18.7:
+        non_striker: EC Bargna
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kolcharam
+        wicket:
+          player_out: S Kolcharam
+          fielders:
+          - M Rathnayake
+          kind: caught
+    - 18.8:
+        non_striker: EC Bargna
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Beresford
+    - 19.1:
+        non_striker: EC Bargna
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Beresford
+    - 19.2:
+        non_striker: MS Beresford
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Bargna
+    - 19.3:
+        non_striker: MS Beresford
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Bargna
+    - 19.4:
+        non_striker: EC Bargna
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 19.5:
+        non_striker: EC Bargna
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 19.6:
+        non_striker: EC Bargna
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Beresford
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Bartram
+        batsman: M Rathnayake
+    - 0.2:
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Bartram
+        batsman: M Rathnayake
+    - 0.3:
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: EL Bartram
+        batsman: M Rathnayake
+    - 0.4:
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EL Bartram
+        batsman: M Rathnayake
+    - 0.5:
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EL Bartram
+        batsman: M Rathnayake
+    - 0.6:
+        non_striker: M Rathnayake
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 1.1:
+        non_striker: M Rathnayake
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: EL Bartram
+    - 1.2:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Rathnayake
+    - 1.3:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 1.4:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Rathnayake
+    - 1.5:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 1.6:
+        non_striker: M Rathnayake
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 1.7:
+        non_striker: M Rathnayake
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 2.1:
+        non_striker: EL Bartram
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.2:
+        non_striker: EL Bartram
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.3:
+        non_striker: EL Bartram
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 2.4:
+        non_striker: EL Bartram
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 2.5:
+        non_striker: M Rathnayake
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 2.6:
+        non_striker: EL Bartram
+        bowler: A Doddaballapur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Rathnayake
+    - 2.7:
+        non_striker: EL Bartram
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 3.1:
+        non_striker: M Rathnayake
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 3.2:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Rathnayake
+    - 3.3:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 3.4:
+        non_striker: M Rathnayake
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 3.5:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 3.6:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Rathnayake
+    - 3.7:
+        non_striker: EL Bartram
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 4.1:
+        non_striker: M Rathnayake
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+        wicket:
+          player_out: EL Bartram
+          fielders:
+          - EC Bargna
+          kind: caught
+    - 4.2:
+        non_striker: M Rathnayake
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 4.3:
+        non_striker: Ilenia Sims
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 4.4:
+        non_striker: M Rathnayake
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 4.5:
+        non_striker: Ilenia Sims
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Rathnayake
+    - 4.6:
+        non_striker: M Rathnayake
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 5.1:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 5.2:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 5.3:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 5.4:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+        wicket:
+          player_out: M Rathnayake
+          fielders:
+          - JE Ronalds
+          kind: caught
+    - 5.5:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 5.6:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 6.1:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 6.2:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 6.3:
+        non_striker: K Peddrick
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 6.4:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Peddrick
+    - 6.5:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 6.6:
+        non_striker: K Peddrick
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ilenia Sims
+    - 7.1:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Peddrick
+    - 7.2:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Peddrick
+    - 7.3:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.4:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.5:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Peddrick
+    - 7.6:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.7:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+        wicket:
+          player_out: K Peddrick
+          kind: caught and bowled
+    - 7.8:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 8.1:
+        non_striker: C Mahamalage
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ilenia Sims
+    - 8.2:
+        non_striker: C Mahamalage
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 8.3:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 8.4:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Mahamalage
+    - 8.5:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 8.6:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 8.7:
+        non_striker: C Mahamalage
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 8.8:
+        non_striker: Ilenia Sims
+        bowler: ST Frohnmayer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Mahamalage
+    - 9.1:
+        non_striker: C Mahamalage
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 9.2:
+        non_striker: C Mahamalage
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 9.3:
+        non_striker: C Mahamalage
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 9.4:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 9.5:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Mahamalage
+    - 9.6:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 9.7:
+        non_striker: Ilenia Sims
+        bowler: EC Bargna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 10.1:
+        non_striker: C Mahamalage
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 10.2:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 10.3:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 10.4:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 10.5:
+        non_striker: C Mahamalage
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 10.6:
+        non_striker: C Mahamalage
+        bowler: S Kolcharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ilenia Sims
+    - 10.7:
+        non_striker: C Mahamalage
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 11.1:
+        non_striker: Ilenia Sims
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 11.2:
+        non_striker: C Mahamalage
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 11.3:
+        non_striker: Ilenia Sims
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 11.4:
+        non_striker: Ilenia Sims
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 11.5:
+        non_striker: Ilenia Sims
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 11.6:
+        non_striker: Ilenia Sims
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 12.1:
+        non_striker: C Mahamalage
+        bowler: S Kolcharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ilenia Sims
+    - 12.2:
+        non_striker: C Mahamalage
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 12.3:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Mahamalage
+    - 12.4:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 12.5:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 12.6:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 12.7:
+        non_striker: Ilenia Sims
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 12.8:
+        non_striker: C Mahamalage
+        bowler: S Kolcharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 13.1:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.2:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.3:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 13.4:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 13.5:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 13.6:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 14.1:
+        non_striker: C Mahamalage
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 14.2:
+        non_striker: Ilenia Sims
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 14.3:
+        non_striker: C Mahamalage
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 14.4:
+        non_striker: Ilenia Sims
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Mahamalage
+    - 14.5:
+        non_striker: Ilenia Sims
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 14.6:
+        non_striker: C Mahamalage
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilenia Sims
+    - 15.1:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Mahamalage
+    - 15.2:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 15.3:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 15.4:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 15.5:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Mahamalage
+    - 15.6:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Mahamalage
+    - 15.7:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Mahamalage
+    - 16.1:
+        non_striker: C Mahamalage
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 16.2:
+        non_striker: Ilenia Sims
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 16.3:
+        non_striker: C Mahamalage
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 16.4:
+        non_striker: Ilenia Sims
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 16.5:
+        non_striker: C Mahamalage
+        bowler: CM Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ilenia Sims
+    - 16.6:
+        non_striker: C Mahamalage
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 16.7:
+        non_striker: Ilenia Sims
+        bowler: CM Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 17.1:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 17.2:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Mahamalage
+    - 17.3:
+        non_striker: C Mahamalage
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ilenia Sims
+    - 17.4:
+        non_striker: Ilenia Sims
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Mahamalage

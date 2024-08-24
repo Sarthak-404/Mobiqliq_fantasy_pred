@@ -1,0 +1,2186 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-03-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2024-03-01'
+  gender: male
+  match_type: T20
+  match_type_number: 2490
+  outcome:
+    winner: Nepal
+    by:
+      runs: 3
+  overs: 20
+  player_of_match:
+  - Kushal Malla
+  players:
+    Nepal:
+    - AK Sah
+    - Aasif Sheikh
+    - RK Paudel
+    - Gulsan Jha
+    - Aarif Sheikh
+    - Kushal Malla
+    - DS Airee
+    - Karan KC
+    - Sompal Kami
+    - Pratis GC
+    - A Bohara
+    Namibia:
+    - M van Lingen
+    - MB Kruger
+    - JP Kotze
+    - JN Frylinck
+    - JJ Smit
+    - JN Loftie-Eaton
+    - R Trumpelmann
+    - ZE Green
+    - BM Scholtz
+    - JT Brassell
+    - B Shikongo
+  registry:
+    people:
+      A Bohara: 64fb6b15
+      AK Sah: 5b1d6583
+      Aarif Sheikh: cd4d7695
+      Aasif Sheikh: dcbea954
+      B Shikongo: c26cd57a
+      BB Pradhan: 8603d942
+      BM Scholtz: e85d03d6
+      DN Subedi: fb0a571f
+      DS Airee: 1747ea18
+      Gulsan Jha: 9811e35e
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      JP Kotze: 9f308dfc
+      JT Brassell: 537021f5
+      Karan KC: f53b3e1d
+      Kushal Malla: 7e9f1cde
+      M van Lingen: 7eb36269
+      MB Kruger: c51add25
+      Pratis GC: c1077ba3
+      R Trumpelmann: ff6a7ab5
+      RK Paudel: 1a3cc554
+      S Jora: 156378d8
+      Sompal Kami: 1adb8ee8
+      V Narayan Kutty: 4bacee3d
+      VK Jha: 5d46eb72
+      ZE Green: 8716233e
+  teams:
+  - Nepal
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - BB Pradhan
+  - VK Jha
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aasif Sheikh
+        batsman: AK Sah
+    - 0.2:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aasif Sheikh
+        batsman: AK Sah
+    - 0.3:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aasif Sheikh
+        batsman: AK Sah
+    - 0.4:
+        non_striker: AK Sah
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 0.5:
+        non_striker: Aasif Sheikh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Sah
+    - 0.6:
+        non_striker: Aasif Sheikh
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Sah
+    - 0.7:
+        non_striker: Aasif Sheikh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+    - 1.1:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          kind: bowled
+    - 1.2:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 1.3:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 1.4:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 1.5:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 1.6:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 1.7:
+        non_striker: RK Paudel
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Sah
+    - 2.1:
+        non_striker: RK Paudel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+    - 2.2:
+        non_striker: RK Paudel
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Sah
+    - 2.3:
+        non_striker: AK Sah
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 2.4:
+        non_striker: RK Paudel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+    - 2.5:
+        non_striker: RK Paudel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Sah
+    - 2.6:
+        non_striker: RK Paudel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Sah
+    - 3.1:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 3.2:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 3.3:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 3.4:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+        wicket:
+          player_out: RK Paudel
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 3.5:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 3.6:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 4.1:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 4.2:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 4.3:
+        non_striker: Gulsan Jha
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+    - 4.4:
+        non_striker: Gulsan Jha
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Sah
+    - 4.5:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 4.6:
+        non_striker: AK Sah
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 5.1:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulsan Jha
+    - 5.2:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 5.3:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Gulsan Jha
+    - 5.4:
+        non_striker: AK Sah
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Gulsan Jha
+    - 5.5:
+        non_striker: Gulsan Jha
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+    - 5.6:
+        non_striker: Gulsan Jha
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Sah
+    - 6.1:
+        non_striker: AK Sah
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 6.2:
+        non_striker: AK Sah
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Gulsan Jha
+    - 6.3:
+        non_striker: AK Sah
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 6.4:
+        non_striker: AK Sah
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 6.5:
+        non_striker: Gulsan Jha
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+    - 6.6:
+        non_striker: Gulsan Jha
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Sah
+        wicket:
+          player_out: AK Sah
+          fielders:
+          - ZE Green
+          kind: caught
+    - 7.1:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Aarif Sheikh
+        batsman: Gulsan Jha
+    - 7.2:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+        wicket:
+          player_out: Gulsan Jha
+          kind: lbw
+    - 7.3:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 7.4:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 7.5:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 7.6:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 8.1:
+        non_striker: Kushal Malla
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Aarif Sheikh
+    - 8.2:
+        non_striker: Aarif Sheikh
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 8.3:
+        non_striker: Kushal Malla
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 8.4:
+        non_striker: Aarif Sheikh
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 8.5:
+        non_striker: Kushal Malla
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 8.6:
+        non_striker: Kushal Malla
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 9.1:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 9.2:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 9.3:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 9.4:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 9.5:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 9.6:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 9.7:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 10.1:
+        non_striker: Aarif Sheikh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 10.2:
+        non_striker: Kushal Malla
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 10.3:
+        non_striker: Aarif Sheikh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 10.4:
+        non_striker: Kushal Malla
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 10.5:
+        non_striker: Aarif Sheikh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 10.6:
+        non_striker: Kushal Malla
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 11.1:
+        non_striker: Aarif Sheikh
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 11.2:
+        non_striker: Aarif Sheikh
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 11.3:
+        non_striker: Aarif Sheikh
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 11.4:
+        non_striker: Aarif Sheikh
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 11.5:
+        non_striker: Aarif Sheikh
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 11.6:
+        non_striker: Kushal Malla
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 11.7:
+        non_striker: Kushal Malla
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 12.1:
+        non_striker: Aarif Sheikh
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 12.2:
+        non_striker: Kushal Malla
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 12.3:
+        non_striker: Aarif Sheikh
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 12.4:
+        non_striker: Aarif Sheikh
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 12.5:
+        non_striker: Kushal Malla
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 12.6:
+        non_striker: Aarif Sheikh
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 13.1:
+        non_striker: Aarif Sheikh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 13.2:
+        non_striker: Aarif Sheikh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 13.3:
+        non_striker: Kushal Malla
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 13.4:
+        non_striker: Aarif Sheikh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 13.5:
+        non_striker: Kushal Malla
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 13.6:
+        non_striker: Aarif Sheikh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 14.1:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 14.2:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 14.3:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 14.4:
+        non_striker: Aarif Sheikh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 14.5:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 14.6:
+        non_striker: Kushal Malla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 15.1:
+        non_striker: Aarif Sheikh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 15.2:
+        non_striker: Aarif Sheikh
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 15.3:
+        non_striker: Aarif Sheikh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 15.4:
+        non_striker: Kushal Malla
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 15.5:
+        non_striker: Aarif Sheikh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 15.6:
+        non_striker: Aarif Sheikh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 15.7:
+        non_striker: Kushal Malla
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 16.1:
+        non_striker: Aarif Sheikh
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 16.2:
+        non_striker: Aarif Sheikh
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Kushal Malla
+    - 16.3:
+        non_striker: Kushal Malla
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+        wicket:
+          player_out: Aarif Sheikh
+          fielders:
+          - JN Frylinck
+          kind: caught
+    - 16.4:
+        non_striker: Kushal Malla
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 16.5:
+        non_striker: Kushal Malla
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 16.6:
+        non_striker: Kushal Malla
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 17.1:
+        non_striker: DS Airee
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 17.2:
+        non_striker: Kushal Malla
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 17.3:
+        non_striker: DS Airee
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 17.4:
+        non_striker: Kushal Malla
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 17.5:
+        non_striker: Kushal Malla
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 17.6:
+        non_striker: DS Airee
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 18.1:
+        non_striker: Kushal Malla
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 18.2:
+        non_striker: Kushal Malla
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+        wicket:
+          player_out: DS Airee
+          kind: lbw
+    - 18.3:
+        non_striker: Kushal Malla
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 18.4:
+        non_striker: Karan KC
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 18.5:
+        non_striker: Kushal Malla
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Karan KC
+    - 18.6:
+        non_striker: Kushal Malla
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+        wicket:
+          player_out: Karan KC
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 19.1:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sompal Kami
+        batsman: Kushal Malla
+    - 19.2:
+        non_striker: Kushal Malla
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sompal Kami
+    - 19.3:
+        non_striker: Kushal Malla
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 19.4:
+        non_striker: Kushal Malla
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+        wicket:
+          player_out: Sompal Kami
+          fielders:
+          - B Shikongo
+          kind: caught
+    - 19.5:
+        non_striker: Kushal Malla
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratis GC
+    - 19.6:
+        non_striker: Pratis GC
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: Karan KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: MB Kruger
+        batsman: M van Lingen
+    - 0.2:
+        non_striker: M van Lingen
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 0.3:
+        non_striker: M van Lingen
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 0.4:
+        non_striker: MB Kruger
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 0.5:
+        non_striker: M van Lingen
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 0.6:
+        non_striker: MB Kruger
+        bowler: Karan KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Lingen
+    - 0.7:
+        non_striker: MB Kruger
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 1.1:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 1.2:
+        non_striker: MB Kruger
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 1.3:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+        wicket:
+          player_out: MB Kruger
+          fielders:
+          - Gulsan Jha
+          kind: caught
+    - 1.4:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 1.5:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 1.6:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 2.1:
+        non_striker: JP Kotze
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.2:
+        non_striker: JP Kotze
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.3:
+        non_striker: JP Kotze
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.4:
+        non_striker: JP Kotze
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 2.5:
+        non_striker: M van Lingen
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 2.6:
+        non_striker: M van Lingen
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 3.1:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kotze
+    - 3.2:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 3.3:
+        non_striker: JP Kotze
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 3.4:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: JP Kotze
+    - 3.5:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 3.6:
+        non_striker: JP Kotze
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 3.7:
+        non_striker: M van Lingen
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 4.1:
+        non_striker: M van Lingen
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 4.2:
+        non_striker: JP Kotze
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 4.3:
+        non_striker: M van Lingen
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 4.4:
+        non_striker: M van Lingen
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kotze
+    - 4.5:
+        non_striker: M van Lingen
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 4.6:
+        non_striker: M van Lingen
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 5.1:
+        non_striker: M van Lingen
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 5.2:
+        non_striker: M van Lingen
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 5.3:
+        non_striker: JP Kotze
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+        wicket:
+          player_out: M van Lingen
+          kind: bowled
+    - 5.4:
+        non_striker: JP Kotze
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 5.5:
+        non_striker: JN Frylinck
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kotze
+    - 5.6:
+        non_striker: JN Frylinck
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kotze
+    - 6.1:
+        non_striker: JP Kotze
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 6.2:
+        non_striker: JN Frylinck
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 6.3:
+        non_striker: JN Frylinck
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 6.4:
+        non_striker: JP Kotze
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 6.5:
+        non_striker: JN Frylinck
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 6.6:
+        non_striker: JP Kotze
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 7.1:
+        non_striker: JP Kotze
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 7.2:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+        wicket:
+          player_out: JP Kotze
+          fielders:
+          - Aasif Sheikh
+          kind: caught
+    - 7.3:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 7.4:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 7.5:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 7.6:
+        non_striker: JJ Smit
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 8.1:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 8.2:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 8.3:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 8.4:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 8.5:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JN Frylinck
+    - 8.6:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 9.1:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 9.2:
+        non_striker: JJ Smit
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 9.3:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 9.4:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 9.5:
+        non_striker: JN Frylinck
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 9.6:
+        non_striker: JJ Smit
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 10.1:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 10.2:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 10.3:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 10.4:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 10.5:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 10.6:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 11.1:
+        non_striker: JJ Smit
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 11.2:
+        non_striker: JN Frylinck
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.3:
+        non_striker: JJ Smit
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 11.4:
+        non_striker: JN Frylinck
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 11.5:
+        non_striker: JN Frylinck
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.6:
+        non_striker: JJ Smit
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.1:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.2:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 12.3:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 12.4:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.5:
+        non_striker: JJ Smit
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.6:
+        non_striker: JN Frylinck
+        bowler: Pratis GC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 13.1:
+        non_striker: JJ Smit
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 13.2:
+        non_striker: JN Frylinck
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 13.3:
+        non_striker: JN Frylinck
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.4:
+        non_striker: JJ Smit
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 13.5:
+        non_striker: JJ Smit
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 13.6:
+        non_striker: JJ Smit
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 14.1:
+        non_striker: JJ Smit
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Frylinck
+    - 14.2:
+        non_striker: JJ Smit
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 14.3:
+        non_striker: JN Frylinck
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 14.4:
+        non_striker: JN Frylinck
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 14.5:
+        non_striker: JJ Smit
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Frylinck
+    - 14.6:
+        non_striker: JJ Smit
+        bowler: Karan KC
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JN Frylinck
+    - 14.7:
+        non_striker: JN Frylinck
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 15.1:
+        non_striker: JN Frylinck
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          fielders:
+          - AK Sah
+          kind: caught
+    - 15.2:
+        non_striker: JN Frylinck
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - S Jora (sub)
+          kind: caught
+    - 15.3:
+        non_striker: JN Frylinck
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 15.4:
+        non_striker: R Trumpelmann
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 15.5:
+        non_striker: JN Frylinck
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 15.6:
+        non_striker: JN Frylinck
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 16.1:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          kind: bowled
+    - 16.2:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 16.3:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZE Green
+    - 16.4:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 16.5:
+        non_striker: ZE Green
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 16.6:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 16.7:
+        non_striker: ZE Green
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 17.1:
+        non_striker: ZE Green
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Trumpelmann
+    - 17.2:
+        non_striker: ZE Green
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 17.3:
+        non_striker: R Trumpelmann
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 17.4:
+        non_striker: R Trumpelmann
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 17.5:
+        non_striker: R Trumpelmann
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 17.6:
+        non_striker: ZE Green
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Trumpelmann
+    - 18.1:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 18.2:
+        non_striker: ZE Green
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 18.3:
+        non_striker: ZE Green
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 18.4:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 18.5:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 18.6:
+        non_striker: R Trumpelmann
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 19.1:
+        non_striker: R Trumpelmann
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 19.2:
+        non_striker: ZE Green
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 19.3:
+        non_striker: R Trumpelmann
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 19.4:
+        non_striker: R Trumpelmann
+        bowler: Karan KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZE Green
+    - 19.5:
+        non_striker: R Trumpelmann
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 19.6:
+        non_striker: ZE Green
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          fielders:
+          - S Jora (sub)
+          kind: caught
+    - 19.7:
+        non_striker: ZE Green
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Scholtz

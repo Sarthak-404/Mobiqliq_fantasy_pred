@@ -1,0 +1,1886 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-22'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-12-19'
+  gender: male
+  match_type: T20
+  match_type_number: 1968
+  outcome:
+    winner: Qatar
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Singapore:
+    - Avi Dixit
+    - S Chandramohan
+    - Aman Desai
+    - Manpreet Singh
+    - A Modi
+    - Janak Prakash
+    - Abdul Rahman
+    - U Aryaman Sunil
+    - V Baskaran
+    - V Hampihallikar
+    - AR Puri
+    Qatar:
+    - Kamran Khan
+    - I Liyanage
+    - Mohammad Rizlan
+    - VN Veetil
+    - Muhammad Tanveer
+    - Ikramullah Khan
+    - Assad Borham
+    - Dharmang Patel
+    - Akash Babu
+    - Gayan Munaweera
+    - Mohammed Nadeem
+  registry:
+    people:
+      A Modi: 4edfc785
+      AR Puri: 1f490b28
+      Abdul Rahman: 12f53be7
+      Akash Babu: fb59e5bc
+      Aman Desai: c10fd8f9
+      Assad Borham: 219a417a
+      Avi Dixit: cf17c429
+      B Ramani: 92ad5353
+      Dharmang Patel: 643f2e6a
+      Gayan Munaweera: 62141a22
+      I Liyanage: 826e1017
+      Ikramullah Khan: c6e1354c
+      Janak Prakash: f092b4c7
+      Kamran Khan: 922e3dcc
+      L Poobalan: 93cc9718
+      MA Muniandy: bc8d4020
+      Manpreet Singh: e9d6a2ce
+      Mohammad Rizlan: 82afc034
+      Mohammed Nadeem: 856cbb1e
+      Muhammad Tanveer: aef39fe4
+      Nasir Ali: 567675c8
+      S Chandramohan: 2a6ccc1c
+      U Aryaman Sunil: 13bc54a8
+      V Baskaran: dd5a9067
+      V Hampihallikar: 241a104c
+      VN Veetil: 3cf5a041
+  teams:
+  - Singapore
+  - Qatar
+  toss:
+    winner: Qatar
+    decision: field
+  umpires:
+  - L Poobalan
+  - Nasir Ali
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Chandramohan
+        batsman: Avi Dixit
+    - 0.2:
+        non_striker: Avi Dixit
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 0.3:
+        non_striker: Avi Dixit
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chandramohan
+    - 0.4:
+        non_striker: Avi Dixit
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 0.5:
+        non_striker: Avi Dixit
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 0.6:
+        non_striker: S Chandramohan
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 0.7:
+        non_striker: Avi Dixit
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 1.1:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+    - 1.2:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+    - 1.3:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+        wicket:
+          player_out: Avi Dixit
+          fielders:
+          - Assad Borham
+          kind: caught
+    - 1.4:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 1.5:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aman Desai
+    - 1.6:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 2.1:
+        non_striker: Aman Desai
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 2.2:
+        non_striker: Aman Desai
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 2.3:
+        non_striker: Aman Desai
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - Ikramullah Khan
+          kind: run out
+    - 2.4:
+        non_striker: S Chandramohan
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 2.5:
+        non_striker: S Chandramohan
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 2.6:
+        non_striker: Manpreet Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 3.1:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 3.2:
+        non_striker: S Chandramohan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 3.3:
+        non_striker: Manpreet Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 3.4:
+        non_striker: Manpreet Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 3.5:
+        non_striker: Manpreet Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 3.6:
+        non_striker: Manpreet Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 4.1:
+        non_striker: S Chandramohan
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Manpreet Singh
+    - 4.2:
+        non_striker: S Chandramohan
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 4.3:
+        non_striker: Manpreet Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: S Chandramohan
+    - 4.4:
+        non_striker: Manpreet Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 4.5:
+        non_striker: Manpreet Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 4.6:
+        non_striker: Manpreet Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+        wicket:
+          player_out: S Chandramohan
+          kind: bowled
+    - 4.7:
+        non_striker: Manpreet Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 4.8:
+        non_striker: Manpreet Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 5.1:
+        non_striker: A Modi
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 5.2:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 5.3:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 5.4:
+        non_striker: A Modi
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 5.5:
+        non_striker: A Modi
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 5.6:
+        non_striker: A Modi
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.1:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.2:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Modi
+    - 6.3:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 6.4:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.5:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 6.6:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 7.1:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 7.2:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 7.3:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 7.4:
+        non_striker: A Modi
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 7.5:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 7.6:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 8.1:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 8.2:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 8.3:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 8.4:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 8.5:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 8.6:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 9.1:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 9.2:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 9.3:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 9.4:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 9.5:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 9.6:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 10.1:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 10.2:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 10.3:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 10.4:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 10.5:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 10.6:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 11.1:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 11.2:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 11.3:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 11.4:
+        non_striker: A Modi
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 11.5:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 11.6:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Modi
+    - 12.1:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 12.2:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 12.3:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 12.4:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 12.5:
+        non_striker: A Modi
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 12.6:
+        non_striker: Manpreet Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 13.1:
+        non_striker: A Modi
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.2:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Modi
+    - 13.3:
+        non_striker: A Modi
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.4:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+    - 13.5:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Modi
+        wicket:
+          player_out: A Modi
+          fielders:
+          - I Liyanage
+          kind: caught
+    - 13.6:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 14.1:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 14.2:
+        non_striker: Janak Prakash
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 14.3:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 14.4:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 14.5:
+        non_striker: Janak Prakash
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 14.6:
+        non_striker: Manpreet Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 15.1:
+        non_striker: Janak Prakash
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.2:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 15.3:
+        non_striker: Manpreet Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Janak Prakash
+    - 15.4:
+        non_striker: Janak Prakash
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          kind: caught and bowled
+    - 15.5:
+        non_striker: Janak Prakash
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Rahman
+    - 15.6:
+        non_striker: Abdul Rahman
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 16.1:
+        non_striker: Abdul Rahman
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 16.2:
+        non_striker: Abdul Rahman
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Janak Prakash
+    - 16.3:
+        non_striker: Abdul Rahman
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 16.4:
+        non_striker: Janak Prakash
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Rahman
+    - 16.5:
+        non_striker: Janak Prakash
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Rahman
+    - 16.6:
+        non_striker: Abdul Rahman
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 17.1:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Rahman
+    - 17.2:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdul Rahman
+    - 17.3:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Rahman
+    - 17.4:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Rahman
+    - 17.5:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Rahman
+    - 17.6:
+        non_striker: Abdul Rahman
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 18.1:
+        non_striker: Abdul Rahman
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 18.2:
+        non_striker: Abdul Rahman
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 18.3:
+        non_striker: Abdul Rahman
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 18.4:
+        non_striker: Abdul Rahman
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 18.5:
+        non_striker: Abdul Rahman
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 18.6:
+        non_striker: Abdul Rahman
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 19.1:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Rahman
+    - 19.2:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Rahman
+    - 19.3:
+        non_striker: Abdul Rahman
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 19.4:
+        non_striker: Abdul Rahman
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 19.5:
+        non_striker: Abdul Rahman
+        bowler: Gayan Munaweera
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Janak Prakash
+    - 19.6:
+        non_striker: Abdul Rahman
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 19.7:
+        non_striker: Janak Prakash
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Rahman
+        wicket:
+          player_out: Abdul Rahman
+          fielders:
+          - Muhammad Tanveer
+          kind: caught
+- 2nd innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Liyanage
+        batsman: Kamran Khan
+    - 0.2:
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: I Liyanage
+        batsman: Kamran Khan
+    - 0.3:
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Liyanage
+        batsman: Kamran Khan
+    - 0.4:
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Liyanage
+        batsman: Kamran Khan
+    - 0.5:
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Liyanage
+        batsman: Kamran Khan
+    - 0.6:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Khan
+    - 1.1:
+        non_striker: Kamran Khan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 1.2:
+        non_striker: Kamran Khan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 1.3:
+        non_striker: Kamran Khan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Liyanage
+    - 1.4:
+        non_striker: Kamran Khan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 1.5:
+        non_striker: Kamran Khan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 1.6:
+        non_striker: Kamran Khan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 2.1:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Khan
+    - 2.2:
+        non_striker: Kamran Khan
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Liyanage
+    - 2.3:
+        non_striker: Kamran Khan
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 2.4:
+        non_striker: Kamran Khan
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 2.5:
+        non_striker: Kamran Khan
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 2.6:
+        non_striker: Kamran Khan
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 2.7:
+        non_striker: Kamran Khan
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 3.1:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Khan
+    - 3.2:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Khan
+    - 3.3:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Khan
+    - 3.4:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Khan
+    - 3.5:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Kamran Khan
+    - 3.6:
+        non_striker: Kamran Khan
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 4.1:
+        non_striker: Kamran Khan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 4.2:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Khan
+        wicket:
+          player_out: Kamran Khan
+          kind: lbw
+    - 4.3:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 4.4:
+        non_striker: Mohammad Rizlan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 4.5:
+        non_striker: Mohammad Rizlan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Liyanage
+    - 4.6:
+        non_striker: Mohammad Rizlan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 5.1:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 5.2:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 5.3:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 5.4:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 5.5:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 5.6:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mohammad Rizlan
+    - 6.1:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 6.2:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 6.3:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 6.4:
+        non_striker: Mohammad Rizlan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 6.5:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 6.6:
+        non_striker: Mohammad Rizlan
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Liyanage
+    - 6.7:
+        non_striker: Mohammad Rizlan
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 7.1:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Liyanage
+    - 7.2:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Liyanage
+    - 7.3:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 7.4:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 7.5:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Liyanage
+    - 7.6:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 7.7:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 8.1:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 8.2:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 8.3:
+        non_striker: Mohammad Rizlan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 8.4:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 8.5:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 8.6:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 9.1:
+        non_striker: Mohammad Rizlan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 9.2:
+        non_striker: Mohammad Rizlan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 9.3:
+        non_striker: I Liyanage
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 9.4:
+        non_striker: I Liyanage
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 9.5:
+        non_striker: I Liyanage
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 9.6:
+        non_striker: Mohammad Rizlan
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 10.1:
+        non_striker: I Liyanage
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizlan
+    - 10.2:
+        non_striker: I Liyanage
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 10.3:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 10.4:
+        non_striker: I Liyanage
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 10.5:
+        non_striker: Mohammad Rizlan
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 10.6:
+        non_striker: I Liyanage
+        bowler: V Hampihallikar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 11.1:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 11.2:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 11.3:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 11.4:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 11.5:
+        non_striker: Mohammad Rizlan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 11.6:
+        non_striker: I Liyanage
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 12.1:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizlan
+    - 12.2:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 12.3:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+        wicket:
+          player_out: Mohammad Rizlan
+          fielders:
+          - Janak Prakash
+          kind: caught
+    - 12.4:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 12.5:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 12.6:
+        non_striker: I Liyanage
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 13.1:
+        non_striker: VN Veetil
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Liyanage
+    - 13.2:
+        non_striker: VN Veetil
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 13.3:
+        non_striker: VN Veetil
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 13.4:
+        non_striker: VN Veetil
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 13.5:
+        non_striker: VN Veetil
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 13.6:
+        non_striker: I Liyanage
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 13.7:
+        non_striker: VN Veetil
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 14.1:
+        non_striker: VN Veetil
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 14.2:
+        non_striker: VN Veetil
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 14.3:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 14.4:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 14.5:
+        non_striker: I Liyanage
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 14.6:
+        non_striker: VN Veetil
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Liyanage

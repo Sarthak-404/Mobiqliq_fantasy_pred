@@ -1,0 +1,1247 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-04'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2023-09-02'
+  gender: female
+  match_type: T20
+  match_type_number: 1581
+  outcome:
+    winner: Sierra Leone
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - A Fillie
+  players:
+    Cameroon:
+    - BMA Mbida
+    - MSN Ekani
+    - CD Mboe
+    - B Waluma
+    - CI Manidom
+    - ME Bessala
+    - MLN Sissako
+    - TMA Leslie
+    - O Ranedoumoun
+    - EGS Kana
+    - SA Akenji
+    Sierra Leone:
+    - E Kamara
+    - F Conteh
+    - C Bull
+    - M Turay
+    - AM Kamara
+    - F Parkinson
+    - F Pessima
+    - I Quee
+    - J Kowa
+    - A Fillie
+    - Z Kamara
+  registry:
+    people:
+      A Fillie: '67412324'
+      AM Kamara: 4ca3d67d
+      B Waluma: fb56dda6
+      BMA Mbida: e3c23cef
+      C Bull: a7b3bd26
+      CD Mboe: '14198941'
+      CI Manidom: f0396c01
+      E Kamara: 3f8915a0
+      EGS Kana: 8a91d0f1
+      F Conteh: 1dac0c4a
+      F Mutizwa: d3e83eef
+      F Parkinson: 9b819b10
+      F Pessima: 9be80ea0
+      I Quee: 6bcefc6e
+      J Kowa: 9d80f576
+      Justine Muzungu: b90044b7
+      M Turay: 1eec6a0f
+      ME Bessala: a8301fdc
+      MLN Sissako: 52a0e81d
+      MSN Ekani: 46c81920
+      O Ranedoumoun: 71ee8c8d
+      P Sizara: 5d45bb7f
+      SA Akenji: d1504c13
+      SA Fritz: d15e60c8
+      TMA Leslie: c7fa1e4c
+      Z Kamara: a4e98e6b
+  teams:
+  - Cameroon
+  - Sierra Leone
+  toss:
+    winner: Sierra Leone
+    decision: field
+  umpires:
+  - F Mutizwa
+  - P Sizara
+  venue: Botswana Cricket Association Oval 2, Gaborone
+innings:
+- 1st innings:
+    team: Cameroon
+    deliveries:
+    - 0.1:
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MSN Ekani
+        batsman: BMA Mbida
+    - 0.2:
+        bowler: J Kowa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MSN Ekani
+        batsman: BMA Mbida
+    - 0.3:
+        non_striker: MSN Ekani
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMA Mbida
+        wicket:
+          player_out: BMA Mbida
+          kind: lbw
+    - 0.4:
+        non_striker: MSN Ekani
+        bowler: J Kowa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CD Mboe
+    - 0.5:
+        non_striker: CD Mboe
+        bowler: J Kowa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MSN Ekani
+    - 0.6:
+        non_striker: CD Mboe
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 0.7:
+        non_striker: CD Mboe
+        bowler: J Kowa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MSN Ekani
+    - 0.8:
+        non_striker: MSN Ekani
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Mboe
+        wicket:
+          player_out: CD Mboe
+          fielders:
+          - Z Kamara
+          kind: run out
+    - 1.1:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Waluma
+        batsman: MSN Ekani
+    - 1.2:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 1.3:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 1.4:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 1.5:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 1.6:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 2.1:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 2.2:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 2.3:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 2.4:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 2.5:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 2.6:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 3.1:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Waluma
+    - 3.2:
+        non_striker: B Waluma
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSN Ekani
+    - 3.3:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 3.4:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 3.5:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 3.6:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+    - 4.1:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 4.2:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 4.3:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 4.4:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+    - 4.5:
+        non_striker: B Waluma
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MSN Ekani
+    - 4.6:
+        non_striker: MSN Ekani
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Waluma
+        wicket:
+          player_out: B Waluma
+          fielders:
+          - E Kamara
+          kind: caught
+    - 5.1:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CI Manidom
+        batsman: MSN Ekani
+    - 5.2:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CI Manidom
+        batsman: MSN Ekani
+    - 5.3:
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CI Manidom
+        batsman: MSN Ekani
+    - 5.4:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 5.5:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 5.6:
+        non_striker: MSN Ekani
+        bowler: AM Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CI Manidom
+    - 6.1:
+        non_striker: MSN Ekani
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 6.2:
+        non_striker: MSN Ekani
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CI Manidom
+    - 6.3:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MSN Ekani
+    - 6.4:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MSN Ekani
+        wicket:
+          player_out: MSN Ekani
+          fielders:
+          - I Quee
+          kind: caught
+    - 6.5:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+    - 6.6:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bessala
+    - 6.7:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bessala
+        wicket:
+          player_out: ME Bessala
+          fielders:
+          - Z Kamara
+          kind: caught
+    - 6.8:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 6.9:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MLN Sissako
+    - 6.10:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 7.1:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 7.2:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 7.3:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CI Manidom
+    - 7.4:
+        non_striker: CI Manidom
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 7.5:
+        non_striker: CI Manidom
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MLN Sissako
+    - 7.6:
+        non_striker: CI Manidom
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+    - 8.1:
+        non_striker: MLN Sissako
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 8.2:
+        non_striker: MLN Sissako
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CI Manidom
+    - 8.3:
+        non_striker: CI Manidom
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLN Sissako
+    - 8.4:
+        non_striker: MLN Sissako
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+    - 8.5:
+        non_striker: MLN Sissako
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CI Manidom
+        wicket:
+          player_out: CI Manidom
+          fielders:
+          - Z Kamara
+          kind: caught
+    - 8.6:
+        non_striker: MLN Sissako
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMA Leslie
+    - 9.1:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMA Leslie
+    - 9.2:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMA Leslie
+    - 9.3:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMA Leslie
+    - 9.4:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMA Leslie
+    - 9.5:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMA Leslie
+    - 9.6:
+        non_striker: MLN Sissako
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMA Leslie
+        wicket:
+          player_out: TMA Leslie
+          fielders:
+          - J Kowa
+          kind: run out
+    - 10.1:
+        bowler: A Fillie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: O Ranedoumoun
+        batsman: MLN Sissako
+    - 10.2:
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: O Ranedoumoun
+        batsman: MLN Sissako
+    - 10.3:
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Ranedoumoun
+        batsman: MLN Sissako
+    - 10.4:
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Ranedoumoun
+        batsman: MLN Sissako
+    - 10.5:
+        non_striker: O Ranedoumoun
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLN Sissako
+        wicket:
+          player_out: MLN Sissako
+          kind: bowled
+    - 10.6:
+        non_striker: O Ranedoumoun
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 10.7:
+        non_striker: O Ranedoumoun
+        bowler: A Fillie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 11.1:
+        non_striker: EGS Kana
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Ranedoumoun
+    - 11.2:
+        non_striker: EGS Kana
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Ranedoumoun
+        wicket:
+          player_out: O Ranedoumoun
+          kind: bowled
+    - 11.3:
+        non_striker: EGS Kana
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Akenji
+    - 11.4:
+        non_striker: EGS Kana
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Akenji
+    - 11.5:
+        non_striker: SA Akenji
+        bowler: F Pessima
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: EGS Kana
+    - 11.6:
+        non_striker: EGS Kana
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Akenji
+    - 11.7:
+        non_striker: EGS Kana
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Akenji
+    - 12.1:
+        non_striker: EGS Kana
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Akenji
+    - 12.2:
+        non_striker: EGS Kana
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Akenji
+    - 12.3:
+        non_striker: EGS Kana
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Akenji
+    - 12.4:
+        non_striker: EGS Kana
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Akenji
+    - 12.5:
+        non_striker: EGS Kana
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Akenji
+    - 12.6:
+        non_striker: EGS Kana
+        bowler: J Kowa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Akenji
+    - 13.1:
+        non_striker: SA Akenji
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 13.2:
+        non_striker: SA Akenji
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 13.3:
+        non_striker: SA Akenji
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 13.4:
+        non_striker: SA Akenji
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+    - 13.5:
+        non_striker: SA Akenji
+        bowler: F Pessima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EGS Kana
+        wicket:
+          player_out: EGS Kana
+          kind: bowled
+- 2nd innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        non_striker: F Conteh
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kamara
+        wicket:
+          player_out: F Conteh
+          fielders:
+          - BMA Mbida
+          kind: run out
+    - 0.2:
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Bull
+        batsman: E Kamara
+    - 0.3:
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Bull
+        batsman: E Kamara
+    - 0.4:
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Bull
+        batsman: E Kamara
+    - 0.5:
+        non_striker: E Kamara
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 0.6:
+        non_striker: E Kamara
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+        wicket:
+          player_out: E Kamara
+          fielders:
+          - TMA Leslie
+          kind: run out
+    - 1.1:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Turay
+    - 1.2:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 1.3:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 1.4:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 1.5:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 1.6:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Turay
+    - 1.7:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Turay
+    - 2.1:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 2.2:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 2.3:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: C Bull
+    - 2.4:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bull
+    - 2.5:
+        non_striker: C Bull
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 2.6:
+        non_striker: C Bull
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 3.1:
+        non_striker: M Turay
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 3.2:
+        non_striker: M Turay
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bull
+    - 3.3:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Turay
+    - 3.4:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 3.5:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Turay
+    - 3.6:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 3.7:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Turay
+    - 3.8:
+        non_striker: C Bull
+        bowler: TMA Leslie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 4.1:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 4.2:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bull
+    - 4.3:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bull
+    - 4.4:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 4.5:
+        non_striker: M Turay
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bull
+    - 4.6:
+        non_striker: C Bull
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 4.7:
+        non_striker: C Bull
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Turay
+    - 4.8:
+        non_striker: C Bull
+        bowler: BMA Mbida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Turay
+    - 5.1:
+        non_striker: M Turay
+        bowler: SA Akenji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 5.2:
+        non_striker: M Turay
+        bowler: SA Akenji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bull
+    - 5.3:
+        non_striker: M Turay
+        bowler: SA Akenji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bull
+    - 5.4:
+        non_striker: M Turay
+        bowler: SA Akenji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bull
+        wicket:
+          player_out: C Bull
+          fielders:
+          - BMA Mbida
+          kind: run out
+    - 5.5:
+        non_striker: M Turay
+        bowler: SA Akenji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AM Kamara
+    - 5.6:
+        non_striker: M Turay
+        bowler: SA Akenji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kamara
+    - 5.7:
+        non_striker: M Turay
+        bowler: SA Akenji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Kamara

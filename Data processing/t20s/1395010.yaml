@@ -1,0 +1,2023 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Los Angeles
+  dates:
+  - '2023-09-05'
+  gender: female
+  match_type: T20
+  match_type_number: 1616
+  outcome:
+    winner: Canada
+    by:
+      runs: 86
+  overs: 20
+  player_of_match:
+  - D Saxena
+  players:
+    Canada:
+    - D McGahey
+    - D Saxena
+    - Amarpal Kaur
+    - A Perera
+    - R Misra
+    - Kainat Qazi
+    - Habeeba Bader
+    - N Gallagher
+    - K Kapadia
+    - Rabbjyot Rajput
+    - M Hundal
+    Argentina:
+    - V Vasquez
+    - A Galan
+    - A Stocks
+    - M Martinez
+    - M Castineiras
+    - L Taylor
+    - A Prince
+    - M Lollo
+    - JC Cullen
+    - C Sosa
+    - N Patron Fuentes
+  registry:
+    people:
+      A Galan: ad5165c2
+      A Perera: 788afc32
+      A Prince: da994dd7
+      A Stocks: c999c416
+      AR Maddela: 5c861579
+      Amarpal Kaur: 3051fcc6
+      BV Taylor: '99760152'
+      C Sosa: b2f4cb0d
+      D McGahey: b5ef8f19
+      D Saxena: cc7331d4
+      G McCrea: 46f4a901
+      Habeeba Bader: 18d53879
+      JC Cullen: 22595a2d
+      K Kapadia: 52fc5577
+      Kainat Qazi: 1ccd4054
+      L Taylor: 8af91a3e
+      M Castineiras: b9094958
+      M Hundal: 213dc641
+      M Lollo: e6d1f4bb
+      M Martinez: f0ddeafb
+      N Gallagher: 98c5ffef
+      N Patron Fuentes: b29923b6
+      R Misra: 430f7ef9
+      Rabbjyot Rajput: 8b1f5f91
+      V Vasquez: f898a2c6
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Canada
+  - Argentina
+  toss:
+    winner: Argentina
+    decision: field
+  umpires:
+  - BV Taylor
+  - Vijaya Mallela
+  venue: Woodley Cricket Field, Los Angeles
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Saxena
+        batsman: D McGahey
+    - 0.2:
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: D Saxena
+        batsman: D McGahey
+    - 0.3:
+        non_striker: D McGahey
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 0.4:
+        non_striker: D McGahey
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 0.5:
+        non_striker: D McGahey
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 0.6:
+        non_striker: D McGahey
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 0.7:
+        non_striker: D Saxena
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D McGahey
+    - 1.1:
+        non_striker: D McGahey
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 1.2:
+        non_striker: D McGahey
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 1.3:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D McGahey
+    - 1.4:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D McGahey
+    - 1.5:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D McGahey
+    - 1.6:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D McGahey
+    - 1.7:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D McGahey
+        wicket:
+          player_out: D McGahey
+          kind: lbw
+    - 2.1:
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Amarpal Kaur
+        batsman: D Saxena
+    - 2.2:
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amarpal Kaur
+        batsman: D Saxena
+    - 2.3:
+        non_striker: D Saxena
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amarpal Kaur
+    - 2.4:
+        non_striker: D Saxena
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 2.5:
+        non_striker: D Saxena
+        bowler: C Sosa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Amarpal Kaur
+    - 2.6:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 2.7:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 3.1:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amarpal Kaur
+    - 3.2:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 3.3:
+        non_striker: Amarpal Kaur
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 3.4:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 3.5:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 3.6:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amarpal Kaur
+    - 4.1:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Saxena
+    - 4.2:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Saxena
+    - 4.3:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 4.4:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 4.5:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 4.6:
+        non_striker: Amarpal Kaur
+        bowler: C Sosa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 5.1:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Saxena
+    - 5.2:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Saxena
+    - 5.3:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 5.4:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 5.5:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 5.6:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 5.7:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 5.8:
+        non_striker: Amarpal Kaur
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 6.1:
+        non_striker: Amarpal Kaur
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 6.2:
+        non_striker: Amarpal Kaur
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 6.3:
+        non_striker: Amarpal Kaur
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 6.4:
+        non_striker: Amarpal Kaur
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 6.5:
+        non_striker: Amarpal Kaur
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 6.6:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 7.1:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amarpal Kaur
+    - 7.2:
+        non_striker: Amarpal Kaur
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+        wicket:
+          player_out: Amarpal Kaur
+          fielders:
+          - A Galan
+          - N Patron Fuentes
+          kind: run out
+    - 7.3:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 7.4:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Perera
+    - 7.5:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Perera
+    - 7.6:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 8.1:
+        non_striker: A Perera
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Saxena
+    - 8.2:
+        non_striker: A Perera
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 8.3:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 8.4:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 8.5:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Perera
+    - 8.6:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Perera
+    - 9.1:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 9.2:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 9.3:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 9.4:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Perera
+    - 9.5:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Perera
+    - 9.6:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Perera
+        wicket:
+          player_out: A Perera
+          fielders:
+          - JC Cullen
+          - N Patron Fuentes
+          kind: run out
+    - 10.1:
+        bowler: A Prince
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Misra
+        batsman: D Saxena
+    - 10.2:
+        bowler: A Prince
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: R Misra
+        batsman: D Saxena
+    - 10.3:
+        non_striker: D Saxena
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Misra
+    - 10.4:
+        non_striker: D Saxena
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Misra
+    - 10.5:
+        non_striker: R Misra
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 10.6:
+        non_striker: R Misra
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 10.7:
+        non_striker: R Misra
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 10.8:
+        non_striker: R Misra
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 11.1:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 11.2:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 11.3:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 11.4:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Misra
+    - 11.5:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Misra
+    - 11.6:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Misra
+    - 12.1:
+        non_striker: R Misra
+        bowler: JC Cullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 12.2:
+        non_striker: R Misra
+        bowler: JC Cullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 12.3:
+        non_striker: R Misra
+        bowler: JC Cullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 12.4:
+        non_striker: R Misra
+        bowler: JC Cullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Saxena
+    - 12.5:
+        non_striker: R Misra
+        bowler: JC Cullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 12.6:
+        non_striker: D Saxena
+        bowler: JC Cullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Misra
+    - 13.1:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Saxena
+    - 13.2:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Saxena
+    - 13.3:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 13.4:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+    - 13.5:
+        non_striker: R Misra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 13.6:
+        non_striker: D Saxena
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Misra
+    - 14.1:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Misra
+        wicket:
+          player_out: R Misra
+          kind: bowled
+    - 14.2:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 14.3:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 14.4:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 14.5:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 14.6:
+        non_striker: D Saxena
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 15.1:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Saxena
+    - 15.2:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 15.3:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kainat Qazi
+    - 15.4:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 15.5:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Saxena
+    - 15.6:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 15.7:
+        non_striker: D Saxena
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 16.1:
+        non_striker: Kainat Qazi
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Saxena
+        wicket:
+          player_out: D Saxena
+          fielders:
+          - M Lollo
+          kind: caught
+    - 16.2:
+        non_striker: Kainat Qazi
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habeeba Bader
+    - 16.3:
+        non_striker: Habeeba Bader
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 16.4:
+        non_striker: Kainat Qazi
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habeeba Bader
+    - 16.5:
+        non_striker: Habeeba Bader
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kainat Qazi
+    - 16.6:
+        non_striker: Habeeba Bader
+        bowler: A Stocks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+    - 17.1:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Habeeba Bader
+    - 17.2:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+    - 17.3:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Habeeba Bader
+    - 17.4:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Habeeba Bader
+    - 17.5:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+    - 17.6:
+        non_striker: Kainat Qazi
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habeeba Bader
+    - 18.1:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+    - 18.2:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Habeeba Bader
+    - 18.3:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habeeba Bader
+        wicket:
+          player_out: Habeeba Bader
+          kind: caught and bowled
+    - 18.4:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gallagher
+    - 18.5:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gallagher
+    - 18.6:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Gallagher
+    - 18.7:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Gallagher
+    - 18.8:
+        non_striker: Kainat Qazi
+        bowler: L Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gallagher
+    - 19.1:
+        non_striker: N Gallagher
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Qazi
+    - 19.2:
+        non_striker: Kainat Qazi
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gallagher
+    - 19.3:
+        non_striker: Kainat Qazi
+        bowler: A Prince
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Gallagher
+    - 19.4:
+        non_striker: Kainat Qazi
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gallagher
+    - 19.5:
+        non_striker: Kainat Qazi
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gallagher
+    - 19.6:
+        non_striker: Kainat Qazi
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gallagher
+    - 19.7:
+        non_striker: N Gallagher
+        bowler: A Prince
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Qazi
+- 2nd innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Galan
+        batsman: V Vasquez
+    - 0.2:
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Galan
+        batsman: V Vasquez
+    - 0.3:
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Galan
+        batsman: V Vasquez
+    - 0.4:
+        non_striker: V Vasquez
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 0.5:
+        non_striker: V Vasquez
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 0.6:
+        non_striker: V Vasquez
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 1.1:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 1.2:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vasquez
+    - 1.3:
+        non_striker: V Vasquez
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 1.4:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 1.5:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 1.6:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 2.1:
+        non_striker: V Vasquez
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 2.2:
+        non_striker: V Vasquez
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 2.3:
+        non_striker: A Galan
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Vasquez
+    - 2.4:
+        non_striker: A Galan
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 2.5:
+        non_striker: A Galan
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 2.6:
+        non_striker: A Galan
+        bowler: Rabbjyot Rajput
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 3.1:
+        non_striker: V Vasquez
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 3.2:
+        non_striker: V Vasquez
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Galan
+    - 3.3:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 3.4:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Vasquez
+    - 3.5:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Vasquez
+    - 3.6:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 3.7:
+        non_striker: A Galan
+        bowler: R Misra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 4.1:
+        non_striker: V Vasquez
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 4.2:
+        non_striker: V Vasquez
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 4.3:
+        non_striker: V Vasquez
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+    - 4.4:
+        non_striker: V Vasquez
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Galan
+        wicket:
+          player_out: A Galan
+          fielders:
+          - K Kapadia
+          kind: caught
+    - 4.5:
+        non_striker: V Vasquez
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 4.6:
+        non_striker: A Stocks
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 5.1:
+        non_striker: V Vasquez
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 5.2:
+        non_striker: A Stocks
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vasquez
+    - 5.3:
+        non_striker: V Vasquez
+        bowler: M Hundal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: A Stocks
+    - 5.4:
+        non_striker: A Stocks
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Vasquez
+    - 5.5:
+        non_striker: A Stocks
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vasquez
+    - 5.6:
+        non_striker: V Vasquez
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 5.7:
+        non_striker: V Vasquez
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Stocks
+    - 6.1:
+        non_striker: V Vasquez
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+        wicket:
+          player_out: A Stocks
+          kind: bowled
+    - 6.2:
+        non_striker: V Vasquez
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+        wicket:
+          player_out: M Martinez
+          fielders:
+          - D McGahey
+          kind: caught
+    - 6.3:
+        non_striker: V Vasquez
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 6.4:
+        non_striker: V Vasquez
+        bowler: K Kapadia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Castineiras
+    - 6.5:
+        non_striker: V Vasquez
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 6.6:
+        non_striker: V Vasquez
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 6.7:
+        non_striker: V Vasquez
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 7.1:
+        non_striker: M Castineiras
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vasquez
+    - 7.2:
+        non_striker: V Vasquez
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 7.3:
+        non_striker: V Vasquez
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 7.4:
+        non_striker: V Vasquez
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Castineiras
+    - 7.5:
+        non_striker: M Castineiras
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 7.6:
+        non_striker: M Castineiras
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vasquez
+    - 8.1:
+        non_striker: M Castineiras
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 8.2:
+        non_striker: M Castineiras
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 8.3:
+        non_striker: M Castineiras
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 8.4:
+        non_striker: M Castineiras
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Vasquez
+    - 8.5:
+        non_striker: M Castineiras
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 8.6:
+        non_striker: M Castineiras
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vasquez
+    - 9.1:
+        non_striker: M Castineiras
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+        wicket:
+          player_out: V Vasquez
+          kind: lbw
+    - 9.2:
+        non_striker: M Castineiras
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Taylor
+    - 9.3:
+        non_striker: M Castineiras
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Taylor
+    - 9.4:
+        non_striker: L Taylor
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 9.5:
+        non_striker: L Taylor
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+        wicket:
+          player_out: M Castineiras
+          kind: bowled
+    - 9.6:
+        non_striker: L Taylor
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 10.1:
+        non_striker: A Prince
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+        wicket:
+          player_out: L Taylor
+          kind: bowled
+    - 10.2:
+        non_striker: A Prince
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 10.3:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 10.4:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 10.5:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 10.6:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 11.1:
+        non_striker: A Prince
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+    - 11.2:
+        non_striker: A Prince
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 11.3:
+        non_striker: M Lollo
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 11.4:
+        non_striker: M Lollo
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+    - 11.5:
+        non_striker: M Lollo
+        bowler: M Hundal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Prince
+    - 11.6:
+        non_striker: A Prince
+        bowler: M Hundal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 12.1:
+        non_striker: A Prince
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Lollo
+    - 12.2:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Prince
+    - 12.3:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Prince
+        wicket:
+          player_out: A Prince
+          fielders:
+          - D McGahey
+          kind: caught
+    - 12.4:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+    - 12.5:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+    - 12.6:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JC Cullen
+    - 12.7:
+        non_striker: M Lollo
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+    - 13.1:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Lollo
+        wicket:
+          player_out: M Lollo
+          kind: bowled
+    - 13.2:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 13.3:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 13.4:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 13.5:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 13.6:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 14.1:
+        non_striker: C Sosa
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Cullen
+    - 14.2:
+        non_striker: JC Cullen
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 14.3:
+        non_striker: JC Cullen
+        bowler: A Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Sosa
+    - 14.4:
+        non_striker: C Sosa
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+    - 14.5:
+        non_striker: C Sosa
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+    - 14.6:
+        non_striker: C Sosa
+        bowler: A Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+    - 15.1:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+        wicket:
+          player_out: C Sosa
+          fielders:
+          - M Hundal
+          kind: caught
+    - 15.2:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Patron Fuentes
+    - 15.3:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Patron Fuentes
+    - 15.4:
+        non_striker: JC Cullen
+        bowler: Amarpal Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Patron Fuentes
+        wicket:
+          player_out: N Patron Fuentes
+          kind: bowled

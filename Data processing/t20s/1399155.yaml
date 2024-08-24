@@ -1,0 +1,2202 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2023-10-03'
+  gender: male
+  match_type: T20
+  match_type_number: 2281
+  outcome:
+    winner: Bermuda
+    by:
+      runs: 53
+  overs: 20
+  player_of_match:
+  - DL Brangman
+  players:
+    Bermuda:
+    - KS Leverock
+    - T Manders
+    - TS Fray
+    - DMW Rawlins
+    - D Sabir
+    - AC Douglas
+    - C Trott
+    - DL Brangman
+    - S Smith
+    - Z Burgess
+    - C Outerbridge
+    Cayman Islands:
+    - AR Naidoo
+    - P Heron
+    - RA Sealy
+    - P Manning
+    - BKB Corbin
+    - C Wright
+    - T Taylor
+    - P Chin
+    - KA Bazil
+    - A Morris
+    - AF Ifill
+  registry:
+    people:
+      A Morris: 04cf2e94
+      AC Douglas: f86ce673
+      AF Ifill: 0e6c2f00
+      AR Naidoo: 68886c16
+      BKB Corbin: 036b8660
+      C Outerbridge: ff722bc8
+      C Trott: ae624b05
+      C Wright: d465c6d7
+      D Sabir: 04bc296f
+      DL Brangman: dab18aa5
+      DMW Rawlins: f1eb3c73
+      JM Williams: b61d9d70
+      Jermaine Lindo: 1154bf4f
+      KA Bazil: d22287a8
+      KS Leverock: e1592949
+      P Chin: 21267b60
+      P Heron: 30b902a3
+      P Manning: f06b5585
+      RA Sealy: 1e98804a
+      Reon King: 20fbf68c
+      S Smith: 18a0ba24
+      T Manders: 6d2b9724
+      T Taylor: 1d6e8f52
+      TS Fray: c7537f8a
+      Vijaya Mallela: 85b6244a
+      Z Burgess: d0042e16
+  teams:
+  - Bermuda
+  - Cayman Islands
+  toss:
+    winner: Bermuda
+    decision: bat
+  umpires:
+  - JM Williams
+  - Vijaya Mallela
+  venue: National Stadium, Hamilton
+innings:
+- 1st innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Manders
+        batsman: KS Leverock
+    - 0.2:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 0.3:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 0.4:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 0.5:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+    - 0.6:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Manders
+    - 1.1:
+        non_striker: T Manders
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Leverock
+    - 1.2:
+        non_striker: T Manders
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 1.3:
+        non_striker: T Manders
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 1.4:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Manders
+        wicket:
+          player_out: T Manders
+          fielders:
+          - AF Ifill
+          kind: caught
+    - 1.5:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Fray
+    - 1.6:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Fray
+    - 1.7:
+        non_striker: TS Fray
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Leverock
+    - 2.1:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Fray
+    - 2.2:
+        non_striker: TS Fray
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Leverock
+    - 2.3:
+        non_striker: TS Fray
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Leverock
+    - 2.4:
+        non_striker: TS Fray
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 2.5:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Fray
+    - 2.6:
+        non_striker: TS Fray
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 3.1:
+        non_striker: KS Leverock
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Fray
+    - 3.2:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 3.3:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 3.4:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Leverock
+    - 3.5:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Leverock
+    - 3.6:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 3.7:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 4.1:
+        non_striker: TS Fray
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Leverock
+    - 4.2:
+        non_striker: TS Fray
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 4.3:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Fray
+    - 4.4:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Fray
+    - 4.5:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Fray
+    - 4.6:
+        non_striker: TS Fray
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 5.1:
+        non_striker: KS Leverock
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: TS Fray
+    - 5.2:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Leverock
+    - 5.3:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 5.4:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 5.5:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Leverock
+    - 5.6:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 5.7:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 5.8:
+        non_striker: TS Fray
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 6.1:
+        non_striker: TS Fray
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Leverock
+    - 6.2:
+        non_striker: TS Fray
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Leverock
+    - 6.3:
+        non_striker: TS Fray
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 6.4:
+        non_striker: TS Fray
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 6.5:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Fray
+    - 6.6:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Fray
+    - 7.1:
+        non_striker: TS Fray
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 7.2:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Fray
+        wicket:
+          player_out: TS Fray
+          kind: lbw
+    - 7.3:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 7.4:
+        non_striker: DMW Rawlins
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 7.5:
+        non_striker: DMW Rawlins
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Leverock
+    - 7.6:
+        non_striker: DMW Rawlins
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 8.1:
+        non_striker: DMW Rawlins
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Leverock
+    - 8.2:
+        non_striker: DMW Rawlins
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 8.3:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DMW Rawlins
+    - 8.4:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 8.5:
+        non_striker: DMW Rawlins
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 8.6:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 8.7:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 9.1:
+        non_striker: DMW Rawlins
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 9.2:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+        wicket:
+          player_out: DMW Rawlins
+          kind: bowled
+    - 9.3:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 9.4:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Sabir
+    - 9.5:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 9.6:
+        non_striker: KS Leverock
+        bowler: KA Bazil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+    - 10.1:
+        non_striker: D Sabir
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 10.2:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Sabir
+        wicket:
+          player_out: D Sabir
+          kind: bowled
+    - 10.3:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Douglas
+    - 10.4:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Douglas
+    - 10.5:
+        non_striker: KS Leverock
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Douglas
+    - 10.6:
+        non_striker: AC Douglas
+        bowler: P Manning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Leverock
+    - 10.7:
+        non_striker: AC Douglas
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 11.1:
+        non_striker: AC Douglas
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Leverock
+    - 11.2:
+        non_striker: AC Douglas
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 11.3:
+        non_striker: AC Douglas
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 11.4:
+        non_striker: KS Leverock
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Douglas
+    - 11.5:
+        non_striker: KS Leverock
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Douglas
+    - 11.6:
+        non_striker: KS Leverock
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Douglas
+    - 12.1:
+        non_striker: AC Douglas
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 12.2:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Douglas
+    - 12.3:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Douglas
+    - 12.4:
+        non_striker: AC Douglas
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 12.5:
+        non_striker: AC Douglas
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 12.6:
+        non_striker: AC Douglas
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Leverock
+    - 12.7:
+        non_striker: AC Douglas
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+    - 13.1:
+        non_striker: KS Leverock
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Douglas
+    - 13.2:
+        non_striker: KS Leverock
+        bowler: T Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Douglas
+    - 13.3:
+        non_striker: KS Leverock
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Douglas
+    - 13.4:
+        non_striker: AC Douglas
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Leverock
+    - 13.5:
+        non_striker: AC Douglas
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 13.6:
+        non_striker: KS Leverock
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Douglas
+    - 13.7:
+        non_striker: KS Leverock
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Douglas
+    - 14.1:
+        non_striker: AC Douglas
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 14.2:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Douglas
+    - 14.3:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Douglas
+    - 14.4:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Douglas
+    - 14.5:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Douglas
+    - 14.6:
+        non_striker: AC Douglas
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 15.1:
+        non_striker: AC Douglas
+        bowler: AR Naidoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 15.2:
+        non_striker: KS Leverock
+        bowler: AR Naidoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Douglas
+    - 15.3:
+        non_striker: AC Douglas
+        bowler: AR Naidoo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Leverock
+    - 15.4:
+        non_striker: AC Douglas
+        bowler: AR Naidoo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Leverock
+    - 15.5:
+        non_striker: AC Douglas
+        bowler: AR Naidoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 15.6:
+        non_striker: KS Leverock
+        bowler: AR Naidoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Douglas
+    - 16.1:
+        non_striker: AC Douglas
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 16.2:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AC Douglas
+    - 16.3:
+        non_striker: AC Douglas
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Leverock
+    - 16.4:
+        non_striker: AC Douglas
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Leverock
+    - 16.5:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Douglas
+    - 16.6:
+        non_striker: KS Leverock
+        bowler: A Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Douglas
+    - 17.1:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Douglas
+    - 17.2:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Douglas
+    - 17.3:
+        non_striker: AC Douglas
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Leverock
+    - 17.4:
+        non_striker: AC Douglas
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KS Leverock
+    - 17.5:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Douglas
+    - 17.6:
+        non_striker: KS Leverock
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Douglas
+        wicket:
+          player_out: AC Douglas
+          kind: bowled
+    - 18.1:
+        non_striker: C Trott
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Leverock
+        wicket:
+          player_out: KS Leverock
+          fielders:
+          - C Wright
+          kind: caught
+    - 18.2:
+        non_striker: C Trott
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Brangman
+    - 18.3:
+        non_striker: C Trott
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Brangman
+    - 18.4:
+        non_striker: C Trott
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Brangman
+    - 18.5:
+        non_striker: C Trott
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Brangman
+    - 18.6:
+        non_striker: C Trott
+        bowler: T Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Brangman
+    - 19.1:
+        non_striker: C Trott
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Brangman
+    - 19.2:
+        non_striker: C Trott
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Brangman
+    - 19.3:
+        non_striker: DL Brangman
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Trott
+    - 19.4:
+        non_striker: DL Brangman
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Trott
+    - 19.5:
+        non_striker: C Trott
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Brangman
+    - 19.6:
+        non_striker: DL Brangman
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Trott
+- 2nd innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Heron
+        batsman: AR Naidoo
+    - 0.2:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Heron
+        batsman: AR Naidoo
+    - 0.3:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Heron
+    - 0.4:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: P Heron
+    - 0.5:
+        non_striker: P Heron
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 0.6:
+        non_striker: P Heron
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 1.1:
+        non_striker: AR Naidoo
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Heron
+        wicket:
+          player_out: P Heron
+          kind: bowled
+    - 1.2:
+        non_striker: AR Naidoo
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 1.3:
+        non_striker: AR Naidoo
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 1.4:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 1.5:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 1.6:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 2.1:
+        non_striker: RA Sealy
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 2.2:
+        non_striker: RA Sealy
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 2.3:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 2.4:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 2.5:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 2.6:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 3.1:
+        non_striker: RA Sealy
+        bowler: C Outerbridge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 3.2:
+        non_striker: RA Sealy
+        bowler: C Outerbridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 3.3:
+        non_striker: AR Naidoo
+        bowler: C Outerbridge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 3.4:
+        non_striker: AR Naidoo
+        bowler: C Outerbridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 3.5:
+        non_striker: AR Naidoo
+        bowler: C Outerbridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 3.6:
+        non_striker: RA Sealy
+        bowler: C Outerbridge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 3.7:
+        non_striker: AR Naidoo
+        bowler: C Outerbridge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 4.1:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.2:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.3:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 4.4:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 4.5:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 4.6:
+        non_striker: AR Naidoo
+        bowler: KS Leverock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Sealy
+    - 4.7:
+        non_striker: AR Naidoo
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 5.1:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 5.2:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 5.3:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 5.4:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 5.5:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 5.6:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.1:
+        non_striker: AR Naidoo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 6.2:
+        non_striker: RA Sealy
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 6.3:
+        non_striker: RA Sealy
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 6.4:
+        non_striker: AR Naidoo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 6.5:
+        non_striker: AR Naidoo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 6.6:
+        non_striker: AR Naidoo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 7.1:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.2:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 7.3:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 7.4:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 7.5:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 7.6:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 8.1:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 8.2:
+        non_striker: RA Sealy
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 8.3:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 8.4:
+        non_striker: RA Sealy
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 8.5:
+        non_striker: RA Sealy
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 8.6:
+        non_striker: AR Naidoo
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 9.1:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 9.2:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 9.3:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 9.4:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 9.5:
+        non_striker: RA Sealy
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 9.6:
+        non_striker: AR Naidoo
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 10.1:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AR Naidoo
+    - 10.2:
+        non_striker: AR Naidoo
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.3:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.4:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 10.5:
+        non_striker: AR Naidoo
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.6:
+        non_striker: RA Sealy
+        bowler: KS Leverock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.1:
+        non_striker: RA Sealy
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.2:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 11.3:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 11.4:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 11.5:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 11.6:
+        non_striker: RA Sealy
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 12.1:
+        non_striker: RA Sealy
+        bowler: AC Douglas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 12.2:
+        non_striker: AR Naidoo
+        bowler: AC Douglas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 12.3:
+        non_striker: RA Sealy
+        bowler: AC Douglas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AR Naidoo
+    - 12.4:
+        non_striker: AR Naidoo
+        bowler: AC Douglas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 12.5:
+        non_striker: RA Sealy
+        bowler: AC Douglas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 12.6:
+        non_striker: RA Sealy
+        bowler: AC Douglas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 12.7:
+        non_striker: RA Sealy
+        bowler: AC Douglas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AR Naidoo
+    - 12.8:
+        non_striker: AR Naidoo
+        bowler: AC Douglas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 13.1:
+        non_striker: RA Sealy
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 13.2:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 13.3:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+        wicket:
+          player_out: RA Sealy
+          fielders:
+          - DMW Rawlins
+          kind: caught
+    - 13.4:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 13.5:
+        non_striker: AR Naidoo
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 13.6:
+        non_striker: P Manning
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 14.1:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 14.2:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+        wicket:
+          player_out: AR Naidoo
+          fielders:
+          - KS Leverock
+          kind: caught
+    - 14.3:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+    - 14.4:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+        wicket:
+          player_out: BKB Corbin
+          kind: caught and bowled
+    - 14.5:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 14.6:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 14.7:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Wright
+    - 15.1:
+        non_striker: P Manning
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+    - 15.2:
+        non_striker: P Manning
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Wright
+        wicket:
+          player_out: C Wright
+          fielders:
+          - Z Burgess
+          kind: caught
+    - 15.3:
+        non_striker: P Manning
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+    - 15.4:
+        non_striker: P Manning
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+    - 15.5:
+        non_striker: P Manning
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taylor
+    - 15.6:
+        non_striker: T Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 16.1:
+        non_striker: T Taylor
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 16.2:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taylor
+        wicket:
+          player_out: T Taylor
+          fielders:
+          - AC Douglas
+          kind: caught
+    - 16.3:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 16.4:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 16.5:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 16.6:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+        wicket:
+          player_out: P Chin
+          fielders:
+          - S Smith
+          kind: stumped
+    - 17.1:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KA Bazil
+        batsman: P Manning
+    - 17.2:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KA Bazil
+        batsman: P Manning
+    - 17.3:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KA Bazil
+        batsman: P Manning
+    - 17.4:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KA Bazil
+        batsman: P Manning
+    - 17.5:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KA Bazil
+        batsman: P Manning
+    - 17.6:
+        non_striker: P Manning
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Bazil
+    - 18.1:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Bazil
+    - 18.2:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Bazil
+    - 18.3:
+        non_striker: KA Bazil
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 18.4:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Bazil
+        wicket:
+          player_out: KA Bazil
+          fielders:
+          - C Trott
+          kind: caught
+    - 18.5:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 18.6:
+        non_striker: P Manning
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Morris
+    - 19.1:
+        non_striker: A Morris
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 19.2:
+        non_striker: A Morris
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 19.3:
+        non_striker: A Morris
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 19.4:
+        non_striker: A Morris
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 19.5:
+        non_striker: A Morris
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 19.6:
+        non_striker: A Morris
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Manning

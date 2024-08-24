@@ -1,0 +1,1570 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2023-07-16'
+  gender: male
+  match_type: T20
+  match_type_number: 2143
+  outcome:
+    winner: Malta
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Waqas Ahmad
+  players:
+    France:
+    - Zain Ahmad
+    - HA Jackson
+    - Mukhtar Ghulami
+    - Dawood Ahmadzai
+    - L Canessane
+    - Usman Khan
+    - Noman Amjad
+    - P Pirabakaran
+    - Ibrahim Jabarkhel
+    - Rahmatullah Mangal
+    - R Mangal
+    Malta:
+    - Zeeshan Khan
+    - Fanyan Mughal
+    - G Thakur
+    - B Arora
+    - Jaspal Singh
+    - DR Patankar
+    - Waqas Ahmad
+    - E Mathew
+    - C Sudarsanan
+    - VP Thamotharam
+    - Washeem Abbas
+  registry:
+    people:
+      B Arora: 39e9f0c9
+      C Sudarsanan: 391a825b
+      DR Patankar: e661915c
+      Dawood Ahmadzai: 951686f5
+      E Mathew: e00acf74
+      Fanyan Mughal: e85bb4b3
+      G Thakur: '93720584'
+      HA Jackson: ee40679e
+      Ibrahim Jabarkhel: c311564c
+      Jaspal Singh: adca37a2
+      L Canessane: 72a4c3b2
+      Mukhtar Ghulami: d3b1d991
+      Noman Amjad: c079c66a
+      P Pirabakaran: 5ab659d9
+      R Mangal: 5360c9be
+      Rahmatullah Mangal: ec106638
+      S Fernando: bbeb5b15
+      S Harnal: 756fe781
+      Usman Khan: e8a552ef
+      V Sridhar: '42314166'
+      VP Thamotharam: eb40ed89
+      Vinay Malhotra: 452837d1
+      Waqas Ahmad: 82623a3a
+      Washeem Abbas: 6de4e430
+      Zain Ahmad: ea2c0aff
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - France
+  - Malta
+  toss:
+    winner: France
+    decision: bat
+  umpires:
+  - S Harnal
+  - S Fernando
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HA Jackson
+        batsman: Zain Ahmad
+    - 0.2:
+        non_striker: Zain Ahmad
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+        wicket:
+          player_out: HA Jackson
+          fielders:
+          - B Arora
+          kind: caught
+    - 0.3:
+        non_striker: Zain Ahmad
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ghulami
+    - 0.4:
+        non_striker: Zain Ahmad
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ghulami
+    - 0.5:
+        non_striker: Mukhtar Ghulami
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 0.6:
+        non_striker: Zain Ahmad
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ghulami
+    - 1.1:
+        non_striker: Mukhtar Ghulami
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 1.2:
+        non_striker: Mukhtar Ghulami
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+        wicket:
+          player_out: Zain Ahmad
+          kind: bowled
+    - 1.3:
+        non_striker: Mukhtar Ghulami
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 1.4:
+        non_striker: Mukhtar Ghulami
+        bowler: Waqas Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dawood Ahmadzai
+    - 1.5:
+        non_striker: Mukhtar Ghulami
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dawood Ahmadzai
+    - 1.6:
+        non_striker: Mukhtar Ghulami
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 1.7:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ghulami
+        wicket:
+          player_out: Mukhtar Ghulami
+          fielders:
+          - C Sudarsanan
+          kind: caught
+    - 2.1:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Canessane
+        batsman: Dawood Ahmadzai
+    - 2.2:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Canessane
+        batsman: Dawood Ahmadzai
+    - 2.3:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Canessane
+        batsman: Dawood Ahmadzai
+    - 2.4:
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Canessane
+        batsman: Dawood Ahmadzai
+    - 2.5:
+        non_striker: Dawood Ahmadzai
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 2.6:
+        non_striker: Dawood Ahmadzai
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Canessane
+    - 2.7:
+        non_striker: L Canessane
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Dawood Ahmadzai
+    - 3.1:
+        non_striker: L Canessane
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 3.2:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+        wicket:
+          player_out: L Canessane
+          kind: bowled
+    - 3.3:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 3.4:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 3.5:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 3.6:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 4.1:
+        non_striker: Usman Khan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 4.2:
+        non_striker: Usman Khan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dawood Ahmadzai
+    - 4.3:
+        non_striker: Usman Khan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 4.4:
+        non_striker: Usman Khan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 4.5:
+        non_striker: Usman Khan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dawood Ahmadzai
+    - 4.6:
+        non_striker: Usman Khan
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 4.7:
+        non_striker: Dawood Ahmadzai
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 4.8:
+        non_striker: Dawood Ahmadzai
+        bowler: Fanyan Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 5.1:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Usman Khan
+    - 5.2:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 5.3:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan
+    - 5.4:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 5.5:
+        non_striker: Usman Khan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 5.6:
+        non_striker: Usman Khan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 5.7:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 6.1:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 6.2:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 6.3:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 6.4:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 6.5:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dawood Ahmadzai
+    - 6.6:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 7.1:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 7.2:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 7.3:
+        non_striker: Usman Khan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 7.4:
+        non_striker: Usman Khan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 7.5:
+        non_striker: Usman Khan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 7.6:
+        non_striker: Dawood Ahmadzai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 8.1:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 8.2:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 8.3:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 8.4:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 8.5:
+        non_striker: Usman Khan
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 8.6:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.1:
+        non_striker: Dawood Ahmadzai
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.2:
+        non_striker: Usman Khan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 9.3:
+        non_striker: Dawood Ahmadzai
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.4:
+        non_striker: Usman Khan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 9.5:
+        non_striker: Usman Khan
+        bowler: E Mathew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dawood Ahmadzai
+    - 9.6:
+        non_striker: Usman Khan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dawood Ahmadzai
+    - 9.7:
+        non_striker: Usman Khan
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 10.1:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          kind: lbw
+    - 10.2:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 10.3:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 10.4:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 10.5:
+        non_striker: Dawood Ahmadzai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 10.6:
+        non_striker: Noman Amjad
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 11.1:
+        non_striker: Dawood Ahmadzai
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 11.2:
+        non_striker: Noman Amjad
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 11.3:
+        non_striker: Noman Amjad
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 11.4:
+        non_striker: Noman Amjad
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+    - 11.5:
+        non_striker: Noman Amjad
+        bowler: E Mathew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dawood Ahmadzai
+    - 11.6:
+        non_striker: Noman Amjad
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawood Ahmadzai
+        wicket:
+          player_out: Dawood Ahmadzai
+          kind: bowled
+    - 11.7:
+        non_striker: Noman Amjad
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pirabakaran
+    - 12.1:
+        non_striker: P Pirabakaran
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 12.2:
+        non_striker: P Pirabakaran
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 12.3:
+        non_striker: Noman Amjad
+        bowler: B Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pirabakaran
+    - 12.4:
+        non_striker: Noman Amjad
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Pirabakaran
+    - 12.5:
+        non_striker: Noman Amjad
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pirabakaran
+    - 12.6:
+        non_striker: Noman Amjad
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Pirabakaran
+    - 12.7:
+        non_striker: Noman Amjad
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pirabakaran
+    - 13.1:
+        non_striker: P Pirabakaran
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 13.2:
+        non_striker: Noman Amjad
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pirabakaran
+    - 13.3:
+        non_striker: P Pirabakaran
+        bowler: E Mathew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Noman Amjad
+    - 13.4:
+        non_striker: P Pirabakaran
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Noman Amjad
+    - 13.5:
+        non_striker: P Pirabakaran
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+        wicket:
+          player_out: Noman Amjad
+          fielders:
+          - Jaspal Singh
+          kind: caught
+    - 13.6:
+        non_striker: P Pirabakaran
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Jabarkhel
+    - 13.7:
+        non_striker: P Pirabakaran
+        bowler: E Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Jabarkhel
+    - 14.1:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pirabakaran
+    - 14.2:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pirabakaran
+    - 14.3:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pirabakaran
+    - 14.4:
+        non_striker: P Pirabakaran
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Jabarkhel
+    - 14.5:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pirabakaran
+    - 14.6:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pirabakaran
+    - 15.1:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pirabakaran
+    - 15.2:
+        non_striker: P Pirabakaran
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Jabarkhel
+    - 15.3:
+        non_striker: P Pirabakaran
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Jabarkhel
+    - 15.4:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pirabakaran
+        wicket:
+          player_out: P Pirabakaran
+          fielders:
+          - Zeeshan Khan
+          - C Sudarsanan
+          kind: run out
+    - 15.5:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmatullah Mangal
+    - 15.6:
+        non_striker: Rahmatullah Mangal
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Jabarkhel
+    - 16.1:
+        non_striker: Rahmatullah Mangal
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Jabarkhel
+    - 16.2:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmatullah Mangal
+        wicket:
+          player_out: Rahmatullah Mangal
+          fielders:
+          - C Sudarsanan
+          kind: caught
+    - 16.3:
+        non_striker: Ibrahim Jabarkhel
+        bowler: Waqas Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mangal
+        wicket:
+          player_out: R Mangal
+          fielders:
+          - G Thakur
+          kind: caught
+- 2nd innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fanyan Mughal
+        batsman: Zeeshan Khan
+    - 0.2:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Fanyan Mughal
+        batsman: Zeeshan Khan
+    - 0.3:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fanyan Mughal
+        batsman: Zeeshan Khan
+    - 0.4:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Fanyan Mughal
+        batsman: Zeeshan Khan
+    - 0.5:
+        non_striker: Zeeshan Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 0.6:
+        non_striker: Zeeshan Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 1.1:
+        non_striker: Zeeshan Khan
+        bowler: P Pirabakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fanyan Mughal
+    - 1.2:
+        non_striker: Zeeshan Khan
+        bowler: P Pirabakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fanyan Mughal
+    - 1.3:
+        non_striker: Zeeshan Khan
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 1.4:
+        non_striker: Zeeshan Khan
+        bowler: P Pirabakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fanyan Mughal
+    - 1.5:
+        non_striker: Zeeshan Khan
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 1.6:
+        non_striker: Zeeshan Khan
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 1.7:
+        non_striker: Fanyan Mughal
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Khan
+    - 1.8:
+        non_striker: Fanyan Mughal
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+        wicket:
+          player_out: Zeeshan Khan
+          kind: bowled
+    - 1.9:
+        non_striker: Fanyan Mughal
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Thakur
+    - 2.1:
+        non_striker: Fanyan Mughal
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Thakur
+    - 2.2:
+        non_striker: Fanyan Mughal
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: G Thakur
+    - 2.3:
+        non_striker: G Thakur
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 2.4:
+        non_striker: G Thakur
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 2.5:
+        non_striker: G Thakur
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 2.6:
+        non_striker: Fanyan Mughal
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Thakur
+    - 3.1:
+        non_striker: G Thakur
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 3.2:
+        non_striker: Fanyan Mughal
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Thakur
+    - 3.3:
+        non_striker: Fanyan Mughal
+        bowler: P Pirabakaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Thakur
+    - 3.4:
+        non_striker: G Thakur
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 3.5:
+        non_striker: Fanyan Mughal
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Thakur
+    - 3.6:
+        non_striker: G Thakur
+        bowler: P Pirabakaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fanyan Mughal
+    - 4.1:
+        non_striker: Fanyan Mughal
+        bowler: R Mangal
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: G Thakur
+    - 4.2:
+        non_striker: Fanyan Mughal
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Thakur
+    - 4.3:
+        non_striker: Fanyan Mughal
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Thakur
+    - 4.4:
+        non_striker: Fanyan Mughal
+        bowler: R Mangal
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: G Thakur
+    - 4.5:
+        non_striker: Fanyan Mughal
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Thakur
+    - 4.6:
+        non_striker: G Thakur
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+        wicket:
+          player_out: G Thakur
+          fielders:
+          - Zain Ahmad
+          kind: run out
+    - 4.7:
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: B Arora
+        batsman: Fanyan Mughal
+    - 4.8:
+        non_striker: B Arora
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fanyan Mughal
+    - 5.1:
+        non_striker: Fanyan Mughal
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 5.2:
+        non_striker: Fanyan Mughal
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 5.3:
+        non_striker: B Arora
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 5.4:
+        non_striker: B Arora
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 5.5:
+        non_striker: B Arora
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 5.6:
+        non_striker: B Arora
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 6.1:
+        non_striker: B Arora
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 6.2:
+        non_striker: Fanyan Mughal
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 6.3:
+        non_striker: B Arora
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 6.4:
+        non_striker: B Arora
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 6.5:
+        non_striker: B Arora
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 6.6:
+        non_striker: Fanyan Mughal
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+        wicket:
+          player_out: B Arora
+          fielders:
+          - Zain Ahmad
+          kind: caught
+    - 7.1:
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jaspal Singh
+        batsman: Fanyan Mughal
+    - 7.2:
+        non_striker: Fanyan Mughal
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 7.3:
+        non_striker: Fanyan Mughal
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 7.4:
+        non_striker: Fanyan Mughal
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 7.5:
+        non_striker: Fanyan Mughal
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 7.6:
+        non_striker: Fanyan Mughal
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 8.1:
+        non_striker: Jaspal Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 8.2:
+        non_striker: Jaspal Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fanyan Mughal
+    - 8.3:
+        non_striker: Jaspal Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 8.4:
+        non_striker: Jaspal Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 8.5:
+        non_striker: Fanyan Mughal
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 8.6:
+        non_striker: Fanyan Mughal
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 9.1:
+        non_striker: Jaspal Singh
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 9.2:
+        non_striker: Jaspal Singh
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 9.3:
+        non_striker: Jaspal Singh
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 9.4:
+        non_striker: Jaspal Singh
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 9.5:
+        non_striker: Jaspal Singh
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fanyan Mughal
+    - 9.6:
+        non_striker: Jaspal Singh
+        bowler: Ibrahim Jabarkhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fanyan Mughal
+    - 10.1:
+        non_striker: Jaspal Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fanyan Mughal

@@ -1,0 +1,2261 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-26'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2023-06-23'
+  gender: male
+  match_type: T20
+  match_type_number: 2111
+  outcome:
+    winner: Serbia
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - MV Pavlovic
+  players:
+    Bulgaria:
+    - Zeerak Chughtai
+    - Zain Asif
+    - Zaid Soulat
+    - P Mishra
+    - Isa Zaroo
+    - Saim Hussain
+    - D Nikolov
+    - Danyal Raja
+    - Gagandeep Singh
+    - DV Varghese
+    - Huzaif Yousuf
+    Serbia:
+    - WAE Burton
+    - A Dizija
+    - LA Dunbar
+    - MV Pavlovic
+    - S Tosic
+    - V Zimonjic
+    - N Zimonjic
+    - NR Johns-Wickberg
+    - Rahman Ademi
+    - AA Gajic
+    - B Dugic
+  registry:
+    people:
+      A Dizija: 6483c062
+      AA Gajic: a768a762
+      B Dugic: 5edaa34d
+      D Nikolov: 9c3a8776
+      DV Varghese: 26f98ea3
+      Danyal Raja: 324e00a9
+      Gagandeep Singh: 4a370769
+      Huzaif Yousuf: 95e47073
+      Isa Zaroo: 9822fb85
+      LA Dunbar: f50433e9
+      MV Pavlovic: 2809b390
+      N Zimonjic: 638f451b
+      NR Johns-Wickberg: 3924b2ee
+      P Mishra: 3fa5672e
+      Rahman Ademi: a9fd6ca3
+      S Tosic: 1c40f69f
+      Saim Hussain: d300d274
+      V Zimonjic: 7f784eb8
+      WAE Burton: b0358c6d
+      Zaid Soulat: 14cbe9b7
+      Zain Asif: ef8eba13
+      Zeerak Chughtai: ff0b1636
+  teams:
+  - Bulgaria
+  - Serbia
+  toss:
+    winner: Serbia
+    decision: field
+  venue: National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zain Asif
+        batsman: Zeerak Chughtai
+    - 0.2:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zain Asif
+        batsman: Zeerak Chughtai
+    - 0.3:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zain Asif
+        batsman: Zeerak Chughtai
+    - 0.4:
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zain Asif
+        batsman: Zeerak Chughtai
+    - 0.5:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zain Asif
+        batsman: Zeerak Chughtai
+    - 0.6:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zain Asif
+        batsman: Zeerak Chughtai
+    - 0.7:
+        non_striker: Zain Asif
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 1.1:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Asif
+    - 1.2:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Asif
+    - 1.3:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Asif
+    - 1.4:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Asif
+    - 1.5:
+        non_striker: Zain Asif
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeerak Chughtai
+    - 1.6:
+        non_striker: Zain Asif
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 2.1:
+        non_striker: Zain Asif
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 2.2:
+        non_striker: Zain Asif
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeerak Chughtai
+    - 2.3:
+        non_striker: Zain Asif
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zeerak Chughtai
+    - 2.4:
+        non_striker: Zeerak Chughtai
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Asif
+    - 2.5:
+        non_striker: Zeerak Chughtai
+        bowler: V Zimonjic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Zain Asif
+    - 2.6:
+        non_striker: Zain Asif
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zeerak Chughtai
+    - 2.7:
+        non_striker: Zeerak Chughtai
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Asif
+        wicket:
+          player_out: Zain Asif
+          fielders:
+          - AA Gajic
+          kind: caught
+    - 3.1:
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zaid Soulat
+        batsman: Zeerak Chughtai
+    - 3.2:
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zaid Soulat
+        batsman: Zeerak Chughtai
+    - 3.3:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Soulat
+    - 3.4:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zaid Soulat
+    - 3.5:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Soulat
+    - 3.6:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zaid Soulat
+    - 4.1:
+        non_striker: Zaid Soulat
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 4.2:
+        non_striker: Zaid Soulat
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeerak Chughtai
+    - 4.3:
+        non_striker: Zaid Soulat
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 4.4:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Soulat
+    - 4.5:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Soulat
+    - 4.6:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zaid Soulat
+    - 5.1:
+        non_striker: Zaid Soulat
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 5.2:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Soulat
+        wicket:
+          player_out: Zaid Soulat
+          fielders:
+          - WAE Burton
+          kind: caught
+    - 5.3:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 5.4:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 5.5:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 5.6:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Mishra
+    - 5.7:
+        non_striker: Zeerak Chughtai
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 6.1:
+        non_striker: P Mishra
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 6.2:
+        non_striker: P Mishra
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 6.3:
+        non_striker: P Mishra
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 6.4:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 6.5:
+        non_striker: Zeerak Chughtai
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 6.6:
+        non_striker: P Mishra
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 7.1:
+        non_striker: Zeerak Chughtai
+        bowler: B Dugic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Mishra
+    - 7.2:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeerak Chughtai
+    - 7.3:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeerak Chughtai
+    - 7.4:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 7.5:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 7.6:
+        non_striker: Zeerak Chughtai
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 7.7:
+        non_striker: Zeerak Chughtai
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 7.8:
+        non_striker: Zeerak Chughtai
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mishra
+    - 8.1:
+        non_striker: P Mishra
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 8.2:
+        non_striker: P Mishra
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 8.3:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 8.4:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+        wicket:
+          player_out: P Mishra
+          fielders:
+          - V Zimonjic
+          kind: caught
+    - 8.5:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Isa Zaroo
+    - 8.6:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Isa Zaroo
+    - 9.1:
+        non_striker: Isa Zaroo
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 9.2:
+        non_striker: Zeerak Chughtai
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Isa Zaroo
+    - 9.3:
+        non_striker: Zeerak Chughtai
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Isa Zaroo
+    - 9.4:
+        non_striker: Isa Zaroo
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 9.5:
+        non_striker: Zeerak Chughtai
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Isa Zaroo
+    - 9.6:
+        non_striker: Isa Zaroo
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 10.1:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Isa Zaroo
+    - 10.2:
+        non_striker: Isa Zaroo
+        bowler: MV Pavlovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Zeerak Chughtai
+    - 10.3:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Isa Zaroo
+        wicket:
+          player_out: Isa Zaroo
+          fielders:
+          - WAE Burton
+          kind: caught
+    - 10.4:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 10.5:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Saim Hussain
+    - 10.6:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 10.7:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeerak Chughtai
+    - 11.1:
+        non_striker: Saim Hussain
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeerak Chughtai
+    - 11.2:
+        non_striker: Saim Hussain
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeerak Chughtai
+    - 11.3:
+        non_striker: Saim Hussain
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 11.4:
+        non_striker: Saim Hussain
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+    - 11.5:
+        non_striker: Saim Hussain
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeerak Chughtai
+    - 11.6:
+        non_striker: Saim Hussain
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeerak Chughtai
+    - 12.1:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 12.2:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Hussain
+    - 12.3:
+        non_striker: Zeerak Chughtai
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 12.4:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeerak Chughtai
+        wicket:
+          player_out: Zeerak Chughtai
+          kind: lbw
+    - 12.5:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: D Nikolov
+    - 12.6:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nikolov
+    - 12.7:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nikolov
+    - 13.1:
+        non_striker: Saim Hussain
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nikolov
+    - 13.2:
+        non_striker: Saim Hussain
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nikolov
+    - 13.3:
+        non_striker: Saim Hussain
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nikolov
+    - 13.4:
+        non_striker: D Nikolov
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 13.5:
+        non_striker: Saim Hussain
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nikolov
+    - 13.6:
+        non_striker: Saim Hussain
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nikolov
+    - 14.1:
+        non_striker: D Nikolov
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 14.2:
+        non_striker: D Nikolov
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 14.3:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Nikolov
+    - 14.4:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nikolov
+    - 14.5:
+        non_striker: D Nikolov
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 14.6:
+        non_striker: Saim Hussain
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nikolov
+        wicket:
+          player_out: D Nikolov
+          fielders:
+          - AA Gajic
+          kind: caught
+    - 15.1:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Danyal Raja
+        batsman: Saim Hussain
+    - 15.2:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Danyal Raja
+        batsman: Saim Hussain
+    - 15.3:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Danyal Raja
+        batsman: Saim Hussain
+    - 15.4:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Danyal Raja
+        batsman: Saim Hussain
+    - 15.5:
+        non_striker: Saim Hussain
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Raja
+    - 15.6:
+        non_striker: Danyal Raja
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 16.1:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Hussain
+    - 16.2:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 16.3:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 16.4:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 16.5:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Hussain
+    - 16.6:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 16.7:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 17.1:
+        non_striker: Saim Hussain
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Danyal Raja
+    - 17.2:
+        non_striker: Saim Hussain
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Danyal Raja
+    - 17.3:
+        non_striker: Danyal Raja
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 17.4:
+        non_striker: Danyal Raja
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+        wicket:
+          player_out: Saim Hussain
+          kind: bowled
+    - 17.5:
+        non_striker: Danyal Raja
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gagandeep Singh
+    - 17.6:
+        non_striker: Gagandeep Singh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Raja
+    - 18.1:
+        non_striker: Gagandeep Singh
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Raja
+    - 18.2:
+        non_striker: Gagandeep Singh
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Danyal Raja
+    - 18.3:
+        non_striker: Gagandeep Singh
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Raja
+    - 18.4:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gagandeep Singh
+    - 18.5:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gagandeep Singh
+    - 18.6:
+        non_striker: Danyal Raja
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gagandeep Singh
+    - 19.1:
+        non_striker: Gagandeep Singh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Raja
+    - 19.2:
+        non_striker: Danyal Raja
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gagandeep Singh
+    - 19.3:
+        non_striker: Gagandeep Singh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Raja
+    - 19.4:
+        non_striker: Gagandeep Singh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Danyal Raja
+    - 19.5:
+        non_striker: Gagandeep Singh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Danyal Raja
+    - 19.6:
+        non_striker: Gagandeep Singh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Danyal Raja
+        wicket:
+          player_out: Danyal Raja
+          fielders:
+          - LA Dunbar
+          - B Dugic
+          kind: run out
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: Danyal Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.2:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 0.3:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 0.4:
+        non_striker: A Dizija
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 0.5:
+        non_striker: A Dizija
+        bowler: Danyal Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WAE Burton
+    - 0.6:
+        non_striker: A Dizija
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 0.7:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dizija
+    - 0.8:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 1.1:
+        non_striker: WAE Burton
+        bowler: Gagandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dizija
+    - 1.2:
+        non_striker: WAE Burton
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dizija
+    - 1.3:
+        non_striker: WAE Burton
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.4:
+        non_striker: WAE Burton
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dizija
+    - 1.5:
+        non_striker: WAE Burton
+        bowler: Gagandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dizija
+    - 1.6:
+        non_striker: WAE Burton
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dizija
+    - 1.7:
+        non_striker: WAE Burton
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 1.8:
+        non_striker: A Dizija
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 2.1:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dizija
+    - 2.2:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 2.3:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+        wicket:
+          player_out: A Dizija
+          fielders:
+          - Gagandeep Singh
+          kind: caught
+    - 2.4:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.5:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.6:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 2.7:
+        non_striker: WAE Burton
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.1:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 3.2:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+        wicket:
+          player_out: WAE Burton
+          fielders:
+          - Gagandeep Singh
+          kind: caught
+    - 3.3:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 3.4:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 3.5:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 3.6:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 4.1:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 4.2:
+        non_striker: LA Dunbar
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 4.3:
+        non_striker: LA Dunbar
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 4.4:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 4.5:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 4.6:
+        non_striker: LA Dunbar
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 5.1:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 5.2:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 5.3:
+        non_striker: MV Pavlovic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 5.4:
+        non_striker: MV Pavlovic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 5.5:
+        non_striker: LA Dunbar
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 5.6:
+        non_striker: MV Pavlovic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 6.1:
+        non_striker: MV Pavlovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 6.2:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 6.3:
+        non_striker: MV Pavlovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 6.4:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 6.5:
+        non_striker: MV Pavlovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 6.6:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 7.1:
+        non_striker: MV Pavlovic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 7.2:
+        non_striker: MV Pavlovic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 7.3:
+        non_striker: LA Dunbar
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 7.4:
+        non_striker: MV Pavlovic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LA Dunbar
+    - 7.5:
+        non_striker: MV Pavlovic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 7.6:
+        non_striker: MV Pavlovic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 7.7:
+        non_striker: LA Dunbar
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 8.1:
+        non_striker: MV Pavlovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 8.2:
+        non_striker: MV Pavlovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 8.3:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 8.4:
+        non_striker: MV Pavlovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 8.5:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MV Pavlovic
+    - 8.6:
+        non_striker: MV Pavlovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 9.1:
+        non_striker: LA Dunbar
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 9.2:
+        non_striker: LA Dunbar
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Pavlovic
+    - 9.3:
+        non_striker: LA Dunbar
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 9.4:
+        non_striker: LA Dunbar
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 9.5:
+        non_striker: MV Pavlovic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LA Dunbar
+    - 9.6:
+        non_striker: MV Pavlovic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 9.7:
+        non_striker: LA Dunbar
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 10.1:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 10.2:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Pavlovic
+    - 10.3:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Pavlovic
+    - 10.4:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 10.5:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 10.6:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 10.7:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 10.8:
+        non_striker: LA Dunbar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 11.1:
+        non_striker: MV Pavlovic
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 11.2:
+        non_striker: LA Dunbar
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+        wicket:
+          player_out: MV Pavlovic
+          fielders:
+          - Saim Hussain
+          kind: caught
+    - 11.3:
+        non_striker: LA Dunbar
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 11.4:
+        non_striker: LA Dunbar
+        bowler: Danyal Raja
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: S Tosic
+    - 11.5:
+        non_striker: LA Dunbar
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 11.6:
+        non_striker: LA Dunbar
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 12.1:
+        non_striker: S Tosic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 12.2:
+        non_striker: S Tosic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+        wicket:
+          player_out: LA Dunbar
+          fielders:
+          - P Mishra
+          kind: caught
+    - 12.3:
+        non_striker: S Tosic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zimonjic
+    - 12.4:
+        non_striker: S Tosic
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: V Zimonjic
+    - 12.5:
+        non_striker: V Zimonjic
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Tosic
+    - 12.6:
+        non_striker: S Tosic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Zimonjic
+    - 13.1:
+        non_striker: V Zimonjic
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 13.2:
+        non_striker: V Zimonjic
+        bowler: Danyal Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Tosic
+    - 13.3:
+        non_striker: V Zimonjic
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 13.4:
+        non_striker: V Zimonjic
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 13.5:
+        non_striker: S Tosic
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 13.6:
+        non_striker: V Zimonjic
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Tosic
+    - 13.7:
+        non_striker: V Zimonjic
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Tosic
+    - 14.1:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 14.2:
+        non_striker: V Zimonjic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 14.3:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 14.4:
+        non_striker: V Zimonjic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 14.5:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 14.6:
+        non_striker: V Zimonjic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 15.1:
+        non_striker: S Tosic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 15.2:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 15.3:
+        non_striker: S Tosic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 15.4:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 15.5:
+        non_striker: S Tosic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 15.6:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 16.1:
+        non_striker: S Tosic
+        bowler: Gagandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zimonjic
+    - 16.2:
+        non_striker: S Tosic
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zimonjic
+    - 16.3:
+        non_striker: S Tosic
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Zimonjic
+    - 16.4:
+        non_striker: S Tosic
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 16.5:
+        non_striker: V Zimonjic
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Tosic
+    - 16.6:
+        non_striker: V Zimonjic
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 16.7:
+        non_striker: S Tosic
+        bowler: Gagandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zimonjic
+    - 17.1:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+        wicket:
+          player_out: S Tosic
+          kind: lbw
+    - 17.2:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 17.3:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 17.4:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zimonjic
+    - 17.5:
+        non_striker: N Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zimonjic
+    - 17.6:
+        non_striker: V Zimonjic
+        bowler: Zeerak Chughtai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zimonjic
+    - 18.1:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Zimonjic
+    - 18.2:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Zimonjic
+    - 18.3:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 18.4:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Zimonjic
+    - 18.5:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 18.6:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 18.7:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Zimonjic
+    - 18.8:
+        non_striker: V Zimonjic
+        bowler: Huzaif Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 19.1:
+        non_striker: N Zimonjic
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Zimonjic
+    - 19.2:
+        non_striker: N Zimonjic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Zimonjic

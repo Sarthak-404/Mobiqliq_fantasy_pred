@@ -1,0 +1,2100 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hangzhou
+  dates:
+  - '2023-09-27'
+  gender: male
+  match_type: T20
+  match_type_number: 2255
+  outcome:
+    winner: Nepal
+    by:
+      runs: 273
+  overs: 20
+  players:
+    Nepal:
+    - K Bhurtel
+    - Aasif Sheikh
+    - Kushal Malla
+    - RK Paudel
+    - DS Airee
+    - Sompal Kami
+    - Karan KC
+    - S Lamichhane
+    - A Bohara
+    - Gulsan Jha
+    - S Jora
+    Mongolia:
+    - N Naranbaatar
+    - B Terbish
+    - E Otgonbayar
+    - L Erdenebulgan
+    - D Jamyansuren
+    - O Lutbayar
+    - B Namsrai
+    - M Altankhuyag
+    - E Munkhbat
+    - T Tumursukh
+    - T Sumiya
+  registry:
+    people:
+      A Bohara: 64fb6b15
+      Aasif Sheikh: dcbea954
+      Arif Ansari: 95957b9e
+      B Namsrai: 1d8a3ca6
+      B Terbish: 30c884c8
+      C Thurgate: 4d8ad58c
+      D Jamyansuren: 6ad7d184
+      DS Airee: 1747ea18
+      E Munkhbat: acaf467d
+      E Otgonbayar: 3f9783fd
+      Edwin Seah: be24f868
+      Gulsan Jha: 9811e35e
+      K Bhurtel: e3386c8a
+      Karan KC: f53b3e1d
+      Kushal Malla: 7e9f1cde
+      L Erdenebulgan: c4f8d754
+      M Altankhuyag: 657c4b12
+      Masudur Rahman: 9581ac6b
+      N Naranbaatar: b0e16d9b
+      O Lutbayar: ccd88623
+      RK Paudel: 1a3cc554
+      S Jora: 156378d8
+      S Lamichhane: b410bd3d
+      Sompal Kami: 1adb8ee8
+      T Sumiya: ae19375d
+      T Tumursukh: 4758488e
+      VG Rathi: 144e5b16
+  teams:
+  - Nepal
+  - Mongolia
+  toss:
+    winner: Mongolia
+    decision: field
+  umpires:
+  - Arif Ansari
+  - C Thurgate
+  venue: Zhejiang University of Technology Cricket Field
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.2:
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.3:
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.4:
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.5:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 0.6:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Aasif Sheikh
+    - 0.7:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.1:
+        non_striker: K Bhurtel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.2:
+        non_striker: Aasif Sheikh
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.3:
+        non_striker: Aasif Sheikh
+        bowler: O Lutbayar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Bhurtel
+    - 1.4:
+        non_striker: K Bhurtel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.5:
+        non_striker: Aasif Sheikh
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Bhurtel
+    - 1.6:
+        non_striker: Aasif Sheikh
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 2.1:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Aasif Sheikh
+    - 2.2:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aasif Sheikh
+    - 2.3:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aasif Sheikh
+    - 2.4:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.5:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aasif Sheikh
+    - 2.6:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.7:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Aasif Sheikh
+    - 2.8:
+        non_striker: Aasif Sheikh
+        bowler: N Naranbaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Bhurtel
+    - 2.9:
+        non_striker: Aasif Sheikh
+        bowler: N Naranbaatar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Bhurtel
+    - 2.10:
+        non_striker: Aasif Sheikh
+        bowler: N Naranbaatar
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: K Bhurtel
+    - 2.11:
+        non_striker: K Bhurtel
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 2.12:
+        non_striker: Aasif Sheikh
+        bowler: N Naranbaatar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 3.1:
+        non_striker: Aasif Sheikh
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 3.2:
+        non_striker: Aasif Sheikh
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 3.3:
+        non_striker: K Bhurtel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 3.4:
+        non_striker: Aasif Sheikh
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 3.5:
+        non_striker: K Bhurtel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.6:
+        non_striker: K Bhurtel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 4.1:
+        non_striker: Aasif Sheikh
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 4.2:
+        non_striker: Aasif Sheikh
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 4.3:
+        non_striker: K Bhurtel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 4.4:
+        non_striker: Aasif Sheikh
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 4.5:
+        non_striker: K Bhurtel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          fielders:
+          - E Otgonbayar
+          kind: caught
+    - 4.6:
+        non_striker: K Bhurtel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 4.7:
+        non_striker: K Bhurtel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 5.1:
+        non_striker: K Bhurtel
+        bowler: D Jamyansuren
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Kushal Malla
+    - 5.2:
+        non_striker: K Bhurtel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 5.3:
+        non_striker: K Bhurtel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 5.4:
+        non_striker: K Bhurtel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 5.5:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 5.6:
+        non_striker: K Bhurtel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 5.7:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 6.1:
+        non_striker: K Bhurtel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 6.2:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 6.3:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 6.4:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 6.5:
+        non_striker: K Bhurtel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 6.6:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 7.1:
+        non_striker: K Bhurtel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 7.2:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+        wicket:
+          player_out: K Bhurtel
+          fielders:
+          - M Altankhuyag
+          kind: caught
+    - 7.3:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 7.4:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 7.5:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 7.6:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 7.7:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 7.8:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.1:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.2:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Kushal Malla
+    - 8.3:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 8.4:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 8.5:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 8.6:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.7:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 8.8:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 9.1:
+        non_striker: RK Paudel
+        bowler: B Terbish
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 9.2:
+        non_striker: RK Paudel
+        bowler: B Terbish
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 9.3:
+        non_striker: RK Paudel
+        bowler: B Terbish
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 9.4:
+        non_striker: RK Paudel
+        bowler: B Terbish
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 9.5:
+        non_striker: RK Paudel
+        bowler: B Terbish
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 9.6:
+        non_striker: RK Paudel
+        bowler: B Terbish
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 9.7:
+        non_striker: RK Paudel
+        bowler: B Terbish
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 10.1:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 10.2:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 10.3:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 10.4:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 10.5:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 10.6:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 10.7:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Kushal Malla
+    - 10.8:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 11.1:
+        non_striker: Kushal Malla
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 11.2:
+        non_striker: Kushal Malla
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 11.3:
+        non_striker: Kushal Malla
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 11.4:
+        non_striker: RK Paudel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Kushal Malla
+    - 11.5:
+        non_striker: Kushal Malla
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 11.6:
+        non_striker: RK Paudel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 12.1:
+        non_striker: RK Paudel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 12.2:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.3:
+        non_striker: RK Paudel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 12.4:
+        non_striker: RK Paudel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 12.5:
+        non_striker: RK Paudel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 12.6:
+        non_striker: RK Paudel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 12.7:
+        non_striker: RK Paudel
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 13.1:
+        non_striker: RK Paudel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 13.2:
+        non_striker: Kushal Malla
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.3:
+        non_striker: RK Paudel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 13.4:
+        non_striker: RK Paudel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 13.5:
+        non_striker: RK Paudel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 13.6:
+        non_striker: RK Paudel
+        bowler: O Lutbayar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 14.1:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 14.2:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 14.3:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 14.4:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 14.5:
+        non_striker: Kushal Malla
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 14.6:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 14.7:
+        non_striker: RK Paudel
+        bowler: T Tumursukh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 15.1:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 15.2:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 15.3:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 15.4:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 15.5:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 15.6:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 16.1:
+        non_striker: RK Paudel
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 16.2:
+        non_striker: RK Paudel
+        bowler: M Altankhuyag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 16.3:
+        non_striker: RK Paudel
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 16.4:
+        non_striker: RK Paudel
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 16.5:
+        non_striker: RK Paudel
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 16.6:
+        non_striker: RK Paudel
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 16.7:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RK Paudel
+    - 16.8:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 16.9:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 17.1:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 17.2:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 17.3:
+        non_striker: RK Paudel
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 17.4:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 17.5:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 17.6:
+        non_striker: Kushal Malla
+        bowler: D Jamyansuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 18.1:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+        wicket:
+          player_out: RK Paudel
+          fielders:
+          - E Otgonbayar
+          kind: caught
+    - 18.2:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Airee
+    - 18.3:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Airee
+    - 18.4:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 18.5:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 18.6:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 18.7:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 18.8:
+        non_striker: Kushal Malla
+        bowler: M Altankhuyag
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 19.1:
+        non_striker: DS Airee
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 19.2:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 19.3:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 19.4:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 19.5:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 19.6:
+        non_striker: Kushal Malla
+        bowler: L Erdenebulgan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+- 2nd innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Terbish
+        batsman: N Naranbaatar
+    - 0.2:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Terbish
+        batsman: N Naranbaatar
+    - 0.3:
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Terbish
+        batsman: N Naranbaatar
+    - 0.4:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Terbish
+        batsman: N Naranbaatar
+    - 0.5:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Terbish
+    - 0.6:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Terbish
+        wicket:
+          player_out: B Terbish
+          kind: lbw
+    - 0.7:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 1.1:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 1.2:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 1.3:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 1.4:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 1.5:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 1.6:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 2.1:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Otgonbayar
+    - 2.2:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 2.3:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: E Otgonbayar
+    - 2.4:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 2.5:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 2.6:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Otgonbayar
+    - 2.7:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 2.8:
+        non_striker: N Naranbaatar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Otgonbayar
+    - 3.1:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+        wicket:
+          player_out: N Naranbaatar
+          kind: bowled
+    - 3.2:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Erdenebulgan
+    - 3.3:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 3.4:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+        wicket:
+          player_out: L Erdenebulgan
+          kind: bowled
+    - 3.5:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 3.6:
+        non_striker: E Otgonbayar
+        bowler: Karan KC
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Jamyansuren
+    - 3.7:
+        non_striker: D Jamyansuren
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 4.1:
+        non_striker: E Otgonbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 4.2:
+        non_striker: E Otgonbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 4.3:
+        non_striker: E Otgonbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jamyansuren
+    - 4.4:
+        non_striker: D Jamyansuren
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Otgonbayar
+    - 4.5:
+        non_striker: E Otgonbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Jamyansuren
+    - 4.6:
+        non_striker: E Otgonbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Jamyansuren
+    - 4.7:
+        non_striker: E Otgonbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 5.1:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Otgonbayar
+    - 5.2:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 5.3:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+        wicket:
+          player_out: E Otgonbayar
+          fielders:
+          - Sompal Kami
+          kind: caught
+    - 5.4:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lutbayar
+    - 5.5:
+        non_striker: O Lutbayar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 5.6:
+        non_striker: O Lutbayar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 5.7:
+        non_striker: O Lutbayar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 6.1:
+        non_striker: D Jamyansuren
+        bowler: Gulsan Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Lutbayar
+    - 6.2:
+        non_striker: D Jamyansuren
+        bowler: Gulsan Jha
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: O Lutbayar
+    - 6.3:
+        non_striker: O Lutbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 6.4:
+        non_striker: O Lutbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Jamyansuren
+    - 6.5:
+        non_striker: O Lutbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 6.6:
+        non_striker: O Lutbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 6.7:
+        non_striker: O Lutbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Jamyansuren
+    - 6.8:
+        non_striker: O Lutbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 6.9:
+        non_striker: O Lutbayar
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 7.1:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+        wicket:
+          player_out: O Lutbayar
+          kind: lbw
+    - 7.2:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 7.3:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 7.4:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 7.5:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 7.6:
+        non_striker: D Jamyansuren
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 8.1:
+        non_striker: B Namsrai
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 8.2:
+        non_striker: B Namsrai
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 8.3:
+        non_striker: B Namsrai
+        bowler: Gulsan Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Jamyansuren
+    - 8.4:
+        non_striker: B Namsrai
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 8.5:
+        non_striker: B Namsrai
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+    - 8.6:
+        non_striker: B Namsrai
+        bowler: Gulsan Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Jamyansuren
+    - 8.7:
+        non_striker: B Namsrai
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jamyansuren
+    - 8.8:
+        non_striker: D Jamyansuren
+        bowler: Gulsan Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 9.1:
+        non_striker: B Namsrai
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jamyansuren
+        wicket:
+          player_out: D Jamyansuren
+          kind: bowled
+    - 9.2:
+        non_striker: B Namsrai
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 9.3:
+        non_striker: B Namsrai
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 9.4:
+        non_striker: B Namsrai
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 9.5:
+        non_striker: B Namsrai
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 9.6:
+        non_striker: B Namsrai
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 10.1:
+        non_striker: M Altankhuyag
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 10.2:
+        non_striker: M Altankhuyag
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Namsrai
+    - 10.3:
+        non_striker: B Namsrai
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 10.4:
+        non_striker: B Namsrai
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 10.5:
+        non_striker: B Namsrai
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+    - 10.6:
+        non_striker: B Namsrai
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Altankhuyag
+        wicket:
+          player_out: M Altankhuyag
+          kind: bowled
+    - 11.1:
+        non_striker: E Munkhbat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+        wicket:
+          player_out: B Namsrai
+          kind: bowled
+    - 11.2:
+        non_striker: E Munkhbat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Tumursukh
+    - 11.3:
+        non_striker: E Munkhbat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 11.4:
+        non_striker: E Munkhbat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 11.5:
+        non_striker: E Munkhbat
+        bowler: S Lamichhane
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: T Tumursukh
+    - 11.6:
+        non_striker: E Munkhbat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 11.7:
+        non_striker: E Munkhbat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+    - 12.1:
+        non_striker: T Tumursukh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Munkhbat
+    - 12.2:
+        non_striker: T Tumursukh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Munkhbat
+    - 12.3:
+        non_striker: T Tumursukh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Munkhbat
+    - 12.4:
+        non_striker: T Tumursukh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Munkhbat
+    - 12.5:
+        non_striker: T Tumursukh
+        bowler: DS Airee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Munkhbat
+    - 12.6:
+        non_striker: T Tumursukh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Munkhbat
+        wicket:
+          player_out: E Munkhbat
+          fielders:
+          - DS Airee
+          - S Lamichhane
+          kind: run out
+    - 12.7:
+        non_striker: T Tumursukh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 13.1:
+        non_striker: T Sumiya
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tumursukh
+        wicket:
+          player_out: T Tumursukh
+          fielders:
+          - Sompal Kami
+          kind: caught

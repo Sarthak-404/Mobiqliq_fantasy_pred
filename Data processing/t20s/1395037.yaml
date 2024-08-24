@@ -1,0 +1,1722 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Almeria
+  dates:
+  - '2023-09-12'
+  gender: female
+  match_type: T20
+  match_type_number: 1662
+  outcome:
+    winner: Netherlands
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - R Rijke
+  players:
+    Italy:
+    - AS Withanage
+    - M Rathnayake
+    - C Mahamalage
+    - K Peddrick
+    - EL Bartram
+    - Regina Khan
+    - D Nanayakkara
+    - G Batagoda
+    - S Kanankege
+    - S Toffoletto
+    - N Asuramanage
+    Netherlands:
+    - IJR Zwilling
+    - EN Lynch
+    - HWA Landheer
+    - R Rijke
+    - CH van Koolwijk
+    - HDJ Siegers
+    - MM Dekeling
+    - C de Lange
+    - I van der Woning
+    - M Zwilling
+    - MIW van den Raad
+  registry:
+    people:
+      AS Withanage: '078f166f'
+      Adnan Khan: 45ec7a99
+      C Mahamalage: 3250b7db
+      C de Lange: c6a019f5
+      CH van Koolwijk: 27d5901c
+      D Nanayakkara: dbf22922
+      DT Jukes: 7c215d14
+      EL Bartram: 5fa7f030
+      EN Lynch: 4d35d0b3
+      G Batagoda: f63ec2e5
+      HDJ Siegers: 6d48df01
+      HE Kearns: fd4959c8
+      HWA Landheer: a6ec88f4
+      I van der Woning: 5aa8574b
+      IJR Zwilling: 47b32a5a
+      K Peddrick: a031b75e
+      M Rathnayake: a969dc4c
+      M Zwilling: 560ef10a
+      MIW van den Raad: dead3b10
+      MM Dekeling: 983a0c34
+      N Asuramanage: 46dff613
+      R Rijke: 42e4b276
+      Regina Khan: 862f4427
+      Rizwan Akram: b5346f1e
+      S Kanankege: '01815edc'
+      S Toffoletto: 9e498eac
+  teams:
+  - Italy
+  - Netherlands
+  toss:
+    winner: Italy
+    decision: bat
+  umpires:
+  - Adnan Khan
+  - Rizwan Akram
+  venue: Desert Springs Cricket Ground, Almeria
+innings:
+- 1st innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Rathnayake
+        batsman: AS Withanage
+    - 0.2:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 0.3:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+    - 0.4:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Rathnayake
+        wicket:
+          player_out: M Rathnayake
+          kind: bowled
+    - 0.5:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Mahamalage
+    - 0.6:
+        non_striker: C Mahamalage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 1.1:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+    - 1.2:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Mahamalage
+    - 1.3:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Mahamalage
+        wicket:
+          player_out: C Mahamalage
+          fielders:
+          - HDJ Siegers
+          kind: caught
+    - 1.4:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 1.5:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 1.6:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 1.7:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 2.1:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 2.2:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 2.3:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 2.4:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Withanage
+    - 2.5:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 2.6:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AS Withanage
+    - 3.1:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 3.2:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 3.3:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Withanage
+    - 3.4:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 3.5:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 3.6:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Withanage
+    - 4.1:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 4.2:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 4.3:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 4.4:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 4.5:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 4.6:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 5.1:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 5.2:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 5.3:
+        non_striker: AS Withanage
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 5.4:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 5.5:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 5.6:
+        non_striker: K Peddrick
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Withanage
+    - 6.1:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 6.2:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 6.3:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 6.4:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Peddrick
+    - 6.5:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 6.6:
+        non_striker: AS Withanage
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+    - 6.7:
+        non_striker: K Peddrick
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 7.1:
+        non_striker: AS Withanage
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.2:
+        non_striker: AS Withanage
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.3:
+        non_striker: AS Withanage
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.4:
+        non_striker: AS Withanage
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.5:
+        non_striker: AS Withanage
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 7.6:
+        non_striker: AS Withanage
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Peddrick
+    - 8.1:
+        non_striker: K Peddrick
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 8.2:
+        non_striker: K Peddrick
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AS Withanage
+    - 8.3:
+        non_striker: K Peddrick
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+    - 8.4:
+        non_striker: K Peddrick
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Withanage
+        wicket:
+          player_out: AS Withanage
+          fielders:
+          - M Zwilling
+          kind: caught
+    - 8.5:
+        non_striker: K Peddrick
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 8.6:
+        non_striker: K Peddrick
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 9.1:
+        non_striker: K Peddrick
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 9.2:
+        non_striker: K Peddrick
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 9.3:
+        non_striker: K Peddrick
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 9.4:
+        non_striker: K Peddrick
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 9.5:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Peddrick
+    - 9.6:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Peddrick
+        wicket:
+          player_out: K Peddrick
+          fielders:
+          - HDJ Siegers
+          - M Zwilling
+          kind: run out
+    - 10.1:
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Regina Khan
+        batsman: EL Bartram
+    - 10.2:
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Regina Khan
+        batsman: EL Bartram
+    - 10.3:
+        non_striker: EL Bartram
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 10.4:
+        non_striker: EL Bartram
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 10.5:
+        non_striker: EL Bartram
+        bowler: EN Lynch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Regina Khan
+    - 10.6:
+        non_striker: Regina Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 11.1:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 11.2:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Regina Khan
+    - 11.3:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 11.4:
+        non_striker: Regina Khan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 11.5:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 11.6:
+        non_striker: Regina Khan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 12.1:
+        non_striker: EL Bartram
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 12.2:
+        non_striker: Regina Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 12.3:
+        non_striker: EL Bartram
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 12.4:
+        non_striker: Regina Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 12.5:
+        non_striker: Regina Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 12.6:
+        non_striker: Regina Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 13.1:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 13.2:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Regina Khan
+    - 13.3:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Regina Khan
+    - 13.4:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 13.5:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 13.6:
+        non_striker: EL Bartram
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 14.1:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 14.2:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Bartram
+    - 14.3:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 14.4:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Bartram
+    - 14.5:
+        non_striker: EL Bartram
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 14.6:
+        non_striker: EL Bartram
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 15.1:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 15.2:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+    - 15.3:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Bartram
+    - 15.4:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EL Bartram
+    - 15.5:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Bartram
+        wicket:
+          player_out: EL Bartram
+          fielders:
+          - R Rijke
+          kind: caught
+    - 15.6:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 15.7:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 15.8:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 16.1:
+        non_striker: D Nanayakkara
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 16.2:
+        non_striker: D Nanayakkara
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 16.3:
+        non_striker: D Nanayakkara
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 16.4:
+        non_striker: D Nanayakkara
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 16.5:
+        non_striker: D Nanayakkara
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 16.6:
+        non_striker: D Nanayakkara
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 17.1:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Nanayakkara
+    - 17.2:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanayakkara
+    - 17.3:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 17.4:
+        non_striker: D Nanayakkara
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+    - 17.5:
+        non_striker: D Nanayakkara
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 17.6:
+        non_striker: Regina Khan
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 17.7:
+        non_striker: D Nanayakkara
+        bowler: M Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Regina Khan
+    - 18.1:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+    - 18.2:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanayakkara
+    - 18.3:
+        non_striker: D Nanayakkara
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 18.4:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Nanayakkara
+        wicket:
+          player_out: D Nanayakkara
+          fielders:
+          - HDJ Siegers
+          kind: stumped
+    - 18.5:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Batagoda
+    - 18.6:
+        non_striker: Regina Khan
+        bowler: MM Dekeling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Batagoda
+    - 19.1:
+        non_striker: Regina Khan
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Batagoda
+    - 19.2:
+        non_striker: G Batagoda
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Regina Khan
+    - 19.3:
+        non_striker: G Batagoda
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Regina Khan
+    - 19.4:
+        non_striker: Regina Khan
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Batagoda
+        wicket:
+          player_out: G Batagoda
+          fielders:
+          - CH van Koolwijk
+          kind: caught
+    - 19.5:
+        non_striker: Regina Khan
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kanankege
+    - 19.6:
+        non_striker: S Kanankege
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Regina Khan
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EN Lynch
+        batsman: IJR Zwilling
+    - 0.2:
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EN Lynch
+        batsman: IJR Zwilling
+    - 0.3:
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EN Lynch
+        batsman: IJR Zwilling
+    - 0.4:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EN Lynch
+    - 0.5:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+    - 0.6:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+        wicket:
+          player_out: EN Lynch
+          kind: bowled
+    - 0.7:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWA Landheer
+    - 1.1:
+        non_striker: HWA Landheer
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 1.2:
+        non_striker: HWA Landheer
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 1.3:
+        non_striker: HWA Landheer
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 1.4:
+        non_striker: HWA Landheer
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJR Zwilling
+    - 1.5:
+        non_striker: HWA Landheer
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 1.6:
+        non_striker: HWA Landheer
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 2.1:
+        non_striker: HWA Landheer
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 2.2:
+        non_striker: HWA Landheer
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 2.3:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWA Landheer
+    - 2.4:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWA Landheer
+    - 2.5:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWA Landheer
+    - 2.6:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWA Landheer
+        wicket:
+          player_out: HWA Landheer
+          kind: bowled
+    - 3.1:
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rijke
+        batsman: IJR Zwilling
+    - 3.2:
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Rijke
+        batsman: IJR Zwilling
+    - 3.3:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 3.4:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 3.5:
+        non_striker: R Rijke
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 3.6:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 4.1:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.2:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.3:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.4:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJR Zwilling
+    - 4.5:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.6:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 5.1:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 5.2:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 5.3:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 5.4:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 5.5:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 5.6:
+        non_striker: IJR Zwilling
+        bowler: Regina Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 6.1:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 6.2:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 6.3:
+        non_striker: IJR Zwilling
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 6.4:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 6.5:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 6.6:
+        non_striker: R Rijke
+        bowler: EL Bartram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 7.1:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IJR Zwilling
+    - 7.2:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 7.3:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IJR Zwilling
+    - 7.4:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJR Zwilling
+    - 7.5:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IJR Zwilling
+    - 7.6:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 7.7:
+        non_striker: IJR Zwilling
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 7.8:
+        non_striker: IJR Zwilling
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 7.9:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IJR Zwilling
+    - 7.10:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: IJR Zwilling
+    - 7.11:
+        non_striker: R Rijke
+        bowler: K Peddrick
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 8.1:
+        non_striker: IJR Zwilling
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 8.2:
+        non_striker: R Rijke
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 8.3:
+        non_striker: R Rijke
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 8.4:
+        non_striker: R Rijke
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          fielders:
+          - C Mahamalage
+          - EL Bartram
+          kind: run out
+    - 8.5:
+        non_striker: R Rijke
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH van Koolwijk
+    - 8.6:
+        non_striker: CH van Koolwijk
+        bowler: C Mahamalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.1:
+        non_striker: CH van Koolwijk
+        bowler: N Asuramanage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 9.2:
+        non_striker: CH van Koolwijk
+        bowler: N Asuramanage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 9.3:
+        non_striker: CH van Koolwijk
+        bowler: N Asuramanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.4:
+        non_striker: R Rijke
+        bowler: N Asuramanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH van Koolwijk
+    - 9.5:
+        non_striker: CH van Koolwijk
+        bowler: N Asuramanage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Rijke
+    - 9.6:
+        non_striker: CH van Koolwijk
+        bowler: N Asuramanage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 10.1:
+        non_striker: R Rijke
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH van Koolwijk
+        wicket:
+          player_out: R Rijke
+          fielders:
+          - D Nanayakkara
+          - S Kanankege
+          kind: run out
+    - 10.2:
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HDJ Siegers
+        batsman: CH van Koolwijk
+    - 10.3:
+        bowler: S Kanankege
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HDJ Siegers
+        batsman: CH van Koolwijk

@@ -1,0 +1,2181 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-06-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: New York
+  dates:
+  - '2024-06-07'
+  gender: male
+  match_type: T20
+  match_type_number: 2644
+  outcome:
+    winner: Canada
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - NR Kirton
+  players:
+    Canada:
+    - A Johnson
+    - NS Dhaliwal
+    - Pargat Singh
+    - DS Bajwa
+    - NR Kirton
+    - S Movva
+    - D Heyliger
+    - Saad Bin Zafar
+    - Kaleem Sana
+    - Junaid Siddiqui
+    - JOA Gordon
+    Ireland:
+    - A Balbirnie
+    - PR Stirling
+    - L Tucker
+    - HT Tector
+    - C Campher
+    - GH Dockrell
+    - GJ Delany
+    - MR Adair
+    - BJ McCarthy
+    - J Little
+    - CA Young
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      A Johnson: a28a7fba
+      BJ McCarthy: 3766056b
+      C Campher: 478a63e7
+      CA Young: bd0a4a7d
+      CB Gaffaney: d5ac41d8
+      CM Brown: 448f4f1c
+      D Heyliger: f8c72766
+      DS Bajwa: e3540b8c
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      JOA Gordon: bb9b51f4
+      Junaid Siddiqui: 9025e58f
+      Kaleem Sana: 14810ee7
+      L Tucker: 3979b5e0
+      MR Adair: fc55ec67
+      NR Kirton: 6b75c2b1
+      NS Dhaliwal: cbabd6ad
+      PR Stirling: cf494ffe
+      Pargat Singh: d2e67105
+      RA Kettleborough: 4017868f
+      RB Richardson: 410e2f12
+      S Movva: ee229588
+      SJ Nogajski: 9b3f9323
+      Saad Bin Zafar: f28a60e0
+  teams:
+  - Canada
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - RA Kettleborough
+  - SJ Nogajski
+  venue: Nassau County International Cricket Stadium, New York
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        non_striker: NS Dhaliwal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 0.2:
+        non_striker: NS Dhaliwal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Johnson
+    - 0.3:
+        non_striker: NS Dhaliwal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 0.4:
+        non_striker: NS Dhaliwal
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Johnson
+    - 0.5:
+        non_striker: A Johnson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 0.6:
+        non_striker: A Johnson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 1.1:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 1.2:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 1.3:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NS Dhaliwal
+    - 1.4:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 1.5:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 1.6:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 1.7:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 2.1:
+        non_striker: A Johnson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 2.2:
+        non_striker: A Johnson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+        wicket:
+          player_out: NS Dhaliwal
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 2.3:
+        non_striker: A Johnson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 2.4:
+        non_striker: A Johnson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 2.5:
+        non_striker: A Johnson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 2.6:
+        non_striker: Pargat Singh
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 3.1:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 3.2:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 3.3:
+        non_striker: Pargat Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Johnson
+    - 3.4:
+        non_striker: Pargat Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Johnson
+    - 3.5:
+        non_striker: Pargat Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Johnson
+    - 3.6:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pargat Singh
+    - 3.7:
+        non_striker: A Johnson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Pargat Singh
+    - 4.1:
+        non_striker: A Johnson
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 4.2:
+        non_striker: Pargat Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 4.3:
+        non_striker: Pargat Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 4.4:
+        non_striker: Pargat Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 4.5:
+        non_striker: Pargat Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+    - 4.6:
+        non_striker: Pargat Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Johnson
+        wicket:
+          player_out: A Johnson
+          fielders:
+          - C Campher
+          kind: caught
+    - 5.1:
+        non_striker: DS Bajwa
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pargat Singh
+    - 5.2:
+        non_striker: DS Bajwa
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pargat Singh
+    - 5.3:
+        non_striker: DS Bajwa
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 5.4:
+        non_striker: Pargat Singh
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 5.5:
+        non_striker: Pargat Singh
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 5.6:
+        non_striker: Pargat Singh
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 6.1:
+        non_striker: DS Bajwa
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 6.2:
+        non_striker: Pargat Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 6.3:
+        non_striker: DS Bajwa
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 6.4:
+        non_striker: DS Bajwa
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pargat Singh
+    - 6.5:
+        non_striker: DS Bajwa
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pargat Singh
+    - 6.6:
+        non_striker: DS Bajwa
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+        wicket:
+          player_out: Pargat Singh
+          fielders:
+          - J Little
+          kind: caught
+    - 6.7:
+        non_striker: DS Bajwa
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 7.1:
+        non_striker: NR Kirton
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 7.2:
+        non_striker: DS Bajwa
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 7.3:
+        non_striker: NR Kirton
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 7.4:
+        non_striker: NR Kirton
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Bajwa
+    - 7.5:
+        non_striker: NR Kirton
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 7.6:
+        non_striker: DS Bajwa
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 8.1:
+        non_striker: NR Kirton
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+        wicket:
+          player_out: DS Bajwa
+          kind: caught and bowled
+    - 8.2:
+        non_striker: NR Kirton
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 8.3:
+        non_striker: NR Kirton
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 8.4:
+        non_striker: S Movva
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 8.5:
+        non_striker: S Movva
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 8.6:
+        non_striker: S Movva
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 9.1:
+        non_striker: S Movva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 9.2:
+        non_striker: NR Kirton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.3:
+        non_striker: NR Kirton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.4:
+        non_striker: NR Kirton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 9.5:
+        non_striker: NR Kirton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 9.6:
+        non_striker: S Movva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 10.1:
+        non_striker: NR Kirton
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 10.2:
+        non_striker: S Movva
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 10.3:
+        non_striker: S Movva
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 10.4:
+        non_striker: NR Kirton
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 10.5:
+        non_striker: NR Kirton
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 10.6:
+        non_striker: NR Kirton
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 11.1:
+        non_striker: S Movva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 11.2:
+        non_striker: NR Kirton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 11.3:
+        non_striker: S Movva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 11.4:
+        non_striker: S Movva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 11.5:
+        non_striker: S Movva
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Kirton
+    - 11.6:
+        non_striker: S Movva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 11.7:
+        non_striker: NR Kirton
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 12.1:
+        non_striker: NR Kirton
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 12.2:
+        non_striker: NR Kirton
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 12.3:
+        non_striker: NR Kirton
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 12.4:
+        non_striker: NR Kirton
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 12.5:
+        non_striker: NR Kirton
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 12.6:
+        non_striker: NR Kirton
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 13.1:
+        non_striker: S Movva
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 13.2:
+        non_striker: NR Kirton
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 13.3:
+        non_striker: S Movva
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NR Kirton
+    - 13.4:
+        non_striker: NR Kirton
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 13.5:
+        non_striker: S Movva
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 13.6:
+        non_striker: NR Kirton
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 14.1:
+        non_striker: NR Kirton
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 14.2:
+        non_striker: NR Kirton
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 14.3:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.4:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.5:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 14.6:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 15.1:
+        non_striker: S Movva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Kirton
+    - 15.2:
+        non_striker: S Movva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 15.3:
+        non_striker: S Movva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 15.4:
+        non_striker: NR Kirton
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 15.5:
+        non_striker: S Movva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 15.6:
+        non_striker: S Movva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NR Kirton
+    - 16.1:
+        non_striker: NR Kirton
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 16.2:
+        non_striker: S Movva
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 16.3:
+        non_striker: S Movva
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 16.4:
+        non_striker: S Movva
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 16.5:
+        non_striker: S Movva
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 16.6:
+        non_striker: NR Kirton
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 17.1:
+        non_striker: NR Kirton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 17.2:
+        non_striker: S Movva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 17.3:
+        non_striker: NR Kirton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 17.4:
+        non_striker: NR Kirton
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Movva
+    - 17.5:
+        non_striker: NR Kirton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 17.6:
+        non_striker: S Movva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 17.7:
+        non_striker: NR Kirton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 18.1:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 18.2:
+        non_striker: NR Kirton
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 18.3:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 18.4:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+        wicket:
+          player_out: NR Kirton
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 18.5:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 18.6:
+        non_striker: S Movva
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+        wicket:
+          player_out: D Heyliger
+          fielders:
+          - J Little
+          kind: caught
+    - 19.1:
+        non_striker: Saad Bin Zafar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 19.2:
+        non_striker: S Movva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 19.3:
+        non_striker: Saad Bin Zafar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 19.4:
+        non_striker: Saad Bin Zafar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 19.5:
+        non_striker: Saad Bin Zafar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 19.6:
+        non_striker: Saad Bin Zafar
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+        wicket:
+          player_out: S Movva
+          fielders:
+          - L Tucker
+          - BJ McCarthy
+          kind: run out
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: PR Stirling
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Balbirnie
+    - 0.7:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.8:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.9:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.1:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 1.2:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.7:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: A Balbirnie
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.1:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.3:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 3.4:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.6:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: PR Stirling
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: PR Stirling
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 4.3:
+        non_striker: PR Stirling
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.4:
+        non_striker: PR Stirling
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.6:
+        non_striker: A Balbirnie
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.1:
+        non_striker: PR Stirling
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 5.2:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - S Movva
+          kind: caught
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 5.6:
+        non_striker: L Tucker
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 6.1:
+        non_striker: A Balbirnie
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.2:
+        non_striker: L Tucker
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: caught and bowled
+    - 6.3:
+        non_striker: L Tucker
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.4:
+        non_striker: HT Tector
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 6.5:
+        non_striker: HT Tector
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.6:
+        non_striker: L Tucker
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 7.1:
+        non_striker: HT Tector
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.2:
+        non_striker: L Tucker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 7.3:
+        non_striker: L Tucker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 7.4:
+        non_striker: L Tucker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          kind: bowled
+    - 7.5:
+        non_striker: L Tucker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 7.6:
+        non_striker: C Campher
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.1:
+        non_striker: C Campher
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.2:
+        non_striker: L Tucker
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.3:
+        non_striker: C Campher
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 8.4:
+        non_striker: C Campher
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 8.5:
+        non_striker: C Campher
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 8.6:
+        non_striker: C Campher
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.1:
+        non_striker: C Campher
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 9.2:
+        non_striker: C Campher
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.3:
+        non_striker: L Tucker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.4:
+        non_striker: L Tucker
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 9.5:
+        non_striker: C Campher
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 9.6:
+        non_striker: C Campher
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - NR Kirton
+          - Saad Bin Zafar
+          kind: run out
+    - 10.1:
+        non_striker: C Campher
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GH Dockrell
+    - 10.2:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 10.3:
+        non_striker: C Campher
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 10.4:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 10.5:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - A Johnson
+          kind: caught
+    - 10.6:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 11.1:
+        non_striker: GJ Delany
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 11.2:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 11.3:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 11.4:
+        non_striker: GJ Delany
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 11.5:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 11.6:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 12.1:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 12.2:
+        non_striker: GJ Delany
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 12.3:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          fielders:
+          - S Movva
+          kind: caught
+    - 12.4:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Adair
+    - 12.5:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 12.6:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 12.7:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.1:
+        non_striker: MR Adair
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.2:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 13.3:
+        non_striker: MR Adair
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.4:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 13.5:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 13.6:
+        non_striker: GH Dockrell
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 14.1:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.2:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 14.3:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 14.4:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 14.5:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: GH Dockrell
+    - 14.6:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.1:
+        non_striker: MR Adair
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 15.2:
+        non_striker: MR Adair
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.3:
+        non_striker: GH Dockrell
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 15.4:
+        non_striker: MR Adair
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 15.5:
+        non_striker: MR Adair
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 15.6:
+        non_striker: MR Adair
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 16.1:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 16.2:
+        non_striker: MR Adair
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.3:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 16.4:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 16.5:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 16.6:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 17.1:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 17.2:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 17.3:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.4:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 17.5:
+        non_striker: GH Dockrell
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MR Adair
+    - 17.6:
+        non_striker: MR Adair
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 18.1:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 18.2:
+        non_striker: MR Adair
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 18.3:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 18.4:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 18.5:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 18.6:
+        non_striker: GH Dockrell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 19.1:
+        non_striker: GH Dockrell
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 19.2:
+        non_striker: GH Dockrell
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          kind: caught and bowled
+    - 19.3:
+        non_striker: GH Dockrell
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McCarthy
+    - 19.4:
+        non_striker: GH Dockrell
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+    - 19.5:
+        non_striker: GH Dockrell
+        bowler: JOA Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BJ McCarthy
+    - 19.6:
+        non_striker: BJ McCarthy
+        bowler: JOA Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell

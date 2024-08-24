@@ -1,0 +1,1287 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2024-07-09'
+  gender: male
+  match_type: T20
+  match_type_number: 2744
+  outcome:
+    winner: Norway
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Raza Iqbal
+  players:
+    Slovenia:
+    - Taher Muhammad
+    - Muhammad Siddiqui
+    - Tarun Sharma
+    - Shahid Arshad
+    - Izaz Ali
+    - Rasheed Ali Mamadkhel
+    - Junaed Mullah
+    - S Koppolu
+    - DK Pallekonda
+    - Saeed Waqar Ali
+    - Merwais Shinwari
+    Norway:
+    - Raza Iqbal
+    - Khizer Ahmed
+    - Javed Maroofkhail
+    - Sher Sahak
+    - Wahidullah Sahak
+    - Walid Ghauri
+    - Ali Saleem
+    - Vinay Ravi
+    - Qamar Mushtaque
+    - AJ Parmar
+    - Mandeep Singh
+  registry:
+    people:
+      AJ Parmar: 94113d54
+      Ali Saleem: 661e8a03
+      DK Pallekonda: e77c9807
+      H Pack: fed53c91
+      Izaz Ali: 8a4e101e
+      Javed Maroofkhail: 909d9fac
+      Junaed Mullah: fc963b23
+      Khizer Ahmed: 723ca856
+      M Burns: b3bd0666
+      M Jameson: bdf1ffe3
+      Mandeep Singh: dc39e9ab
+      Merwais Shinwari: 6755b6c7
+      Muhammad Siddiqui: b46b3d9b
+      Qamar Mushtaque: fc362c5d
+      Rasheed Ali Mamadkhel: 72c38d77
+      Raza Iqbal: eee46f77
+      Rizwan Akram: b5346f1e
+      S Koppolu: 3346b14f
+      Saeed Waqar Ali: 1a353572
+      Shahid Arshad: 587e65cc
+      Sher Sahak: 8299b9a2
+      Taher Muhammad: '68832922'
+      Tarun Sharma: f915844b
+      Vinay Ravi: 9c181b99
+      Wahidullah Sahak: 6913e38e
+      Walid Ghauri: 331e137f
+  teams:
+  - Slovenia
+  - Norway
+  toss:
+    winner: Slovenia
+    decision: bat
+  umpires:
+  - M Jameson
+  - Rizwan Akram
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Slovenia
+    deliveries:
+    - 0.1:
+        bowler: Vinay Ravi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Siddiqui
+        batsman: Taher Muhammad
+    - 0.2:
+        bowler: Vinay Ravi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Siddiqui
+        batsman: Taher Muhammad
+    - 0.3:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Siddiqui
+        batsman: Taher Muhammad
+    - 0.4:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Siddiqui
+        batsman: Taher Muhammad
+    - 0.5:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Siddiqui
+        batsman: Taher Muhammad
+    - 0.6:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Siddiqui
+        batsman: Taher Muhammad
+    - 0.7:
+        non_striker: Taher Muhammad
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 0.8:
+        non_striker: Taher Muhammad
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 1.1:
+        non_striker: Muhammad Siddiqui
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 1.2:
+        non_striker: Taher Muhammad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 1.3:
+        non_striker: Taher Muhammad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 1.4:
+        non_striker: Taher Muhammad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+    - 1.5:
+        non_striker: Taher Muhammad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Siddiqui
+        wicket:
+          player_out: Muhammad Siddiqui
+          fielders:
+          - AJ Parmar
+          kind: caught
+    - 1.6:
+        non_striker: Taher Muhammad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 2.1:
+        non_striker: Taher Muhammad
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 2.2:
+        non_striker: Taher Muhammad
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 2.3:
+        non_striker: Tarun Sharma
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+        wicket:
+          player_out: Taher Muhammad
+          fielders:
+          - Khizer Ahmed
+          kind: caught
+    - 2.4:
+        non_striker: Tarun Sharma
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 2.5:
+        non_striker: Tarun Sharma
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 2.6:
+        non_striker: Tarun Sharma
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 3.1:
+        non_striker: Shahid Arshad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 3.2:
+        non_striker: Shahid Arshad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 3.3:
+        non_striker: Shahid Arshad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tarun Sharma
+    - 3.4:
+        non_striker: Shahid Arshad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 3.5:
+        non_striker: Shahid Arshad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 3.6:
+        non_striker: Shahid Arshad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 4.1:
+        non_striker: Tarun Sharma
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 4.2:
+        non_striker: Tarun Sharma
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 4.3:
+        non_striker: Tarun Sharma
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 4.4:
+        non_striker: Shahid Arshad
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 4.5:
+        non_striker: Shahid Arshad
+        bowler: Vinay Ravi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tarun Sharma
+    - 4.6:
+        non_striker: Shahid Arshad
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 4.7:
+        non_striker: Shahid Arshad
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 5.1:
+        non_striker: Shahid Arshad
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 5.2:
+        non_striker: Tarun Sharma
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 5.3:
+        non_striker: Tarun Sharma
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 5.4:
+        non_striker: Tarun Sharma
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahid Arshad
+    - 5.5:
+        non_striker: Tarun Sharma
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Arshad
+    - 5.6:
+        non_striker: Tarun Sharma
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.1:
+        non_striker: Shahid Arshad
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 6.2:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.3:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.4:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.5:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.6:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 7.1:
+        non_striker: Shahid Arshad
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 7.2:
+        non_striker: Shahid Arshad
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 7.3:
+        non_striker: Shahid Arshad
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 7.4:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+        wicket:
+          player_out: Shahid Arshad
+          kind: caught and bowled
+    - 7.5:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izaz Ali
+    - 7.6:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 8.1:
+        non_striker: Izaz Ali
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tarun Sharma
+    - 8.2:
+        non_striker: Izaz Ali
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 8.3:
+        non_striker: Izaz Ali
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 8.4:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 8.5:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Izaz Ali
+    - 8.6:
+        non_striker: Tarun Sharma
+        bowler: Sher Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 9.1:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 9.2:
+        non_striker: Izaz Ali
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 9.3:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 9.4:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 9.5:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+        wicket:
+          player_out: Izaz Ali
+          fielders:
+          - Sher Sahak
+          kind: caught
+    - 9.6:
+        non_striker: Tarun Sharma
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 10.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tarun Sharma
+    - 10.2:
+        non_striker: Tarun Sharma
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 10.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tarun Sharma
+    - 10.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+    - 10.5:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+        wicket:
+          player_out: Tarun Sharma
+          kind: lbw
+    - 10.6:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 11.1:
+        non_striker: Junaed Mullah
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rasheed Ali Mamadkhel
+    - 11.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 11.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaed Mullah
+    - 11.4:
+        non_striker: Junaed Mullah
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 11.5:
+        non_striker: Junaed Mullah
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+    - 11.6:
+        non_striker: Junaed Mullah
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rasheed Ali Mamadkhel
+    - 12.1:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 12.2:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 12.3:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 12.4:
+        non_striker: Rasheed Ali Mamadkhel
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaed Mullah
+    - 12.5:
+        non_striker: Junaed Mullah
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rasheed Ali Mamadkhel
+        wicket:
+          player_out: Rasheed Ali Mamadkhel
+          fielders:
+          - Sher Sahak
+          kind: caught
+    - 12.6:
+        non_striker: Junaed Mullah
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 13.1:
+        non_striker: S Koppolu
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 13.2:
+        non_striker: S Koppolu
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 13.3:
+        non_striker: S Koppolu
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 13.4:
+        non_striker: S Koppolu
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+    - 13.5:
+        non_striker: S Koppolu
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaed Mullah
+        wicket:
+          player_out: Junaed Mullah
+          kind: caught and bowled
+    - 13.6:
+        non_striker: S Koppolu
+        bowler: Raza Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+    - 14.1:
+        non_striker: DK Pallekonda
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 14.2:
+        non_striker: DK Pallekonda
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Koppolu
+    - 14.3:
+        non_striker: S Koppolu
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Pallekonda
+    - 14.4:
+        non_striker: DK Pallekonda
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 14.5:
+        non_striker: DK Pallekonda
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 14.6:
+        non_striker: DK Pallekonda
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+        wicket:
+          player_out: S Koppolu
+          fielders:
+          - Wahidullah Sahak
+          kind: caught
+    - 15.1:
+        non_striker: Saeed Waqar Ali
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+    - 15.2:
+        non_striker: Saeed Waqar Ali
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+    - 15.3:
+        non_striker: Saeed Waqar Ali
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+        wicket:
+          player_out: DK Pallekonda
+          fielders:
+          - Walid Ghauri
+          - Khizer Ahmed
+          kind: run out
+    - 15.4:
+        non_striker: Saeed Waqar Ali
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+    - 15.5:
+        non_striker: Saeed Waqar Ali
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Merwais Shinwari
+        wicket:
+          player_out: Merwais Shinwari
+          fielders:
+          - Vinay Ravi
+          kind: caught
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        non_striker: Khizer Ahmed
+        bowler: Merwais Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Raza Iqbal
+    - 0.2:
+        non_striker: Khizer Ahmed
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raza Iqbal
+    - 0.3:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 0.4:
+        non_striker: Khizer Ahmed
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+    - 0.5:
+        non_striker: Khizer Ahmed
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raza Iqbal
+    - 0.6:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 0.7:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizer Ahmed
+    - 0.8:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizer Ahmed
+    - 0.9:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khizer Ahmed
+    - 0.10:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 1.1:
+        non_striker: Raza Iqbal
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 1.2:
+        non_striker: Raza Iqbal
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 1.3:
+        non_striker: Raza Iqbal
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 1.4:
+        non_striker: Raza Iqbal
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 1.5:
+        non_striker: Raza Iqbal
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 1.6:
+        non_striker: Raza Iqbal
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 2.1:
+        non_striker: Khizer Ahmed
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raza Iqbal
+    - 2.2:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 2.3:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 2.4:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 2.5:
+        non_striker: Raza Iqbal
+        bowler: Merwais Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khizer Ahmed
+    - 2.6:
+        non_striker: Khizer Ahmed
+        bowler: Merwais Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raza Iqbal
+        wicket:
+          player_out: Raza Iqbal
+          fielders:
+          - Rasheed Ali Mamadkhel
+          kind: caught
+    - 3.1:
+        non_striker: Javed Maroofkhail
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 3.2:
+        non_striker: Javed Maroofkhail
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 3.3:
+        non_striker: Khizer Ahmed
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Maroofkhail
+    - 3.4:
+        non_striker: Khizer Ahmed
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Maroofkhail
+    - 3.5:
+        non_striker: Khizer Ahmed
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Javed Maroofkhail
+    - 3.6:
+        non_striker: Khizer Ahmed
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javed Maroofkhail
+    - 3.7:
+        non_striker: Javed Maroofkhail
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 3.8:
+        non_striker: Javed Maroofkhail
+        bowler: Muhammad Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khizer Ahmed
+    - 4.1:
+        non_striker: Javed Maroofkhail
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 4.2:
+        non_striker: Javed Maroofkhail
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khizer Ahmed
+    - 4.3:
+        non_striker: Javed Maroofkhail
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+        wicket:
+          player_out: Khizer Ahmed
+          fielders:
+          - Shahid Arshad
+          kind: caught
+    - 4.4:
+        non_striker: Javed Maroofkhail
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 4.5:
+        non_striker: Sher Sahak
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Maroofkhail
+    - 4.6:
+        non_striker: Sher Sahak
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Maroofkhail
+    - 5.1:
+        non_striker: Javed Maroofkhail
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 5.2:
+        non_striker: Javed Maroofkhail
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 5.3:
+        non_striker: Javed Maroofkhail
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sher Sahak
+    - 5.4:
+        non_striker: Javed Maroofkhail
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 5.5:
+        non_striker: Sher Sahak
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javed Maroofkhail
+    - 5.6:
+        non_striker: Sher Sahak
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javed Maroofkhail

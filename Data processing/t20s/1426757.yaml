@@ -1,0 +1,1816 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dambulla
+  dates:
+  - '2024-07-19'
+  gender: female
+  match_type: T20
+  match_type_number: 1959
+  outcome:
+    winner: India
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - DB Sharma
+  players:
+    Pakistan:
+    - Gull Feroza
+    - Muneeba Ali
+    - Sidra Ameen
+    - Aliya Riaz
+    - Nida Dar
+    - Tuba Hassan
+    - Iram Javed
+    - Fatima Sana
+    - Syeda Aroob Shah
+    - Nashra Sandhu
+    - Sadia Iqbal
+    India:
+    - Shafali Verma
+    - S Mandhana
+    - D Hemalatha
+    - H Kaur
+    - JI Rodrigues
+    - RM Ghosh
+    - DB Sharma
+    - P Vastrakar
+    - RP Yadav
+    - SR Patil
+    - Renuka Singh
+  registry:
+    people:
+      Aliya Riaz: 2904b4b6
+      D Hemalatha: 1d6ff329
+      DB Sharma: 201fef33
+      Fatima Sana: ea9c54de
+      Gull Feroza: 9ff1e91e
+      H Kaur: 53cd8da6
+      H Yerzal: 86197ea5
+      Iram Javed: dc596fac
+      JI Rodrigues: cb08b611
+      JM Pereira: f9a4a039
+      LDVV Silva: 6e226c31
+      Muneeba Ali: 86fdf668
+      N Perera: 129709f9
+      Nashra Sandhu: c981d3c2
+      Nida Dar: ed840f44
+      P Vastrakar: 8026ea72
+      RM Ghosh: 721e0199
+      RP Yadav: 6c3aef71
+      Renuka Singh: 7298db76
+      S Mandhana: 5d2eda89
+      SR Patil: 33946d69
+      Sadia Iqbal: 53bb50f0
+      Shafali Verma: d8f59089
+      Shathira Jakir: 6b992a6f
+      Sidra Ameen: 72c9ad99
+      Syeda Aroob Shah: 4cf8708b
+      Tuba Hassan: 0d56e9a5
+  teams:
+  - Pakistan
+  - India
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - N Perera
+  - Shathira Jakir
+  venue: Rangiri Dambulla International Stadium
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Gull Feroza
+    - 0.2:
+        non_striker: Gull Feroza
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.3:
+        non_striker: Gull Feroza
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.4:
+        non_striker: Gull Feroza
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 0.5:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 0.6:
+        non_striker: Gull Feroza
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Gull Feroza
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gull Feroza
+    - 1.3:
+        non_striker: Muneeba Ali
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.4:
+        non_striker: Muneeba Ali
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          fielders:
+          - H Kaur
+          kind: caught
+    - 1.5:
+        non_striker: Muneeba Ali
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.6:
+        non_striker: Muneeba Ali
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 2.1:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.2:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 2.3:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.5:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.6:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 3.1:
+        non_striker: Muneeba Ali
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.4:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 3.5:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 3.6:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 4.1:
+        non_striker: Aliya Riaz
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.2:
+        non_striker: Aliya Riaz
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.3:
+        non_striker: Aliya Riaz
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.4:
+        non_striker: Aliya Riaz
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.5:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 4.6:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 5.1:
+        non_striker: Aliya Riaz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 5.2:
+        non_striker: Aliya Riaz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.3:
+        non_striker: Aliya Riaz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 5.5:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 5.6:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 6.1:
+        non_striker: Sidra Ameen
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.2:
+        non_striker: Sidra Ameen
+        bowler: RP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 6.3:
+        non_striker: Sidra Ameen
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.4:
+        non_striker: Sidra Ameen
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 6.5:
+        non_striker: Aliya Riaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.6:
+        non_striker: Aliya Riaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.7:
+        non_striker: Aliya Riaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 7.1:
+        non_striker: Aliya Riaz
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.2:
+        non_striker: Aliya Riaz
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.3:
+        non_striker: Aliya Riaz
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 7.4:
+        non_striker: Sidra Ameen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.5:
+        non_striker: Sidra Ameen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 7.6:
+        non_striker: Sidra Ameen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 8.1:
+        non_striker: Nida Dar
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 8.2:
+        non_striker: Sidra Ameen
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 8.3:
+        non_striker: Sidra Ameen
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 8.4:
+        non_striker: Nida Dar
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.5:
+        non_striker: Nida Dar
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.6:
+        non_striker: Nida Dar
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 9.1:
+        non_striker: Nida Dar
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 9.2:
+        non_striker: Nida Dar
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 9.3:
+        non_striker: Nida Dar
+        bowler: SR Patil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sidra Ameen
+    - 9.4:
+        non_striker: Nida Dar
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 9.5:
+        non_striker: Sidra Ameen
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 9.6:
+        non_striker: Nida Dar
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 9.7:
+        non_striker: Nida Dar
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 10.1:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 10.2:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 10.3:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 10.4:
+        non_striker: Nida Dar
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 10.5:
+        non_striker: Nida Dar
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 10.6:
+        non_striker: Sidra Ameen
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 10.7:
+        non_striker: Nida Dar
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 11.1:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 11.2:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 11.3:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 11.4:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Nida Dar
+          fielders:
+          - D Hemalatha
+          kind: caught
+    - 11.5:
+        non_striker: Sidra Ameen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 11.6:
+        non_striker: Tuba Hassan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 12.1:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 12.2:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 12.3:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 12.4:
+        non_striker: Sidra Ameen
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 12.5:
+        non_striker: Tuba Hassan
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          fielders:
+          - RP Yadav
+          kind: caught
+    - 12.6:
+        non_striker: Tuba Hassan
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+        wicket:
+          player_out: Iram Javed
+          kind: lbw
+    - 13.1:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 13.2:
+        non_striker: Tuba Hassan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 13.3:
+        non_striker: Tuba Hassan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 13.4:
+        non_striker: Tuba Hassan
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fatima Sana
+    - 13.5:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 13.6:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tuba Hassan
+    - 14.1:
+        non_striker: Tuba Hassan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 14.2:
+        non_striker: Fatima Sana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 14.3:
+        non_striker: Tuba Hassan
+        bowler: P Vastrakar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fatima Sana
+    - 14.4:
+        non_striker: Tuba Hassan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 14.5:
+        non_striker: Tuba Hassan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 14.6:
+        non_striker: Fatima Sana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tuba Hassan
+    - 14.7:
+        non_striker: Fatima Sana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tuba Hassan
+    - 15.1:
+        non_striker: Tuba Hassan
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 15.2:
+        non_striker: Fatima Sana
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 15.3:
+        non_striker: Fatima Sana
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 15.4:
+        non_striker: Fatima Sana
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tuba Hassan
+    - 15.5:
+        non_striker: Fatima Sana
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 15.6:
+        non_striker: Tuba Hassan
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 16.1:
+        non_striker: Fatima Sana
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tuba Hassan
+    - 16.2:
+        non_striker: Fatima Sana
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 16.3:
+        non_striker: Fatima Sana
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 16.4:
+        non_striker: Tuba Hassan
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 16.5:
+        non_striker: Tuba Hassan
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 16.6:
+        non_striker: Tuba Hassan
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 17.1:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+        wicket:
+          player_out: Tuba Hassan
+          fielders:
+          - RP Yadav
+          kind: caught
+    - 17.2:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syeda Aroob Shah
+    - 17.3:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syeda Aroob Shah
+    - 17.4:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syeda Aroob Shah
+        wicket:
+          player_out: Syeda Aroob Shah
+          fielders:
+          - RP Yadav
+          kind: run out
+    - 17.5:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+        wicket:
+          player_out: Nashra Sandhu
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 17.6:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 18.1:
+        non_striker: Sadia Iqbal
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 18.2:
+        non_striker: Fatima Sana
+        bowler: RP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sadia Iqbal
+    - 18.3:
+        non_striker: Sadia Iqbal
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 18.4:
+        non_striker: Sadia Iqbal
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fatima Sana
+    - 18.5:
+        non_striker: Sadia Iqbal
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 18.6:
+        non_striker: Sadia Iqbal
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fatima Sana
+    - 19.1:
+        non_striker: Fatima Sana
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 19.2:
+        non_striker: Fatima Sana
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+        wicket:
+          player_out: Sadia Iqbal
+          kind: bowled
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: Shafali Verma
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.6:
+        non_striker: Shafali Verma
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.1:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.2:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.4:
+        non_striker: Shafali Verma
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.1:
+        non_striker: S Mandhana
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.4:
+        non_striker: Shafali Verma
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: Shafali Verma
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: Shafali Verma
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.2:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 4.3:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 4.4:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.5:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 4.6:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 5.1:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.3:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 5.5:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 5.6:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 6.1:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.2:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.3:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.4:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.5:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.6:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 7.1:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 7.2:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.3:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 7.4:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 7.5:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 7.6:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 7.7:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 8.1:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 8.2:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.3:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 8.4:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.5:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.6:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 9.1:
+        non_striker: S Mandhana
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 9.2:
+        non_striker: Shafali Verma
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.3:
+        non_striker: Shafali Verma
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - Aliya Riaz
+          kind: caught
+    - 9.4:
+        non_striker: Shafali Verma
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 9.5:
+        non_striker: Shafali Verma
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 9.6:
+        non_striker: Shafali Verma
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 10.1:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 10.2:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 10.3:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 10.4:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Hemalatha
+    - 10.5:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 10.6:
+        non_striker: Shafali Verma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 11.1:
+        non_striker: D Hemalatha
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 11.2:
+        non_striker: Shafali Verma
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 11.3:
+        non_striker: D Hemalatha
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 11.4:
+        non_striker: D Hemalatha
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          kind: bowled
+    - 11.5:
+        non_striker: D Hemalatha
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 11.6:
+        non_striker: D Hemalatha
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 12.1:
+        non_striker: D Hemalatha
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 12.2:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+        wicket:
+          player_out: D Hemalatha
+          fielders:
+          - Tuba Hassan
+          kind: caught
+    - 12.3:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.4:
+        non_striker: JI Rodrigues
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.5:
+        non_striker: JI Rodrigues
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.6:
+        non_striker: JI Rodrigues
+        bowler: Nashra Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Kaur
+    - 13.1:
+        non_striker: JI Rodrigues
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.2:
+        non_striker: H Kaur
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.3:
+        non_striker: JI Rodrigues
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 13.4:
+        non_striker: JI Rodrigues
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 13.5:
+        non_striker: JI Rodrigues
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 13.6:
+        non_striker: JI Rodrigues
+        bowler: Syeda Aroob Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 14.1:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues

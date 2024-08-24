@@ -1,0 +1,1043 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2024-05-09'
+  - '2024-05-10'
+  gender: male
+  match_type: T20
+  match_type_number: 2595
+  outcome:
+    winner: Japan
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - M Taniyama
+  players:
+    Mongolia:
+    - G Ganbold
+    - B Namsrai
+    - M Vivekanandan
+    - E Otgonbayar
+    - T Amarmend
+    - O Lutbayar
+    - T Sumiya
+    - L Erdenebulgan
+    - Z Shurentsetseg
+    - N Naranbaatar
+    - B Terbish
+    Japan:
+    - L Yamamoto-Lake
+    - D Suzuki
+    - W Miyauchi
+    - KH Abe
+    - S Ravichandran
+    - Abdul Samad
+    - B Ito-Davis
+    - K Lake
+    - R Sakurano-Thomas
+    - K Kato-Stafford
+    - M Taniyama
+  registry:
+    people:
+      Abdul Samad: 21dbacff
+      Adam Birss: 0cabf6f4
+      B Ito-Davis: '96275259'
+      B Namsrai: 1d8a3ca6
+      B Terbish: 30c884c8
+      D Suzuki: 64c81abf
+      E Otgonbayar: 3f9783fd
+      G Ganbold: 947346d8
+      K Kato-Stafford: e03ca117
+      K Lake: 20321b0c
+      KH Abe: f22d2247
+      L Erdenebulgan: c4f8d754
+      L Yamamoto-Lake: fa23405f
+      M Taniyama: cbd91942
+      M Vivekanandan: c4e205e4
+      N Naranbaatar: b0e16d9b
+      O Lutbayar: ccd88623
+      R Newman: 5a8f8619
+      R Sakurano-Thomas: dd14abf5
+      S Ravichandran: 9f2be73d
+      T Amarmend: e76c8732
+      T Sumiya: ae19375d
+      W Miyauchi: fef40097
+      Z Shurentsetseg: 45c6afaf
+  teams:
+  - Mongolia
+  - Japan
+  toss:
+    winner: Mongolia
+    decision: bat
+  umpires:
+  - Adam Birss
+  - R Newman
+  venue: Sano International Cricket Ground
+innings:
+- 1st innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Namsrai
+        batsman: G Ganbold
+    - 0.2:
+        non_striker: G Ganbold
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 0.3:
+        non_striker: G Ganbold
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+    - 0.4:
+        non_striker: G Ganbold
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Namsrai
+        wicket:
+          player_out: B Namsrai
+          kind: lbw
+    - 0.5:
+        non_striker: G Ganbold
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 0.6:
+        non_striker: G Ganbold
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 1.1:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ganbold
+    - 1.2:
+        non_striker: G Ganbold
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 1.3:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ganbold
+    - 1.4:
+        non_striker: M Vivekanandan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Ganbold
+    - 1.5:
+        non_striker: G Ganbold
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vivekanandan
+    - 1.6:
+        non_striker: G Ganbold
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 1.7:
+        non_striker: G Ganbold
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 2.1:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Ganbold
+        wicket:
+          player_out: G Ganbold
+          fielders:
+          - S Ravichandran
+          kind: caught
+    - 2.2:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Otgonbayar
+    - 2.3:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 2.4:
+        non_striker: M Vivekanandan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Otgonbayar
+    - 2.5:
+        non_striker: E Otgonbayar
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 2.6:
+        non_striker: E Otgonbayar
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 2.7:
+        non_striker: E Otgonbayar
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 3.1:
+        non_striker: M Vivekanandan
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 3.2:
+        non_striker: M Vivekanandan
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Otgonbayar
+    - 3.3:
+        non_striker: E Otgonbayar
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 3.4:
+        non_striker: E Otgonbayar
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 3.5:
+        non_striker: E Otgonbayar
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 3.6:
+        non_striker: E Otgonbayar
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vivekanandan
+    - 4.1:
+        non_striker: E Otgonbayar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 4.2:
+        non_striker: E Otgonbayar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 4.3:
+        non_striker: E Otgonbayar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 4.4:
+        non_striker: E Otgonbayar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Vivekanandan
+    - 4.5:
+        non_striker: E Otgonbayar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 4.6:
+        non_striker: E Otgonbayar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+    - 5.1:
+        non_striker: M Vivekanandan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 5.2:
+        non_striker: M Vivekanandan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Otgonbayar
+    - 5.3:
+        non_striker: M Vivekanandan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 5.4:
+        non_striker: M Vivekanandan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+    - 5.5:
+        non_striker: M Vivekanandan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Otgonbayar
+    - 5.6:
+        non_striker: E Otgonbayar
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vivekanandan
+        wicket:
+          player_out: M Vivekanandan
+          kind: lbw
+    - 6.1:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Amarmend
+        batsman: E Otgonbayar
+    - 6.2:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: T Amarmend
+        batsman: E Otgonbayar
+    - 6.3:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Amarmend
+        batsman: E Otgonbayar
+    - 6.4:
+        non_striker: T Amarmend
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Otgonbayar
+        wicket:
+          player_out: E Otgonbayar
+          fielders:
+          - K Kato-Stafford
+          kind: caught
+    - 6.5:
+        non_striker: T Amarmend
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 6.6:
+        non_striker: T Amarmend
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 7.1:
+        non_striker: O Lutbayar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 7.2:
+        non_striker: O Lutbayar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 7.3:
+        non_striker: O Lutbayar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 7.4:
+        non_striker: O Lutbayar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+    - 7.5:
+        non_striker: O Lutbayar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amarmend
+        wicket:
+          player_out: T Amarmend
+          fielders:
+          - L Yamamoto-Lake
+          kind: caught
+    - 7.6:
+        non_striker: O Lutbayar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 8.1:
+        non_striker: T Sumiya
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 8.2:
+        non_striker: T Sumiya
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 8.3:
+        non_striker: T Sumiya
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Lutbayar
+    - 8.4:
+        non_striker: O Lutbayar
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 8.5:
+        non_striker: O Lutbayar
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 8.6:
+        non_striker: O Lutbayar
+        bowler: K Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 9.1:
+        non_striker: T Sumiya
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 9.2:
+        non_striker: T Sumiya
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 9.3:
+        non_striker: T Sumiya
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+    - 9.4:
+        non_striker: T Sumiya
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Lutbayar
+        wicket:
+          player_out: O Lutbayar
+          fielders:
+          - W Miyauchi
+          kind: stumped
+    - 9.5:
+        non_striker: T Sumiya
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 9.6:
+        non_striker: T Sumiya
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 10.1:
+        non_striker: L Erdenebulgan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 10.2:
+        non_striker: L Erdenebulgan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 10.3:
+        non_striker: L Erdenebulgan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 10.4:
+        non_striker: L Erdenebulgan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 10.5:
+        non_striker: L Erdenebulgan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+    - 10.6:
+        non_striker: L Erdenebulgan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sumiya
+        wicket:
+          player_out: T Sumiya
+          fielders:
+          - W Miyauchi
+          kind: caught
+    - 11.1:
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Z Shurentsetseg
+        batsman: L Erdenebulgan
+    - 11.2:
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Z Shurentsetseg
+        batsman: L Erdenebulgan
+    - 11.3:
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Z Shurentsetseg
+        batsman: L Erdenebulgan
+    - 11.4:
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Z Shurentsetseg
+        batsman: L Erdenebulgan
+    - 11.5:
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Z Shurentsetseg
+        batsman: L Erdenebulgan
+    - 11.6:
+        non_striker: Z Shurentsetseg
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Erdenebulgan
+    - 12.1:
+        non_striker: Z Shurentsetseg
+        bowler: Abdul Samad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Erdenebulgan
+    - 12.2:
+        non_striker: Z Shurentsetseg
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 12.3:
+        non_striker: Z Shurentsetseg
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 12.4:
+        non_striker: Z Shurentsetseg
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 12.5:
+        non_striker: Z Shurentsetseg
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 12.6:
+        non_striker: Z Shurentsetseg
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 12.7:
+        non_striker: Z Shurentsetseg
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+    - 13.1:
+        non_striker: L Erdenebulgan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 13.2:
+        non_striker: L Erdenebulgan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 13.3:
+        non_striker: L Erdenebulgan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 13.4:
+        non_striker: L Erdenebulgan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 13.5:
+        non_striker: L Erdenebulgan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 13.6:
+        non_striker: L Erdenebulgan
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 14.1:
+        non_striker: Z Shurentsetseg
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Erdenebulgan
+    - 14.2:
+        non_striker: Z Shurentsetseg
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Erdenebulgan
+    - 14.3:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Shurentsetseg
+    - 14.4:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Shurentsetseg
+    - 14.5:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+    - 14.6:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Shurentsetseg
+        wicket:
+          player_out: Z Shurentsetseg
+          fielders:
+          - W Miyauchi
+          kind: caught
+    - 14.7:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 14.8:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Naranbaatar
+    - 14.9:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 14.10:
+        non_striker: L Erdenebulgan
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Naranbaatar
+    - 15.1:
+        non_striker: N Naranbaatar
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Erdenebulgan
+        wicket:
+          player_out: L Erdenebulgan
+          kind: bowled
+    - 15.2:
+        non_striker: N Naranbaatar
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Terbish
+        wicket:
+          player_out: B Terbish
+          kind: lbw
+- 2nd innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: M Vivekanandan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Suzuki
+        batsman: L Yamamoto-Lake
+    - 0.2:
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Suzuki
+        batsman: L Yamamoto-Lake
+    - 0.3:
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Suzuki
+        batsman: L Yamamoto-Lake
+    - 0.4:
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Suzuki
+        batsman: L Yamamoto-Lake
+    - 0.5:
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Suzuki
+        batsman: L Yamamoto-Lake
+    - 0.6:
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Suzuki
+        batsman: L Yamamoto-Lake
+    - 0.7:
+        non_striker: D Suzuki
+        bowler: M Vivekanandan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Yamamoto-Lake
+    - 1.1:
+        non_striker: L Yamamoto-Lake
+        bowler: T Amarmend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Suzuki
+    - 1.2:
+        non_striker: L Yamamoto-Lake
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Suzuki
+    - 1.3:
+        non_striker: L Yamamoto-Lake
+        bowler: T Amarmend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Suzuki
+    - 1.4:
+        non_striker: L Yamamoto-Lake
+        bowler: T Amarmend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Suzuki
+    - 1.5:
+        non_striker: L Yamamoto-Lake
+        bowler: T Amarmend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki

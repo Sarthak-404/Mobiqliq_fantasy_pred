@@ -1,0 +1,2202 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2023-03-02'
+  gender: male
+  match_type: T20
+  match_type_number: 2010
+  outcome:
+    winner: Cayman Islands
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - RA Sealy
+  players:
+    Cayman Islands:
+    - YSD Seneveratne
+    - BKB Corbin
+    - P Manning
+    - RA Sealy
+    - AF Ifill
+    - P Chin
+    - J Buchanan
+    - D Johnson
+    - C Wright
+    - T Hewa
+    - A Wright
+    Panama:
+    - Mahmud Jasat
+    - M Sohel Patel
+    - Sohel Patel
+    - Irfan Hafejee
+    - VC Ahir
+    - A Natubhai Ahir
+    - FL Patel
+    - RDB Ahir
+    - Abdullah Jasat
+    - HJ Patel
+    - KB Ahir
+  registry:
+    people:
+      A Natubhai Ahir: 9c91218d
+      A Wright: 4bb7f51e
+      AF Ifill: 0e6c2f00
+      AR Maddela: 5c861579
+      Abdullah Jasat: 5a42db78
+      BKB Corbin: 036b8660
+      C Wright: d465c6d7
+      D Johnson: d406e303
+      FL Patel: e205ce8b
+      HJ Patel: 2e3c45d3
+      Irfan Hafejee: 244009ae
+      J Buchanan: 01127aa9
+      KB Ahir: 214cf493
+      M Sohel Patel: 40a5bcf9
+      Mahmud Jasat: 97e36a0f
+      N Duguid: '64495506'
+      P Chin: 21267b60
+      P Manning: f06b5585
+      RA Sealy: 1e98804a
+      RDB Ahir: 2f6f44bb
+      Reon King: 20fbf68c
+      Sohel Patel: 9ac70727
+      T Hewa: 3c19f045
+      VC Ahir: 0bb68705
+      Vijaya Mallela: 85b6244a
+      YSD Seneveratne: 0f71478c
+  teams:
+  - Cayman Islands
+  - Panama
+  toss:
+    winner: Cayman Islands
+    decision: bat
+  umpires:
+  - AR Maddela
+  - N Duguid
+  venue: Hurlingham Club Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BKB Corbin
+        batsman: YSD Seneveratne
+    - 0.2:
+        non_striker: YSD Seneveratne
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+    - 0.3:
+        non_striker: YSD Seneveratne
+        bowler: KB Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BKB Corbin
+    - 0.4:
+        non_striker: BKB Corbin
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 0.5:
+        non_striker: BKB Corbin
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+        wicket:
+          player_out: YSD Seneveratne
+          fielders:
+          - Mahmud Jasat
+          kind: caught
+    - 0.6:
+        non_striker: BKB Corbin
+        bowler: KB Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Manning
+    - 0.7:
+        non_striker: BKB Corbin
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 1.1:
+        non_striker: BKB Corbin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 1.2:
+        non_striker: BKB Corbin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Manning
+    - 1.3:
+        non_striker: BKB Corbin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Manning
+    - 1.4:
+        non_striker: BKB Corbin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 1.5:
+        non_striker: P Manning
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKB Corbin
+    - 1.6:
+        non_striker: BKB Corbin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Manning
+    - 1.7:
+        non_striker: BKB Corbin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 1.8:
+        non_striker: P Manning
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKB Corbin
+    - 2.1:
+        non_striker: BKB Corbin
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 2.2:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKB Corbin
+    - 2.3:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+    - 2.4:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKB Corbin
+    - 2.5:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+    - 2.6:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKB Corbin
+        wicket:
+          player_out: BKB Corbin
+          fielders:
+          - Sohel Patel
+          kind: caught
+    - 3.1:
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Sealy
+        batsman: P Manning
+    - 3.2:
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Sealy
+        batsman: P Manning
+    - 3.3:
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RA Sealy
+        batsman: P Manning
+    - 3.4:
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Sealy
+        batsman: P Manning
+    - 3.5:
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Sealy
+        batsman: P Manning
+    - 3.6:
+        non_striker: RA Sealy
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Manning
+    - 4.1:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 4.2:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 4.3:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 4.4:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Sealy
+    - 4.5:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 4.6:
+        non_striker: P Manning
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 4.7:
+        non_striker: RA Sealy
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 5.1:
+        non_striker: P Manning
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 5.2:
+        non_striker: P Manning
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 5.3:
+        non_striker: P Manning
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RA Sealy
+    - 5.4:
+        non_striker: RA Sealy
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 5.5:
+        non_striker: RA Sealy
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 5.6:
+        non_striker: RA Sealy
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 6.1:
+        non_striker: RA Sealy
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+    - 6.2:
+        non_striker: RA Sealy
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Manning
+    - 6.3:
+        non_striker: RA Sealy
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 6.4:
+        non_striker: P Manning
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 6.5:
+        non_striker: RA Sealy
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 6.6:
+        non_striker: P Manning
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 7.1:
+        non_striker: P Manning
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 7.2:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Manning
+    - 7.3:
+        non_striker: P Manning
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 7.4:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Manning
+        wicket:
+          player_out: P Manning
+          kind: bowled
+    - 7.5:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+    - 7.6:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+    - 8.1:
+        non_striker: AF Ifill
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RA Sealy
+    - 8.2:
+        non_striker: RA Sealy
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Ifill
+    - 8.3:
+        non_striker: AF Ifill
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 8.4:
+        non_striker: AF Ifill
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 8.5:
+        non_striker: RA Sealy
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Ifill
+    - 8.6:
+        non_striker: AF Ifill
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 9.1:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+    - 9.2:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+    - 9.3:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+    - 9.4:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Ifill
+    - 9.5:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+    - 9.6:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Ifill
+    - 10.1:
+        non_striker: RA Sealy
+        bowler: Sohel Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Ifill
+    - 10.2:
+        non_striker: AF Ifill
+        bowler: Sohel Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.3:
+        non_striker: RA Sealy
+        bowler: Sohel Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Ifill
+    - 10.4:
+        non_striker: AF Ifill
+        bowler: Sohel Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 10.5:
+        non_striker: AF Ifill
+        bowler: Sohel Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.6:
+        non_striker: RA Sealy
+        bowler: Sohel Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+    - 11.1:
+        non_striker: AF Ifill
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 11.2:
+        non_striker: AF Ifill
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 11.3:
+        non_striker: AF Ifill
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 11.4:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AF Ifill
+    - 11.5:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Ifill
+        wicket:
+          player_out: AF Ifill
+          fielders:
+          - Sohel Patel
+          kind: caught
+    - 11.6:
+        non_striker: RA Sealy
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 12.1:
+        non_striker: P Chin
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 12.2:
+        non_striker: P Chin
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 12.3:
+        non_striker: P Chin
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 12.4:
+        non_striker: P Chin
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 12.5:
+        non_striker: P Chin
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 12.6:
+        non_striker: RA Sealy
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 13.1:
+        non_striker: P Chin
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 13.2:
+        non_striker: P Chin
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+        wicket:
+          player_out: RA Sealy
+          fielders:
+          - HJ Patel
+          kind: caught
+    - 13.3:
+        non_striker: P Chin
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Buchanan
+    - 13.4:
+        non_striker: P Chin
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Buchanan
+    - 13.5:
+        non_striker: P Chin
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Buchanan
+    - 13.6:
+        non_striker: J Buchanan
+        bowler: Irfan Hafejee
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: P Chin
+    - 13.7:
+        non_striker: P Chin
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Buchanan
+    - 14.1:
+        non_striker: J Buchanan
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Chin
+    - 14.2:
+        non_striker: J Buchanan
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Chin
+    - 14.3:
+        non_striker: J Buchanan
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Chin
+    - 14.4:
+        non_striker: P Chin
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Buchanan
+    - 14.5:
+        non_striker: J Buchanan
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 14.6:
+        non_striker: J Buchanan
+        bowler: VC Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Chin
+    - 15.1:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Buchanan
+    - 15.2:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Buchanan
+    - 15.3:
+        non_striker: J Buchanan
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 15.4:
+        non_striker: J Buchanan
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Chin
+    - 15.5:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Buchanan
+    - 15.6:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Buchanan
+    - 16.1:
+        non_striker: P Chin
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Buchanan
+    - 16.2:
+        non_striker: J Buchanan
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 16.3:
+        non_striker: J Buchanan
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Chin
+    - 16.4:
+        non_striker: J Buchanan
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Chin
+    - 16.5:
+        non_striker: J Buchanan
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Chin
+    - 16.6:
+        non_striker: J Buchanan
+        bowler: RDB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Chin
+    - 17.1:
+        non_striker: J Buchanan
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 17.2:
+        non_striker: J Buchanan
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: P Chin
+    - 17.3:
+        non_striker: J Buchanan
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Chin
+    - 17.4:
+        non_striker: J Buchanan
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Chin
+    - 17.5:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Buchanan
+    - 17.6:
+        non_striker: J Buchanan
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Chin
+    - 18.1:
+        non_striker: J Buchanan
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Chin
+    - 18.2:
+        non_striker: J Buchanan
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Chin
+    - 18.3:
+        non_striker: P Chin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Buchanan
+        wicket:
+          player_out: J Buchanan
+          fielders:
+          - RDB Ahir
+          kind: caught
+    - 18.4:
+        non_striker: P Chin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+    - 18.5:
+        non_striker: P Chin
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Johnson
+    - 18.6:
+        non_striker: D Johnson
+        bowler: Abdullah Jasat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Chin
+    - 19.1:
+        non_striker: D Johnson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Chin
+    - 19.2:
+        non_striker: D Johnson
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Chin
+    - 19.3:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+    - 19.4:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: D Johnson
+    - 19.5:
+        non_striker: P Chin
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Johnson
+        wicket:
+          player_out: P Chin
+          fielders:
+          - A Natubhai Ahir
+          kind: run out
+    - 19.6:
+        non_striker: C Wright
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Johnson
+- 2nd innings:
+    team: Panama
+    deliveries:
+    - 0.1:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Sohel Patel
+        batsman: Mahmud Jasat
+    - 0.2:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Sohel Patel
+        batsman: Mahmud Jasat
+    - 0.3:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Sohel Patel
+        batsman: Mahmud Jasat
+    - 0.4:
+        non_striker: Mahmud Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sohel Patel
+        wicket:
+          player_out: M Sohel Patel
+          fielders:
+          - P Manning
+          kind: caught
+    - 0.5:
+        non_striker: Mahmud Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohel Patel
+    - 0.6:
+        non_striker: Mahmud Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohel Patel
+    - 1.1:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohel Patel
+    - 1.2:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohel Patel
+    - 1.3:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sohel Patel
+    - 1.4:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Sohel Patel
+    - 1.5:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohel Patel
+    - 1.6:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sohel Patel
+    - 1.7:
+        non_striker: Sohel Patel
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.1:
+        non_striker: Mahmud Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohel Patel
+        wicket:
+          player_out: Sohel Patel
+          kind: bowled
+    - 2.2:
+        non_striker: Mahmud Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 2.3:
+        non_striker: Mahmud Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 2.4:
+        non_striker: Irfan Hafejee
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.5:
+        non_striker: Irfan Hafejee
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 2.6:
+        non_striker: Irfan Hafejee
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 3.1:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 3.2:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Irfan Hafejee
+    - 3.3:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Irfan Hafejee
+    - 3.4:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 3.5:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 3.6:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 3.7:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 3.8:
+        non_striker: Mahmud Jasat
+        bowler: T Hewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 4.1:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Irfan Hafejee
+    - 4.2:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 4.3:
+        non_striker: Irfan Hafejee
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 4.4:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 4.5:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 4.6:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 4.7:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 5.1:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 5.2:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 5.3:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 5.4:
+        non_striker: Irfan Hafejee
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 5.5:
+        non_striker: Irfan Hafejee
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 5.6:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 6.1:
+        non_striker: Irfan Hafejee
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 6.2:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 6.3:
+        non_striker: Irfan Hafejee
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 6.4:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 6.5:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 6.6:
+        non_striker: Mahmud Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 7.1:
+        non_striker: Irfan Hafejee
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 7.2:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 7.3:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 7.4:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 7.5:
+        non_striker: Irfan Hafejee
+        bowler: A Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mahmud Jasat
+    - 7.6:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 8.1:
+        non_striker: Mahmud Jasat
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 8.2:
+        non_striker: Mahmud Jasat
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Hafejee
+    - 8.3:
+        non_striker: Mahmud Jasat
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 8.4:
+        non_striker: Mahmud Jasat
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 8.5:
+        non_striker: Mahmud Jasat
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 8.6:
+        non_striker: Irfan Hafejee
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 9.1:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.2:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.3:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Hafejee
+    - 9.4:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.5:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.6:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 10.1:
+        non_striker: Irfan Hafejee
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahmud Jasat
+    - 10.2:
+        non_striker: Irfan Hafejee
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 10.3:
+        non_striker: Irfan Hafejee
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 10.4:
+        non_striker: Irfan Hafejee
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 10.5:
+        non_striker: Mahmud Jasat
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 10.6:
+        non_striker: Mahmud Jasat
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+        wicket:
+          player_out: Irfan Hafejee
+          fielders:
+          - RA Sealy
+          kind: caught
+    - 11.1:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: VC Ahir
+        batsman: Mahmud Jasat
+    - 11.2:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VC Ahir
+        batsman: Mahmud Jasat
+    - 11.3:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: VC Ahir
+        batsman: Mahmud Jasat
+    - 11.4:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VC Ahir
+        batsman: Mahmud Jasat
+    - 11.5:
+        non_striker: Mahmud Jasat
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VC Ahir
+    - 11.6:
+        non_striker: VC Ahir
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 12.1:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+        wicket:
+          player_out: Mahmud Jasat
+          kind: caught and bowled
+    - 12.2:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 12.3:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Natubhai Ahir
+    - 12.4:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 12.5:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 12.6:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 13.1:
+        non_striker: VC Ahir
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Natubhai Ahir
+    - 13.2:
+        non_striker: VC Ahir
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 13.3:
+        non_striker: VC Ahir
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Natubhai Ahir
+    - 13.4:
+        non_striker: VC Ahir
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Natubhai Ahir
+    - 13.5:
+        non_striker: VC Ahir
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Natubhai Ahir
+    - 13.6:
+        non_striker: VC Ahir
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 14.1:
+        non_striker: A Natubhai Ahir
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VC Ahir
+    - 14.2:
+        non_striker: A Natubhai Ahir
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VC Ahir
+    - 14.3:
+        non_striker: A Natubhai Ahir
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Ahir
+    - 14.4:
+        non_striker: A Natubhai Ahir
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VC Ahir
+    - 14.5:
+        non_striker: A Natubhai Ahir
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Ahir
+    - 14.6:
+        non_striker: A Natubhai Ahir
+        bowler: P Manning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VC Ahir
+    - 15.1:
+        non_striker: A Natubhai Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Ahir
+    - 15.2:
+        non_striker: A Natubhai Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VC Ahir
+    - 15.3:
+        non_striker: A Natubhai Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VC Ahir
+    - 15.4:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 15.5:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+        wicket:
+          player_out: A Natubhai Ahir
+          fielders:
+          - C Wright
+          kind: caught
+    - 15.6:
+        non_striker: VC Ahir
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Patel
+    - 16.1:
+        non_striker: FL Patel
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Ahir
+    - 16.2:
+        non_striker: FL Patel
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VC Ahir
+    - 16.3:
+        non_striker: VC Ahir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FL Patel
+    - 16.4:
+        non_striker: VC Ahir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Patel
+        wicket:
+          player_out: FL Patel
+          fielders:
+          - RA Sealy
+          kind: caught
+    - 16.5:
+        non_striker: VC Ahir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RDB Ahir
+    - 16.6:
+        non_striker: VC Ahir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 17.1:
+        non_striker: VC Ahir
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDB Ahir
+    - 17.2:
+        non_striker: VC Ahir
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 17.3:
+        non_striker: RDB Ahir
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Ahir
+        wicket:
+          player_out: VC Ahir
+          fielders:
+          - T Hewa
+          kind: caught
+    - 17.4:
+        non_striker: RDB Ahir
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdullah Jasat
+    - 17.5:
+        non_striker: RDB Ahir
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Jasat
+    - 17.6:
+        non_striker: Abdullah Jasat
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+    - 18.1:
+        non_striker: Abdullah Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RDB Ahir
+    - 18.2:
+        non_striker: Abdullah Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RDB Ahir
+    - 18.3:
+        non_striker: Abdullah Jasat
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+        wicket:
+          player_out: Abdullah Jasat
+          fielders:
+          - RA Sealy
+          kind: run out
+    - 18.4:
+        non_striker: RDB Ahir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Patel
+    - 18.5:
+        non_striker: RDB Ahir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Patel
+    - 18.6:
+        non_striker: RDB Ahir
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Patel
+    - 19.1:
+        non_striker: HJ Patel
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RDB Ahir
+    - 19.2:
+        non_striker: HJ Patel
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RDB Ahir
+        wicket:
+          player_out: RDB Ahir
+          fielders:
+          - RA Sealy
+          - D Johnson
+          kind: run out
+    - 19.3:
+        non_striker: HJ Patel
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KB Ahir
+    - 19.4:
+        non_striker: KB Ahir
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Patel
+    - 19.5:
+        non_striker: KB Ahir
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Patel
+    - 19.6:
+        non_striker: KB Ahir
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Patel
+        wicket:
+          player_out: HJ Patel
+          fielders:
+          - P Manning
+          kind: caught

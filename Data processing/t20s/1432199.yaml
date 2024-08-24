@@ -1,0 +1,1835 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dreux
+  dates:
+  - '2024-05-11'
+  gender: male
+  match_type: T20
+  match_type_number: 2605
+  outcome:
+    winner: France
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Ikbal Hossain
+  players:
+    Belgium:
+    - S Jamil
+    - Sazzad Hosen
+    - F Khaliq
+    - B Niaz
+    - Sheraz Sheikh
+    - Shaheryar Butt
+    - Saber Zakhil
+    - Waqas Ali
+    - Murid Ekrami
+    - Zaki Ul Hassan
+    - Sajad Ahmadzai
+    France:
+    - H Niaz
+    - Zain Ahmad
+    - G Mckeon
+    - C Roberts
+    - L Canessane
+    - Mukhtar Ghulami
+    - Ikbal Hossain
+    - R Mangal
+    - Rahmatullah Mangal
+    - Noman Amjad
+    - S Stanikzay
+  registry:
+    people:
+      Asif Zahir: 2f4f7785
+      Atif Zahir: bdebac8a
+      B Niaz: b7824537
+      C Roberts: 07ac9c54
+      F Khaliq: c17dcc29
+      G Mckeon: 31366b7e
+      H Niaz: d0e2e8ea
+      Ikbal Hossain: e01d2dae
+      L Canessane: 72a4c3b2
+      Mukhtar Ghulami: d3b1d991
+      Murid Ekrami: 76b19864
+      Niaz Chaudhry: 5abe5d27
+      Noman Amjad: c079c66a
+      R Mangal: 5360c9be
+      Rahmatullah Mangal: ec106638
+      S Jamil: 3d6617c6
+      S Stanikzay: c5445834
+      Saber Zakhil: 036dcf9b
+      Sajad Ahmadzai: 6978bff0
+      Sazzad Hosen: 4dd6a707
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      Waqas Ali: 2fd4669a
+      Waseem Dar: 1a335960
+      Zain Ahmad: ea2c0aff
+      Zaki Ul Hassan: 1d6d8a8b
+  teams:
+  - Belgium
+  - France
+  toss:
+    winner: Belgium
+    decision: bat
+  umpires:
+  - Atif Zahir
+  - Waseem Dar
+  venue: Dreux Sport Cricket Club
+innings:
+- 1st innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sazzad Hosen
+        batsman: S Jamil
+    - 0.2:
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sazzad Hosen
+        batsman: S Jamil
+    - 0.3:
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sazzad Hosen
+        batsman: S Jamil
+    - 0.4:
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sazzad Hosen
+        batsman: S Jamil
+    - 0.5:
+        bowler: Ikbal Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Sazzad Hosen
+        batsman: S Jamil
+    - 0.6:
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sazzad Hosen
+        batsman: S Jamil
+    - 0.7:
+        non_striker: Sazzad Hosen
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jamil
+    - 1.1:
+        non_striker: Sazzad Hosen
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jamil
+    - 1.2:
+        non_striker: S Jamil
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazzad Hosen
+    - 1.3:
+        non_striker: S Jamil
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sazzad Hosen
+    - 1.4:
+        non_striker: S Jamil
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sazzad Hosen
+    - 1.5:
+        non_striker: S Jamil
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazzad Hosen
+    - 1.6:
+        non_striker: S Jamil
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sazzad Hosen
+    - 1.7:
+        non_striker: Sazzad Hosen
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 2.1:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sazzad Hosen
+        wicket:
+          player_out: Sazzad Hosen
+          fielders:
+          - G Mckeon
+          kind: caught
+    - 2.2:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Khaliq
+    - 2.3:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Khaliq
+    - 2.4:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Khaliq
+        wicket:
+          player_out: F Khaliq
+          fielders:
+          - R Mangal
+          kind: caught
+    - 2.5:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 2.6:
+        non_striker: B Niaz
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 2.7:
+        non_striker: B Niaz
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jamil
+    - 3.1:
+        non_striker: B Niaz
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 3.2:
+        non_striker: B Niaz
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 3.3:
+        non_striker: B Niaz
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 3.4:
+        non_striker: B Niaz
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 3.5:
+        non_striker: B Niaz
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jamil
+    - 3.6:
+        non_striker: B Niaz
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jamil
+    - 3.7:
+        non_striker: B Niaz
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 4.1:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 4.2:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+    - 4.3:
+        non_striker: S Jamil
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Niaz
+    - 4.4:
+        non_striker: B Niaz
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jamil
+    - 4.5:
+        non_striker: B Niaz
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+    - 4.6:
+        non_striker: B Niaz
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jamil
+        wicket:
+          player_out: S Jamil
+          kind: bowled
+    - 5.1:
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        batsman: B Niaz
+    - 5.2:
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Sheraz Sheikh
+        batsman: B Niaz
+    - 5.3:
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        batsman: B Niaz
+    - 5.4:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Niaz
+        wicket:
+          player_out: B Niaz
+          kind: lbw
+    - 5.5:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 5.6:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 6.1:
+        non_striker: Shaheryar Butt
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 6.2:
+        non_striker: Shaheryar Butt
+        bowler: Ikbal Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sheraz Sheikh
+    - 6.3:
+        non_striker: Shaheryar Butt
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 6.4:
+        non_striker: Sheraz Sheikh
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 6.5:
+        non_striker: Sheraz Sheikh
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 6.6:
+        non_striker: Sheraz Sheikh
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 6.7:
+        non_striker: Sheraz Sheikh
+        bowler: Ikbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 7.1:
+        non_striker: Shaheryar Butt
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 7.2:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 7.3:
+        non_striker: Shaheryar Butt
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 7.4:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheryar Butt
+    - 7.5:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 7.6:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 8.1:
+        non_striker: Sheraz Sheikh
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 8.2:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 8.3:
+        non_striker: Sheraz Sheikh
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 8.4:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 8.5:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 8.6:
+        non_striker: Sheraz Sheikh
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 9.1:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 9.2:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 9.3:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheryar Butt
+    - 9.4:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheryar Butt
+    - 9.5:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 9.6:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 10.1:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sheraz Sheikh
+    - 10.2:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 10.3:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 10.4:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+        wicket:
+          player_out: Sheraz Sheikh
+          kind: caught and bowled
+    - 10.5:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 10.6:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 11.1:
+        non_striker: Saber Zakhil
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.2:
+        non_striker: Saber Zakhil
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 11.3:
+        non_striker: Shaheryar Butt
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 11.4:
+        non_striker: Saber Zakhil
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.5:
+        non_striker: Saber Zakhil
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 11.6:
+        non_striker: Shaheryar Butt
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+        wicket:
+          player_out: Saber Zakhil
+          fielders:
+          - H Niaz
+          kind: caught
+    - 12.1:
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Waqas Ali
+        batsman: Shaheryar Butt
+    - 12.2:
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Waqas Ali
+        batsman: Shaheryar Butt
+    - 12.3:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ali
+    - 12.4:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 12.5:
+        non_striker: Waqas Ali
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 12.6:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqas Ali
+    - 13.1:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 13.2:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheryar Butt
+    - 13.3:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 13.4:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 13.5:
+        non_striker: Shaheryar Butt
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 13.6:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 14.1:
+        non_striker: Waqas Ali
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheryar Butt
+    - 14.2:
+        non_striker: Waqas Ali
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 14.3:
+        non_striker: Waqas Ali
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 14.4:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqas Ali
+    - 14.5:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 14.6:
+        non_striker: Waqas Ali
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 14.7:
+        non_striker: Shaheryar Butt
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 15.1:
+        non_striker: Shaheryar Butt
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 15.2:
+        non_striker: Waqas Ali
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheryar Butt
+    - 15.3:
+        non_striker: Waqas Ali
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 15.4:
+        non_striker: Shaheryar Butt
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 15.5:
+        non_striker: Waqas Ali
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheryar Butt
+    - 15.6:
+        non_striker: Waqas Ali
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 16.1:
+        non_striker: Shaheryar Butt
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ali
+    - 16.2:
+        non_striker: Shaheryar Butt
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 16.3:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 16.4:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+        wicket:
+          player_out: Shaheryar Butt
+          fielders:
+          - Zain Ahmad
+          kind: caught
+    - 16.5:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murid Ekrami
+    - 16.6:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murid Ekrami
+    - 17.1:
+        non_striker: Murid Ekrami
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 17.2:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murid Ekrami
+        wicket:
+          player_out: Murid Ekrami
+          fielders:
+          - C Roberts
+          kind: caught
+    - 17.3:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaki Ul Hassan
+    - 17.4:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zaki Ul Hassan
+    - 17.5:
+        non_striker: Waqas Ali
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaki Ul Hassan
+    - 17.6:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zaki Ul Hassan
+        batsman: Waqas Ali
+    - 18.1:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaki Ul Hassan
+    - 18.2:
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zaki Ul Hassan
+        batsman: Waqas Ali
+    - 18.3:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zaki Ul Hassan
+        batsman: Waqas Ali
+    - 18.4:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaki Ul Hassan
+    - 18.5:
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zaki Ul Hassan
+        batsman: Waqas Ali
+    - 18.6:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zaki Ul Hassan
+        batsman: Waqas Ali
+    - 18.7:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zaki Ul Hassan
+    - 18.8:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zaki Ul Hassan
+    - 18.9:
+        non_striker: Waqas Ali
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zaki Ul Hassan
+    - 19.1:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zaki Ul Hassan
+        batsman: Waqas Ali
+        wicket:
+          player_out: Waqas Ali
+          kind: bowled
+    - 19.2:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zaki Ul Hassan
+        batsman: Sajad Ahmadzai
+    - 19.3:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zaki Ul Hassan
+        batsman: Sajad Ahmadzai
+        wicket:
+          player_out: Sajad Ahmadzai
+          fielders:
+          - C Roberts
+          kind: caught
+- 2nd innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zain Ahmad
+        batsman: H Niaz
+    - 0.2:
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Zain Ahmad
+        batsman: H Niaz
+    - 0.3:
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zain Ahmad
+        batsman: H Niaz
+    - 0.4:
+        non_striker: H Niaz
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zain Ahmad
+    - 0.5:
+        non_striker: H Niaz
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 0.6:
+        non_striker: H Niaz
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 0.7:
+        non_striker: Zain Ahmad
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Niaz
+    - 1.1:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Niaz
+        wicket:
+          player_out: H Niaz
+          fielders:
+          - Shaheryar Butt
+          kind: caught
+    - 1.2:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 1.3:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 1.4:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zain Ahmad
+    - 1.5:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 1.6:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zain Ahmad
+    - 1.7:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 2.1:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zain Ahmad
+    - 2.2:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 2.3:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zain Ahmad
+    - 2.4:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zain Ahmad
+    - 2.5:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zain Ahmad
+    - 2.6:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zain Ahmad
+    - 3.1:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.2:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.3:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.4:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 3.5:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Mckeon
+    - 3.6:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Mckeon
+    - 3.7:
+        non_striker: Zain Ahmad
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 3.8:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Zain Ahmad
+    - 4.1:
+        non_striker: Zain Ahmad
+        bowler: Murid Ekrami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Mckeon
+    - 4.2:
+        non_striker: Zain Ahmad
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 4.3:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zain Ahmad
+    - 4.4:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+        wicket:
+          player_out: Zain Ahmad
+          fielders:
+          - Shaheryar Butt
+          kind: caught
+    - 4.5:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Roberts
+    - 4.6:
+        non_striker: C Roberts
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 4.7:
+        non_striker: C Roberts
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 5.1:
+        non_striker: G Mckeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 5.2:
+        non_striker: G Mckeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 5.3:
+        non_striker: G Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 5.4:
+        non_striker: C Roberts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: G Mckeon
+    - 5.5:
+        non_striker: C Roberts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: G Mckeon
+    - 5.6:
+        non_striker: C Roberts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        bowler: Zaki Ul Hassan
+        batsman: G Mckeon
+    - 6.1:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Roberts
+    - 6.2:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 6.3:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 6.4:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 6.5:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 6.6:
+        non_striker: C Roberts
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 6.7:
+        non_striker: C Roberts
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 7.1:
+        non_striker: G Mckeon
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Roberts
+    - 7.2:
+        non_striker: G Mckeon
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 7.3:
+        non_striker: G Mckeon
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Roberts
+    - 7.4:
+        non_striker: G Mckeon
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 7.5:
+        non_striker: G Mckeon
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 7.6:
+        non_striker: C Roberts
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 8.1:
+        non_striker: G Mckeon
+        bowler: S Jamil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 8.2:
+        non_striker: C Roberts
+        bowler: S Jamil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 8.3:
+        non_striker: G Mckeon
+        bowler: S Jamil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 8.4:
+        non_striker: G Mckeon
+        bowler: S Jamil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Roberts
+    - 8.5:
+        non_striker: G Mckeon
+        bowler: S Jamil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Roberts
+    - 8.6:
+        non_striker: G Mckeon
+        bowler: S Jamil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 8.7:
+        non_striker: G Mckeon
+        bowler: S Jamil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Roberts
+    - 9.1:
+        non_striker: C Roberts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: G Mckeon
+    - 9.2:
+        non_striker: C Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Zaki Ul Hassan
+        batsman: G Mckeon
+    - 9.3:
+        non_striker: G Mckeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 9.4:
+        non_striker: G Mckeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 9.5:
+        non_striker: G Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 9.6:
+        non_striker: C Roberts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: Zaki Ul Hassan
+        batsman: G Mckeon
+    - 10.1:
+        non_striker: G Mckeon
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 10.2:
+        non_striker: G Mckeon
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 10.3:
+        non_striker: C Roberts
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 10.4:
+        non_striker: C Roberts
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 10.5:
+        non_striker: C Roberts
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+        wicket:
+          player_out: G Mckeon
+          kind: bowled
+    - 10.6:
+        non_striker: C Roberts
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 11.1:
+        non_striker: L Canessane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 11.2:
+        non_striker: L Canessane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 11.3:
+        non_striker: L Canessane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 11.4:
+        non_striker: L Canessane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 11.5:
+        non_striker: L Canessane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Zaki Ul Hassan
+        batsman: C Roberts
+    - 11.6:
+        non_striker: C Roberts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: Zaki Ul Hassan
+        batsman: L Canessane
+    - 12.1:
+        non_striker: L Canessane
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 12.2:
+        non_striker: L Canessane
+        bowler: B Niaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Roberts

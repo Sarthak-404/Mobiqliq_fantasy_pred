@@ -1,0 +1,1831 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2024-02-16'
+  gender: male
+  match_type: T20
+  match_type_number: 2475
+  outcome:
+    winner: Saudi Arabia
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Usman Khalid
+  players:
+    Thailand:
+    - AP Yadav
+    - C Chatphaisan
+    - S Desungnoen
+    - AV Lazarus
+    - N Nuntarach
+    - Robert Raina
+    - C Pengkumta
+    - MK Thakur
+    - N Senamontree
+    - Sarawut Maliwan
+    - K Namchaikul
+    Saudi Arabia:
+    - Faisal Khan
+    - Kashif Siddique
+    - Abdul Waheed
+    - Usman Najeeb
+    - Hisham Sheikh
+    - Manan Ali
+    - Ishtiaq Ahmad
+    - Atif-Ur-Rehman
+    - Usman Khalid
+    - Waji Ul Hassan
+    - Zain Ul Abidin
+  registry:
+    people:
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      Abdul Waheed: 23fa9ea9
+      Arif Ansari: 95957b9e
+      Atif-Ur-Rehman: d20e22f7
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      Faisal Khan: a7553f15
+      Hisham Sheikh: c4441675
+      Ishtiaq Ahmad: 056b433b
+      K Namchaikul: f4ccbe6f
+      KB Suresh: '40316210'
+      Kashif Siddique: 2513b4fe
+      MK Thakur: 2d9451cc
+      Manan Ali: d0b643e1
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      Robert Raina: 8e38d470
+      S Desungnoen: 3eb26dc4
+      Sarawut Maliwan: 36a0a88c
+      Usman Khalid: 314f0889
+      Usman Najeeb: 615688b6
+      Waji Ul Hassan: 6892f9c3
+      Zain Ul Abidin: b93b87ae
+  teams:
+  - Thailand
+  - Saudi Arabia
+  toss:
+    winner: Saudi Arabia
+    decision: field
+  umpires:
+  - Arif Ansari
+  - KB Suresh
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.2:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.3:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.4:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.5:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.6:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.7:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.8:
+        non_striker: C Chatphaisan
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 1.1:
+        non_striker: AP Yadav
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 1.2:
+        non_striker: AP Yadav
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Chatphaisan
+    - 1.3:
+        non_striker: AP Yadav
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - Abdul Waheed
+          kind: caught
+    - 1.4:
+        non_striker: AP Yadav
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          kind: bowled
+    - 1.5:
+        non_striker: AP Yadav
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 1.6:
+        non_striker: AV Lazarus
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 1.7:
+        non_striker: AV Lazarus
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.1:
+        non_striker: AP Yadav
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 2.2:
+        non_striker: AP Yadav
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AV Lazarus
+    - 2.3:
+        non_striker: AP Yadav
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 2.4:
+        non_striker: AP Yadav
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 2.5:
+        non_striker: AV Lazarus
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.6:
+        non_striker: AV Lazarus
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.1:
+        non_striker: AP Yadav
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AV Lazarus
+    - 3.2:
+        non_striker: AV Lazarus
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 3.3:
+        non_striker: AV Lazarus
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 3.4:
+        non_striker: AP Yadav
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 3.5:
+        non_striker: AV Lazarus
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.6:
+        non_striker: AV Lazarus
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.1:
+        non_striker: AP Yadav
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 4.2:
+        non_striker: AP Yadav
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 4.3:
+        non_striker: AP Yadav
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 4.4:
+        non_striker: AV Lazarus
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 4.5:
+        non_striker: AV Lazarus
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.6:
+        non_striker: AV Lazarus
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.1:
+        non_striker: AV Lazarus
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 5.2:
+        non_striker: AV Lazarus
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.3:
+        non_striker: AP Yadav
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 5.4:
+        non_striker: AP Yadav
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 5.5:
+        non_striker: AP Yadav
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 5.6:
+        non_striker: AP Yadav
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          fielders:
+          - Abdul Waheed
+          kind: caught
+    - 6.1:
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nuntarach
+        batsman: AP Yadav
+    - 6.2:
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nuntarach
+        batsman: AP Yadav
+    - 6.3:
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nuntarach
+        batsman: AP Yadav
+    - 6.4:
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nuntarach
+        batsman: AP Yadav
+    - 6.5:
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nuntarach
+        batsman: AP Yadav
+    - 6.6:
+        non_striker: N Nuntarach
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.1:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 7.2:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+        wicket:
+          player_out: AP Yadav
+          fielders:
+          - Manan Ali
+          kind: stumped
+    - 7.3:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Robert Raina
+    - 7.4:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Robert Raina
+    - 7.5:
+        non_striker: Robert Raina
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 7.6:
+        non_striker: Robert Raina
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 8.1:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Robert Raina
+    - 8.2:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Robert Raina
+    - 8.3:
+        non_striker: Robert Raina
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 8.4:
+        non_striker: Robert Raina
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 8.5:
+        non_striker: Robert Raina
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 8.6:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Robert Raina
+    - 8.7:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Robert Raina
+    - 9.1:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Robert Raina
+    - 9.2:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Robert Raina
+        wicket:
+          player_out: Robert Raina
+          kind: bowled
+    - 9.3:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 9.4:
+        non_striker: C Pengkumta
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 9.5:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+        wicket:
+          player_out: C Pengkumta
+          kind: bowled
+    - 9.6:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Thakur
+    - 9.7:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 10.1:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Thakur
+    - 10.2:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 10.3:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 10.4:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 10.5:
+        non_striker: MK Thakur
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Nuntarach
+    - 10.6:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 10.7:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Thakur
+    - 10.8:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+        wicket:
+          player_out: MK Thakur
+          kind: bowled
+    - 10.9:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 11.1:
+        non_striker: N Senamontree
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 11.2:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 11.3:
+        non_striker: N Senamontree
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 11.4:
+        non_striker: N Senamontree
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 11.5:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 11.6:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 12.1:
+        non_striker: N Senamontree
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 12.2:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: N Senamontree
+    - 12.3:
+        non_striker: N Senamontree
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 12.4:
+        non_striker: N Senamontree
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nuntarach
+    - 12.5:
+        non_striker: N Senamontree
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 12.6:
+        non_striker: N Nuntarach
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 12.7:
+        non_striker: N Senamontree
+        bowler: Usman Najeeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 13.1:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 13.2:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 13.3:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 13.4:
+        non_striker: N Senamontree
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 13.5:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 13.6:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 14.1:
+        non_striker: N Nuntarach
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 14.2:
+        non_striker: N Nuntarach
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 14.3:
+        non_striker: N Senamontree
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 14.4:
+        non_striker: N Nuntarach
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 14.5:
+        non_striker: N Nuntarach
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 14.6:
+        non_striker: N Nuntarach
+        bowler: Zain Ul Abidin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+        wicket:
+          player_out: N Senamontree
+          kind: lbw
+    - 15.1:
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sarawut Maliwan
+        batsman: N Nuntarach
+    - 15.2:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 15.3:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 15.4:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 15.5:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 15.6:
+        non_striker: N Nuntarach
+        bowler: Hisham Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 16.1:
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sarawut Maliwan
+        batsman: N Nuntarach
+    - 16.2:
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nuntarach
+        batsman: Sarawut Maliwan
+    - 16.3:
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nuntarach
+        batsman: Sarawut Maliwan
+    - 16.4:
+        non_striker: N Nuntarach
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarawut Maliwan
+    - 16.5:
+        non_striker: Sarawut Maliwan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 16.6:
+        non_striker: Sarawut Maliwan
+        bowler: Usman Khalid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 17.1:
+        non_striker: N Nuntarach
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 17.2:
+        non_striker: N Nuntarach
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 17.3:
+        non_striker: N Nuntarach
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarawut Maliwan
+    - 17.4:
+        non_striker: Sarawut Maliwan
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 17.5:
+        non_striker: N Nuntarach
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 17.6:
+        non_striker: N Nuntarach
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+        wicket:
+          player_out: Sarawut Maliwan
+          fielders:
+          - Abdul Waheed
+          kind: caught
+    - 18.1:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Namchaikul
+        batsman: N Nuntarach
+    - 18.2:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: K Namchaikul
+        batsman: N Nuntarach
+    - 18.3:
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: K Namchaikul
+        batsman: N Nuntarach
+    - 18.4:
+        non_striker: N Nuntarach
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Namchaikul
+    - 18.5:
+        non_striker: K Namchaikul
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nuntarach
+    - 18.6:
+        non_striker: K Namchaikul
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 18.7:
+        non_striker: K Namchaikul
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 18.8:
+        non_striker: N Nuntarach
+        bowler: Ishtiaq Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Namchaikul
+    - 19.1:
+        non_striker: K Namchaikul
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 19.2:
+        non_striker: K Namchaikul
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nuntarach
+    - 19.3:
+        non_striker: K Namchaikul
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 19.4:
+        non_striker: K Namchaikul
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Nuntarach
+    - 19.5:
+        non_striker: K Namchaikul
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 19.6:
+        non_striker: K Namchaikul
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 19.7:
+        non_striker: K Namchaikul
+        bowler: Atif-Ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+- 2nd innings:
+    team: Saudi Arabia
+    deliveries:
+    - 0.1:
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        non_striker: Kashif Siddique
+        batsman: Faisal Khan
+    - 0.2:
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kashif Siddique
+        batsman: Faisal Khan
+    - 0.3:
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Kashif Siddique
+        batsman: Faisal Khan
+    - 0.4:
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kashif Siddique
+        batsman: Faisal Khan
+    - 0.5:
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kashif Siddique
+        batsman: Faisal Khan
+    - 0.6:
+        non_striker: Faisal Khan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Siddique
+    - 0.7:
+        non_striker: Kashif Siddique
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 1.1:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Kashif Siddique
+    - 1.2:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Siddique
+    - 1.3:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kashif Siddique
+    - 1.4:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kashif Siddique
+    - 1.5:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Siddique
+    - 1.6:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Siddique
+    - 1.7:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Siddique
+    - 2.1:
+        non_striker: Kashif Siddique
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faisal Khan
+    - 2.2:
+        non_striker: Kashif Siddique
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 2.3:
+        non_striker: Kashif Siddique
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 2.4:
+        non_striker: Kashif Siddique
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 2.5:
+        non_striker: Kashif Siddique
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 2.6:
+        non_striker: Faisal Khan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kashif Siddique
+    - 2.7:
+        non_striker: Faisal Khan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kashif Siddique
+    - 3.1:
+        non_striker: Kashif Siddique
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 3.2:
+        non_striker: Kashif Siddique
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 3.3:
+        non_striker: Kashif Siddique
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 3.4:
+        non_striker: Kashif Siddique
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 3.5:
+        non_striker: Kashif Siddique
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 3.6:
+        non_striker: Kashif Siddique
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 4.1:
+        non_striker: Faisal Khan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Siddique
+    - 4.2:
+        non_striker: Faisal Khan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kashif Siddique
+    - 4.3:
+        non_striker: Faisal Khan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Siddique
+    - 4.4:
+        non_striker: Kashif Siddique
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 4.5:
+        non_striker: Faisal Khan
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kashif Siddique
+    - 4.6:
+        non_striker: Faisal Khan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Siddique
+    - 4.7:
+        non_striker: Faisal Khan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kashif Siddique
+    - 5.1:
+        non_striker: Kashif Siddique
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 5.2:
+        non_striker: Kashif Siddique
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 5.3:
+        non_striker: Kashif Siddique
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 5.4:
+        non_striker: Faisal Khan
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Siddique
+    - 5.5:
+        non_striker: Kashif Siddique
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 5.6:
+        non_striker: Faisal Khan
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Siddique
+        wicket:
+          player_out: Kashif Siddique
+          fielders:
+          - AP Yadav
+          kind: caught
+    - 6.1:
+        non_striker: Abdul Waheed
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 6.2:
+        non_striker: Faisal Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+    - 6.3:
+        non_striker: Faisal Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Waheed
+    - 6.4:
+        non_striker: Faisal Khan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 6.5:
+        non_striker: Abdul Waheed
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 6.6:
+        non_striker: Abdul Waheed
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 7.1:
+        non_striker: Faisal Khan
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 7.2:
+        non_striker: Abdul Waheed
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 7.3:
+        non_striker: Faisal Khan
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 7.4:
+        non_striker: Abdul Waheed
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 7.5:
+        non_striker: Faisal Khan
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+    - 7.6:
+        non_striker: Faisal Khan
+        bowler: Robert Raina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdul Waheed
+    - 7.7:
+        non_striker: Faisal Khan
+        bowler: Robert Raina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Waheed
+    - 8.1:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan
+    - 8.2:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 8.3:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faisal Khan
+    - 8.4:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 8.5:
+        non_striker: Faisal Khan
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+    - 8.6:
+        non_striker: Faisal Khan
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 8.7:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faisal Khan
+    - 8.8:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 9.1:
+        non_striker: Abdul Waheed
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 9.2:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdul Waheed
+    - 9.3:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 9.4:
+        non_striker: Abdul Waheed
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Khan
+    - 9.5:
+        non_striker: Abdul Waheed
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 9.6:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 10.1:
+        non_striker: Faisal Khan
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Waheed
+    - 10.2:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Faisal Khan
+    - 10.3:
+        non_striker: Abdul Waheed
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Khan
+    - 10.4:
+        non_striker: Faisal Khan
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Waheed
+        wicket:
+          player_out: Abdul Waheed
+          kind: lbw
+    - 10.5:
+        non_striker: Faisal Khan
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Najeeb
+    - 10.6:
+        non_striker: Faisal Khan
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Najeeb
+    - 11.1:
+        non_striker: Faisal Khan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Najeeb
+    - 11.2:
+        non_striker: Usman Najeeb
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Khan

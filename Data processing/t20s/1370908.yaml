@@ -1,0 +1,2129 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-30'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2023-04-29'
+  gender: female
+  match_type: T20
+  match_type_number: 1420
+  outcome:
+    winner: Namibia
+    by:
+      runs: 8
+  overs: 20
+  player_of_match:
+  - W Mwatile
+  players:
+    Namibia:
+    - SA Wittmann
+    - JA Diergaardt
+    - A van der Merwe
+    - KA Green
+    - Yasmeen Khan
+    - E Van Zyl
+    - M Gorases
+    - D Foerster
+    - W Mwatile
+    - I van Zyl
+    - V Hamunyela
+    Uganda:
+    - E Iloku
+    - P Alako
+    - J Mbabazi
+    - S Nampiina
+    - I Nakisuuyi
+    - R Musamali
+    - PE Kulume
+    - C Aweko
+    - P Malemikia
+    - I Alumo
+    - S Akiteng
+  registry:
+    people:
+      A van der Merwe: 02610bad
+      C Aweko: 01c1b96c
+      D Foerster: 5596d5bf
+      E Haynes: 56e4f120
+      E Iloku: f1fa1c6b
+      E Lassen: a476d6d0
+      E Van Zyl: 79ff52b5
+      I Alumo: 6edd8b10
+      I Nakisuuyi: 2f145a4f
+      I van Zyl: 44c3cb6d
+      J Mbabazi: aaa6e84c
+      JA Diergaardt: b72a8938
+      KA Green: fa9fdefa
+      M Gorases: d034d60a
+      P Alako: fcf37e14
+      P Malemikia: 554a83e5
+      PE Kulume: bb1a5f8a
+      R Musamali: 017cadb2
+      S Akiteng: cf92d76b
+      S Loftie-Eaton: 71cc38ef
+      S Nampiina: 91d9aa26
+      SA Wittmann: 531aef3b
+      V Hamunyela: d758a366
+      W Mwatile: 5728635a
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Namibia
+  - Uganda
+  toss:
+    winner: Uganda
+    decision: field
+  umpires:
+  - E Haynes
+  - E Lassen
+  venue: United Cricket Club Ground, Windhoek
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA Diergaardt
+        batsman: SA Wittmann
+    - 0.2:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 0.3:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 0.4:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Diergaardt
+    - 0.5:
+        non_striker: JA Diergaardt
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 0.6:
+        non_striker: JA Diergaardt
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 1.1:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 1.2:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 1.3:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Diergaardt
+    - 1.4:
+        non_striker: JA Diergaardt
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 1.5:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Diergaardt
+    - 1.6:
+        non_striker: JA Diergaardt
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 2.1:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 2.2:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 2.3:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+    - 2.4:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+        wicket:
+          player_out: JA Diergaardt
+          fielders:
+          - S Nampiina
+          kind: caught
+    - 2.5:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+    - 2.6:
+        non_striker: SA Wittmann
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A van der Merwe
+    - 3.1:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+    - 3.2:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A van der Merwe
+    - 3.3:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+    - 3.4:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A van der Merwe
+    - 3.5:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+    - 3.6:
+        non_striker: SA Wittmann
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+    - 4.1:
+        non_striker: A van der Merwe
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 4.2:
+        non_striker: A van der Merwe
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Wittmann
+    - 4.3:
+        non_striker: A van der Merwe
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 4.4:
+        non_striker: A van der Merwe
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 4.5:
+        non_striker: A van der Merwe
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 4.6:
+        non_striker: A van der Merwe
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 5.1:
+        non_striker: SA Wittmann
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+    - 5.2:
+        non_striker: SA Wittmann
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+    - 5.3:
+        non_striker: SA Wittmann
+        bowler: S Akiteng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A van der Merwe
+    - 5.4:
+        non_striker: SA Wittmann
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van der Merwe
+        wicket:
+          player_out: A van der Merwe
+          fielders:
+          - E Iloku
+          kind: caught
+    - 5.5:
+        non_striker: SA Wittmann
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 5.6:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 5.7:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Wittmann
+    - 5.8:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 6.1:
+        non_striker: SA Wittmann
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 6.2:
+        non_striker: SA Wittmann
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 6.3:
+        non_striker: SA Wittmann
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 6.4:
+        non_striker: KA Green
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 6.5:
+        non_striker: KA Green
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 6.6:
+        non_striker: KA Green
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 7.1:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+        wicket:
+          player_out: SA Wittmann
+          kind: caught and bowled
+    - 7.2:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.3:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 7.4:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 7.5:
+        non_striker: Yasmeen Khan
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 7.6:
+        non_striker: Yasmeen Khan
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.1:
+        non_striker: KA Green
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 8.2:
+        non_striker: KA Green
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 8.3:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.4:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.5:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.6:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 9.1:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 9.2:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 9.3:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 9.4:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 9.5:
+        non_striker: KA Green
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 9.6:
+        non_striker: Yasmeen Khan
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 10.1:
+        non_striker: KA Green
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 10.2:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Green
+    - 10.3:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 10.4:
+        non_striker: KA Green
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 10.5:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+        wicket:
+          player_out: KA Green
+          kind: bowled
+    - 10.6:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Van Zyl
+    - 11.1:
+        non_striker: E Van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 11.2:
+        non_striker: E Van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 11.3:
+        non_striker: Yasmeen Khan
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Van Zyl
+    - 11.4:
+        non_striker: Yasmeen Khan
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Van Zyl
+    - 11.5:
+        non_striker: E Van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 11.6:
+        non_striker: Yasmeen Khan
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Van Zyl
+    - 12.1:
+        non_striker: E Van Zyl
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 12.2:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Van Zyl
+    - 12.3:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Van Zyl
+    - 12.4:
+        non_striker: E Van Zyl
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 12.5:
+        non_striker: Yasmeen Khan
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Van Zyl
+    - 12.6:
+        non_striker: E Van Zyl
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 13.1:
+        non_striker: E Van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 13.2:
+        non_striker: Yasmeen Khan
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Van Zyl
+    - 13.3:
+        non_striker: E Van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 13.4:
+        non_striker: Yasmeen Khan
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Van Zyl
+        wicket:
+          player_out: E Van Zyl
+          fielders:
+          - I Nakisuuyi
+          kind: caught
+    - 13.5:
+        non_striker: Yasmeen Khan
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+        wicket:
+          player_out: M Gorases
+          kind: bowled
+    - 13.6:
+        non_striker: Yasmeen Khan
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+    - 14.1:
+        non_striker: D Foerster
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 14.2:
+        non_striker: D Foerster
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 14.3:
+        non_striker: Yasmeen Khan
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+    - 14.4:
+        non_striker: Yasmeen Khan
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+        wicket:
+          player_out: Yasmeen Khan
+          fielders:
+          - E Iloku
+          - P Alako
+          kind: run out
+    - 14.5:
+        non_striker: D Foerster
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+    - 14.6:
+        non_striker: D Foerster
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Mwatile
+    - 15.1:
+        non_striker: D Foerster
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 15.2:
+        non_striker: W Mwatile
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+    - 15.3:
+        non_striker: W Mwatile
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+    - 15.4:
+        non_striker: W Mwatile
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foerster
+    - 15.5:
+        non_striker: W Mwatile
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+        wicket:
+          player_out: D Foerster
+          kind: bowled
+    - 15.6:
+        non_striker: W Mwatile
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 16.1:
+        non_striker: I van Zyl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Mwatile
+    - 16.2:
+        non_striker: I van Zyl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Mwatile
+    - 16.3:
+        non_striker: I van Zyl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Mwatile
+    - 16.4:
+        non_striker: W Mwatile
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 16.5:
+        non_striker: I van Zyl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Mwatile
+    - 16.6:
+        non_striker: I van Zyl
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Mwatile
+    - 17.1:
+        non_striker: W Mwatile
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 17.2:
+        non_striker: I van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Mwatile
+        wicket:
+          player_out: W Mwatile
+          fielders:
+          - S Akiteng
+          kind: caught
+    - 17.3:
+        non_striker: I van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Hamunyela
+    - 17.4:
+        non_striker: I van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Hamunyela
+    - 17.5:
+        non_striker: I van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hamunyela
+    - 17.6:
+        non_striker: I van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hamunyela
+    - 17.7:
+        non_striker: I van Zyl
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hamunyela
+    - 18.1:
+        non_striker: V Hamunyela
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 18.2:
+        non_striker: V Hamunyela
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 18.3:
+        non_striker: V Hamunyela
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 18.4:
+        non_striker: I van Zyl
+        bowler: C Aweko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Hamunyela
+    - 18.5:
+        non_striker: I van Zyl
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hamunyela
+    - 18.6:
+        non_striker: V Hamunyela
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 18.7:
+        non_striker: I van Zyl
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Hamunyela
+    - 19.1:
+        non_striker: V Hamunyela
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I van Zyl
+    - 19.2:
+        non_striker: V Hamunyela
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 19.3:
+        non_striker: V Hamunyela
+        bowler: I Alumo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I van Zyl
+    - 19.4:
+        non_striker: V Hamunyela
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+        wicket:
+          player_out: I van Zyl
+          kind: bowled
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Alako
+        batsman: E Iloku
+    - 0.2:
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Alako
+        batsman: E Iloku
+    - 0.3:
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Alako
+        batsman: E Iloku
+    - 0.4:
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Alako
+        batsman: E Iloku
+    - 0.5:
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Alako
+        batsman: E Iloku
+    - 0.6:
+        non_striker: P Alako
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.1:
+        non_striker: E Iloku
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 1.2:
+        non_striker: E Iloku
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Alako
+    - 1.3:
+        non_striker: E Iloku
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 1.4:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.5:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Iloku
+    - 1.6:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 1.7:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.1:
+        non_striker: E Iloku
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 2.2:
+        non_striker: E Iloku
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 2.3:
+        non_striker: P Alako
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 2.4:
+        non_striker: P Alako
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.5:
+        non_striker: P Alako
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 2.6:
+        non_striker: P Alako
+        bowler: I van Zyl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Iloku
+    - 2.7:
+        non_striker: P Alako
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 3.1:
+        non_striker: E Iloku
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 3.2:
+        non_striker: E Iloku
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 3.3:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 3.4:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Iloku
+    - 3.5:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 3.6:
+        non_striker: P Alako
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+    - 4.1:
+        non_striker: E Iloku
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 4.2:
+        non_striker: E Iloku
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 4.3:
+        non_striker: E Iloku
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Alako
+    - 4.4:
+        non_striker: E Iloku
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 4.5:
+        non_striker: E Iloku
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 4.6:
+        non_striker: E Iloku
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+        wicket:
+          player_out: P Alako
+          fielders:
+          - M Gorases
+          kind: caught
+    - 5.1:
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Mbabazi
+        batsman: E Iloku
+    - 5.2:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Iloku
+        wicket:
+          player_out: E Iloku
+          kind: caught and bowled
+    - 5.3:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 5.4:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nampiina
+    - 5.5:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 5.6:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Nampiina
+    - 5.7:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 6.1:
+        non_striker: S Nampiina
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.2:
+        non_striker: J Mbabazi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 6.3:
+        non_striker: J Mbabazi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 6.4:
+        non_striker: S Nampiina
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 6.5:
+        non_striker: S Nampiina
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 6.6:
+        non_striker: S Nampiina
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 7.1:
+        non_striker: S Nampiina
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 7.2:
+        non_striker: S Nampiina
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 7.3:
+        non_striker: S Nampiina
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 7.4:
+        non_striker: S Nampiina
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 7.5:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 7.6:
+        non_striker: J Mbabazi
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Nampiina
+    - 8.1:
+        non_striker: S Nampiina
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 8.2:
+        non_striker: J Mbabazi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+        wicket:
+          player_out: J Mbabazi
+          fielders:
+          - D Foerster
+          kind: run out
+    - 8.3:
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: I Nakisuuyi
+        batsman: S Nampiina
+    - 8.4:
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Nakisuuyi
+        batsman: S Nampiina
+    - 8.5:
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Nakisuuyi
+        batsman: S Nampiina
+    - 8.6:
+        non_striker: S Nampiina
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 8.7:
+        non_striker: I Nakisuuyi
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 9.1:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nampiina
+    - 9.2:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 9.3:
+        non_striker: S Nampiina
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: S Nampiina
+          fielders:
+          - Yasmeen Khan
+          - M Gorases
+          kind: run out
+    - 9.4:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 9.5:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Musamali
+    - 9.6:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 9.7:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 10.1:
+        non_striker: I Nakisuuyi
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 10.2:
+        non_striker: I Nakisuuyi
+        bowler: SA Wittmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Musamali
+    - 10.3:
+        non_striker: I Nakisuuyi
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 10.4:
+        non_striker: R Musamali
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 10.5:
+        non_striker: R Musamali
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 10.6:
+        non_striker: I Nakisuuyi
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 10.7:
+        non_striker: R Musamali
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 11.1:
+        non_striker: R Musamali
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 11.2:
+        non_striker: R Musamali
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 11.3:
+        non_striker: R Musamali
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Nakisuuyi
+    - 11.4:
+        non_striker: R Musamali
+        bowler: KA Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Nakisuuyi
+    - 11.5:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 11.6:
+        non_striker: R Musamali
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 12.1:
+        non_striker: I Nakisuuyi
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.2:
+        non_striker: I Nakisuuyi
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 12.3:
+        non_striker: I Nakisuuyi
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.4:
+        non_striker: I Nakisuuyi
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.5:
+        non_striker: I Nakisuuyi
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 12.6:
+        non_striker: I Nakisuuyi
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 13.1:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 13.2:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 13.3:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          kind: lbw
+    - 13.4:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+        wicket:
+          player_out: PE Kulume
+          kind: bowled
+    - 13.5:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 13.6:
+        non_striker: I Nakisuuyi
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 14.1:
+        non_striker: C Aweko
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 14.2:
+        non_striker: C Aweko
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          kind: caught and bowled
+    - 14.3:
+        non_striker: C Aweko
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 14.4:
+        non_striker: P Malemikia
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 14.5:
+        non_striker: C Aweko
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 14.6:
+        non_striker: P Malemikia
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 15.1:
+        non_striker: C Aweko
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Malemikia
+    - 15.2:
+        non_striker: C Aweko
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 15.3:
+        non_striker: P Malemikia
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 15.4:
+        non_striker: C Aweko
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 15.5:
+        non_striker: P Malemikia
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 15.6:
+        non_striker: P Malemikia
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 16.1:
+        non_striker: P Malemikia
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 16.2:
+        non_striker: P Malemikia
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 16.3:
+        non_striker: C Aweko
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Malemikia
+    - 16.4:
+        non_striker: C Aweko
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Malemikia
+    - 16.5:
+        non_striker: C Aweko
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Malemikia
+        wicket:
+          player_out: C Aweko
+          fielders:
+          - E Van Zyl
+          kind: run out
+    - 16.6:
+        non_striker: P Malemikia
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Alumo
+    - 17.1:
+        non_striker: I Alumo
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 17.2:
+        non_striker: P Malemikia
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: I Alumo
+    - 17.3:
+        non_striker: I Alumo
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 17.4:
+        non_striker: P Malemikia
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Alumo
+    - 17.5:
+        non_striker: I Alumo
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Malemikia
+    - 17.6:
+        non_striker: I Alumo
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Malemikia
+    - 18.1:
+        non_striker: P Malemikia
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Alumo
+    - 18.2:
+        non_striker: I Alumo
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Malemikia
+        wicket:
+          player_out: P Malemikia
+          fielders:
+          - Yasmeen Khan
+          kind: caught
+    - 18.3:
+        non_striker: I Alumo
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Akiteng
+    - 18.4:
+        non_striker: S Akiteng
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Alumo
+    - 18.5:
+        non_striker: S Akiteng
+        bowler: JA Diergaardt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Alumo
+        wicket:
+          player_out: I Alumo
+          fielders:
+          - W Mwatile
+          kind: caught

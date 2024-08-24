@@ -1,0 +1,1589 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2023-06-24'
+  gender: male
+  match_type: T20
+  match_type_number: 2114
+  outcome:
+    winner: Serbia
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - M Sarenac
+  players:
+    Croatia:
+    - A Daxini
+    - Naseem Khan
+    - P Bosnjak
+    - V Zanko
+    - A Magdalenic
+    - WK Bitis
+    - Sohail Ahmad
+    - L Stubbs
+    - H Hajnic
+    - A Faletar
+    - D Faletar
+    Serbia:
+    - WAE Burton
+    - A Dizija
+    - LA Dunbar
+    - MV Pavlovic
+    - S Tosic
+    - V Zimonjic
+    - N Zimonjic
+    - NR Johns-Wickberg
+    - Rahman Ademi
+    - AA Gajic
+    - M Sarenac
+  registry:
+    people:
+      A Daxini: 2f949d55
+      A Dizija: 6483c062
+      A Faletar: b8889eb7
+      A Magdalenic: d6a2f3a5
+      AA Gajic: a768a762
+      D Faletar: 8c911414
+      H Hajnic: bcac2e51
+      L Stubbs: b0f332e1
+      LA Dunbar: f50433e9
+      M Sarenac: f5ba4611
+      MV Pavlovic: 2809b390
+      N Zimonjic: 638f451b
+      NR Johns-Wickberg: 3924b2ee
+      Naseem Khan: cfbd3998
+      P Bosnjak: fed92736
+      Rahman Ademi: a9fd6ca3
+      S Tosic: 1c40f69f
+      Sohail Ahmad: 7e439c80
+      V Zanko: 4a78f962
+      V Zimonjic: 7f784eb8
+      WAE Burton: b0358c6d
+      WK Bitis: b34de9a6
+  teams:
+  - Croatia
+  - Serbia
+  toss:
+    winner: Croatia
+    decision: bat
+  venue: National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Croatia
+    deliveries:
+    - 0.1:
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Naseem Khan
+        batsman: A Daxini
+    - 0.2:
+        non_striker: A Daxini
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khan
+    - 0.3:
+        non_striker: A Daxini
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Khan
+    - 0.4:
+        non_striker: Naseem Khan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+    - 0.5:
+        non_striker: Naseem Khan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+    - 0.6:
+        non_striker: Naseem Khan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+        wicket:
+          player_out: A Daxini
+          kind: lbw
+    - 1.1:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Bosnjak
+        batsman: Naseem Khan
+    - 1.2:
+        non_striker: Naseem Khan
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Bosnjak
+    - 1.3:
+        non_striker: P Bosnjak
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khan
+        wicket:
+          player_out: Naseem Khan
+          fielders:
+          - V Zimonjic
+          kind: caught
+    - 1.4:
+        non_striker: P Bosnjak
+        bowler: Rahman Ademi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: V Zanko
+    - 1.5:
+        non_striker: P Bosnjak
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 1.6:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bosnjak
+    - 1.7:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Bosnjak
+    - 2.1:
+        non_striker: P Bosnjak
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 2.2:
+        non_striker: P Bosnjak
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 2.3:
+        non_striker: P Bosnjak
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 2.4:
+        non_striker: P Bosnjak
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 2.5:
+        non_striker: P Bosnjak
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 2.6:
+        non_striker: P Bosnjak
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+        wicket:
+          player_out: P Bosnjak
+          fielders:
+          - LA Dunbar
+          - Rahman Ademi
+          kind: run out
+    - 3.1:
+        bowler: Rahman Ademi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Magdalenic
+        batsman: V Zanko
+    - 3.2:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Magdalenic
+        batsman: V Zanko
+    - 3.3:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Magdalenic
+        batsman: V Zanko
+    - 3.4:
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Magdalenic
+        batsman: V Zanko
+    - 3.5:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 3.6:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 3.7:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 4.1:
+        non_striker: A Magdalenic
+        bowler: M Sarenac
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: V Zanko
+    - 4.2:
+        non_striker: A Magdalenic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 4.3:
+        non_striker: A Magdalenic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 4.4:
+        non_striker: A Magdalenic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 4.5:
+        non_striker: A Magdalenic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 4.6:
+        non_striker: A Magdalenic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 5.1:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 5.2:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 5.3:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Magdalenic
+    - 5.4:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 5.5:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zanko
+    - 5.6:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 5.7:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 6.1:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 6.2:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 6.3:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 6.4:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 6.5:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 6.6:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 7.1:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 7.2:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 7.3:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 7.4:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 7.5:
+        non_striker: A Magdalenic
+        bowler: Rahman Ademi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 7.6:
+        non_striker: V Zanko
+        bowler: Rahman Ademi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Magdalenic
+    - 8.1:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 8.2:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 8.3:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 8.4:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Magdalenic
+    - 8.5:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+        wicket:
+          player_out: A Magdalenic
+          kind: bowled
+    - 8.6:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 8.7:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Bitis
+    - 9.1:
+        non_striker: WK Bitis
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Zanko
+    - 9.2:
+        non_striker: WK Bitis
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 9.3:
+        non_striker: V Zanko
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 9.4:
+        non_striker: V Zanko
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Bitis
+    - 9.5:
+        non_striker: WK Bitis
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 9.6:
+        non_striker: V Zanko
+        bowler: N Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Bitis
+    - 9.7:
+        non_striker: V Zanko
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Bitis
+    - 10.1:
+        non_striker: WK Bitis
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Zanko
+    - 10.2:
+        non_striker: WK Bitis
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 10.3:
+        non_striker: WK Bitis
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 10.4:
+        non_striker: WK Bitis
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 10.5:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 10.6:
+        non_striker: V Zanko
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 11.1:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 11.2:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+        wicket:
+          player_out: V Zanko
+          fielders:
+          - WAE Burton
+          kind: caught
+    - 11.3:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+    - 11.4:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 11.5:
+        non_striker: Sohail Ahmad
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Bitis
+    - 11.6:
+        non_striker: Sohail Ahmad
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Bitis
+    - 12.1:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+        wicket:
+          player_out: Sohail Ahmad
+          kind: lbw
+    - 12.2:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 12.3:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 12.4:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 12.5:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Stubbs
+    - 12.6:
+        non_striker: L Stubbs
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 13.1:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 13.2:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Stubbs
+    - 13.3:
+        non_striker: L Stubbs
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Bitis
+    - 13.4:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 13.5:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 13.6:
+        non_striker: WK Bitis
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 14.1:
+        non_striker: L Stubbs
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 14.2:
+        non_striker: L Stubbs
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 14.3:
+        non_striker: L Stubbs
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Bitis
+    - 14.4:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 14.5:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 14.6:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 15.1:
+        non_striker: L Stubbs
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Bitis
+    - 15.2:
+        non_striker: L Stubbs
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Bitis
+    - 15.3:
+        non_striker: L Stubbs
+        bowler: MV Pavlovic
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: WK Bitis
+    - 15.4:
+        non_striker: L Stubbs
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 15.5:
+        non_striker: L Stubbs
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 15.6:
+        non_striker: L Stubbs
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 16.1:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 16.2:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 16.3:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 16.4:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 16.5:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 16.6:
+        non_striker: WK Bitis
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+    - 17.1:
+        non_striker: L Stubbs
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Bitis
+    - 17.2:
+        non_striker: WK Bitis
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+        wicket:
+          player_out: L Stubbs
+          kind: bowled
+    - 17.3:
+        non_striker: WK Bitis
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+        wicket:
+          player_out: H Hajnic
+          kind: bowled
+    - 17.4:
+        non_striker: WK Bitis
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Faletar
+        wicket:
+          player_out: A Faletar
+          kind: lbw
+    - 17.5:
+        non_striker: WK Bitis
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 17.6:
+        non_striker: WK Bitis
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 18.1:
+        non_striker: D Faletar
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 18.2:
+        non_striker: D Faletar
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 18.3:
+        non_striker: D Faletar
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 18.4:
+        non_striker: D Faletar
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 18.5:
+        non_striker: D Faletar
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WK Bitis
+    - 18.6:
+        non_striker: D Faletar
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 19.1:
+        non_striker: WK Bitis
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 19.2:
+        non_striker: WK Bitis
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 19.3:
+        non_striker: WK Bitis
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 19.4:
+        non_striker: WK Bitis
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+        wicket:
+          player_out: D Faletar
+          kind: lbw
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.2:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 0.3:
+        non_striker: A Dizija
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 0.4:
+        non_striker: A Dizija
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 0.5:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 0.6:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dizija
+    - 1.1:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 1.2:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WAE Burton
+    - 1.3:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 1.4:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WAE Burton
+    - 1.5:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WAE Burton
+    - 1.6:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 1.7:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 1.8:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 1.9:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: WAE Burton
+    - 1.10:
+        non_striker: A Dizija
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 2.1:
+        non_striker: A Dizija
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 2.2:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 2.3:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+        wicket:
+          player_out: A Dizija
+          fielders:
+          - Sohail Ahmad
+          kind: caught
+    - 2.4:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Dunbar
+    - 2.5:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 2.6:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.1:
+        non_striker: LA Dunbar
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 3.2:
+        non_striker: LA Dunbar
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 3.3:
+        non_striker: LA Dunbar
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 3.4:
+        non_striker: LA Dunbar
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 3.5:
+        non_striker: WAE Burton
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 3.6:
+        non_striker: WAE Burton
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 4.1:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 4.2:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 4.3:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 4.4:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 4.5:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 4.6:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 5.1:
+        non_striker: LA Dunbar
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 5.2:
+        non_striker: LA Dunbar
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 5.3:
+        non_striker: LA Dunbar
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 5.4:
+        non_striker: WAE Burton
+        bowler: V Zanko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LA Dunbar
+    - 5.5:
+        non_striker: WAE Burton
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 5.6:
+        non_striker: LA Dunbar
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 5.7:
+        non_striker: LA Dunbar
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 6.1:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 6.2:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: WAE Burton
+    - 6.3:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: WAE Burton
+    - 6.4:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 6.5:
+        non_striker: LA Dunbar
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 6.6:
+        non_striker: WAE Burton
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 7.1:
+        non_striker: WAE Burton
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 7.2:
+        non_striker: LA Dunbar
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 7.3:
+        non_striker: LA Dunbar
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 7.4:
+        non_striker: LA Dunbar
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 7.5:
+        non_striker: LA Dunbar
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 7.6:
+        non_striker: LA Dunbar
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WAE Burton
+    - 8.1:
+        non_striker: WAE Burton
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 8.2:
+        non_striker: LA Dunbar
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 8.3:
+        non_striker: WAE Burton
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar

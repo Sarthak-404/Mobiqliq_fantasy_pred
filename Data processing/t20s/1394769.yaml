@@ -1,0 +1,1122 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2023-09-04'
+  gender: female
+  match_type: T20
+  match_type_number: 1600
+  outcome:
+    winner: China
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Chen Yue
+  players:
+    Myanmar:
+    - KM Myat
+    - LL Htun
+    - ZT Kyaw
+    - Zon Lin
+    - TT Soe
+    - ZL Win
+    - MPP San
+    - Thae Thae Po
+    - TT Aung
+    - SY Win
+    - AE Moe
+    China:
+    - Chen Yue
+    - Rongyu Zhao
+    - Yuanyuan Cai
+    - C Zhou
+    - Zi Mei
+    - Han Lili
+    - M Zhu
+    - Xiuli Jin
+    - Zheng Lili
+    - Mengting Liu
+    - Xu Qian
+  registry:
+    people:
+      AE Moe: aac82442
+      C Zhou: 5b84f3bc
+      Chen Yue: 8b582549
+      Han Lili: cd7134f5
+      KM Myat: c1b4e25c
+      LL Htun: ec687c3a
+      M Nayyar: b7bccddb
+      M Zhu: 36c3302e
+      MPP San: 5bc290a2
+      Mengting Liu: 1119a645
+      Rongyu Zhao: fc2b858f
+      SY Win: 33d65ab4
+      Sarika Prasad: 8ff397fa
+      TT Aung: 57fb24e6
+      TT Soe: 59f44fde
+      Thae Thae Po: 48a372a4
+      V Kalidas: 42d76418
+      VG Rathi: 144e5b16
+      Xiuli Jin: f1d76e6f
+      Xu Qian: 4d382b64
+      Yuanyuan Cai: 39b12998
+      ZL Win: b5714cf9
+      ZT Kyaw: cdf63aaa
+      Zheng Lili: 9c2bb7da
+      Zi Mei: 72070f05
+      Zon Lin: 3b492b8d
+  teams:
+  - Myanmar
+  - China
+  toss:
+    winner: China
+    decision: field
+  umpires:
+  - Sarika Prasad
+  - VG Rathi
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LL Htun
+        batsman: KM Myat
+    - 0.2:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LL Htun
+        batsman: KM Myat
+    - 0.3:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LL Htun
+        batsman: KM Myat
+    - 0.4:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LL Htun
+        batsman: KM Myat
+    - 0.5:
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LL Htun
+        batsman: KM Myat
+    - 0.6:
+        non_striker: KM Myat
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LL Htun
+        wicket:
+          player_out: LL Htun
+          fielders:
+          - C Zhou
+          kind: caught
+    - 1.1:
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: ZT Kyaw
+        batsman: KM Myat
+    - 1.2:
+        non_striker: KM Myat
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZT Kyaw
+    - 1.3:
+        non_striker: KM Myat
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+    - 1.4:
+        non_striker: KM Myat
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZT Kyaw
+    - 1.5:
+        non_striker: KM Myat
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+    - 1.6:
+        non_striker: KM Myat
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 1.7:
+        non_striker: ZT Kyaw
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 1.8:
+        non_striker: ZT Kyaw
+        bowler: Yuanyuan Cai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Myat
+    - 2.1:
+        non_striker: ZT Kyaw
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+        wicket:
+          player_out: KM Myat
+          kind: lbw
+    - 2.2:
+        non_striker: ZT Kyaw
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 2.3:
+        non_striker: Zon Lin
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+    - 2.4:
+        non_striker: Zon Lin
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 2.5:
+        non_striker: ZT Kyaw
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 2.6:
+        non_striker: ZT Kyaw
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 3.1:
+        non_striker: Zon Lin
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+    - 3.2:
+        non_striker: Zon Lin
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 3.3:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 3.4:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 3.5:
+        non_striker: Zon Lin
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+    - 3.6:
+        non_striker: Zon Lin
+        bowler: Mengting Liu
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: ZT Kyaw
+    - 4.1:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.2:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.3:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.4:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 4.5:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 4.6:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 5.1:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zon Lin
+    - 5.2:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 5.3:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 5.4:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 5.5:
+        non_striker: Zon Lin
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 5.6:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 5.7:
+        non_striker: ZT Kyaw
+        bowler: Mengting Liu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 6.1:
+        non_striker: Zon Lin
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 6.2:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zon Lin
+    - 6.3:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 6.4:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+    - 6.5:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zon Lin
+    - 6.6:
+        non_striker: Zon Lin
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 6.7:
+        non_striker: ZT Kyaw
+        bowler: Zheng Lili
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zon Lin
+    - 7.1:
+        non_striker: Zon Lin
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZT Kyaw
+    - 7.2:
+        non_striker: Zon Lin
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 7.3:
+        non_striker: ZT Kyaw
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zon Lin
+        wicket:
+          player_out: Zon Lin
+          fielders:
+          - Rongyu Zhao
+          kind: caught
+    - 7.4:
+        non_striker: ZT Kyaw
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Soe
+    - 7.5:
+        non_striker: ZT Kyaw
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 7.6:
+        non_striker: TT Soe
+        bowler: M Zhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+    - 8.1:
+        non_striker: TT Soe
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZT Kyaw
+        wicket:
+          player_out: ZT Kyaw
+          fielders:
+          - Zi Mei
+          - Mengting Liu
+          kind: run out
+    - 8.2:
+        non_striker: TT Soe
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 8.3:
+        non_striker: TT Soe
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 8.4:
+        non_striker: TT Soe
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+    - 8.5:
+        non_striker: TT Soe
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZL Win
+        wicket:
+          player_out: ZL Win
+          kind: bowled
+    - 8.6:
+        non_striker: TT Soe
+        bowler: Xiuli Jin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPP San
+    - 8.7:
+        non_striker: TT Soe
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 9.1:
+        non_striker: MPP San
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 9.2:
+        non_striker: MPP San
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 9.3:
+        non_striker: TT Soe
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPP San
+    - 9.4:
+        non_striker: MPP San
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Soe
+    - 9.5:
+        non_striker: MPP San
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 9.6:
+        non_striker: TT Soe
+        bowler: Xu Qian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPP San
+    - 10.1:
+        non_striker: MPP San
+        bowler: Xiuli Jin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Soe
+    - 10.2:
+        non_striker: MPP San
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+        wicket:
+          player_out: TT Soe
+          fielders:
+          - Xiuli Jin
+          - Zheng Lili
+          kind: run out
+    - 10.3:
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Thae Thae Po
+        batsman: MPP San
+    - 10.4:
+        non_striker: MPP San
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thae Thae Po
+    - 10.5:
+        non_striker: MPP San
+        bowler: Xiuli Jin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thae Thae Po
+    - 10.6:
+        non_striker: Thae Thae Po
+        bowler: Xiuli Jin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MPP San
+    - 10.7:
+        non_striker: MPP San
+        bowler: Xiuli Jin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Thae Thae Po
+- 2nd innings:
+    team: China
+    deliveries:
+    - 0.1:
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rongyu Zhao
+        batsman: Chen Yue
+    - 0.2:
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rongyu Zhao
+        batsman: Chen Yue
+    - 0.3:
+        non_striker: Chen Yue
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rongyu Zhao
+    - 0.4:
+        non_striker: Chen Yue
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rongyu Zhao
+    - 0.5:
+        non_striker: Chen Yue
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Rongyu Zhao
+    - 0.6:
+        non_striker: Rongyu Zhao
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 0.7:
+        non_striker: Rongyu Zhao
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 1.1:
+        non_striker: Chen Yue
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rongyu Zhao
+    - 1.2:
+        non_striker: Chen Yue
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rongyu Zhao
+    - 1.3:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chen Yue
+    - 1.4:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 1.5:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chen Yue
+    - 1.6:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 2.1:
+        non_striker: Chen Yue
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rongyu Zhao
+    - 2.2:
+        non_striker: Rongyu Zhao
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 2.3:
+        non_striker: Rongyu Zhao
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 2.4:
+        non_striker: Rongyu Zhao
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chen Yue
+    - 2.5:
+        non_striker: Rongyu Zhao
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 2.6:
+        non_striker: Rongyu Zhao
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 3.1:
+        non_striker: Chen Yue
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rongyu Zhao
+    - 3.2:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chen Yue
+    - 3.3:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 3.4:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chen Yue
+    - 3.5:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 3.6:
+        non_striker: Rongyu Zhao
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 4.1:
+        non_striker: Chen Yue
+        bowler: ZT Kyaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rongyu Zhao
+    - 4.2:
+        non_striker: Chen Yue
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rongyu Zhao
+    - 4.3:
+        non_striker: Chen Yue
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rongyu Zhao
+    - 4.4:
+        non_striker: Chen Yue
+        bowler: ZT Kyaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rongyu Zhao
+    - 4.5:
+        non_striker: Chen Yue
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rongyu Zhao
+    - 4.6:
+        non_striker: Rongyu Zhao
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chen Yue
+    - 4.7:
+        non_striker: Chen Yue
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rongyu Zhao
+    - 4.8:
+        non_striker: Rongyu Zhao
+        bowler: ZT Kyaw
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: Chen Yue
+    - 5.1:
+        non_striker: Rongyu Zhao
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 5.2:
+        non_striker: Rongyu Zhao
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chen Yue
+    - 5.3:
+        non_striker: Chen Yue
+        bowler: ZL Win
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Rongyu Zhao
+    - 5.4:
+        non_striker: Chen Yue
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rongyu Zhao
+    - 5.5:
+        non_striker: Chen Yue
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rongyu Zhao
+    - 5.6:
+        non_striker: Chen Yue
+        bowler: ZL Win
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Rongyu Zhao
+    - 5.7:
+        non_striker: Chen Yue
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rongyu Zhao
+    - 5.8:
+        non_striker: Rongyu Zhao
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Yue
+    - 6.1:
+        non_striker: Chen Yue
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rongyu Zhao
+    - 6.2:
+        non_striker: Chen Yue
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rongyu Zhao
+    - 6.3:
+        non_striker: Chen Yue
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rongyu Zhao
+    - 6.4:
+        non_striker: Chen Yue
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rongyu Zhao
+        wicket:
+          player_out: Rongyu Zhao
+          fielders:
+          - Zon Lin
+          - TT Aung
+          kind: run out
+    - 6.5:
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        non_striker: Yuanyuan Cai
+        batsman: Chen Yue
+    - 6.6:
+        bowler: Zon Lin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Yuanyuan Cai
+        batsman: Chen Yue
+    - 6.7:
+        bowler: Zon Lin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yuanyuan Cai
+        batsman: Chen Yue

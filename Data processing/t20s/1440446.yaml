@@ -1,0 +1,1436 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2024-07-03'
+  - '2024-07-04'
+  gender: female
+  match_type: T20
+  match_type_number: 1943
+  outcome:
+    winner: Indonesia
+    by:
+      wickets: 10
+    method: D/L
+  overs: 20
+  player_of_match:
+  - NW Sariani
+  players:
+    Bhutan:
+    - N Choden
+    - T Zangmo
+    - D Wangmo
+    - K Dema
+    - Y Choden
+    - Chado Om
+    - S Choden
+    - A Gurung
+    - R Choden
+    - Sonam
+    - Sangay Zangmo
+    Indonesia:
+    - NPAN Sakarini
+    - NLKWR Dewi
+    - NMP Suwandewi
+    - NKF Rada Rani
+    - L Qiao
+    - M Corazon
+    - K Winda Prastini
+    - RD Pangestuti
+    - DAL Paramitha
+    - D Wulandari
+    - NW Sariani
+  registry:
+    people:
+      A Gurung: 10854c82
+      Chado Om: f53fa89c
+      D Wangmo: 760fcf65
+      D Wulandari: 8c0d904e
+      DAL Paramitha: 84f831c3
+      Edi Agustinus: 6ee9fbb9
+      IGS Arsa: 68d52634
+      K Dema: 0b211a32
+      K Winda Prastini: bd6f7c24
+      L Qiao: 2b0deff9
+      M Corazon: 0baa36e0
+      N Choden: a904600a
+      NKF Rada Rani: 39f4084c
+      NLKWR Dewi: d04fc4a4
+      NMP Suwandewi: 52b57a65
+      NPAN Sakarini: 72b5decf
+      NW Sariani: e910d955
+      R Choden: c0266a6e
+      RD Pangestuti: 63fc4b92
+      S Choden: e1e0775d
+      Sangay Zangmo: e03e2148
+      Sonam: '09cbca15'
+      T Zangmo: b1f21c0f
+      V Kalidas: 42d76418
+      Y Choden: 6f17c546
+  teams:
+  - Bhutan
+  - Indonesia
+  toss:
+    winner: Bhutan
+    decision: bat
+  umpires:
+  - Edi Agustinus
+  - IGS Arsa
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Zangmo
+        batsman: N Choden
+    - 0.2:
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Zangmo
+        batsman: N Choden
+    - 0.3:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Zangmo
+    - 0.4:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 0.5:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 0.6:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 0.7:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 0.8:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 1.1:
+        non_striker: T Zangmo
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 1.2:
+        non_striker: N Choden
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 1.3:
+        non_striker: N Choden
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Zangmo
+    - 1.4:
+        non_striker: N Choden
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 1.5:
+        non_striker: T Zangmo
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Choden
+    - 1.6:
+        non_striker: N Choden
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+        wicket:
+          player_out: T Zangmo
+          kind: bowled
+    - 1.7:
+        non_striker: N Choden
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 2.1:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 2.2:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 2.3:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 2.4:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 2.5:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 2.6:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+        wicket:
+          player_out: D Wangmo
+          fielders:
+          - NPAN Sakarini
+          kind: caught
+    - 3.1:
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Dema
+        batsman: N Choden
+    - 3.2:
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Dema
+        batsman: N Choden
+    - 3.3:
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Dema
+        batsman: N Choden
+    - 3.4:
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Dema
+        batsman: N Choden
+    - 3.5:
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Dema
+        batsman: N Choden
+    - 3.6:
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Dema
+        batsman: N Choden
+    - 3.7:
+        bowler: DAL Paramitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Dema
+        batsman: N Choden
+    - 3.8:
+        non_striker: K Dema
+        bowler: DAL Paramitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 4.1:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 4.2:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 4.3:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 4.4:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 4.5:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 4.6:
+        non_striker: N Choden
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 5.1:
+        non_striker: K Dema
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 5.2:
+        non_striker: N Choden
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 5.3:
+        non_striker: N Choden
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 5.4:
+        non_striker: N Choden
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dema
+    - 5.5:
+        non_striker: N Choden
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Dema
+    - 5.6:
+        non_striker: K Dema
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 6.1:
+        non_striker: K Dema
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+        wicket:
+          player_out: K Dema
+          fielders:
+          - NMP Suwandewi
+          kind: run out
+    - 6.2:
+        non_striker: N Choden
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 6.3:
+        non_striker: N Choden
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 6.4:
+        non_striker: N Choden
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 6.5:
+        non_striker: N Choden
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 6.6:
+        non_striker: N Choden
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 7.1:
+        non_striker: Y Choden
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Choden
+    - 7.2:
+        non_striker: Y Choden
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 7.3:
+        non_striker: Y Choden
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+        wicket:
+          player_out: N Choden
+          fielders:
+          - NMP Suwandewi
+          - D Wulandari
+          kind: run out
+    - 7.4:
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Chado Om
+        batsman: Y Choden
+    - 7.5:
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Chado Om
+        batsman: Y Choden
+    - 7.6:
+        non_striker: Chado Om
+        bowler: D Wulandari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Choden
+    - 8.1:
+        non_striker: Chado Om
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+        wicket:
+          player_out: Y Choden
+          kind: lbw
+    - 8.2:
+        non_striker: Chado Om
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 8.3:
+        non_striker: Chado Om
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 8.4:
+        non_striker: Chado Om
+        bowler: NLKWR Dewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Choden
+    - 8.5:
+        non_striker: Chado Om
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 8.6:
+        non_striker: Chado Om
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 8.7:
+        non_striker: Chado Om
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Choden
+    - 9.1:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+    - 9.2:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+        wicket:
+          player_out: S Choden
+          kind: lbw
+    - 9.3:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gurung
+    - 9.4:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 9.5:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 9.6:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gurung
+    - 9.7:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 9.8:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 10.1:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gurung
+    - 10.2:
+        non_striker: A Gurung
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chado Om
+    - 10.3:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+    - 10.4:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gurung
+    - 10.5:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gurung
+        wicket:
+          player_out: A Gurung
+          fielders:
+          - NPAN Sakarini
+          kind: caught
+    - 10.6:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Choden
+    - 11.1:
+        non_striker: R Choden
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+    - 11.2:
+        non_striker: R Choden
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+    - 11.3:
+        non_striker: R Choden
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+    - 11.4:
+        non_striker: R Choden
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+    - 11.5:
+        non_striker: R Choden
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chado Om
+    - 11.6:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Choden
+    - 12.1:
+        non_striker: R Choden
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chado Om
+    - 12.2:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Choden
+    - 12.3:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Choden
+    - 12.4:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Choden
+    - 12.5:
+        non_striker: R Choden
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+    - 12.6:
+        non_striker: R Choden
+        bowler: L Qiao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Chado Om
+    - 12.7:
+        non_striker: R Choden
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+    - 13.1:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Choden
+    - 13.2:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Choden
+    - 13.3:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Choden
+        wicket:
+          player_out: R Choden
+          kind: lbw
+    - 13.4:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 13.5:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 13.6:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 13.7:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 14.1:
+        non_striker: Sonam
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+    - 14.2:
+        non_striker: Sonam
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chado Om
+    - 14.3:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 14.4:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 14.5:
+        non_striker: Chado Om
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 14.6:
+        non_striker: Sonam
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chado Om
+    - 15.1:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 15.2:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 15.3:
+        non_striker: Chado Om
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 15.4:
+        non_striker: Sonam
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Chado Om
+    - 15.5:
+        non_striker: Sonam
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chado Om
+        wicket:
+          player_out: Chado Om
+          fielders:
+          - NMP Suwandewi
+          kind: caught
+    - 15.6:
+        non_striker: Sonam
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sangay Zangmo
+    - 15.7:
+        non_striker: Sonam
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sangay Zangmo
+    - 16.1:
+        non_striker: Sangay Zangmo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 16.2:
+        non_striker: Sangay Zangmo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 16.3:
+        non_striker: Sangay Zangmo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 16.4:
+        non_striker: Sangay Zangmo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 16.5:
+        non_striker: Sangay Zangmo
+        bowler: L Qiao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sonam
+    - 16.6:
+        non_striker: Sangay Zangmo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 16.7:
+        non_striker: Sangay Zangmo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 17.1:
+        non_striker: Sonam
+        bowler: M Corazon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sangay Zangmo
+    - 17.2:
+        non_striker: Sangay Zangmo
+        bowler: M Corazon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 17.3:
+        non_striker: Sangay Zangmo
+        bowler: M Corazon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 17.4:
+        non_striker: Sangay Zangmo
+        bowler: M Corazon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 17.5:
+        non_striker: Sangay Zangmo
+        bowler: M Corazon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sonam
+    - 17.6:
+        non_striker: Sonam
+        bowler: M Corazon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sangay Zangmo
+    - 18.1:
+        non_striker: Sangay Zangmo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 18.2:
+        non_striker: Sangay Zangmo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 18.3:
+        non_striker: Sangay Zangmo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 18.4:
+        non_striker: Sangay Zangmo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+    - 18.5:
+        non_striker: Sangay Zangmo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sonam
+        wicket:
+          player_out: Sonam
+          fielders:
+          - L Qiao
+          kind: caught
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NLKWR Dewi
+        batsman: NPAN Sakarini
+    - 0.2:
+        non_striker: NPAN Sakarini
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 0.3:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 0.4:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 0.5:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 0.6:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 1.1:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 1.2:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 1.3:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 1.4:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 1.5:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 1.6:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 2.1:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NPAN Sakarini
+    - 2.2:
+        non_striker: NPAN Sakarini
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 2.3:
+        non_striker: NPAN Sakarini
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 2.4:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 2.5:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 2.6:
+        non_striker: NLKWR Dewi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 3.1:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 3.2:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 3.3:
+        non_striker: NPAN Sakarini
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 3.4:
+        non_striker: NLKWR Dewi
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 3.5:
+        non_striker: NPAN Sakarini
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 3.6:
+        non_striker: NPAN Sakarini
+        bowler: R Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 4.1:
+        non_striker: NLKWR Dewi
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.2:
+        non_striker: NLKWR Dewi
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NPAN Sakarini
+    - 4.3:
+        non_striker: NLKWR Dewi
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NPAN Sakarini
+    - 4.4:
+        non_striker: NLKWR Dewi
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NPAN Sakarini
+    - 4.5:
+        non_striker: NPAN Sakarini
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 4.6:
+        non_striker: NPAN Sakarini
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLKWR Dewi
+    - 5.1:
+        non_striker: NPAN Sakarini
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 5.2:
+        non_striker: NPAN Sakarini
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 5.3:
+        non_striker: NPAN Sakarini
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLKWR Dewi
+    - 5.4:
+        non_striker: NPAN Sakarini
+        bowler: T Zangmo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NLKWR Dewi

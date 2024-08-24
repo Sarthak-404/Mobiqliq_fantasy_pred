@@ -1,0 +1,2101 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  dates:
+  - '2024-05-11'
+  gender: female
+  match_type: T20
+  match_type_number: 1885
+  outcome:
+    winner: England
+    by:
+      runs: 53
+  overs: 20
+  player_of_match:
+  - AE Jones
+  players:
+    England:
+    - ME Bouchier
+    - DN Wyatt
+    - A Capsey
+    - HC Knight
+    - FG Kemp
+    - AE Jones
+    - DR Gibson
+    - S Ecclestone
+    - CE Dean
+    - S Glenn
+    - LK Bell
+    Pakistan:
+    - Gull Feroza
+    - Sidra Ameen
+    - Sadaf Shamas
+    - Muneeba Ali
+    - Nida Dar
+    - Natalia Pervaiz
+    - Fatima Sana
+    - Rameen Shamim
+    - Tuba Hassan
+    - Waheeda Akhtar
+    - Sadia Iqbal
+  registry:
+    people:
+      A Capsey: 910dd54e
+      AE Jones: b05e45e4
+      AY Harris: 90d95b82
+      CE Dean: c6625a26
+      DA Cosker: aac9f784
+      DN Wyatt: a139c379
+      DR Gibson: d2763568
+      FG Kemp: abc9f8a4
+      Fatima Sana: ea9c54de
+      Gull Feroza: 9ff1e91e
+      HC Knight: 4ba0289e
+      Kim Cotton: 67a7c2ee
+      LK Bell: 38b4583c
+      ME Bouchier: c2554b59
+      Muneeba Ali: 86fdf668
+      Natalia Pervaiz: fa8a3eb0
+      Nida Dar: ed840f44
+      Rameen Shamim: 0b78b7c1
+      S Ecclestone: cdb82f1c
+      S Glenn: b34e0c77
+      S Redfern: 5b038989
+      Sadaf Shamas: f19c8dc0
+      Sadia Iqbal: 53bb50f0
+      Sidra Ameen: 72c9ad99
+      Tuba Hassan: 0d56e9a5
+      WRP Fernando: 7d98d385
+      Waheeda Akhtar: 792d0178
+  teams:
+  - England
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - Kim Cotton
+  - S Redfern
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 0.2:
+        non_striker: DN Wyatt
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+        wicket:
+          player_out: ME Bouchier
+          fielders:
+          - Nida Dar
+          kind: caught
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 0.6:
+        non_striker: DN Wyatt
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 1.1:
+        non_striker: A Capsey
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 1.2:
+        non_striker: DN Wyatt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 1.4:
+        non_striker: DN Wyatt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 1.6:
+        non_striker: A Capsey
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.7:
+        non_striker: A Capsey
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - Gull Feroza
+          kind: caught
+    - 2.1:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          fielders:
+          - Sidra Ameen
+          kind: caught
+    - 2.2:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FG Kemp
+    - 2.3:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FG Kemp
+    - 2.4:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FG Kemp
+    - 2.5:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FG Kemp
+        wicket:
+          player_out: FG Kemp
+          fielders:
+          - Muneeba Ali
+          - Waheeda Akhtar
+          kind: run out
+    - 2.6:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 3.1:
+        non_striker: AE Jones
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.2:
+        non_striker: AE Jones
+        bowler: Sadia Iqbal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HC Knight
+    - 3.3:
+        non_striker: HC Knight
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 3.4:
+        non_striker: AE Jones
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 3.5:
+        non_striker: AE Jones
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 3.6:
+        non_striker: AE Jones
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 3.7:
+        non_striker: HC Knight
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 4.1:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 4.2:
+        non_striker: AE Jones
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 4.3:
+        non_striker: AE Jones
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 4.4:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 4.5:
+        non_striker: AE Jones
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 4.6:
+        non_striker: AE Jones
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 5.1:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 5.2:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 5.3:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 5.4:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AE Jones
+    - 5.5:
+        non_striker: AE Jones
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Knight
+    - 5.6:
+        non_striker: AE Jones
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 5.7:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Jones
+    - 5.8:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 6.1:
+        non_striker: AE Jones
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 6.2:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 6.3:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 6.4:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 6.5:
+        non_striker: HC Knight
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 6.6:
+        non_striker: AE Jones
+        bowler: Waheeda Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 7.1:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.2:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.3:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 7.4:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 7.5:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 7.6:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.1:
+        non_striker: HC Knight
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 8.2:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 8.3:
+        non_striker: HC Knight
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 8.4:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.5:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.6:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 9.1:
+        non_striker: HC Knight
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 9.2:
+        non_striker: HC Knight
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 9.3:
+        non_striker: HC Knight
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 9.4:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 9.5:
+        non_striker: AE Jones
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 9.6:
+        non_striker: HC Knight
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 10.1:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.2:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.3:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 10.4:
+        non_striker: HC Knight
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 10.5:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.6:
+        non_striker: AE Jones
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.1:
+        non_striker: AE Jones
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.2:
+        non_striker: AE Jones
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.3:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 11.4:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 11.5:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 11.6:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 12.1:
+        non_striker: AE Jones
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.2:
+        non_striker: AE Jones
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 12.3:
+        non_striker: HC Knight
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 12.4:
+        non_striker: HC Knight
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - Natalia Pervaiz
+          kind: caught
+    - 12.5:
+        non_striker: HC Knight
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 12.6:
+        non_striker: HC Knight
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 13.1:
+        non_striker: DR Gibson
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 13.2:
+        non_striker: DR Gibson
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 13.3:
+        non_striker: DR Gibson
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 13.4:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 13.5:
+        non_striker: DR Gibson
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 13.6:
+        non_striker: DR Gibson
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 14.1:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 14.2:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 14.3:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.4:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 14.5:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Knight
+    - 14.6:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.7:
+        non_striker: HC Knight
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 15.1:
+        non_striker: DR Gibson
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 15.2:
+        non_striker: DR Gibson
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 15.3:
+        non_striker: HC Knight
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 15.4:
+        non_striker: DR Gibson
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 15.5:
+        non_striker: DR Gibson
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - Gull Feroza
+          kind: caught
+    - 15.6:
+        non_striker: DR Gibson
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 16.1:
+        non_striker: S Ecclestone
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 16.2:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 16.3:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 16.4:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 16.5:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 16.6:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 17.1:
+        non_striker: DR Gibson
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 17.2:
+        non_striker: S Ecclestone
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 17.3:
+        non_striker: S Ecclestone
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 17.4:
+        non_striker: S Ecclestone
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 17.5:
+        non_striker: DR Gibson
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 17.6:
+        non_striker: S Ecclestone
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 18.1:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 18.2:
+        non_striker: S Ecclestone
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 18.3:
+        non_striker: S Ecclestone
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 18.4:
+        non_striker: S Ecclestone
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 18.5:
+        non_striker: S Ecclestone
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 18.6:
+        non_striker: DR Gibson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 19.1:
+        non_striker: S Ecclestone
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 19.2:
+        non_striker: S Ecclestone
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+    - 19.3:
+        non_striker: DR Gibson
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 19.4:
+        non_striker: S Ecclestone
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Gibson
+    - 19.5:
+        non_striker: S Ecclestone
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Gibson
+    - 19.6:
+        non_striker: S Ecclestone
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Gibson
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gull Feroza
+    - 0.2:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gull Feroza
+    - 0.3:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gull Feroza
+    - 0.4:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gull Feroza
+    - 0.5:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.6:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gull Feroza
+    - 0.7:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.8:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.1:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.2:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 1.3:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.4:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 1.5:
+        non_striker: Sidra Ameen
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.6:
+        non_striker: Sidra Ameen
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 2.1:
+        non_striker: Sidra Ameen
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 2.2:
+        non_striker: Gull Feroza
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 2.3:
+        non_striker: Gull Feroza
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Gull Feroza
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          kind: lbw
+    - 2.5:
+        non_striker: Gull Feroza
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 2.6:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 3.1:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 3.2:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 3.3:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 3.4:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 3.5:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 3.6:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 3.7:
+        non_striker: Gull Feroza
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 4.1:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 4.2:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gull Feroza
+    - 4.3:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 4.4:
+        non_striker: Gull Feroza
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.5:
+        non_striker: Gull Feroza
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.6:
+        non_striker: Gull Feroza
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.1:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 5.2:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          fielders:
+          - AE Jones
+          kind: caught
+    - 5.3:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.4:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 5.5:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.6:
+        non_striker: Muneeba Ali
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 6.1:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 6.2:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.3:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.4:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 6.5:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 6.6:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 7.1:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 7.2:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 7.3:
+        non_striker: Sadaf Shamas
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 7.4:
+        non_striker: Sadaf Shamas
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - AE Jones
+          kind: caught
+    - 7.5:
+        non_striker: Sadaf Shamas
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 7.6:
+        non_striker: Sadaf Shamas
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 8.1:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 8.2:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 8.3:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 8.4:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 8.5:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 8.6:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 9.1:
+        non_striker: Sadaf Shamas
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 9.2:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 9.3:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 9.4:
+        non_striker: Sadaf Shamas
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 9.5:
+        non_striker: Sadaf Shamas
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 9.6:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 10.1:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 10.2:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 10.3:
+        non_striker: Nida Dar
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 10.4:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Sadaf Shamas
+          fielders:
+          - A Capsey
+          - AE Jones
+          kind: run out
+    - 10.5:
+        non_striker: Nida Dar
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 10.6:
+        non_striker: Nida Dar
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 11.1:
+        non_striker: Natalia Pervaiz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 11.2:
+        non_striker: Natalia Pervaiz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Nida Dar
+          fielders:
+          - ME Bouchier
+          kind: caught
+    - 11.3:
+        non_striker: Natalia Pervaiz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 11.4:
+        non_striker: Natalia Pervaiz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 11.5:
+        non_striker: Natalia Pervaiz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 11.6:
+        non_striker: Natalia Pervaiz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 12.1:
+        non_striker: Fatima Sana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+        wicket:
+          player_out: Natalia Pervaiz
+          fielders:
+          - AE Jones
+          kind: caught
+    - 12.2:
+        non_striker: Fatima Sana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 12.3:
+        non_striker: Rameen Shamim
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 12.4:
+        non_striker: Rameen Shamim
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 12.5:
+        non_striker: Rameen Shamim
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 12.6:
+        non_striker: Rameen Shamim
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 13.1:
+        non_striker: Fatima Sana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rameen Shamim
+    - 13.2:
+        non_striker: Rameen Shamim
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 13.3:
+        non_striker: Fatima Sana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameen Shamim
+    - 13.4:
+        non_striker: Fatima Sana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameen Shamim
+    - 13.5:
+        non_striker: Fatima Sana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rameen Shamim
+        wicket:
+          player_out: Rameen Shamim
+          fielders:
+          - DN Wyatt
+          kind: caught
+    - 13.6:
+        non_striker: Fatima Sana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 14.1:
+        non_striker: Tuba Hassan
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 14.2:
+        non_striker: Tuba Hassan
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 14.3:
+        non_striker: Tuba Hassan
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 14.4:
+        non_striker: Fatima Sana
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+        wicket:
+          player_out: Tuba Hassan
+          fielders:
+          - AE Jones
+          kind: caught
+    - 14.5:
+        non_striker: Fatima Sana
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waheeda Akhtar
+    - 14.6:
+        non_striker: Fatima Sana
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waheeda Akhtar
+        wicket:
+          player_out: Waheeda Akhtar
+          kind: bowled
+    - 15.1:
+        non_striker: Sadia Iqbal
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 15.2:
+        non_striker: Sadia Iqbal
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 15.3:
+        non_striker: Sadia Iqbal
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 15.4:
+        non_striker: Fatima Sana
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 15.5:
+        non_striker: Fatima Sana
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 15.6:
+        non_striker: Fatima Sana
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 16.1:
+        non_striker: Sadia Iqbal
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 16.2:
+        non_striker: Fatima Sana
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadia Iqbal
+    - 16.3:
+        non_striker: Fatima Sana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 16.4:
+        non_striker: Fatima Sana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadia Iqbal
+    - 16.5:
+        non_striker: Fatima Sana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 16.6:
+        non_striker: Fatima Sana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadia Iqbal
+    - 16.7:
+        non_striker: Fatima Sana
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 17.1:
+        non_striker: Sadia Iqbal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 17.2:
+        non_striker: Sadia Iqbal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 17.3:
+        non_striker: Sadia Iqbal
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 17.4:
+        non_striker: Fatima Sana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 17.5:
+        non_striker: Fatima Sana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 17.6:
+        non_striker: Fatima Sana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+    - 18.1:
+        non_striker: Sadia Iqbal
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 18.2:
+        non_striker: Fatima Sana
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+        wicket:
+          player_out: Sadia Iqbal
+          fielders:
+          - FG Kemp
+          kind: caught

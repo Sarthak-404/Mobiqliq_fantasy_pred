@@ -1,0 +1,1897 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2023-08-26'
+  gender: female
+  match_type: T20
+  match_type_number: 1550
+  outcome:
+    winner: Sweden
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - Kanchan Rana
+  players:
+    Denmark:
+    - L Leisner
+    - NP Dalgaard
+    - K Brock-Nielsen
+    - S Brunsgaard
+    - RT Nielsen
+    - ML Karlsen
+    - AMN Andersen
+    - D Golechha
+    - AB Slebsager
+    - LM Christensen
+    - S Ostergaard
+    Sweden:
+    - S Lundell
+    - D Gangwani
+    - G Shukla
+    - A Vaidya
+    - Kanchan Rana
+    - E Thelander
+    - Eman Asim
+    - H Chamto
+    - SK Ravuri
+    - Maria Ahsan
+    - RG Somashekhar
+  registry:
+    people:
+      A Vaidya: b7d8c07d
+      AB Slebsager: 4ae7048b
+      AMN Andersen: 49589e51
+      D Gangwani: 9ee105bc
+      D Golechha: c2c12f2a
+      Debasish Roy: 0da654c8
+      E Thelander: 45cb4feb
+      Eman Asim: fd8038e1
+      G Shukla: 6b4817d9
+      H Chamto: 5e181be6
+      K Brock-Nielsen: c14ba87c
+      Kanchan Rana: d5d87f3f
+      L Leisner: ed614ded
+      LM Christensen: 30dc80e6
+      ML Karlsen: 4302af3d
+      Maria Ahsan: 0efdea1f
+      NP Dalgaard: '40283617'
+      RG Somashekhar: 881cb071
+      RT Nielsen: b4c38c22
+      S Brunsgaard: b15f8b0f
+      S Lundell: 0d298cc9
+      S Ostergaard: a19e799b
+      S Samanta: 733f759a
+      SK Ravuri: '0398fc0f'
+      UH Sahi: 2a66cc06
+  teams:
+  - Denmark
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - S Samanta
+  - UH Sahi
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Dalgaard
+        batsman: L Leisner
+    - 0.2:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Dalgaard
+        batsman: L Leisner
+        wicket:
+          player_out: L Leisner
+          fielders:
+          - A Vaidya
+          - E Thelander
+          kind: run out
+    - 0.3:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Dalgaard
+        batsman: K Brock-Nielsen
+    - 0.4:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Dalgaard
+        batsman: K Brock-Nielsen
+    - 0.5:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Dalgaard
+        batsman: K Brock-Nielsen
+    - 0.6:
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: NP Dalgaard
+        batsman: K Brock-Nielsen
+    - 0.7:
+        non_striker: NP Dalgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Brock-Nielsen
+    - 1.1:
+        non_striker: K Brock-Nielsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+    - 1.2:
+        non_striker: K Brock-Nielsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 1.3:
+        non_striker: NP Dalgaard
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Brock-Nielsen
+    - 1.4:
+        non_striker: K Brock-Nielsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Dalgaard
+    - 1.5:
+        non_striker: NP Dalgaard
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Brock-Nielsen
+    - 1.6:
+        non_striker: NP Dalgaard
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Brock-Nielsen
+        wicket:
+          player_out: K Brock-Nielsen
+          kind: bowled
+    - 2.1:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Brunsgaard
+        batsman: NP Dalgaard
+    - 2.2:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Dalgaard
+        wicket:
+          player_out: NP Dalgaard
+          kind: bowled
+    - 2.3:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 2.4:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 2.5:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 2.6:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 3.1:
+        non_striker: RT Nielsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 3.2:
+        non_striker: RT Nielsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 3.3:
+        non_striker: RT Nielsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 3.4:
+        non_striker: RT Nielsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 3.5:
+        non_striker: S Brunsgaard
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 3.6:
+        non_striker: S Brunsgaard
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 4.1:
+        non_striker: RT Nielsen
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 4.2:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 4.3:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 4.4:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Nielsen
+    - 4.5:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Nielsen
+    - 4.6:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 4.7:
+        non_striker: S Brunsgaard
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 5.1:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Nielsen
+    - 5.2:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 5.3:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 5.4:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 5.5:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 5.6:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 5.7:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 6.1:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 6.2:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 6.3:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 6.4:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 6.5:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 6.6:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 7.1:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 7.2:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 7.3:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: RT Nielsen
+    - 7.4:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 7.5:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 7.6:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 7.7:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 8.1:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 8.2:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 8.3:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 8.4:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 8.5:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 8.6:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 9.1:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 9.2:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 9.3:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 9.4:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 9.5:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 9.6:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 10.1:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 10.2:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 10.3:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 10.4:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 10.5:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 10.6:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Brunsgaard
+    - 11.1:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 11.2:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 11.3:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 11.4:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+    - 11.5:
+        non_striker: RT Nielsen
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 11.6:
+        non_striker: S Brunsgaard
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 12.1:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 12.2:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 12.3:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 12.4:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 12.5:
+        non_striker: S Brunsgaard
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 12.6:
+        non_striker: RT Nielsen
+        bowler: Maria Ahsan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 13.1:
+        non_striker: RT Nielsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 13.2:
+        non_striker: S Brunsgaard
+        bowler: Kanchan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Nielsen
+    - 13.3:
+        non_striker: S Brunsgaard
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 13.4:
+        non_striker: RT Nielsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Brunsgaard
+    - 13.5:
+        non_striker: RT Nielsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Brunsgaard
+    - 13.6:
+        non_striker: S Brunsgaard
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 13.7:
+        non_striker: S Brunsgaard
+        bowler: Kanchan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Nielsen
+    - 13.8:
+        non_striker: S Brunsgaard
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+    - 14.1:
+        non_striker: RT Nielsen
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Brunsgaard
+        wicket:
+          player_out: S Brunsgaard
+          fielders:
+          - Kanchan Rana
+          kind: caught
+    - 14.2:
+        non_striker: RT Nielsen
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 14.3:
+        non_striker: RT Nielsen
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 14.4:
+        non_striker: RT Nielsen
+        bowler: A Vaidya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: ML Karlsen
+    - 14.5:
+        non_striker: ML Karlsen
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Nielsen
+    - 14.6:
+        non_striker: ML Karlsen
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Nielsen
+    - 14.7:
+        non_striker: ML Karlsen
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 14.8:
+        non_striker: RT Nielsen
+        bowler: A Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 14.9:
+        non_striker: RT Nielsen
+        bowler: A Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 15.1:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Nielsen
+    - 15.2:
+        non_striker: RT Nielsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 15.3:
+        non_striker: RT Nielsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Karlsen
+    - 15.4:
+        non_striker: RT Nielsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 15.5:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Nielsen
+        wicket:
+          player_out: RT Nielsen
+          kind: bowled
+    - 15.6:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+    - 15.7:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+    - 15.8:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AMN Andersen
+    - 16.1:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+    - 16.2:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+    - 16.3:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+    - 16.4:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+    - 16.5:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AMN Andersen
+    - 16.6:
+        non_striker: AMN Andersen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 17.1:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AMN Andersen
+    - 17.2:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AMN Andersen
+    - 17.3:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+    - 17.4:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AMN Andersen
+        wicket:
+          player_out: AMN Andersen
+          fielders:
+          - Eman Asim
+          kind: caught
+    - 17.5:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Golechha
+    - 17.6:
+        non_striker: D Golechha
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 17.7:
+        non_striker: ML Karlsen
+        bowler: Kanchan Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+    - 18.1:
+        non_striker: D Golechha
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 18.2:
+        non_striker: D Golechha
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 18.3:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Golechha
+    - 18.4:
+        non_striker: D Golechha
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+    - 18.5:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+    - 18.6:
+        non_striker: ML Karlsen
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Golechha
+        wicket:
+          player_out: D Golechha
+          fielders:
+          - H Chamto
+          - SK Ravuri
+          kind: run out
+    - 19.1:
+        non_striker: ML Karlsen
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Slebsager
+    - 19.2:
+        non_striker: ML Karlsen
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Slebsager
+    - 19.3:
+        non_striker: AB Slebsager
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Karlsen
+    - 19.4:
+        non_striker: AB Slebsager
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 19.5:
+        non_striker: AB Slebsager
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Karlsen
+    - 19.6:
+        non_striker: AB Slebsager
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Karlsen
+    - 19.7:
+        non_striker: AB Slebsager
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Karlsen
+        wicket:
+          player_out: AB Slebsager
+          fielders:
+          - Kanchan Rana
+          - E Thelander
+          kind: run out
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: S Brunsgaard
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: D Gangwani
+        batsman: S Lundell
+    - 0.2:
+        non_striker: S Lundell
+        bowler: S Brunsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 0.3:
+        non_striker: S Lundell
+        bowler: S Brunsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 0.4:
+        non_striker: D Gangwani
+        bowler: S Brunsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 0.5:
+        non_striker: D Gangwani
+        bowler: S Brunsgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 0.6:
+        non_striker: D Gangwani
+        bowler: S Brunsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 0.7:
+        non_striker: D Gangwani
+        bowler: S Brunsgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 0.8:
+        non_striker: D Gangwani
+        bowler: S Brunsgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Lundell
+    - 0.9:
+        non_striker: D Gangwani
+        bowler: S Brunsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Lundell
+    - 0.10:
+        non_striker: D Gangwani
+        bowler: S Brunsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Lundell
+    - 1.1:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 1.2:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 1.3:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 1.4:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 1.5:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Gangwani
+    - 1.6:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Gangwani
+    - 1.7:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 2.1:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 2.2:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 2.3:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 2.4:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 2.5:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 2.6:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Gangwani
+    - 3.1:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 3.2:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 3.3:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 3.4:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 3.5:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 3.6:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 3.7:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 3.8:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 4.1:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Gangwani
+    - 4.2:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 4.3:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 4.4:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lundell
+    - 4.5:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 4.6:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Lundell
+    - 5.1:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 5.2:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 5.3:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 5.4:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 5.5:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 5.6:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 5.7:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 5.8:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 6.1:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Gangwani
+    - 6.2:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Gangwani
+    - 6.3:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 6.4:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 6.5:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 6.6:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lundell
+    - 6.7:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 6.8:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 6.9:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lundell
+    - 6.10:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 7.1:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 7.2:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 7.3:
+        non_striker: D Gangwani
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 7.4:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 7.5:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Gangwani
+    - 7.6:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Gangwani
+    - 7.7:
+        non_striker: S Lundell
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 8.1:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 8.2:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lundell
+    - 8.3:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 8.4:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 8.5:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 8.6:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 8.7:
+        non_striker: S Lundell
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 8.8:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 8.9:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 8.10:
+        non_striker: D Gangwani
+        bowler: K Brock-Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lundell
+    - 9.1:
+        non_striker: S Lundell
+        bowler: LM Christensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gangwani
+    - 9.2:
+        non_striker: S Lundell
+        bowler: LM Christensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gangwani
+    - 9.3:
+        non_striker: D Gangwani
+        bowler: LM Christensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 9.4:
+        non_striker: D Gangwani
+        bowler: LM Christensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lundell
+    - 9.5:
+        non_striker: D Gangwani
+        bowler: LM Christensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+    - 9.6:
+        non_striker: D Gangwani
+        bowler: LM Christensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lundell
+    - 9.7:
+        non_striker: D Gangwani
+        bowler: LM Christensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lundell
+    - 9.8:
+        non_striker: S Lundell
+        bowler: LM Christensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Gangwani

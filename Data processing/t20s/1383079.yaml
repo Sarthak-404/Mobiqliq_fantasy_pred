@@ -1,0 +1,1658 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2023-07-24'
+  gender: male
+  match_type: T20
+  match_type_number: 2162
+  outcome:
+    winner: Ireland
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - BJ McCarthy
+  players:
+    Jersey:
+    - H Carlyon
+    - J Sumerauer
+    - NA Greenwood
+    - JW Jenner
+    - AM Tribe
+    - B Ward
+    - JAD Lawrenson
+    - ZM Tribe
+    - CW Perchard
+    - RJG Palmer
+    - EJB Miles
+    Ireland:
+    - A Balbirnie
+    - PR Stirling
+    - L Tucker
+    - HT Tector
+    - C Campher
+    - GH Dockrell
+    - NA Rock
+    - MR Adair
+    - BJ McCarthy
+    - J Little
+    - B White
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AM Tribe: 86f84b37
+      B Ward: 9e0bd203
+      B White: 1a448be0
+      BJ McCarthy: 3766056b
+      C Campher: 478a63e7
+      CW Perchard: 9f998ed8
+      DH Mclean: 281d4749
+      EJB Miles: 6b46ce43
+      GH Dockrell: 99cddc5e
+      H Carlyon: 42bf1b7d
+      HT Tector: 59ea70a4
+      J Jensen: fc80e7a2
+      J Little: 9061a703
+      J Sumerauer: 0b581ed6
+      JAD Lawrenson: c810b349
+      JW Jenner: 32a8161e
+      L Tucker: 3979b5e0
+      MR Adair: fc55ec67
+      N Bathi: 96a0edf9
+      NA Greenwood: 7ca68967
+      NA Rock: 43f4087c
+      PR Stirling: cf494ffe
+      Phil Whitticase: 99d5f6fa
+      RJG Palmer: bc6f8328
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Jersey
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - J Jensen
+  - N Bathi
+  venue: Goldenacre, Edinburgh
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Sumerauer
+        batsman: H Carlyon
+    - 0.2:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Sumerauer
+        batsman: H Carlyon
+    - 0.3:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Sumerauer
+        batsman: H Carlyon
+    - 0.4:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Sumerauer
+        batsman: H Carlyon
+    - 0.5:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Sumerauer
+        batsman: H Carlyon
+    - 0.6:
+        non_striker: H Carlyon
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 0.7:
+        non_striker: H Carlyon
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 1.1:
+        non_striker: J Sumerauer
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 1.2:
+        non_striker: J Sumerauer
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 1.3:
+        non_striker: H Carlyon
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+        wicket:
+          player_out: J Sumerauer
+          kind: bowled
+    - 1.4:
+        non_striker: H Carlyon
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Greenwood
+    - 1.5:
+        non_striker: H Carlyon
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Greenwood
+    - 1.6:
+        non_striker: H Carlyon
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - C Campher
+          kind: caught
+    - 1.7:
+        non_striker: H Carlyon
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 1.8:
+        non_striker: JW Jenner
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Carlyon
+    - 1.9:
+        non_striker: JW Jenner
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.1:
+        non_striker: H Carlyon
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 2.2:
+        non_striker: H Carlyon
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 2.3:
+        non_striker: JW Jenner
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 2.4:
+        non_striker: H Carlyon
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 2.5:
+        non_striker: H Carlyon
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 2.6:
+        non_striker: JW Jenner
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          fielders:
+          - J Little
+          kind: caught
+    - 3.1:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AM Tribe
+        batsman: JW Jenner
+    - 3.2:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AM Tribe
+        batsman: JW Jenner
+    - 3.3:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AM Tribe
+        batsman: JW Jenner
+    - 3.4:
+        non_striker: JW Jenner
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 3.5:
+        non_striker: JW Jenner
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 3.6:
+        non_striker: JW Jenner
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.1:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          fielders:
+          - HT Tector
+          kind: caught
+    - 4.2:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 4.3:
+        non_striker: B Ward
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.4:
+        non_striker: B Ward
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 4.5:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 4.6:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 5.1:
+        non_striker: B Ward
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 5.2:
+        non_striker: B Ward
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.3:
+        non_striker: B Ward
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.4:
+        non_striker: B Ward
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.5:
+        non_striker: B Ward
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.6:
+        non_striker: B Ward
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 6.1:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 6.2:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 6.3:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+        wicket:
+          player_out: B Ward
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 6.4:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 6.5:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 6.6:
+        non_striker: AM Tribe
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 7.1:
+        non_striker: JAD Lawrenson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.2:
+        non_striker: AM Tribe
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 7.3:
+        non_striker: JAD Lawrenson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 7.4:
+        non_striker: JAD Lawrenson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 7.5:
+        non_striker: JAD Lawrenson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.6:
+        non_striker: AM Tribe
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 8.1:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 8.2:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 8.3:
+        non_striker: JAD Lawrenson
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 8.4:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 8.5:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 8.6:
+        non_striker: JAD Lawrenson
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 9.1:
+        non_striker: JAD Lawrenson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 9.2:
+        non_striker: AM Tribe
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 9.3:
+        non_striker: JAD Lawrenson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Tribe
+    - 9.4:
+        non_striker: JAD Lawrenson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 9.5:
+        non_striker: JAD Lawrenson
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 9.6:
+        non_striker: AM Tribe
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 10.1:
+        non_striker: JAD Lawrenson
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.2:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+        wicket:
+          player_out: JAD Lawrenson
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 10.3:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 10.4:
+        non_striker: ZM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 10.5:
+        non_striker: ZM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.6:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 11.1:
+        non_striker: ZM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 11.2:
+        non_striker: ZM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 11.3:
+        non_striker: ZM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 11.4:
+        non_striker: AM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 11.5:
+        non_striker: AM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 11.6:
+        non_striker: AM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 12.1:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 12.2:
+        non_striker: AM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 12.3:
+        non_striker: ZM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+        wicket:
+          player_out: AM Tribe
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 12.4:
+        non_striker: ZM Tribe
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 12.5:
+        non_striker: CW Perchard
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 12.6:
+        non_striker: CW Perchard
+        bowler: B White
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ZM Tribe
+    - 13.1:
+        non_striker: CW Perchard
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ZM Tribe
+    - 13.2:
+        non_striker: ZM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 13.3:
+        non_striker: CW Perchard
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 13.4:
+        non_striker: ZM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+    - 13.5:
+        non_striker: ZM Tribe
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 13.6:
+        non_striker: CW Perchard
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+        wicket:
+          player_out: ZM Tribe
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 14.1:
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RJG Palmer
+        batsman: CW Perchard
+    - 14.2:
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RJG Palmer
+        batsman: CW Perchard
+    - 14.3:
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RJG Palmer
+        batsman: CW Perchard
+    - 14.4:
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RJG Palmer
+        batsman: CW Perchard
+    - 14.5:
+        non_striker: CW Perchard
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 14.6:
+        non_striker: CW Perchard
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 15.1:
+        non_striker: RJG Palmer
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 15.2:
+        non_striker: CW Perchard
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 15.3:
+        non_striker: CW Perchard
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 15.4:
+        non_striker: CW Perchard
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 15.5:
+        non_striker: RJG Palmer
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 15.6:
+        non_striker: CW Perchard
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 16.1:
+        non_striker: CW Perchard
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 16.2:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+    - 16.3:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+    - 16.4:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+        wicket:
+          player_out: CW Perchard
+          fielders:
+          - L Tucker
+          kind: caught
+    - 16.5:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 16.6:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 17.1:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RJG Palmer
+    - 17.2:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 17.3:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 17.4:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 17.5:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 17.6:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 17.7:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 18.1:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 18.2:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 18.3:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 18.4:
+        non_striker: RJG Palmer
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJB Miles
+    - 18.5:
+        non_striker: EJB Miles
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 18.6:
+        non_striker: EJB Miles
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 19.1:
+        non_striker: EJB Miles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 19.2:
+        non_striker: RJG Palmer
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 19.3:
+        non_striker: RJG Palmer
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 19.4:
+        non_striker: RJG Palmer
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJB Miles
+    - 19.5:
+        non_striker: RJG Palmer
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+    - 19.6:
+        non_striker: RJG Palmer
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJB Miles
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.2:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.3:
+        bowler: J Sumerauer
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.4:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.5:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.6:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.7:
+        non_striker: PR Stirling
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.4:
+        non_striker: PR Stirling
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.2:
+        non_striker: PR Stirling
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.3:
+        non_striker: PR Stirling
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 3.1:
+        non_striker: A Balbirnie
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: A Balbirnie
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.3:
+        non_striker: A Balbirnie
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: A Balbirnie
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.5:
+        non_striker: A Balbirnie
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.6:
+        non_striker: A Balbirnie
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: A Balbirnie
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.2:
+        non_striker: A Balbirnie
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 4.3:
+        non_striker: A Balbirnie
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 4.4:
+        non_striker: A Balbirnie
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.5:
+        non_striker: A Balbirnie
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.6:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 5.1:
+        non_striker: A Balbirnie
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 5.2:
+        non_striker: A Balbirnie
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 5.3:
+        non_striker: PR Stirling
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 5.4:
+        non_striker: PR Stirling
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: A Balbirnie
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.2:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.3:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.4:
+        non_striker: A Balbirnie
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.5:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: bowled
+    - 6.6:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.1:
+        non_striker: PR Stirling
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 7.2:
+        non_striker: PR Stirling
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.3:
+        non_striker: L Tucker
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.4:
+        non_striker: PR Stirling
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 7.5:
+        non_striker: PR Stirling
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.6:
+        non_striker: L Tucker
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.1:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.2:
+        non_striker: L Tucker
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.3:
+        non_striker: L Tucker
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 8.4:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.5:
+        non_striker: L Tucker
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 8.6:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.1:
+        non_striker: PR Stirling
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 9.2:
+        non_striker: PR Stirling
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.3:
+        non_striker: L Tucker
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 9.4:
+        non_striker: L Tucker
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 9.5:
+        non_striker: L Tucker
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.6:
+        non_striker: PR Stirling
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.1:
+        non_striker: PR Stirling
+        bowler: B Ward
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Tucker
+    - 10.2:
+        non_striker: L Tucker
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling

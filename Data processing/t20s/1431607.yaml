@@ -1,0 +1,2212 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2024-05-01'
+  gender: male
+  match_type: T20
+  match_type_number: 2584
+  outcome:
+    winner: Thailand
+    by:
+      runs: 8
+  overs: 20
+  players:
+    Thailand:
+    - AP Yadav
+    - C Chatphaisan
+    - N Nuntarach
+    - AV Lazarus
+    - Y Saranonnakkun
+    - J Coetzee
+    - MK Thakur
+    - S Rungrueang
+    - N Senamontree
+    - Sarawut Maliwan
+    - A Kalasi
+    Indonesia:
+    - GA Priandana
+    - Anjar Tadarus
+    - KD Kesuma
+    - PR Surve
+    - IK Gamantika
+    - GD Arta
+    - Ahmad Ramdoni
+    - DJ Hawoe
+    - IKEG Artawan
+    - F Banunaek
+    - RM Koda
+  registry:
+    people:
+      A Kalasi: 8930a2a6
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      Ahmad Ramdoni: b5f30525
+      Anjar Tadarus: '72275237'
+      C Chatphaisan: 85c56be8
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      IK Gamantika: 4d7c5b56
+      IKEG Artawan: 190957d2
+      J Coetzee: 3ad06915
+      KD Kesuma: 4b349dc0
+      MK Thakur: 2d9451cc
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      PR Surve: 206efeb1
+      RM Koda: f0a45427
+      S Rungrueang: 35ae9e8a
+      Sarawut Maliwan: 36a0a88c
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Thailand
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.2:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.3:
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.4:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.5:
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Chatphaisan
+        batsman: AP Yadav
+    - 0.6:
+        non_striker: AP Yadav
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - IK Gamantika
+          kind: caught
+    - 0.7:
+        non_striker: AP Yadav
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 1.1:
+        non_striker: N Nuntarach
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Yadav
+    - 1.2:
+        non_striker: N Nuntarach
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 1.3:
+        non_striker: AP Yadav
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 1.4:
+        non_striker: AP Yadav
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 1.5:
+        non_striker: AP Yadav
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+        wicket:
+          player_out: N Nuntarach
+          fielders:
+          - IKEG Artawan
+          kind: caught
+    - 1.6:
+        non_striker: AP Yadav
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 2.1:
+        non_striker: AV Lazarus
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+        wicket:
+          player_out: AP Yadav
+          fielders:
+          - GA Priandana
+          kind: caught
+    - 2.2:
+        non_striker: AV Lazarus
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 2.3:
+        non_striker: Y Saranonnakkun
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 2.4:
+        non_striker: AV Lazarus
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 2.5:
+        non_striker: Y Saranonnakkun
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 2.6:
+        non_striker: Y Saranonnakkun
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 2.7:
+        non_striker: Y Saranonnakkun
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 3.1:
+        non_striker: Y Saranonnakkun
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 3.2:
+        non_striker: Y Saranonnakkun
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 3.3:
+        non_striker: AV Lazarus
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          fielders:
+          - Ahmad Ramdoni
+          kind: caught
+    - 3.4:
+        non_striker: AV Lazarus
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 3.5:
+        non_striker: AV Lazarus
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Coetzee
+    - 3.6:
+        non_striker: AV Lazarus
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 4.1:
+        non_striker: J Coetzee
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 4.2:
+        non_striker: J Coetzee
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 4.3:
+        non_striker: J Coetzee
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 4.4:
+        non_striker: AV Lazarus
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 4.5:
+        non_striker: J Coetzee
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 4.6:
+        non_striker: J Coetzee
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 5.1:
+        non_striker: AV Lazarus
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 5.2:
+        non_striker: J Coetzee
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 5.3:
+        non_striker: J Coetzee
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 5.4:
+        non_striker: J Coetzee
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 5.5:
+        non_striker: J Coetzee
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 5.6:
+        non_striker: J Coetzee
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 6.1:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+        wicket:
+          player_out: J Coetzee
+          kind: lbw
+    - 6.2:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 6.3:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 6.4:
+        non_striker: MK Thakur
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 6.5:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 6.6:
+        non_striker: MK Thakur
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 7.1:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 7.2:
+        non_striker: AV Lazarus
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 7.3:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 7.4:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 7.5:
+        non_striker: AV Lazarus
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 7.6:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 8.1:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 8.2:
+        non_striker: MK Thakur
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 8.3:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 8.4:
+        non_striker: MK Thakur
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 8.5:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 8.6:
+        non_striker: MK Thakur
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.1:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.2:
+        non_striker: AV Lazarus
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Thakur
+    - 9.3:
+        non_striker: AV Lazarus
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 9.4:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 9.5:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.6:
+        non_striker: AV Lazarus
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 9.7:
+        non_striker: MK Thakur
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 10.1:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 10.2:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 10.3:
+        non_striker: MK Thakur
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 10.4:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 10.5:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+        wicket:
+          player_out: MK Thakur
+          fielders:
+          - KD Kesuma
+          kind: caught
+    - 10.6:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rungrueang
+    - 11.1:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.2:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.3:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.4:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 11.5:
+        non_striker: AV Lazarus
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rungrueang
+    - 11.6:
+        non_striker: AV Lazarus
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rungrueang
+    - 12.1:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rungrueang
+    - 12.2:
+        non_striker: S Rungrueang
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 12.3:
+        non_striker: AV Lazarus
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rungrueang
+    - 12.4:
+        non_striker: S Rungrueang
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 12.5:
+        non_striker: S Rungrueang
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 12.6:
+        non_striker: S Rungrueang
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 13.1:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 13.2:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 13.3:
+        non_striker: AV Lazarus
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rungrueang
+    - 13.4:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 13.5:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 13.6:
+        non_striker: AV Lazarus
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Rungrueang
+    - 14.1:
+        non_striker: S Rungrueang
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 14.2:
+        non_striker: S Rungrueang
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 14.3:
+        non_striker: AV Lazarus
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rungrueang
+    - 14.4:
+        non_striker: AV Lazarus
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rungrueang
+    - 14.5:
+        non_striker: S Rungrueang
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 14.6:
+        non_striker: S Rungrueang
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 15.1:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 15.2:
+        non_striker: S Rungrueang
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 15.3:
+        non_striker: AV Lazarus
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rungrueang
+        wicket:
+          player_out: S Rungrueang
+          fielders:
+          - Ahmad Ramdoni
+          kind: caught
+    - 15.4:
+        non_striker: AV Lazarus
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 15.5:
+        non_striker: N Senamontree
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 15.6:
+        non_striker: AV Lazarus
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 16.1:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 16.2:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AV Lazarus
+    - 16.3:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: AV Lazarus
+    - 16.4:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AV Lazarus
+    - 16.5:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 16.6:
+        non_striker: AV Lazarus
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 17.1:
+        non_striker: N Senamontree
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 17.2:
+        non_striker: N Senamontree
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 17.3:
+        non_striker: N Senamontree
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 17.4:
+        non_striker: N Senamontree
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 17.5:
+        non_striker: N Senamontree
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 17.6:
+        non_striker: N Senamontree
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 18.1:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 18.2:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AV Lazarus
+    - 18.3:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AV Lazarus
+    - 18.4:
+        non_striker: N Senamontree
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 18.5:
+        non_striker: AV Lazarus
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 18.6:
+        non_striker: AV Lazarus
+        bowler: PR Surve
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 19.1:
+        non_striker: N Senamontree
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 19.2:
+        non_striker: AV Lazarus
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 19.3:
+        non_striker: N Senamontree
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          fielders:
+          - Anjar Tadarus
+          kind: caught
+    - 19.4:
+        non_striker: N Senamontree
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 19.5:
+        non_striker: N Senamontree
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarawut Maliwan
+    - 19.6:
+        non_striker: Sarawut Maliwan
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Anjar Tadarus
+        batsman: GA Priandana
+    - 0.2:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anjar Tadarus
+        batsman: GA Priandana
+    - 0.3:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Anjar Tadarus
+        batsman: GA Priandana
+    - 0.4:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anjar Tadarus
+        batsman: GA Priandana
+    - 0.5:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anjar Tadarus
+        batsman: GA Priandana
+    - 0.6:
+        non_striker: GA Priandana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 1.1:
+        non_striker: GA Priandana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 1.2:
+        non_striker: GA Priandana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          kind: bowled
+    - 1.3:
+        non_striker: GA Priandana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 1.4:
+        non_striker: GA Priandana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 1.5:
+        non_striker: GA Priandana
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 1.6:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.1:
+        non_striker: GA Priandana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.2:
+        non_striker: GA Priandana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.3:
+        non_striker: GA Priandana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.4:
+        non_striker: GA Priandana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 2.5:
+        non_striker: GA Priandana
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 2.6:
+        non_striker: KD Kesuma
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 3.1:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 3.2:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 3.3:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 3.4:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          fielders:
+          - N Nuntarach
+          kind: caught
+    - 3.5:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 3.6:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 3.7:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 3.8:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 3.9:
+        non_striker: KD Kesuma
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 4.1:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Kesuma
+    - 4.2:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 4.3:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Kesuma
+    - 4.4:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          kind: bowled
+    - 4.5:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 4.6:
+        non_striker: IK Gamantika
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 4.7:
+        non_striker: IK Gamantika
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 4.8:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 5.1:
+        non_striker: PR Surve
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 5.2:
+        non_striker: PR Surve
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 5.3:
+        non_striker: IK Gamantika
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 5.4:
+        non_striker: IK Gamantika
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 5.5:
+        non_striker: IK Gamantika
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 5.6:
+        non_striker: IK Gamantika
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 6.1:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 6.2:
+        non_striker: IK Gamantika
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Surve
+    - 6.3:
+        non_striker: IK Gamantika
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 6.4:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 6.5:
+        non_striker: IK Gamantika
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 6.6:
+        non_striker: IK Gamantika
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 6.7:
+        non_striker: IK Gamantika
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Surve
+    - 7.1:
+        non_striker: PR Surve
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IK Gamantika
+    - 7.2:
+        non_striker: PR Surve
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 7.3:
+        non_striker: IK Gamantika
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 7.4:
+        non_striker: IK Gamantika
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 7.5:
+        non_striker: IK Gamantika
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 7.6:
+        non_striker: IK Gamantika
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 8.1:
+        non_striker: IK Gamantika
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 8.2:
+        non_striker: IK Gamantika
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 8.3:
+        non_striker: PR Surve
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IK Gamantika
+    - 8.4:
+        non_striker: PR Surve
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 8.5:
+        non_striker: IK Gamantika
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 8.6:
+        non_striker: PR Surve
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+        wicket:
+          player_out: IK Gamantika
+          fielders:
+          - AP Yadav
+          kind: caught
+    - 9.1:
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GD Arta
+        batsman: PR Surve
+    - 9.2:
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Arta
+        batsman: PR Surve
+    - 9.3:
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Arta
+        batsman: PR Surve
+    - 9.4:
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GD Arta
+        batsman: PR Surve
+    - 9.5:
+        non_striker: PR Surve
+        bowler: N Senamontree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Arta
+    - 9.6:
+        non_striker: PR Surve
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 9.7:
+        non_striker: GD Arta
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 10.1:
+        non_striker: PR Surve
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 10.2:
+        non_striker: GD Arta
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 10.3:
+        non_striker: PR Surve
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 10.4:
+        non_striker: GD Arta
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Surve
+    - 10.5:
+        non_striker: GD Arta
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 10.6:
+        non_striker: PR Surve
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 11.1:
+        non_striker: PR Surve
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 11.2:
+        non_striker: PR Surve
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 11.3:
+        non_striker: GD Arta
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 11.4:
+        non_striker: PR Surve
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 11.5:
+        non_striker: GD Arta
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 11.6:
+        non_striker: GD Arta
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 12.1:
+        non_striker: GD Arta
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 12.2:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 12.3:
+        non_striker: GD Arta
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 12.4:
+        non_striker: GD Arta
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 12.5:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+        wicket:
+          player_out: GD Arta
+          fielders:
+          - J Coetzee
+          kind: caught
+    - 12.6:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmad Ramdoni
+    - 12.7:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ahmad Ramdoni
+    - 13.1:
+        non_striker: PR Surve
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.2:
+        non_striker: PR Surve
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.3:
+        non_striker: PR Surve
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 13.4:
+        non_striker: Ahmad Ramdoni
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 13.5:
+        non_striker: Ahmad Ramdoni
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 13.6:
+        non_striker: PR Surve
+        bowler: A Kalasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 14.1:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmad Ramdoni
+    - 14.2:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 14.3:
+        non_striker: Ahmad Ramdoni
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 14.4:
+        non_striker: Ahmad Ramdoni
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Surve
+    - 14.5:
+        non_striker: Ahmad Ramdoni
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Surve
+    - 14.6:
+        non_striker: Ahmad Ramdoni
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 14.7:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Ahmad Ramdoni
+          fielders:
+          - C Chatphaisan
+          kind: caught
+    - 14.8:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Hawoe
+    - 14.9:
+        non_striker: PR Surve
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 15.1:
+        non_striker: PR Surve
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 15.2:
+        non_striker: DJ Hawoe
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Surve
+    - 15.3:
+        non_striker: DJ Hawoe
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 15.4:
+        non_striker: DJ Hawoe
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 15.5:
+        non_striker: PR Surve
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 15.6:
+        non_striker: DJ Hawoe
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 16.1:
+        non_striker: DJ Hawoe
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Surve
+    - 16.2:
+        non_striker: DJ Hawoe
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 16.3:
+        non_striker: PR Surve
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 16.4:
+        non_striker: DJ Hawoe
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 16.5:
+        non_striker: PR Surve
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          kind: bowled
+    - 16.6:
+        non_striker: PR Surve
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 17.1:
+        non_striker: IKEG Artawan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Surve
+    - 17.2:
+        non_striker: IKEG Artawan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 17.3:
+        non_striker: IKEG Artawan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 17.4:
+        non_striker: IKEG Artawan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 17.5:
+        non_striker: PR Surve
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 17.6:
+        non_striker: IKEG Artawan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 18.1:
+        non_striker: IKEG Artawan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Surve
+    - 18.2:
+        non_striker: IKEG Artawan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Surve
+    - 18.3:
+        non_striker: IKEG Artawan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Surve
+    - 18.4:
+        non_striker: IKEG Artawan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Surve
+    - 18.5:
+        non_striker: IKEG Artawan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Surve
+    - 18.6:
+        non_striker: IKEG Artawan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 19.1:
+        non_striker: IKEG Artawan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 19.2:
+        non_striker: PR Surve
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 19.3:
+        non_striker: PR Surve
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 19.4:
+        non_striker: IKEG Artawan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Surve
+    - 19.5:
+        non_striker: PR Surve
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 19.6:
+        non_striker: PR Surve
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan

@@ -1,0 +1,2047 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-12-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Napier
+  dates:
+  - '2023-12-27'
+  gender: male
+  match_type: T20
+  match_type_number: 2422
+  outcome:
+    winner: Bangladesh
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Mahedi Hasan
+  players:
+    New Zealand:
+    - FH Allen
+    - TL Seifert
+    - DJ Mitchell
+    - GD Phillips
+    - MS Chapman
+    - JDS Neesham
+    - MJ Santner
+    - AF Milne
+    - TG Southee
+    - IS Sodhi
+    - BV Sears
+    Bangladesh:
+    - Liton Das
+    - Rony Talukdar
+    - Nazmul Hossain Shanto
+    - Soumya Sarkar
+    - Towhid Hridoy
+    - Afif Hossain
+    - Mahedi Hasan
+    - Rishad Hossain
+    - Tanzim Hasan Sakib
+    - Shoriful Islam
+    - Mustafizur Rahman
+  registry:
+    people:
+      AF Milne: 350bb1b1
+      Afif Hossain: '37138918'
+      BV Sears: e1891e00
+      CM Brown: 448f4f1c
+      DJ Mitchell: eade4650
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      IS Sodhi: 641ac5ff
+      JDS Neesham: 9219eff0
+      JJ Crowe: 2e760301
+      Kim Cotton: 67a7c2ee
+      Liton Das: 0404d43c
+      MJ Santner: e4a0deae
+      MS Chapman: 7fa12533
+      Mahedi Hasan: 9dad0f2e
+      Mustafizur Rahman: 0a8fce53
+      Nazmul Hossain Shanto: 1274d7ab
+      Rishad Hossain: 5935d694
+      Rony Talukdar: 8bd614b2
+      SB Haig: 811655b3
+      Shoriful Islam: bb34fd31
+      Soumya Sarkar: 4d9f9686
+      TG Southee: 13c35c9e
+      TL Seifert: 4663bd23
+      Tanzim Hasan Sakib: 0b0cc297
+      Towhid Hridoy: 9e52a414
+      WR Knights: 63cbf8d8
+  teams:
+  - New Zealand
+  - Bangladesh
+  toss:
+    winner: Bangladesh
+    decision: field
+  umpires:
+  - SB Haig
+  - WR Knights
+  venue: McLean Park, Napier
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.2:
+        non_striker: FH Allen
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.3:
+        non_striker: FH Allen
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.4:
+        non_striker: FH Allen
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          kind: bowled
+    - 0.5:
+        non_striker: FH Allen
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 0.6:
+        non_striker: FH Allen
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 1.1:
+        non_striker: DJ Mitchell
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.2:
+        non_striker: DJ Mitchell
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 1.3:
+        non_striker: DJ Mitchell
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          kind: lbw
+    - 1.4:
+        non_striker: DJ Mitchell
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 1.5:
+        non_striker: DJ Mitchell
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 1.6:
+        non_striker: MS Chapman
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 2.1:
+        non_striker: DJ Mitchell
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.2:
+        non_striker: DJ Mitchell
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.3:
+        non_striker: MS Chapman
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 2.4:
+        non_striker: MS Chapman
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 2.5:
+        non_striker: MS Chapman
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 2.6:
+        non_striker: DJ Mitchell
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.7:
+        non_striker: MS Chapman
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 3.1:
+        non_striker: MS Chapman
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.2:
+        non_striker: MS Chapman
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 3.3:
+        non_striker: MS Chapman
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 3.4:
+        non_striker: MS Chapman
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.5:
+        non_striker: MS Chapman
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.6:
+        non_striker: MS Chapman
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 4.1:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 4.2:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 4.3:
+        non_striker: DJ Mitchell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 4.4:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          kind: bowled
+    - 4.5:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 4.6:
+        non_striker: JDS Neesham
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.1:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.2:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 5.3:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.4:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.5:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 5.6:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 6.1:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 6.2:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 6.3:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 6.4:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 6.5:
+        non_striker: JDS Neesham
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.6:
+        non_striker: JDS Neesham
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 7.2:
+        non_striker: MS Chapman
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 7.3:
+        non_striker: MS Chapman
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 7.4:
+        non_striker: MS Chapman
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 7.5:
+        non_striker: JDS Neesham
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.6:
+        non_striker: JDS Neesham
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.1:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 8.2:
+        non_striker: JDS Neesham
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Chapman
+    - 8.3:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 8.4:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 8.5:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 8.6:
+        non_striker: MS Chapman
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 9.1:
+        non_striker: MS Chapman
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 9.2:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - Tanzim Hasan Sakib
+          kind: caught
+    - 9.3:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 9.4:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 9.5:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 9.6:
+        non_striker: MJ Santner
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 10.1:
+        non_striker: JDS Neesham
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 10.2:
+        non_striker: MJ Santner
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 10.3:
+        non_striker: MJ Santner
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 10.4:
+        non_striker: JDS Neesham
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 10.5:
+        non_striker: MJ Santner
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 10.6:
+        non_striker: JDS Neesham
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.1:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.2:
+        non_striker: MJ Santner
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 11.3:
+        non_striker: MJ Santner
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 11.4:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 11.5:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 11.6:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.1:
+        non_striker: JDS Neesham
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 12.2:
+        non_striker: JDS Neesham
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 12.3:
+        non_striker: JDS Neesham
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.4:
+        non_striker: MJ Santner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 12.5:
+        non_striker: MJ Santner
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 12.6:
+        non_striker: JDS Neesham
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.1:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 13.2:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 13.3:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 13.4:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 13.5:
+        non_striker: JDS Neesham
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.6:
+        non_striker: MJ Santner
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 14.1:
+        non_striker: JDS Neesham
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 14.2:
+        non_striker: JDS Neesham
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.3:
+        non_striker: JDS Neesham
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 14.4:
+        non_striker: JDS Neesham
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 14.5:
+        non_striker: JDS Neesham
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 14.6:
+        non_striker: AF Milne
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.1:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 15.2:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 15.3:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 15.4:
+        non_striker: JDS Neesham
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 15.5:
+        non_striker: AF Milne
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 15.6:
+        non_striker: AF Milne
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 16.1:
+        non_striker: JDS Neesham
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 16.2:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 16.3:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - Afif Hossain
+          kind: caught
+    - 16.4:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 16.5:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 16.6:
+        non_striker: TG Southee
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 17.1:
+        non_striker: AF Milne
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 17.2:
+        non_striker: AF Milne
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 17.3:
+        non_striker: AF Milne
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Southee
+    - 17.4:
+        non_striker: AF Milne
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 17.5:
+        non_striker: AF Milne
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 17.6:
+        non_striker: TG Southee
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AF Milne
+    - 18.1:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 18.2:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 18.3:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+        wicket:
+          player_out: TG Southee
+          fielders:
+          - Afif Hossain
+          kind: caught
+    - 18.4:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 18.5:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 18.6:
+        non_striker: AF Milne
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 19.1:
+        non_striker: AF Milne
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 19.2:
+        non_striker: IS Sodhi
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 19.3:
+        non_striker: IS Sodhi
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 19.4:
+        non_striker: AF Milne
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          fielders:
+          - Liton Das
+          kind: caught
+    - 19.5:
+        non_striker: AF Milne
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BV Sears
+    - 19.6:
+        non_striker: BV Sears
+        bowler: Tanzim Hasan Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AF Milne
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Rony Talukdar
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.2:
+        non_striker: Rony Talukdar
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 0.3:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 0.4:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 0.5:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rony Talukdar
+    - 0.6:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+    - 1.1:
+        non_striker: Rony Talukdar
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 1.2:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rony Talukdar
+    - 1.3:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rony Talukdar
+    - 1.4:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rony Talukdar
+    - 1.5:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rony Talukdar
+        wicket:
+          player_out: Rony Talukdar
+          fielders:
+          - TG Southee
+          kind: caught
+    - 1.6:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 1.7:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 2.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 2.2:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 2.3:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 2.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Liton Das
+    - 2.5:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 2.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 3.1:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 3.2:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.3:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.4:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 3.5:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 3.6:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 4.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.2:
+        non_striker: Liton Das
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 4.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.5:
+        non_striker: Liton Das
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 4.6:
+        non_striker: Liton Das
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 5.1:
+        non_striker: Soumya Sarkar
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.2:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.3:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.4:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 5.5:
+        non_striker: Soumya Sarkar
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.6:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 6.1:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soumya Sarkar
+    - 6.2:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soumya Sarkar
+    - 6.3:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 6.4:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 6.5:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 6.6:
+        non_striker: Soumya Sarkar
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 6.7:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.1:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.2:
+        non_striker: Soumya Sarkar
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.3:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.4:
+        non_striker: Soumya Sarkar
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.5:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.6:
+        non_striker: Soumya Sarkar
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 8.1:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.2:
+        non_striker: Soumya Sarkar
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 8.3:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 8.4:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          kind: bowled
+    - 8.5:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 8.6:
+        non_striker: Towhid Hridoy
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 9.1:
+        non_striker: Towhid Hridoy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 9.2:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 9.3:
+        non_striker: Towhid Hridoy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 9.4:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 9.5:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 9.6:
+        non_striker: Towhid Hridoy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 10.1:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 10.2:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Towhid Hridoy
+    - 10.3:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 10.4:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 10.5:
+        non_striker: Towhid Hridoy
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 10.6:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Towhid Hridoy
+    - 11.1:
+        non_striker: Towhid Hridoy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 11.2:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 11.3:
+        non_striker: Towhid Hridoy
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 11.4:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 11.5:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Towhid Hridoy
+    - 11.6:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 12.1:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 12.2:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 12.3:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 12.4:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 12.5:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 12.6:
+        non_striker: Liton Das
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 13.1:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 13.2:
+        non_striker: Towhid Hridoy
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Liton Das
+    - 13.3:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+        wicket:
+          player_out: Towhid Hridoy
+          fielders:
+          - TG Southee
+          kind: caught
+    - 13.4:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 13.5:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 13.6:
+        non_striker: Liton Das
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 14.1:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 14.2:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 14.3:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 14.4:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 14.5:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 14.6:
+        non_striker: Mahedi Hasan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 15.1:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 15.2:
+        non_striker: Mahedi Hasan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 15.3:
+        non_striker: Mahedi Hasan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 15.4:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 15.5:
+        non_striker: Mahedi Hasan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 15.6:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 16.1:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 16.2:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 16.3:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mahedi Hasan
+    - 16.4:
+        non_striker: Mahedi Hasan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 16.5:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 16.6:
+        non_striker: Liton Das
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 17.1:
+        non_striker: Mahedi Hasan
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 17.2:
+        non_striker: Mahedi Hasan
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 17.3:
+        non_striker: Mahedi Hasan
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 17.4:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 17.5:
+        non_striker: Liton Das
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 17.6:
+        non_striker: Mahedi Hasan
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 18.1:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 18.2:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahedi Hasan
+    - 18.3:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 18.4:
+        non_striker: Liton Das
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan

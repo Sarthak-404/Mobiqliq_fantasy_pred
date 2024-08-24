@@ -1,0 +1,1202 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port Vila
+  dates:
+  - '2023-08-30'
+  gender: female
+  match_type: T20
+  match_type_number: 1560
+  outcome:
+    winner: Vanuatu
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - V Langiatu
+  players:
+    Vanuatu:
+    - R Andrew
+    - V Langiatu
+    - A Chilia
+    - L Chilia
+    - S Solman
+    - M Carlot
+    - N Navaika
+    - V Mansale
+    - L Jacob
+    - L Enoch
+    - T Kalosin
+    Japan:
+    - H Iwasaki
+    - Erika Oda
+    - A Chandel
+    - A Kano
+    - S Kato
+    - M Yanagida
+    - E Toguchi-Quinn
+    - Seika Sumi
+    - A Fujikawa
+    - K Ota
+    - Nonoha Yasumoto
+  registry:
+    people:
+      A Chandel: 78fa5f6d
+      A Chilia: a0d07fd6
+      A Fujikawa: 9543a4fe
+      A Kano: e92841c0
+      E Toguchi-Quinn: d144423b
+      Erika Oda: 4c8a1197
+      H Iwasaki: f2698c78
+      K Ota: 211f48fe
+      KK Loughman: 5c4e8572
+      L Chilia: 87ac786c
+      L Enoch: c96b8c25
+      L Jacob: 9be95e85
+      M Carlot: dac46b52
+      M Yanagida: f20e7e23
+      N Navaika: b0023708
+      Nonoha Yasumoto: eb33378d
+      P Chilia: 9c5fed24
+      R Andrew: 66c1accf
+      S Kato: ef9ff861
+      S Solman: 24ed1f75
+      Seika Sumi: 704b4c30
+      T Kalosin: f741c79d
+      V Langiatu: fdd18ca0
+      V Mansale: 7163637f
+      ZK Shem: 87ffd217
+  teams:
+  - Vanuatu
+  - Japan
+  toss:
+    winner: Japan
+    decision: field
+  umpires:
+  - KK Loughman
+  - P Chilia
+  venue: Vanuatu Cricket Ground
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.2:
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Langiatu
+        batsman: R Andrew
+    - 0.3:
+        non_striker: R Andrew
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 0.4:
+        non_striker: R Andrew
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 0.5:
+        non_striker: V Langiatu
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Andrew
+    - 0.6:
+        non_striker: R Andrew
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Langiatu
+    - 0.7:
+        non_striker: R Andrew
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 1.1:
+        non_striker: R Andrew
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 1.2:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Andrew
+    - 1.3:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Andrew
+        wicket:
+          player_out: R Andrew
+          kind: bowled
+    - 1.4:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 1.5:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 1.6:
+        non_striker: A Chilia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Langiatu
+    - 1.7:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chilia
+    - 1.8:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chilia
+    - 2.1:
+        non_striker: A Chilia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.2:
+        non_striker: A Chilia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.3:
+        non_striker: A Chilia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 2.4:
+        non_striker: A Chilia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 2.5:
+        non_striker: V Langiatu
+        bowler: S Kato
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Chilia
+    - 2.6:
+        non_striker: A Chilia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Langiatu
+    - 2.7:
+        non_striker: A Chilia
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 3.1:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 3.2:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 3.3:
+        non_striker: A Chilia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 3.4:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 3.5:
+        non_striker: A Chilia
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: V Langiatu
+    - 3.6:
+        non_striker: V Langiatu
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 4.1:
+        non_striker: A Chilia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 4.2:
+        non_striker: V Langiatu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chilia
+    - 4.3:
+        non_striker: A Chilia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 4.4:
+        non_striker: V Langiatu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+    - 4.5:
+        non_striker: V Langiatu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chilia
+        wicket:
+          player_out: A Chilia
+          fielders:
+          - H Iwasaki
+          kind: caught
+    - 4.6:
+        non_striker: V Langiatu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chilia
+    - 5.1:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 5.2:
+        non_striker: V Langiatu
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Chilia
+    - 5.3:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.4:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 5.5:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 5.6:
+        non_striker: V Langiatu
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Chilia
+    - 6.1:
+        non_striker: L Chilia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 6.2:
+        non_striker: L Chilia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 6.3:
+        non_striker: L Chilia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 6.4:
+        non_striker: V Langiatu
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Chilia
+    - 6.5:
+        non_striker: V Langiatu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Chilia
+    - 6.6:
+        non_striker: V Langiatu
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Chilia
+    - 6.7:
+        non_striker: L Chilia
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Langiatu
+    - 7.1:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 7.2:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+    - 7.3:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Langiatu
+    - 7.4:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Langiatu
+        wicket:
+          player_out: V Langiatu
+          fielders:
+          - K Ota
+          kind: caught
+    - 7.5:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 7.6:
+        non_striker: L Chilia
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 8.1:
+        non_striker: S Solman
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Chilia
+    - 8.2:
+        non_striker: S Solman
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Chilia
+    - 8.3:
+        non_striker: L Chilia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Solman
+    - 8.4:
+        non_striker: L Chilia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 8.5:
+        non_striker: L Chilia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Solman
+    - 8.6:
+        non_striker: L Chilia
+        bowler: E Toguchi-Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Solman
+    - 9.1:
+        non_striker: L Chilia
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+    - 9.2:
+        non_striker: L Chilia
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Solman
+    - 9.3:
+        non_striker: L Chilia
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Solman
+        wicket:
+          player_out: S Solman
+          fielders:
+          - A Fujikawa
+          kind: caught
+    - 9.4:
+        non_striker: L Chilia
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carlot
+    - 9.5:
+        non_striker: M Carlot
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Chilia
+    - 9.6:
+        non_striker: L Chilia
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carlot
+        wicket:
+          player_out: M Carlot
+          fielders:
+          - Seika Sumi
+          kind: caught
+- 2nd innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.2:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.3:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.4:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.5:
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.6:
+        non_striker: Erika Oda
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+        wicket:
+          player_out: H Iwasaki
+          kind: bowled
+    - 1.1:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Chandel
+        batsman: Erika Oda
+    - 1.2:
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Chandel
+        batsman: Erika Oda
+    - 1.3:
+        non_striker: Erika Oda
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 1.4:
+        non_striker: Erika Oda
+        bowler: V Mansale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 1.5:
+        non_striker: Erika Oda
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Chandel
+    - 1.6:
+        non_striker: Erika Oda
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 1.7:
+        non_striker: Erika Oda
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 2.1:
+        non_striker: A Chandel
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 2.2:
+        non_striker: A Chandel
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 2.3:
+        non_striker: Erika Oda
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 2.4:
+        non_striker: Erika Oda
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 2.5:
+        non_striker: A Chandel
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Erika Oda
+    - 2.6:
+        non_striker: A Chandel
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 2.7:
+        non_striker: Erika Oda
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 3.1:
+        non_striker: Erika Oda
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 3.2:
+        non_striker: A Chandel
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 3.3:
+        non_striker: Erika Oda
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 3.4:
+        non_striker: A Chandel
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 3.5:
+        non_striker: A Chandel
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 3.6:
+        non_striker: Erika Oda
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 4.1:
+        non_striker: Erika Oda
+        bowler: L Enoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 4.2:
+        non_striker: A Chandel
+        bowler: L Enoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 4.3:
+        non_striker: A Chandel
+        bowler: L Enoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+        wicket:
+          player_out: Erika Oda
+          kind: bowled
+    - 4.4:
+        non_striker: A Chandel
+        bowler: L Enoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 4.5:
+        non_striker: A Chandel
+        bowler: L Enoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 4.6:
+        non_striker: A Chandel
+        bowler: L Enoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 5.1:
+        non_striker: A Chandel
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 5.2:
+        non_striker: A Kano
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+        wicket:
+          player_out: A Chandel
+          kind: bowled
+    - 5.3:
+        non_striker: A Kano
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 5.4:
+        non_striker: A Kano
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 5.5:
+        non_striker: S Kato
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 5.6:
+        non_striker: A Kano
+        bowler: V Mansale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+        wicket:
+          player_out: S Kato
+          kind: bowled
+    - 6.1:
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Yanagida
+        batsman: A Kano
+    - 6.2:
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Yanagida
+        batsman: A Kano
+    - 6.3:
+        bowler: T Kalosin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Yanagida
+        batsman: A Kano
+    - 6.4:
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Yanagida
+        batsman: A Kano
+    - 6.5:
+        bowler: T Kalosin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Yanagida
+        batsman: A Kano
+    - 6.6:
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Yanagida
+        batsman: A Kano
+    - 6.7:
+        non_striker: A Kano
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.8:
+        non_striker: M Yanagida
+        bowler: T Kalosin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 7.1:
+        non_striker: M Yanagida
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 7.2:
+        non_striker: M Yanagida
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 7.3:
+        non_striker: M Yanagida
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 7.4:
+        non_striker: M Yanagida
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+        wicket:
+          player_out: A Kano
+          kind: lbw
+    - 7.5:
+        non_striker: M Yanagida
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Toguchi-Quinn
+    - 7.6:
+        non_striker: M Yanagida
+        bowler: N Navaika
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: E Toguchi-Quinn
+    - 7.7:
+        non_striker: M Yanagida
+        bowler: N Navaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Toguchi-Quinn
+        wicket:
+          player_out: E Toguchi-Quinn
+          fielders:
+          - V Langiatu
+          kind: caught
+    - 8.1:
+        bowler: S Solman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Seika Sumi
+        batsman: M Yanagida
+    - 8.2:
+        non_striker: M Yanagida
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 8.3:
+        non_striker: M Yanagida
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 8.4:
+        non_striker: M Yanagida
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 8.5:
+        non_striker: M Yanagida
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 8.6:
+        non_striker: Seika Sumi
+        bowler: S Solman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 9.1:
+        non_striker: M Yanagida
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 9.2:
+        non_striker: M Yanagida
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 9.3:
+        non_striker: Seika Sumi
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 9.4:
+        non_striker: M Yanagida
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+        wicket:
+          player_out: Seika Sumi
+          kind: lbw
+    - 9.5:
+        non_striker: M Yanagida
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Fujikawa
+        wicket:
+          player_out: A Fujikawa
+          kind: bowled
+    - 9.6:
+        non_striker: M Yanagida
+        bowler: R Andrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota

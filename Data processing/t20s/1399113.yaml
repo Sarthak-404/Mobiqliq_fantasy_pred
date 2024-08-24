@@ -1,0 +1,2160 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hangzhou
+  dates:
+  - '2023-10-03'
+  gender: male
+  match_type: T20
+  match_type_number: 2278
+  outcome:
+    winner: India
+    by:
+      runs: 23
+  overs: 20
+  players:
+    India:
+    - YBK Jaiswal
+    - RD Gaikwad
+    - Tilak Varma
+    - JM Sharma
+    - S Dube
+    - RK Singh
+    - R Sai Kishore
+    - Washington Sundar
+    - Ravi Bishnoi
+    - Avesh Khan
+    - Arshdeep Singh
+    Nepal:
+    - K Bhurtel
+    - Aasif Sheikh
+    - Kushal Malla
+    - RK Paudel
+    - DS Airee
+    - S Jora
+    - Sompal Kami
+    - Gulsan Jha
+    - Karan KC
+    - S Lamichhane
+    - A Bohara
+  registry:
+    people:
+      A Bohara: 64fb6b15
+      Aasif Sheikh: dcbea954
+      Arshdeep Singh: 244048f6
+      Asif Yaqoob: 6b35790c
+      Avesh Khan: eef2536f
+      DS Airee: 1747ea18
+      GF Labrooy: 8e088dbc
+      Gulsan Jha: 9811e35e
+      JM Sharma: 800d2d97
+      K Bhurtel: e3386c8a
+      Karan KC: f53b3e1d
+      Kushal Malla: 7e9f1cde
+      Mahmood Kharoti: d8ff8121
+      R Sai Kishore: c7a995d3
+      RD Gaikwad: 45a43fe2
+      RK Paudel: 1a3cc554
+      RK Singh: 0a509d6b
+      RSA Palliyaguruge: 4339c19d
+      Ravi Bishnoi: df064e1a
+      S Dube: a4e37e47
+      S Jora: 156378d8
+      S Lamichhane: b410bd3d
+      Sarika Prasad: 8ff397fa
+      Sompal Kami: 1adb8ee8
+      Tilak Varma: b0482a1d
+      Washington Sundar: f19ccfad
+      YBK Jaiswal: 6c19c6e5
+  teams:
+  - India
+  - Nepal
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - Asif Yaqoob
+  - Mahmood Kharoti
+  venue: Zhejiang University of Technology Cricket Field
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: RD Gaikwad
+        bowler: Sompal Kami
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: YBK Jaiswal
+    - 0.2:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 0.3:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 0.4:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 0.5:
+        non_striker: RD Gaikwad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YBK Jaiswal
+    - 0.6:
+        non_striker: RD Gaikwad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 0.7:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 1.1:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 1.2:
+        non_striker: YBK Jaiswal
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 1.3:
+        non_striker: YBK Jaiswal
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 1.4:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 1.5:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 1.6:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 2.1:
+        non_striker: RD Gaikwad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 2.2:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 2.3:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Gaikwad
+    - 2.4:
+        non_striker: RD Gaikwad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 2.5:
+        non_striker: RD Gaikwad
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 2.6:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 3.1:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 3.2:
+        non_striker: YBK Jaiswal
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 3.3:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 3.4:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: YBK Jaiswal
+    - 3.5:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YBK Jaiswal
+    - 3.6:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 4.1:
+        non_striker: YBK Jaiswal
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 4.2:
+        non_striker: RD Gaikwad
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 4.3:
+        non_striker: RD Gaikwad
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 4.4:
+        non_striker: YBK Jaiswal
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 4.5:
+        non_striker: YBK Jaiswal
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 4.6:
+        non_striker: YBK Jaiswal
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 5.1:
+        non_striker: YBK Jaiswal
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 5.2:
+        non_striker: YBK Jaiswal
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 5.3:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.4:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 5.5:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 5.6:
+        non_striker: YBK Jaiswal
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 6.1:
+        non_striker: RD Gaikwad
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 6.2:
+        non_striker: RD Gaikwad
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YBK Jaiswal
+    - 6.3:
+        non_striker: RD Gaikwad
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 6.4:
+        non_striker: RD Gaikwad
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 6.5:
+        non_striker: RD Gaikwad
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 6.6:
+        non_striker: RD Gaikwad
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 7.1:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 7.2:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 7.3:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 7.4:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 7.5:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 7.6:
+        non_striker: RD Gaikwad
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 8.1:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 8.2:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 8.3:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 8.4:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 8.5:
+        non_striker: RD Gaikwad
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 8.6:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 9.1:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 9.2:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YBK Jaiswal
+    - 9.3:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 9.4:
+        non_striker: RD Gaikwad
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 9.5:
+        non_striker: YBK Jaiswal
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+        wicket:
+          player_out: RD Gaikwad
+          fielders:
+          - RK Paudel
+          kind: caught
+    - 9.6:
+        non_striker: YBK Jaiswal
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.1:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.2:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.3:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.4:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.5:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.6:
+        non_striker: Tilak Varma
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 11.1:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.2:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.3:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.4:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          kind: bowled
+    - 11.5:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+    - 11.6:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Sharma
+    - 11.7:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Sharma
+    - 12.1:
+        non_striker: JM Sharma
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 12.2:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 12.3:
+        non_striker: JM Sharma
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 12.4:
+        non_striker: JM Sharma
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 12.5:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Sharma
+        wicket:
+          player_out: JM Sharma
+          kind: caught and bowled
+    - 12.6:
+        non_striker: YBK Jaiswal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 13.1:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 13.2:
+        non_striker: YBK Jaiswal
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.3:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 13.4:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YBK Jaiswal
+    - 13.5:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 13.6:
+        non_striker: YBK Jaiswal
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.1:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.2:
+        non_striker: S Dube
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 14.3:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.4:
+        non_striker: S Dube
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 14.5:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 14.6:
+        non_striker: YBK Jaiswal
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 15.1:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 15.2:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 15.3:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 15.4:
+        non_striker: S Dube
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 15.5:
+        non_striker: S Dube
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 15.6:
+        non_striker: YBK Jaiswal
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.1:
+        non_striker: YBK Jaiswal
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.2:
+        non_striker: S Dube
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          fielders:
+          - A Bohara
+          kind: caught
+    - 16.3:
+        non_striker: S Dube
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 16.4:
+        non_striker: RK Singh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 16.5:
+        non_striker: RK Singh
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.6:
+        non_striker: S Dube
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 17.1:
+        non_striker: RK Singh
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 17.2:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 17.3:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 17.4:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 17.5:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 17.6:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 18.1:
+        non_striker: RK Singh
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 18.2:
+        non_striker: S Dube
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 18.3:
+        non_striker: S Dube
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 18.4:
+        non_striker: RK Singh
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 18.5:
+        non_striker: RK Singh
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 18.6:
+        non_striker: RK Singh
+        bowler: RK Paudel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 19.1:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 19.2:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 19.3:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 19.4:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 19.5:
+        non_striker: RK Singh
+        bowler: A Bohara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Dube
+    - 19.6:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 19.7:
+        non_striker: S Dube
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        non_striker: Aasif Sheikh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Bhurtel
+    - 0.2:
+        non_striker: Aasif Sheikh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.3:
+        non_striker: Aasif Sheikh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 0.4:
+        non_striker: Aasif Sheikh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Bhurtel
+    - 0.5:
+        non_striker: Aasif Sheikh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.6:
+        non_striker: Aasif Sheikh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.7:
+        non_striker: Aasif Sheikh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 0.8:
+        non_striker: K Bhurtel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aasif Sheikh
+    - 0.9:
+        non_striker: K Bhurtel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 1.1:
+        non_striker: Aasif Sheikh
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 1.2:
+        non_striker: Aasif Sheikh
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.3:
+        non_striker: Aasif Sheikh
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.4:
+        non_striker: Aasif Sheikh
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.5:
+        non_striker: Aasif Sheikh
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 1.6:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aasif Sheikh
+    - 2.1:
+        non_striker: Aasif Sheikh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 2.2:
+        non_striker: Aasif Sheikh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 2.3:
+        non_striker: Aasif Sheikh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 2.4:
+        non_striker: Aasif Sheikh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Bhurtel
+    - 2.5:
+        non_striker: Aasif Sheikh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 2.6:
+        non_striker: Aasif Sheikh
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 3.1:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.2:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aasif Sheikh
+    - 3.3:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.4:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 3.5:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kushal Malla
+    - 3.6:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 3.7:
+        non_striker: K Bhurtel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 4.1:
+        non_striker: Kushal Malla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 4.2:
+        non_striker: Kushal Malla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 4.3:
+        non_striker: Kushal Malla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Bhurtel
+    - 4.4:
+        non_striker: Kushal Malla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 4.5:
+        non_striker: Kushal Malla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 4.6:
+        non_striker: Kushal Malla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 5.1:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 5.2:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 5.3:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 5.4:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 5.5:
+        non_striker: Kushal Malla
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 5.6:
+        non_striker: Kushal Malla
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Bhurtel
+    - 6.1:
+        non_striker: Kushal Malla
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 6.2:
+        non_striker: K Bhurtel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 6.3:
+        non_striker: Kushal Malla
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 6.4:
+        non_striker: Kushal Malla
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 6.5:
+        non_striker: Kushal Malla
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 6.6:
+        non_striker: Kushal Malla
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 7.1:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 7.2:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 7.3:
+        non_striker: Kushal Malla
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 7.4:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kushal Malla
+    - 7.5:
+        non_striker: K Bhurtel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 7.6:
+        non_striker: Kushal Malla
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 8.1:
+        non_striker: K Bhurtel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 8.2:
+        non_striker: K Bhurtel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 8.3:
+        non_striker: K Bhurtel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 8.4:
+        non_striker: K Bhurtel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 8.5:
+        non_striker: Kushal Malla
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+        wicket:
+          player_out: K Bhurtel
+          fielders:
+          - Avesh Khan
+          kind: caught
+    - 8.6:
+        non_striker: Kushal Malla
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 9.1:
+        non_striker: RK Paudel
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kushal Malla
+    - 9.2:
+        non_striker: RK Paudel
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kushal Malla
+    - 9.3:
+        non_striker: RK Paudel
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 9.4:
+        non_striker: RK Paudel
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 9.5:
+        non_striker: Kushal Malla
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 9.6:
+        non_striker: Kushal Malla
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 10.1:
+        non_striker: RK Paudel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+    - 10.2:
+        non_striker: RK Paudel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kushal Malla
+    - 10.3:
+        non_striker: Kushal Malla
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 10.4:
+        non_striker: Kushal Malla
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 10.5:
+        non_striker: RK Paudel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+        wicket:
+          player_out: Kushal Malla
+          fielders:
+          - RK Singh
+          kind: caught
+    - 10.6:
+        non_striker: RK Paudel
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 10.7:
+        non_striker: DS Airee
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+        wicket:
+          player_out: RK Paudel
+          kind: lbw
+    - 11.1:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 11.2:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 11.3:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 11.4:
+        non_striker: DS Airee
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jora
+    - 11.5:
+        non_striker: DS Airee
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jora
+    - 11.6:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DS Airee
+    - 12.1:
+        non_striker: S Jora
+        bowler: R Sai Kishore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DS Airee
+    - 12.2:
+        non_striker: DS Airee
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jora
+    - 12.3:
+        non_striker: DS Airee
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jora
+    - 12.4:
+        non_striker: DS Airee
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jora
+    - 12.5:
+        non_striker: S Jora
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 12.6:
+        non_striker: DS Airee
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jora
+    - 13.1:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 13.2:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 13.3:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 13.4:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 13.5:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 13.6:
+        non_striker: S Jora
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 14.1:
+        non_striker: S Jora
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 14.2:
+        non_striker: S Jora
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+        wicket:
+          player_out: DS Airee
+          fielders:
+          - R Sai Kishore
+          kind: caught
+    - 14.3:
+        non_striker: S Jora
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 14.4:
+        non_striker: S Jora
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 14.5:
+        non_striker: Sompal Kami
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jora
+    - 14.6:
+        non_striker: Sompal Kami
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jora
+    - 15.1:
+        non_striker: Sompal Kami
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jora
+    - 15.2:
+        non_striker: Sompal Kami
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jora
+    - 15.3:
+        non_striker: Sompal Kami
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jora
+    - 15.4:
+        non_striker: Sompal Kami
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jora
+        wicket:
+          player_out: S Jora
+          fielders:
+          - YBK Jaiswal
+          kind: caught
+    - 15.5:
+        non_striker: Sompal Kami
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 15.6:
+        non_striker: Gulsan Jha
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sompal Kami
+    - 16.1:
+        non_striker: Sompal Kami
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 16.2:
+        non_striker: Sompal Kami
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulsan Jha
+    - 16.3:
+        non_striker: Sompal Kami
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+    - 16.4:
+        non_striker: Sompal Kami
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 16.5:
+        non_striker: Gulsan Jha
+        bowler: Avesh Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Sompal Kami
+    - 16.6:
+        non_striker: Gulsan Jha
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+        wicket:
+          player_out: Sompal Kami
+          fielders:
+          - R Sai Kishore
+          kind: caught
+    - 17.1:
+        non_striker: Karan KC
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+        wicket:
+          player_out: Gulsan Jha
+          fielders:
+          - YBK Jaiswal
+          kind: caught
+    - 17.2:
+        non_striker: Karan KC
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 17.3:
+        non_striker: S Lamichhane
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 17.4:
+        non_striker: S Lamichhane
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 17.5:
+        non_striker: Karan KC
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 17.6:
+        non_striker: Karan KC
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Lamichhane
+    - 18.1:
+        non_striker: S Lamichhane
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 18.2:
+        non_striker: S Lamichhane
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Karan KC
+    - 18.3:
+        non_striker: S Lamichhane
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karan KC
+    - 18.4:
+        non_striker: S Lamichhane
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 18.5:
+        non_striker: S Lamichhane
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 18.6:
+        non_striker: Karan KC
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+        wicket:
+          player_out: S Lamichhane
+          fielders:
+          - R Sai Kishore
+          kind: caught
+    - 19.1:
+        non_striker: A Bohara
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 19.2:
+        non_striker: A Bohara
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 19.3:
+        non_striker: A Bohara
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 19.4:
+        non_striker: A Bohara
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 19.5:
+        non_striker: A Bohara
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 19.6:
+        non_striker: A Bohara
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Karan KC

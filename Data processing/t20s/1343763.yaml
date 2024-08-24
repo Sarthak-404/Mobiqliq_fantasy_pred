@@ -1,0 +1,917 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-11-24'
+  gender: male
+  match_type: T20
+  match_type_number: 1919
+  outcome:
+    winner: Rwanda
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - K Irakoze
+  players:
+    Mali:
+    - MT Diaby
+    - Mohamed Coulibaly
+    - S Kamate
+    - L Sanogo
+    - Z Makadji
+    - L Berthe
+    - M Malle
+    - MS Diakite
+    - CA Keita
+    - MS Diawara
+    - TM Macalou
+    Rwanda:
+    - O Tuyisenge
+    - E Dusingizimana
+    - D Ndikubwimana
+    - C Rububagumya
+    - E Niyomugabo
+    - Z Bimenyimana
+    - V Mitari
+    - K Irakoze
+    - M Akayezu
+    - W Niyitanga
+    - E Sebareme
+  registry:
+    people:
+      A Paleker: 634b11ac
+      C Rububagumya: 8088632c
+      CA Keita: 5b9b8d98
+      D Ndikubwimana: 3cbedf51
+      E Dusingizimana: c15e7ba4
+      E Niyomugabo: 2dcac6ff
+      E Sebareme: f99a219a
+      IO Oyieko: de4828fa
+      K Irakoze: 9ccb6e52
+      L Berthe: 8eb7c5a6
+      L Sanogo: abbc06cf
+      M Akayezu: 1f3b9f8d
+      M Malle: e15c6692
+      MS Diakite: 69795fcd
+      MS Diawara: 8c95e2dd
+      MT Diaby: 5d00cd6f
+      Mohamed Coulibaly: 86ea6123
+      O Tuyisenge: e6a6888f
+      R D'Mello: f3c22863
+      S Kamate: d7af6207
+      S Wadvalla: c1a1acf3
+      TM Macalou: 8a9320a1
+      V Mitari: 3a82673c
+      W Niyitanga: e7631adc
+      Z Bimenyimana: ba57fb08
+      Z Makadji: 7fcaa9f4
+  teams:
+  - Mali
+  - Rwanda
+  toss:
+    winner: Rwanda
+    decision: field
+  umpires:
+  - A Paleker
+  - R D'Mello
+  venue: Integrated Polytechnic Regional Centre
+innings:
+- 1st innings:
+    team: Mali
+    deliveries:
+    - 0.1:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Coulibaly
+        batsman: MT Diaby
+    - 0.2:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+        wicket:
+          player_out: MT Diaby
+          fielders:
+          - C Rububagumya
+          kind: caught
+    - 0.3:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 0.4:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 0.5:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 0.6:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 1.1:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Coulibaly
+    - 1.2:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 1.3:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 1.4:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 1.5:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Coulibaly
+    - 1.6:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 1.7:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 1.8:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 2.1:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 2.2:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 2.3:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 2.4:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kamate
+    - 2.5:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 2.6:
+        non_striker: Mohamed Coulibaly
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 3.1:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Coulibaly
+    - 3.2:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 3.3:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Coulibaly
+    - 3.4:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Coulibaly
+    - 3.5:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+        wicket:
+          player_out: Mohamed Coulibaly
+          kind: bowled
+    - 3.6:
+        non_striker: S Kamate
+        bowler: V Mitari
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Sanogo
+    - 3.7:
+        non_striker: L Sanogo
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 3.8:
+        non_striker: L Sanogo
+        bowler: V Mitari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+    - 4.1:
+        non_striker: S Kamate
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sanogo
+    - 4.2:
+        non_striker: S Kamate
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Sanogo
+        wicket:
+          player_out: L Sanogo
+          kind: lbw
+    - 4.3:
+        non_striker: S Kamate
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Makadji
+        wicket:
+          player_out: Z Makadji
+          kind: bowled
+    - 4.4:
+        non_striker: S Kamate
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Berthe
+    - 4.5:
+        non_striker: S Kamate
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Berthe
+        wicket:
+          player_out: L Berthe
+          fielders:
+          - D Ndikubwimana
+          - E Sebareme
+          kind: run out
+    - 4.6:
+        non_striker: M Malle
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kamate
+        wicket:
+          player_out: S Kamate
+          kind: bowled
+    - 5.1:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Diakite
+        batsman: M Malle
+    - 5.2:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Diakite
+        batsman: M Malle
+    - 5.3:
+        bowler: K Irakoze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MS Diakite
+        batsman: M Malle
+    - 5.4:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Diakite
+        batsman: M Malle
+    - 5.5:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Diakite
+        batsman: M Malle
+    - 5.6:
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Diakite
+        batsman: M Malle
+    - 5.7:
+        non_striker: MS Diakite
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 6.1:
+        non_striker: M Malle
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diakite
+    - 6.2:
+        non_striker: M Malle
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diakite
+    - 6.3:
+        non_striker: M Malle
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Diakite
+    - 6.4:
+        non_striker: M Malle
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diakite
+    - 6.5:
+        non_striker: M Malle
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diakite
+    - 6.6:
+        non_striker: M Malle
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Diakite
+    - 7.1:
+        non_striker: MS Diakite
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 7.2:
+        non_striker: MS Diakite
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 7.3:
+        non_striker: MS Diakite
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Malle
+    - 7.4:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diakite
+    - 7.5:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diakite
+        wicket:
+          player_out: MS Diakite
+          kind: bowled
+    - 7.6:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+    - 8.1:
+        non_striker: CA Keita
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 8.2:
+        non_striker: CA Keita
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 8.3:
+        non_striker: CA Keita
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Malle
+    - 8.4:
+        non_striker: CA Keita
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 8.5:
+        non_striker: CA Keita
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 8.6:
+        non_striker: CA Keita
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 9.1:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Keita
+        wicket:
+          player_out: CA Keita
+          kind: bowled
+    - 9.2:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Diawara
+    - 9.3:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+    - 9.4:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Diawara
+        wicket:
+          player_out: MS Diawara
+          kind: bowled
+    - 9.5:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 9.6:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 10.1:
+        non_striker: TM Macalou
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 10.2:
+        non_striker: TM Macalou
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 10.3:
+        non_striker: TM Macalou
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 10.4:
+        non_striker: TM Macalou
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 10.5:
+        non_striker: TM Macalou
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 10.6:
+        non_striker: TM Macalou
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 11.1:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 11.2:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 11.3:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 11.4:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 11.5:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 11.6:
+        non_striker: M Malle
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Macalou
+    - 12.1:
+        non_striker: TM Macalou
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 12.2:
+        non_striker: TM Macalou
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+    - 12.3:
+        non_striker: TM Macalou
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Malle
+        wicket:
+          player_out: M Malle
+          fielders:
+          - D Ndikubwimana
+          kind: caught
+- 2nd innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: E Dusingizimana
+        batsman: O Tuyisenge
+    - 0.2:
+        bowler: MS Diawara
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: E Dusingizimana
+        batsman: O Tuyisenge
+    - 0.3:
+        non_striker: O Tuyisenge
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 0.4:
+        non_striker: E Dusingizimana
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 0.5:
+        non_striker: E Dusingizimana
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 0.6:
+        non_striker: O Tuyisenge
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 0.7:
+        non_striker: E Dusingizimana
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 1.1:
+        non_striker: E Dusingizimana
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 1.2:
+        non_striker: E Dusingizimana
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 1.3:
+        non_striker: O Tuyisenge
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 1.4:
+        non_striker: O Tuyisenge
+        bowler: TM Macalou
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Dusingizimana
+    - 1.5:
+        non_striker: E Dusingizimana
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 1.6:
+        non_striker: O Tuyisenge
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 1.7:
+        non_striker: E Dusingizimana
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Tuyisenge
+    - 2.1:
+        non_striker: O Tuyisenge
+        bowler: MT Diaby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 2.2:
+        non_striker: O Tuyisenge
+        bowler: MT Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 2.3:
+        non_striker: E Dusingizimana
+        bowler: MT Diaby
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: O Tuyisenge

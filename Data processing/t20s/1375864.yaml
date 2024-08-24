@@ -1,0 +1,2168 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  dates:
+  - '2023-10-02'
+  gender: female
+  match_type: T20
+  match_type_number: 1678
+  outcome:
+    winner: West Indies
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - HK Matthews
+  players:
+    Australia:
+    - AJ Healy
+    - BL Mooney
+    - TM McGrath
+    - EA Perry
+    - A Gardner
+    - P Litchfield
+    - A Sutherland
+    - G Wareham
+    - JL Jonassen
+    - ML Schutt
+    - D Brown
+    West Indies:
+    - HK Matthews
+    - S Gajnabi
+    - SR Taylor
+    - CA Henry
+    - SA Campbelle
+    - RS Williams
+    - AA Alleyne
+    - Z James
+    - SS Connell
+    - ASS Fletcher
+    - K Ramharack
+  registry:
+    people:
+      A Gardner: bc969efb
+      A Sutherland: 65d9b6b6
+      AA Alleyne: 4b0e3049
+      AJ Healy: 321644de
+      ASS Fletcher: 42d9dd09
+      BC Treloar: f7e8ee52
+      BL Mooney: 52d1dbc8
+      CA Henry: '75820733'
+      CA Polosak: 26a360d2
+      D Brown: 2e81be88
+      EA Perry: be150fc8
+      Eloise Sheridan: d8d43840
+      G Wareham: f0b4e47d
+      HK Matthews: d32cf49a
+      JL Jonassen: 0475a86b
+      K Ramharack: 321c980e
+      Kent Hannam: 8cc171e7
+      ML Schutt: 17608a6f
+      P Litchfield: 4e6ef14f
+      PJ Gillespie: 3e253a50
+      RS Williams: 406de451
+      S Gajnabi: c35739a1
+      SA Campbelle: a7cd72b2
+      SR Taylor: 92cf79a8
+      SS Connell: 2f9a6bd1
+      TM McGrath: ca5acfa4
+      Z James: 816af623
+  teams:
+  - Australia
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - BC Treloar
+  - Eloise Sheridan
+  venue: North Sydney Oval, Sydney
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - SA Campbelle
+          kind: caught
+    - 0.2:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 0.3:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 0.4:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 0.5:
+        non_striker: TM McGrath
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 0.6:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 1.1:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.2:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 1.3:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.4:
+        non_striker: TM McGrath
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 1.5:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 1.6:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          kind: bowled
+    - 2.1:
+        non_striker: EA Perry
+        bowler: CA Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BL Mooney
+    - 2.2:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.3:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 2.4:
+        non_striker: EA Perry
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 2.5:
+        non_striker: BL Mooney
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 2.6:
+        non_striker: EA Perry
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 3.1:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 3.2:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.3:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.4:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 3.5:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 3.6:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 4.1:
+        non_striker: BL Mooney
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.2:
+        non_striker: BL Mooney
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.3:
+        non_striker: BL Mooney
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.4:
+        non_striker: BL Mooney
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 4.5:
+        non_striker: BL Mooney
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 4.6:
+        non_striker: BL Mooney
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.1:
+        non_striker: BL Mooney
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 5.2:
+        non_striker: BL Mooney
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.3:
+        non_striker: EA Perry
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 5.4:
+        non_striker: BL Mooney
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 5.5:
+        non_striker: BL Mooney
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 5.6:
+        non_striker: EA Perry
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 6.1:
+        non_striker: BL Mooney
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 6.2:
+        non_striker: BL Mooney
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 6.3:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 6.4:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 6.5:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 6.6:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 7.1:
+        non_striker: BL Mooney
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.2:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 7.3:
+        non_striker: BL Mooney
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.4:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 7.5:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 7.6:
+        non_striker: BL Mooney
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 7.7:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 8.1:
+        non_striker: BL Mooney
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 8.2:
+        non_striker: BL Mooney
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 8.3:
+        non_striker: BL Mooney
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 8.4:
+        non_striker: BL Mooney
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.5:
+        non_striker: EA Perry
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 8.6:
+        non_striker: EA Perry
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 9.1:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 9.2:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 9.3:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 9.4:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 9.5:
+        non_striker: BL Mooney
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 9.6:
+        non_striker: EA Perry
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - SS Connell
+          kind: caught
+    - 10.1:
+        non_striker: A Gardner
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.2:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 10.3:
+        non_striker: A Gardner
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.4:
+        non_striker: EA Perry
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 10.5:
+        non_striker: A Gardner
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.6:
+        non_striker: A Gardner
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 11.1:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 11.2:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 11.3:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 11.4:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - AA Alleyne
+          kind: caught
+    - 11.5:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 11.6:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.1:
+        non_striker: P Litchfield
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 12.2:
+        non_striker: P Litchfield
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 12.3:
+        non_striker: P Litchfield
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.4:
+        non_striker: P Litchfield
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EA Perry
+    - 12.5:
+        non_striker: P Litchfield
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 12.6:
+        non_striker: P Litchfield
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.1:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.2:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Litchfield
+    - 13.3:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 13.4:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.5:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 13.6:
+        non_striker: EA Perry
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 14.1:
+        non_striker: EA Perry
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 14.2:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Perry
+    - 14.3:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 14.4:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 14.5:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - ASS Fletcher
+          kind: caught
+    - 14.6:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 14.7:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 15.1:
+        non_striker: A Sutherland
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 15.2:
+        non_striker: A Sutherland
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 15.3:
+        non_striker: P Litchfield
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 15.4:
+        non_striker: P Litchfield
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 15.5:
+        non_striker: A Sutherland
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Litchfield
+    - 15.6:
+        non_striker: A Sutherland
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Litchfield
+    - 16.1:
+        non_striker: P Litchfield
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 16.2:
+        non_striker: P Litchfield
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+        wicket:
+          player_out: A Sutherland
+          fielders:
+          - S Gajnabi
+          kind: caught
+    - 16.3:
+        non_striker: P Litchfield
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Wareham
+    - 16.4:
+        non_striker: P Litchfield
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Wareham
+    - 16.5:
+        non_striker: P Litchfield
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 16.6:
+        non_striker: P Litchfield
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 17.1:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 17.2:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 17.3:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 17.4:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Wareham
+    - 17.5:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: G Wareham
+    - 17.6:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 17.7:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Wareham
+    - 17.8:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 18.1:
+        non_striker: G Wareham
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 18.2:
+        non_striker: G Wareham
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 18.3:
+        non_striker: G Wareham
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Litchfield
+    - 18.4:
+        non_striker: G Wareham
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 18.5:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 18.6:
+        non_striker: P Litchfield
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 19.1:
+        non_striker: G Wareham
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Litchfield
+    - 19.2:
+        non_striker: P Litchfield
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 19.3:
+        non_striker: G Wareham
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 19.4:
+        non_striker: G Wareham
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 19.5:
+        non_striker: G Wareham
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Litchfield
+    - 19.6:
+        non_striker: G Wareham
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 19.7:
+        non_striker: G Wareham
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Litchfield
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: S Gajnabi
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: S Gajnabi
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: S Gajnabi
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: S Gajnabi
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HK Matthews
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Gajnabi
+    - 1.2:
+        non_striker: S Gajnabi
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.3:
+        non_striker: S Gajnabi
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: S Gajnabi
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: S Gajnabi
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.6:
+        non_striker: S Gajnabi
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 2.2:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+        wicket:
+          player_out: S Gajnabi
+          fielders:
+          - JL Jonassen
+          kind: caught
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 3.1:
+        non_striker: HK Matthews
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 3.4:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 3.5:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.6:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 3.7:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 4.1:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 4.2:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 4.3:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 4.4:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 4.5:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 4.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 5.1:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 5.2:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 5.3:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.4:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.5:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 5.6:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 6.1:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 6.2:
+        non_striker: SR Taylor
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.3:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 6.4:
+        non_striker: SR Taylor
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.5:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 7.1:
+        non_striker: SR Taylor
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.2:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SR Taylor
+    - 7.3:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 7.4:
+        non_striker: SR Taylor
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 7.5:
+        non_striker: SR Taylor
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.6:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Taylor
+    - 7.7:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 8.1:
+        non_striker: SR Taylor
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 8.2:
+        non_striker: SR Taylor
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 8.3:
+        non_striker: SR Taylor
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 8.4:
+        non_striker: SR Taylor
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 8.5:
+        non_striker: SR Taylor
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 8.6:
+        non_striker: SR Taylor
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.1:
+        non_striker: SR Taylor
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.2:
+        non_striker: SR Taylor
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 9.3:
+        non_striker: SR Taylor
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 9.4:
+        non_striker: SR Taylor
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 9.5:
+        non_striker: SR Taylor
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.6:
+        non_striker: SR Taylor
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 10.1:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 10.2:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 10.3:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 10.4:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 10.5:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 10.6:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 10.7:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 11.1:
+        non_striker: SR Taylor
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.2:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 11.3:
+        non_striker: SR Taylor
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HK Matthews
+    - 11.4:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 11.5:
+        non_striker: SR Taylor
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.6:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 12.1:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 12.2:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 12.3:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 12.4:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 12.5:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 12.6:
+        non_striker: SR Taylor
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 13.1:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 13.2:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 13.3:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 13.4:
+        non_striker: SR Taylor
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 13.5:
+        non_striker: HK Matthews
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 13.6:
+        non_striker: SR Taylor
+        bowler: G Wareham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 13.7:
+        non_striker: SR Taylor
+        bowler: G Wareham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 13.8:
+        non_striker: SR Taylor
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 14.1:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 14.2:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 14.3:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 14.4:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 14.5:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 14.6:
+        non_striker: SR Taylor
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 15.1:
+        non_striker: HK Matthews
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 15.2:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 15.3:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 15.4:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 15.5:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 15.6:
+        non_striker: SR Taylor
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 16.1:
+        non_striker: SR Taylor
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 16.2:
+        non_striker: SR Taylor
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 16.3:
+        non_striker: SR Taylor
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HK Matthews
+    - 16.4:
+        non_striker: SR Taylor
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 16.5:
+        non_striker: SR Taylor
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 16.6:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 16.7:
+        non_striker: HK Matthews
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          kind: bowled
+    - 17.1:
+        non_striker: CA Henry
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 17.2:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 17.3:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 17.4:
+        non_striker: CA Henry
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 17.5:
+        non_striker: CA Henry
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 17.6:
+        non_striker: HK Matthews
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 18.1:
+        non_striker: CA Henry
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 18.2:
+        non_striker: CA Henry
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 18.3:
+        non_striker: CA Henry
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 18.4:
+        non_striker: CA Henry
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 18.5:
+        non_striker: CA Henry
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: bowled
+    - 18.6:
+        non_striker: CA Henry
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 19.1:
+        non_striker: CA Henry
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 19.2:
+        non_striker: SA Campbelle
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 19.3:
+        non_striker: SA Campbelle
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 19.4:
+        non_striker: CA Henry
+        bowler: A Gardner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SA Campbelle
+    - 19.5:
+        non_striker: CA Henry
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle

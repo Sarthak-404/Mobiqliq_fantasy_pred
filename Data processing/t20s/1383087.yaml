@@ -1,0 +1,2149 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2023-07-28'
+  gender: male
+  match_type: T20
+  match_type_number: 2179
+  outcome:
+    winner: Jersey
+    by:
+      runs: 28
+  overs: 20
+  player_of_match:
+  - NA Greenwood
+  players:
+    Jersey:
+    - JAD Lawrenson
+    - NA Greenwood
+    - JW Jenner
+    - C Brennan
+    - AM Tribe
+    - ZM Tribe
+    - PB Gouge
+    - J Sumerauer
+    - CW Perchard
+    - EJB Miles
+    - RJG Palmer
+    Denmark:
+    - ND Laegsgaard
+    - HAM Shah
+    - T Bharaj
+    - SA Ahmad
+    - S Thanikaithasan
+    - Abdullah Mahmood
+    - Musa Shaheen
+    - Surya Anand
+    - Lucky Ali
+    - E Karimi
+    - Saud Munir
+  registry:
+    people:
+      AM Tribe: 86f84b37
+      Abdullah Mahmood: 926c6d3c
+      C Brennan: 80f9fd4f
+      CW Perchard: 9f998ed8
+      DH Mclean: 281d4749
+      E Karimi: 95bd9407
+      EJB Miles: 6b46ce43
+      HAM Shah: 007113d7
+      J Jensen: fc80e7a2
+      J Sumerauer: 0b581ed6
+      JAD Lawrenson: c810b349
+      JW Jenner: 32a8161e
+      Lucky Ali: 28b032ac
+      Musa Shaheen: 6709b2de
+      N Bathi: 96a0edf9
+      NA Greenwood: 7ca68967
+      ND Laegsgaard: b0f2d3bd
+      PB Gouge: fe2432c4
+      Phil Whitticase: 99d5f6fa
+      RJG Palmer: bc6f8328
+      S Thanikaithasan: 498aacac
+      SA Ahmad: 8de618ab
+      Saud Munir: 5902f2eb
+      Surya Anand: ef141f36
+      T Bharaj: 49556abb
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Jersey
+  - Denmark
+  toss:
+    winner: Denmark
+    decision: field
+  umpires:
+  - J Jensen
+  - N Bathi
+  venue: Goldenacre, Edinburgh
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NA Greenwood
+        batsman: JAD Lawrenson
+    - 0.2:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NA Greenwood
+        batsman: JAD Lawrenson
+    - 0.3:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: NA Greenwood
+        batsman: JAD Lawrenson
+    - 0.4:
+        non_striker: JAD Lawrenson
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 0.5:
+        non_striker: JAD Lawrenson
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 0.6:
+        non_striker: NA Greenwood
+        bowler: Surya Anand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JAD Lawrenson
+    - 0.7:
+        non_striker: NA Greenwood
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JAD Lawrenson
+    - 1.1:
+        non_striker: JAD Lawrenson
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 1.2:
+        non_striker: JAD Lawrenson
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.3:
+        non_striker: JAD Lawrenson
+        bowler: ND Laegsgaard
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: NA Greenwood
+    - 1.4:
+        non_striker: NA Greenwood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 1.5:
+        non_striker: NA Greenwood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 1.6:
+        non_striker: JAD Lawrenson
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 1.7:
+        non_striker: JAD Lawrenson
+        bowler: ND Laegsgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA Greenwood
+    - 2.1:
+        non_striker: JAD Lawrenson
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 2.2:
+        non_striker: JAD Lawrenson
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 2.3:
+        non_striker: JAD Lawrenson
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 2.4:
+        non_striker: JAD Lawrenson
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NA Greenwood
+    - 2.5:
+        non_striker: NA Greenwood
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 2.6:
+        non_striker: JAD Lawrenson
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 3.1:
+        non_striker: NA Greenwood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JAD Lawrenson
+    - 3.2:
+        non_striker: NA Greenwood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 3.3:
+        non_striker: JAD Lawrenson
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 3.4:
+        non_striker: JAD Lawrenson
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 3.5:
+        non_striker: NA Greenwood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JAD Lawrenson
+    - 3.6:
+        non_striker: NA Greenwood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 4.1:
+        non_striker: JAD Lawrenson
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 4.2:
+        non_striker: JAD Lawrenson
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA Greenwood
+    - 4.3:
+        non_striker: JAD Lawrenson
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 4.4:
+        non_striker: JAD Lawrenson
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - Musa Shaheen
+          kind: caught
+    - 4.5:
+        non_striker: JAD Lawrenson
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 4.6:
+        non_striker: JW Jenner
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 5.1:
+        non_striker: JAD Lawrenson
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 5.2:
+        non_striker: JAD Lawrenson
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 5.3:
+        non_striker: JAD Lawrenson
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 5.4:
+        non_striker: JAD Lawrenson
+        bowler: SA Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JW Jenner
+    - 5.5:
+        non_striker: JAD Lawrenson
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 5.6:
+        non_striker: JAD Lawrenson
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 5.7:
+        non_striker: JAD Lawrenson
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 6.1:
+        non_striker: JW Jenner
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAD Lawrenson
+    - 6.2:
+        non_striker: JAD Lawrenson
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 6.3:
+        non_striker: JW Jenner
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+    - 6.4:
+        non_striker: JW Jenner
+        bowler: E Karimi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JAD Lawrenson
+    - 6.5:
+        non_striker: JW Jenner
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAD Lawrenson
+        wicket:
+          player_out: JAD Lawrenson
+          kind: bowled
+    - 6.6:
+        non_striker: JW Jenner
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 6.7:
+        non_striker: C Brennan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 7.1:
+        non_striker: JW Jenner
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 7.2:
+        non_striker: C Brennan
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          fielders:
+          - ND Laegsgaard
+          kind: caught
+    - 7.3:
+        non_striker: C Brennan
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.4:
+        non_striker: AM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 7.5:
+        non_striker: AM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 7.6:
+        non_striker: C Brennan
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 8.1:
+        non_striker: C Brennan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 8.2:
+        non_striker: AM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 8.3:
+        non_striker: AM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 8.4:
+        non_striker: C Brennan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 8.5:
+        non_striker: C Brennan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 8.6:
+        non_striker: C Brennan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 9.1:
+        non_striker: C Brennan
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 9.2:
+        non_striker: AM Tribe
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 9.3:
+        non_striker: AM Tribe
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 9.4:
+        non_striker: AM Tribe
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 9.5:
+        non_striker: AM Tribe
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 9.6:
+        non_striker: AM Tribe
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 10.1:
+        non_striker: AM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 10.2:
+        non_striker: AM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 10.3:
+        non_striker: C Brennan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.4:
+        non_striker: AM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 10.5:
+        non_striker: C Brennan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 10.6:
+        non_striker: AM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 11.1:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 11.2:
+        non_striker: AM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 11.3:
+        non_striker: AM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 11.4:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 11.5:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 11.6:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 12.1:
+        non_striker: AM Tribe
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 12.2:
+        non_striker: AM Tribe
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 12.3:
+        non_striker: C Brennan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 12.4:
+        non_striker: C Brennan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 12.5:
+        non_striker: AM Tribe
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 12.6:
+        non_striker: C Brennan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 13.1:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 13.2:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 13.3:
+        non_striker: AM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 13.4:
+        non_striker: AM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Brennan
+    - 13.5:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 13.6:
+        non_striker: AM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 14.1:
+        non_striker: AM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 14.2:
+        non_striker: AM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 14.3:
+        non_striker: AM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 14.4:
+        non_striker: AM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 14.5:
+        non_striker: C Brennan
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+        wicket:
+          player_out: AM Tribe
+          fielders:
+          - T Bharaj
+          kind: caught
+    - 14.6:
+        non_striker: C Brennan
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 15.1:
+        non_striker: C Brennan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 15.2:
+        non_striker: ZM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Brennan
+    - 15.3:
+        non_striker: ZM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brennan
+    - 15.4:
+        non_striker: ZM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Brennan
+    - 15.5:
+        non_striker: ZM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+        wicket:
+          player_out: C Brennan
+          fielders:
+          - T Bharaj
+          kind: caught
+    - 15.6:
+        non_striker: ZM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PB Gouge
+        wicket:
+          player_out: PB Gouge
+          kind: caught and bowled
+    - 15.7:
+        non_striker: ZM Tribe
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 16.1:
+        non_striker: J Sumerauer
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 16.2:
+        non_striker: ZM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 16.3:
+        non_striker: ZM Tribe
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 16.4:
+        non_striker: J Sumerauer
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 16.5:
+        non_striker: J Sumerauer
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 16.6:
+        non_striker: J Sumerauer
+        bowler: SA Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 17.1:
+        non_striker: J Sumerauer
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ZM Tribe
+    - 17.2:
+        non_striker: ZM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 17.3:
+        non_striker: ZM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 17.4:
+        non_striker: ZM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 17.5:
+        non_striker: J Sumerauer
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 17.6:
+        non_striker: J Sumerauer
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 18.1:
+        non_striker: J Sumerauer
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 18.2:
+        non_striker: ZM Tribe
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+        wicket:
+          player_out: J Sumerauer
+          fielders:
+          - Musa Shaheen
+          kind: caught
+    - 18.3:
+        non_striker: ZM Tribe
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CW Perchard
+        wicket:
+          player_out: CW Perchard
+          kind: bowled
+    - 18.4:
+        non_striker: ZM Tribe
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJB Miles
+        wicket:
+          player_out: EJB Miles
+          fielders:
+          - T Bharaj
+          kind: caught
+    - 18.5:
+        non_striker: ZM Tribe
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJG Palmer
+    - 18.6:
+        non_striker: ZM Tribe
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 19.1:
+        non_striker: ZM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 19.2:
+        non_striker: RJG Palmer
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 19.3:
+        non_striker: RJG Palmer
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 19.4:
+        non_striker: ZM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJG Palmer
+    - 19.5:
+        non_striker: ZM Tribe
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJG Palmer
+    - 19.6:
+        non_striker: RJG Palmer
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+        wicket:
+          player_out: ZM Tribe
+          fielders:
+          - S Thanikaithasan
+          kind: caught
+- 2nd innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.2:
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.3:
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.4:
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.5:
+        non_striker: ND Laegsgaard
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 0.6:
+        non_striker: ND Laegsgaard
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 1.1:
+        non_striker: HAM Shah
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.2:
+        non_striker: HAM Shah
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.3:
+        non_striker: HAM Shah
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.4:
+        non_striker: HAM Shah
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+        wicket:
+          player_out: ND Laegsgaard
+          kind: bowled
+    - 1.5:
+        non_striker: HAM Shah
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Bharaj
+    - 1.6:
+        non_striker: HAM Shah
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 2.1:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: HAM Shah
+    - 2.2:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+        wicket:
+          player_out: HAM Shah
+          kind: bowled
+    - 2.3:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 2.4:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 2.5:
+        non_striker: SA Ahmad
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 2.6:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 2.7:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 3.1:
+        non_striker: T Bharaj
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 3.2:
+        non_striker: T Bharaj
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 3.3:
+        non_striker: T Bharaj
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 3.4:
+        non_striker: T Bharaj
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 3.5:
+        non_striker: SA Ahmad
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 3.6:
+        non_striker: T Bharaj
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 4.1:
+        non_striker: SA Ahmad
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 4.2:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 4.3:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 4.4:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 4.5:
+        non_striker: SA Ahmad
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 4.6:
+        non_striker: SA Ahmad
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 5.1:
+        non_striker: SA Ahmad
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 5.2:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 5.3:
+        non_striker: SA Ahmad
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 5.4:
+        non_striker: SA Ahmad
+        bowler: EJB Miles
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Bharaj
+    - 5.5:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 5.6:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 6.1:
+        non_striker: SA Ahmad
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 6.2:
+        non_striker: T Bharaj
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 6.3:
+        non_striker: SA Ahmad
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 6.4:
+        non_striker: T Bharaj
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 6.5:
+        non_striker: T Bharaj
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 6.6:
+        non_striker: T Bharaj
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 7.1:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 7.2:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 7.3:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 7.4:
+        non_striker: SA Ahmad
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 7.5:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 7.6:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 8.1:
+        non_striker: T Bharaj
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 8.2:
+        non_striker: SA Ahmad
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 8.3:
+        non_striker: SA Ahmad
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 8.4:
+        non_striker: SA Ahmad
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 8.5:
+        non_striker: T Bharaj
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 8.6:
+        non_striker: T Bharaj
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 9.1:
+        non_striker: T Bharaj
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 9.2:
+        non_striker: SA Ahmad
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 9.3:
+        non_striker: T Bharaj
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 9.4:
+        non_striker: SA Ahmad
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 9.5:
+        non_striker: SA Ahmad
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 9.6:
+        non_striker: SA Ahmad
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 10.1:
+        non_striker: SA Ahmad
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 10.2:
+        non_striker: T Bharaj
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 10.3:
+        non_striker: SA Ahmad
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 10.4:
+        non_striker: SA Ahmad
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 10.5:
+        non_striker: SA Ahmad
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 10.6:
+        non_striker: T Bharaj
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 11.1:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 11.2:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Ahmad
+    - 11.3:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 11.4:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 11.5:
+        non_striker: SA Ahmad
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 11.6:
+        non_striker: T Bharaj
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+        wicket:
+          player_out: SA Ahmad
+          kind: lbw
+    - 12.1:
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Thanikaithasan
+        batsman: T Bharaj
+    - 12.2:
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Thanikaithasan
+        batsman: T Bharaj
+    - 12.3:
+        non_striker: T Bharaj
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 12.4:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Bharaj
+    - 12.5:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 12.6:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 13.1:
+        non_striker: S Thanikaithasan
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 13.2:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 13.3:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 13.4:
+        non_striker: S Thanikaithasan
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 13.5:
+        non_striker: S Thanikaithasan
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 13.6:
+        non_striker: T Bharaj
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 14.1:
+        non_striker: S Thanikaithasan
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 14.2:
+        non_striker: T Bharaj
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 14.3:
+        non_striker: T Bharaj
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 14.4:
+        non_striker: S Thanikaithasan
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+        wicket:
+          player_out: T Bharaj
+          fielders:
+          - EJB Miles
+          kind: caught
+    - 14.5:
+        non_striker: S Thanikaithasan
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mahmood
+    - 14.6:
+        non_striker: Abdullah Mahmood
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thanikaithasan
+    - 15.1:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mahmood
+    - 15.2:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mahmood
+    - 15.3:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mahmood
+    - 15.4:
+        non_striker: Abdullah Mahmood
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 15.5:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mahmood
+    - 15.6:
+        non_striker: S Thanikaithasan
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mahmood
+    - 16.1:
+        non_striker: S Thanikaithasan
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mahmood
+    - 16.2:
+        non_striker: Abdullah Mahmood
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thanikaithasan
+    - 16.3:
+        non_striker: Abdullah Mahmood
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 16.4:
+        non_striker: S Thanikaithasan
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mahmood
+    - 16.5:
+        non_striker: Abdullah Mahmood
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 16.6:
+        non_striker: S Thanikaithasan
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mahmood
+        wicket:
+          player_out: Abdullah Mahmood
+          fielders:
+          - JW Jenner
+          - AM Tribe
+          kind: run out
+    - 17.1:
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Musa Shaheen
+        batsman: S Thanikaithasan
+    - 17.2:
+        non_striker: S Thanikaithasan
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+        wicket:
+          player_out: S Thanikaithasan
+          fielders:
+          - AM Tribe
+          - J Sumerauer
+          kind: run out
+    - 17.3:
+        non_striker: Musa Shaheen
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 17.4:
+        non_striker: Musa Shaheen
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 17.5:
+        non_striker: Musa Shaheen
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand
+    - 17.6:
+        non_striker: Surya Anand
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 18.1:
+        non_striker: Surya Anand
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 18.2:
+        non_striker: Musa Shaheen
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Surya Anand
+    - 18.3:
+        non_striker: Musa Shaheen
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand
+    - 18.4:
+        non_striker: Surya Anand
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+        wicket:
+          player_out: Musa Shaheen
+          fielders:
+          - C Brennan
+          kind: caught
+    - 18.5:
+        non_striker: Surya Anand
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucky Ali
+    - 18.6:
+        non_striker: Lucky Ali
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand
+    - 19.1:
+        non_striker: Lucky Ali
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand
+    - 19.2:
+        non_striker: Surya Anand
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucky Ali
+    - 19.3:
+        non_striker: Lucky Ali
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand
+    - 19.4:
+        non_striker: Surya Anand
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucky Ali
+    - 19.5:
+        non_striker: Lucky Ali
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Surya Anand
+    - 19.6:
+        non_striker: Lucky Ali
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Surya Anand

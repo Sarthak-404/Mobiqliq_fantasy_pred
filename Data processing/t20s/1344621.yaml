@@ -1,0 +1,2141 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Queenstown
+  dates:
+  - '2022-12-07'
+  gender: female
+  match_type: T20
+  match_type_number: 1311
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 63
+  overs: 20
+  players:
+    New Zealand:
+    - SFM Devine
+    - SW Bates
+    - RM Burns
+    - LR Down
+    - AC Kerr
+    - ML Green
+    - GE Plimmer
+    - LMM Tahuhu
+    - JM Kerr
+    - EJ Carson
+    - FC Jonas
+    Bangladesh:
+    - Murshida Khatun
+    - Sharmin Akhter
+    - Fargana Hoque
+    - Nigar Sultana
+    - Rumana Ahmed
+    - Ritu Moni
+    - Salma Khatun
+    - Rabeya Khan
+    - Nahida Akter
+    - Fariha Trisna
+    - Marufa Akter
+  registry:
+    people:
+      AC Kerr: 7673c908
+      C Black: 75b42f71
+      C High: ed55e0da
+      EJ Carson: 7693851c
+      FC Jonas: 6df697a9
+      Fargana Hoque: 6e96c956
+      Fariha Trisna: 7b51bfa4
+      GE Plimmer: 575494db
+      JJ Crowe: 2e760301
+      JM Dempsey: 153c9f33
+      JM Kerr: 9af58032
+      Kim Cotton: 67a7c2ee
+      LMM Tahuhu: '60471339'
+      LR Down: 19147fe0
+      ML Green: 865eae1f
+      Marufa Akter: a50797a4
+      Murshida Khatun: 712bbd92
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      RM Burns: 94fe4708
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      Rumana Ahmed: a92763ea
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      Salma Khatun: 037f2b86
+      Sharmin Akhter: 84fdd3cf
+  teams:
+  - New Zealand
+  - Bangladesh
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - C Black
+  - Kim Cotton
+  venue: John Davies Oval, Queenstown
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.2:
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.3:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.4:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 0.5:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.6:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 1.2:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.3:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.4:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 1.5:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 1.6:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.7:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.1:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.2:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 2.3:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.4:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 2.5:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 2.6:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 2.7:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.1:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 3.2:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.3:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - Nigar Sultana
+          kind: stumped
+    - 3.5:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.6:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 4.1:
+        non_striker: RM Burns
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SFM Devine
+    - 4.2:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RM Burns
+    - 4.3:
+        non_striker: RM Burns
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 4.4:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+        wicket:
+          player_out: RM Burns
+          kind: bowled
+    - 4.5:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 4.6:
+        non_striker: LR Down
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 5.1:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.2:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.3:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 5.4:
+        non_striker: LR Down
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 5.5:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 5.6:
+        non_striker: LR Down
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 6.1:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.2:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.3:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.4:
+        non_striker: LR Down
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 6.5:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.6:
+        non_striker: LR Down
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 7.1:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 7.2:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 7.3:
+        non_striker: LR Down
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 7.4:
+        non_striker: LR Down
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 7.5:
+        non_striker: LR Down
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 7.6:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.1:
+        non_striker: LR Down
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 8.2:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.3:
+        non_striker: SFM Devine
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+        wicket:
+          player_out: LR Down
+          fielders:
+          - Nahida Akter
+          kind: run out
+    - 8.4:
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Kerr
+        batsman: SFM Devine
+    - 8.5:
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Kerr
+        batsman: SFM Devine
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 9.1:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 9.2:
+        non_striker: SFM Devine
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: SFM Devine
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 9.5:
+        non_striker: SFM Devine
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.6:
+        non_striker: SFM Devine
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.1:
+        non_striker: AC Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.2:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.3:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 10.4:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 10.7:
+        non_striker: AC Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.1:
+        non_striker: SFM Devine
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.2:
+        non_striker: SFM Devine
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - Fargana Hoque
+          kind: caught
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 12.1:
+        non_striker: ML Green
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 12.3:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.4:
+        non_striker: ML Green
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: ML Green
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.1:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.2:
+        non_striker: ML Green
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: ML Green
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 14.1:
+        non_striker: ML Green
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 14.3:
+        non_striker: AC Kerr
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.4:
+        non_striker: ML Green
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.5:
+        non_striker: AC Kerr
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.6:
+        non_striker: ML Green
+        bowler: Fariha Trisna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.1:
+        non_striker: ML Green
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.2:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          kind: bowled
+    - 15.3:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 15.5:
+        non_striker: GE Plimmer
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.6:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - Marufa Akter
+          kind: run out
+    - 16.1:
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LMM Tahuhu
+        batsman: AC Kerr
+    - 16.2:
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LMM Tahuhu
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 16.4:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LMM Tahuhu
+    - 16.5:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 16.6:
+        non_striker: LMM Tahuhu
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 17.1:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 17.2:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 17.3:
+        non_striker: LMM Tahuhu
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 17.4:
+        non_striker: LMM Tahuhu
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 17.5:
+        non_striker: AC Kerr
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 17.6:
+        non_striker: LMM Tahuhu
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 18.1:
+        non_striker: AC Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LMM Tahuhu
+    - 18.2:
+        non_striker: AC Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          kind: bowled
+    - 18.3:
+        non_striker: AC Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 18.4:
+        non_striker: JM Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 18.5:
+        non_striker: JM Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 18.6:
+        non_striker: JM Kerr
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 19.1:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 19.2:
+        non_striker: JM Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 19.3:
+        non_striker: JM Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 19.4:
+        non_striker: JM Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AC Kerr
+    - 19.5:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 19.6:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sharmin Akhter
+        batsman: Murshida Khatun
+    - 0.2:
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sharmin Akhter
+        batsman: Murshida Khatun
+    - 0.3:
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sharmin Akhter
+        batsman: Murshida Khatun
+    - 0.4:
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sharmin Akhter
+        batsman: Murshida Khatun
+    - 0.5:
+        non_striker: Murshida Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.6:
+        non_striker: Murshida Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 0.7:
+        non_striker: Murshida Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 1.1:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 1.2:
+        non_striker: Murshida Khatun
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 1.3:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+        wicket:
+          player_out: Murshida Khatun
+          kind: lbw
+    - 1.4:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.5:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.6:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.1:
+        non_striker: Fargana Hoque
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 2.2:
+        non_striker: Fargana Hoque
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 2.3:
+        non_striker: Sharmin Akhter
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 2.4:
+        non_striker: Sharmin Akhter
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.5:
+        non_striker: Sharmin Akhter
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.6:
+        non_striker: Sharmin Akhter
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 2.7:
+        non_striker: Fargana Hoque
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.1:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 3.2:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 3.3:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.4:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.5:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+        wicket:
+          player_out: Fargana Hoque
+          fielders:
+          - FC Jonas
+          kind: caught
+    - 3.6:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 4.1:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 4.2:
+        non_striker: Sharmin Akhter
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 4.3:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.4:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.5:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.6:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.1:
+        non_striker: Sharmin Akhter
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 5.2:
+        non_striker: Nigar Sultana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Sharmin Akhter
+          kind: lbw
+    - 5.3:
+        non_striker: Nigar Sultana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 5.4:
+        non_striker: Nigar Sultana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 5.5:
+        non_striker: Nigar Sultana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 5.6:
+        non_striker: Nigar Sultana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 6.1:
+        non_striker: Rumana Ahmed
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 6.2:
+        non_striker: Rumana Ahmed
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 6.3:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 6.4:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 6.5:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rumana Ahmed
+    - 6.6:
+        non_striker: Nigar Sultana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 7.1:
+        non_striker: Rumana Ahmed
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 7.2:
+        non_striker: Nigar Sultana
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rumana Ahmed
+    - 7.3:
+        non_striker: Nigar Sultana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 7.4:
+        non_striker: Nigar Sultana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 7.5:
+        non_striker: Nigar Sultana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 7.6:
+        non_striker: Rumana Ahmed
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          fielders:
+          - ML Green
+          kind: caught
+    - 7.7:
+        non_striker: Rumana Ahmed
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 8.1:
+        non_striker: Ritu Moni
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rumana Ahmed
+    - 8.2:
+        non_striker: Ritu Moni
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 8.3:
+        non_striker: Ritu Moni
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 8.4:
+        non_striker: Rumana Ahmed
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+        wicket:
+          player_out: Ritu Moni
+          kind: lbw
+    - 8.5:
+        non_striker: Rumana Ahmed
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 8.6:
+        non_striker: Rumana Ahmed
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 9.1:
+        non_striker: Rumana Ahmed
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 9.2:
+        non_striker: Salma Khatun
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rumana Ahmed
+    - 9.3:
+        non_striker: Salma Khatun
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rumana Ahmed
+    - 9.4:
+        non_striker: Salma Khatun
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 9.5:
+        non_striker: Salma Khatun
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rumana Ahmed
+    - 9.6:
+        non_striker: Rumana Ahmed
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 10.1:
+        non_striker: Rumana Ahmed
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 10.2:
+        non_striker: Salma Khatun
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rumana Ahmed
+    - 10.3:
+        non_striker: Salma Khatun
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rumana Ahmed
+    - 10.4:
+        non_striker: Salma Khatun
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 10.5:
+        non_striker: Salma Khatun
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 10.6:
+        non_striker: Salma Khatun
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+    - 11.1:
+        non_striker: Rumana Ahmed
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 11.2:
+        non_striker: Rumana Ahmed
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 11.3:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rumana Ahmed
+        wicket:
+          player_out: Rumana Ahmed
+          fielders:
+          - FC Jonas
+          kind: caught
+    - 11.4:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 11.5:
+        non_striker: Rabeya Khan
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 11.6:
+        non_striker: Rabeya Khan
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 12.1:
+        non_striker: Rabeya Khan
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 12.2:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 12.3:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 12.4:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 12.5:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rabeya Khan
+    - 12.6:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 13.1:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 13.2:
+        non_striker: Rabeya Khan
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 13.3:
+        non_striker: Rabeya Khan
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 13.4:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 13.5:
+        non_striker: Rabeya Khan
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Salma Khatun
+    - 13.6:
+        non_striker: Rabeya Khan
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 14.1:
+        non_striker: Salma Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 14.2:
+        non_striker: Salma Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 14.3:
+        non_striker: Rabeya Khan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 14.4:
+        non_striker: Salma Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 14.5:
+        non_striker: Salma Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 14.6:
+        non_striker: Salma Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 15.1:
+        non_striker: Rabeya Khan
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 15.2:
+        non_striker: Rabeya Khan
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 15.3:
+        non_striker: Salma Khatun
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 15.4:
+        non_striker: Rabeya Khan
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Salma Khatun
+    - 15.5:
+        non_striker: Rabeya Khan
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 15.6:
+        non_striker: Rabeya Khan
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 15.7:
+        non_striker: Salma Khatun
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 16.1:
+        non_striker: Rabeya Khan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Salma Khatun
+    - 16.2:
+        non_striker: Rabeya Khan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 16.3:
+        non_striker: Rabeya Khan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 16.4:
+        non_striker: Salma Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 16.5:
+        non_striker: Rabeya Khan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 16.6:
+        non_striker: Salma Khatun
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 17.1:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 17.2:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 17.3:
+        non_striker: Rabeya Khan
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 17.4:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          fielders:
+          - FC Jonas
+          kind: caught
+    - 17.5:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 17.6:
+        non_striker: Nahida Akter
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 18.1:
+        non_striker: Nahida Akter
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 18.2:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 18.3:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 18.4:
+        non_striker: Nahida Akter
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 18.5:
+        non_striker: Nahida Akter
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salma Khatun
+    - 18.6:
+        non_striker: Salma Khatun
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 19.1:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nahida Akter
+    - 19.2:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Nahida Akter
+    - 19.3:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 19.4:
+        non_striker: Salma Khatun
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 19.5:
+        non_striker: Nahida Akter
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salma Khatun
+    - 19.6:
+        non_striker: Nahida Akter
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Salma Khatun

@@ -1,0 +1,2134 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-04-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2023-04-27'
+  gender: female
+  match_type: T20
+  match_type_number: 1414
+  outcome:
+    winner: Thailand
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - N Boochatham
+  players:
+    Zimbabwe:
+    - K Ndlovu
+    - SM Mayers
+    - CS Mugeri-Tiripano
+    - M Musonda
+    - J Nkomo
+    - A Ndiraya
+    - P Mujaji
+    - L Tshuma
+    - P Marange
+    - A Mazvishaya
+    - N Sibanda
+    Thailand:
+    - N Koncharoenkai
+    - N Chantam
+    - N Boochatham
+    - N Chaiwai
+    - C Sutthiruang
+    - R Kanoh
+    - P Maya
+    - S Laomi
+    - O Kamchomphu
+    - S Tippoch
+    - T Putthawong
+  registry:
+    people:
+      A Mazvishaya: '09a58e2d'
+      A Ndiraya: c8e6bddd
+      Arif Ansari: 95957b9e
+      C Sutthiruang: f6ddfe08
+      CS Mugeri-Tiripano: 99c86133
+      J Nkomo: 36dfa62e
+      K Ndlovu: 8d25271a
+      KB Suresh: '40316210'
+      L Tshuma: f281dd00
+      M Musonda: 94b52754
+      N Boochatham: 58acb320
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      N Koncharoenkai: 82c78412
+      N Sibanda: edf62a25
+      O Kamchomphu: 519b872a
+      P Marange: a4f1fdd4
+      P Maya: 72eada4c
+      P Mujaji: a246f48f
+      R Kanoh: 5959370f
+      S Laomi: 4b15618c
+      S Tippoch: 9c4b58db
+      SM Mayers: 91d9613e
+      T Putthawong: 23e3f2d6
+      Tabarak Dar: 2259c12d
+      V Kalidas: 42d76418
+  teams:
+  - Zimbabwe
+  - Thailand
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - Arif Ansari
+  - V Kalidas
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Mayers
+        batsman: K Ndlovu
+    - 0.2:
+        bowler: C Sutthiruang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SM Mayers
+        batsman: K Ndlovu
+    - 0.3:
+        non_striker: SM Mayers
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+        wicket:
+          player_out: K Ndlovu
+          fielders:
+          - R Kanoh
+          kind: caught
+    - 0.4:
+        non_striker: SM Mayers
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 0.5:
+        non_striker: SM Mayers
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 0.6:
+        non_striker: SM Mayers
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 0.7:
+        non_striker: SM Mayers
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 1.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 1.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 1.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 1.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 1.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Mayers
+    - 1.6:
+        non_striker: SM Mayers
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 2.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 2.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 2.3:
+        non_striker: SM Mayers
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 2.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 2.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 2.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 3.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 3.6:
+        non_striker: SM Mayers
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 4.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 4.2:
+        non_striker: SM Mayers
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 4.3:
+        non_striker: SM Mayers
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 4.4:
+        non_striker: SM Mayers
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 4.5:
+        non_striker: SM Mayers
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 4.6:
+        non_striker: SM Mayers
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 5.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 5.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 5.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 5.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 5.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 5.6:
+        non_striker: SM Mayers
+        bowler: C Sutthiruang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 6.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 6.2:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 6.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Mayers
+    - 6.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 6.5:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 6.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Mayers
+    - 7.1:
+        non_striker: SM Mayers
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 7.2:
+        non_striker: SM Mayers
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 7.3:
+        non_striker: SM Mayers
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 7.4:
+        non_striker: SM Mayers
+        bowler: P Maya
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: CS Mugeri-Tiripano
+    - 7.5:
+        non_striker: SM Mayers
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 7.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 7.7:
+        non_striker: CS Mugeri-Tiripano
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 8.1:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 8.2:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 8.3:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 8.4:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 8.5:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 8.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 9.1:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 9.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 9.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 9.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 9.5:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 9.6:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 10.1:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 10.2:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 10.3:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 10.4:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 10.5:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 10.6:
+        non_striker: SM Mayers
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+        wicket:
+          player_out: CS Mugeri-Tiripano
+          fielders:
+          - R Kanoh
+          kind: caught
+    - 11.1:
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Musonda
+        batsman: SM Mayers
+    - 11.2:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 11.3:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 11.4:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Musonda
+    - 11.5:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 11.6:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 12.1:
+        non_striker: M Musonda
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 12.2:
+        non_striker: SM Mayers
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 12.3:
+        non_striker: SM Mayers
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Musonda
+    - 12.4:
+        non_striker: M Musonda
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 12.5:
+        non_striker: M Musonda
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 12.6:
+        non_striker: SM Mayers
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 13.1:
+        non_striker: M Musonda
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 13.2:
+        non_striker: M Musonda
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 13.3:
+        non_striker: SM Mayers
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Musonda
+    - 13.4:
+        non_striker: M Musonda
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 13.5:
+        non_striker: M Musonda
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 13.6:
+        non_striker: M Musonda
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 14.1:
+        non_striker: SM Mayers
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+        wicket:
+          player_out: M Musonda
+          kind: bowled
+    - 14.2:
+        non_striker: SM Mayers
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 14.3:
+        non_striker: SM Mayers
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 14.4:
+        non_striker: SM Mayers
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 14.5:
+        non_striker: J Nkomo
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 14.6:
+        non_striker: SM Mayers
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+        wicket:
+          player_out: J Nkomo
+          kind: lbw
+    - 15.1:
+        non_striker: A Ndiraya
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+        wicket:
+          player_out: SM Mayers
+          kind: bowled
+    - 15.2:
+        non_striker: A Ndiraya
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mujaji
+    - 15.3:
+        non_striker: A Ndiraya
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 15.4:
+        non_striker: A Ndiraya
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 15.5:
+        non_striker: P Mujaji
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndiraya
+    - 15.6:
+        non_striker: A Ndiraya
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+        wicket:
+          player_out: P Mujaji
+          kind: bowled
+    - 16.1:
+        non_striker: L Tshuma
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+        wicket:
+          player_out: A Ndiraya
+          kind: lbw
+    - 16.2:
+        non_striker: L Tshuma
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 16.3:
+        non_striker: L Tshuma
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Marange
+    - 16.4:
+        non_striker: P Marange
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 16.5:
+        non_striker: L Tshuma
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 16.6:
+        non_striker: L Tshuma
+        bowler: S Tippoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 17.1:
+        non_striker: P Marange
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 17.2:
+        non_striker: P Marange
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 17.3:
+        non_striker: L Tshuma
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Marange
+    - 17.4:
+        non_striker: P Marange
+        bowler: S Laomi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tshuma
+    - 17.5:
+        non_striker: P Marange
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 17.6:
+        non_striker: L Tshuma
+        bowler: S Laomi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: P Marange
+    - 17.7:
+        non_striker: L Tshuma
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 17.8:
+        non_striker: L Tshuma
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 18.1:
+        non_striker: P Marange
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 18.2:
+        non_striker: P Marange
+        bowler: N Boochatham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tshuma
+    - 18.3:
+        non_striker: P Marange
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 18.4:
+        non_striker: L Tshuma
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 18.5:
+        non_striker: L Tshuma
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+        wicket:
+          player_out: P Marange
+          kind: bowled
+    - 18.6:
+        non_striker: L Tshuma
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 18.7:
+        non_striker: L Tshuma
+        bowler: N Boochatham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 19.1:
+        non_striker: A Mazvishaya
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 19.2:
+        non_striker: L Tshuma
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mazvishaya
+    - 19.3:
+        non_striker: L Tshuma
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 19.4:
+        non_striker: A Mazvishaya
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tshuma
+    - 19.5:
+        non_striker: L Tshuma
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 19.6:
+        non_striker: L Tshuma
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+        wicket:
+          player_out: L Tshuma
+          fielders:
+          - S Tippoch
+          kind: run out
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Chantam
+        batsman: N Koncharoenkai
+    - 0.2:
+        non_striker: N Koncharoenkai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 0.3:
+        non_striker: N Koncharoenkai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 0.4:
+        non_striker: N Koncharoenkai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 0.5:
+        non_striker: N Koncharoenkai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 0.6:
+        non_striker: N Chantam
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 1.1:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.2:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+        wicket:
+          player_out: N Chantam
+          kind: bowled
+    - 1.3:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 1.4:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Boochatham
+    - 1.5:
+        non_striker: N Boochatham
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Koncharoenkai
+    - 1.6:
+        non_striker: N Boochatham
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 1.7:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Boochatham
+    - 2.1:
+        non_striker: N Boochatham
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 2.2:
+        non_striker: N Boochatham
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 2.3:
+        non_striker: N Boochatham
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 2.4:
+        non_striker: N Boochatham
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 2.5:
+        non_striker: N Boochatham
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 2.6:
+        non_striker: N Koncharoenkai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Boochatham
+    - 3.1:
+        non_striker: N Boochatham
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 3.2:
+        non_striker: N Boochatham
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 3.3:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Boochatham
+    - 3.4:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 3.5:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Boochatham
+    - 3.6:
+        non_striker: N Koncharoenkai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Boochatham
+    - 4.1:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 4.2:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 4.3:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Boochatham
+    - 4.4:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+    - 4.5:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Boochatham
+        wicket:
+          player_out: N Boochatham
+          fielders:
+          - CS Mugeri-Tiripano
+          kind: caught
+    - 4.6:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 4.7:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 5.1:
+        non_striker: N Chaiwai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.2:
+        non_striker: N Chaiwai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.3:
+        non_striker: N Chaiwai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.4:
+        non_striker: N Chaiwai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.5:
+        non_striker: N Chaiwai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 5.6:
+        non_striker: N Chaiwai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 6.1:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chaiwai
+    - 6.2:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 6.3:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 6.4:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chaiwai
+    - 6.5:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 6.6:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 6.7:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chaiwai
+    - 6.8:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 7.1:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 7.2:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Koncharoenkai
+    - 7.3:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 7.4:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 7.5:
+        non_striker: N Koncharoenkai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 7.6:
+        non_striker: N Koncharoenkai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 8.1:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 8.2:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 8.3:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 8.4:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 8.5:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 8.6:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 9.1:
+        non_striker: N Chaiwai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 9.2:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 9.3:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 9.4:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 9.5:
+        non_striker: N Chaiwai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 9.6:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 10.1:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 10.2:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 10.3:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 10.4:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 10.5:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 10.6:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 11.1:
+        non_striker: N Chaiwai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 11.2:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 11.3:
+        non_striker: N Chaiwai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 11.4:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 11.5:
+        non_striker: N Chaiwai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 11.6:
+        non_striker: N Chaiwai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 12.1:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: N Chaiwai
+    - 12.2:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chaiwai
+    - 12.3:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 12.4:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 12.5:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 12.6:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 13.1:
+        non_striker: N Chaiwai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 13.2:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 13.3:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 13.4:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 13.5:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 13.6:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 14.1:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 14.2:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 14.3:
+        non_striker: N Koncharoenkai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 14.4:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 14.5:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 14.6:
+        non_striker: N Chaiwai
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Koncharoenkai
+    - 15.1:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 15.2:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 15.3:
+        non_striker: N Chaiwai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 15.4:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chaiwai
+    - 15.5:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chaiwai
+    - 15.6:
+        non_striker: N Koncharoenkai
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chaiwai
+    - 16.1:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 16.2:
+        non_striker: N Koncharoenkai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chaiwai
+    - 16.3:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 16.4:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Koncharoenkai
+    - 16.5:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 16.6:
+        non_striker: N Chaiwai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Koncharoenkai
+    - 17.1:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chaiwai
+    - 17.2:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+    - 17.3:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chaiwai
+        wicket:
+          player_out: N Chaiwai
+          kind: bowled
+    - 17.4:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sutthiruang
+    - 17.5:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Sutthiruang
+    - 17.6:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sutthiruang
+        wicket:
+          player_out: C Sutthiruang
+          kind: bowled
+    - 18.1:
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Kanoh
+        batsman: N Koncharoenkai
+    - 18.2:
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Kanoh
+        batsman: N Koncharoenkai
+    - 18.3:
+        non_striker: N Koncharoenkai
+        bowler: K Ndlovu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Kanoh
+    - 18.4:
+        non_striker: R Kanoh
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 18.5:
+        non_striker: N Koncharoenkai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kanoh
+        wicket:
+          player_out: R Kanoh
+          fielders:
+          - P Mujaji
+          kind: stumped
+    - 18.6:
+        non_striker: N Koncharoenkai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maya
+    - 19.1:
+        non_striker: P Maya
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Koncharoenkai
+    - 19.2:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maya
+    - 19.3:
+        non_striker: N Koncharoenkai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maya

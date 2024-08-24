@@ -1,0 +1,2178 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-12-22'
+  gender: male
+  match_type: T20
+  match_type_number: 1979
+  outcome:
+    winner: Uganda
+    by:
+      runs: 7
+  overs: 20
+  player_of_match:
+  - S Sesazi
+  players:
+    Uganda:
+    - RG Mukasa
+    - S Sesazi
+    - K Waiswa
+    - CN Kakuru
+    - P Murungi
+    - C Kyewuta
+    - B Masaba
+    - H Ssenyondo
+    - F Nsubuga
+    - Bilal Hassun
+    - J Baguma
+    Tanzania:
+    - II Selemani
+    - MO Kitunda
+    - AP Rajeevan
+    - K Nassoro
+    - SA Jumbe
+    - S Thakor
+    - AJ Jabiri
+    - AM Kimote
+    - M Yunusu Issa
+    - DA Mehta
+    - YM Nkanya
+  registry:
+    people:
+      AJ Jabiri: 90624d37
+      AM Kimote: 34e36b65
+      AP Rajeevan: 63d6f031
+      B Masaba: f33cfd25
+      Bilal Hassun: 1a9e9efe
+      C Kyewuta: 395695ce
+      CN Kakuru: f6aed283
+      DA Mehta: 61a7d6e9
+      EH Dusabemungu: ba3b4b09
+      F Nsubuga: 87e33d07
+      H Ssenyondo: 2b7609f1
+      II Selemani: b2dadc51
+      Itangishaka Olivier: 0ee3bb49
+      J Baguma: 8b46fc4f
+      K Nassoro: 29ee9bf9
+      K Waiswa: a3a275ec
+      M Yunusu Issa: bbab35a3
+      MO Kitunda: badef0dc
+      P Murungi: fbdc5ab1
+      Patric Makumbi: e4c69c16
+      RG Mukasa: 011f6b42
+      S Sesazi: c2c975f9
+      S Thakor: '0848ac5f'
+      SA Jumbe: '91056862'
+      YM Nkanya: 9238dd92
+  teams:
+  - Uganda
+  - Tanzania
+  toss:
+    winner: Uganda
+    decision: bat
+  umpires:
+  - EH Dusabemungu
+  - Itangishaka Olivier
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: S Sesazi
+        batsman: RG Mukasa
+    - 0.2:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sesazi
+        batsman: RG Mukasa
+    - 0.3:
+        non_striker: RG Mukasa
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sesazi
+    - 0.4:
+        non_striker: RG Mukasa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 0.5:
+        non_striker: RG Mukasa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 0.6:
+        non_striker: RG Mukasa
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sesazi
+    - 0.7:
+        non_striker: RG Mukasa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 0.8:
+        non_striker: RG Mukasa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 1.1:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Mukasa
+    - 1.2:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Mukasa
+    - 1.3:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+    - 1.4:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+        wicket:
+          player_out: RG Mukasa
+          kind: bowled
+    - 1.5:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 1.6:
+        non_striker: K Waiswa
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sesazi
+    - 1.7:
+        non_striker: K Waiswa
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 1.8:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+        wicket:
+          player_out: K Waiswa
+          fielders:
+          - M Yunusu Issa
+          kind: caught
+    - 2.1:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CN Kakuru
+        batsman: S Sesazi
+    - 2.2:
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CN Kakuru
+        batsman: S Sesazi
+    - 2.3:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CN Kakuru
+        batsman: S Sesazi
+    - 2.4:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CN Kakuru
+        batsman: S Sesazi
+    - 2.5:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 2.6:
+        non_striker: CN Kakuru
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 2.7:
+        non_striker: CN Kakuru
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 3.1:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Kakuru
+    - 3.2:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 3.3:
+        non_striker: CN Kakuru
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 3.4:
+        non_striker: CN Kakuru
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Sesazi
+    - 3.5:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 3.6:
+        non_striker: CN Kakuru
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 4.1:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 4.2:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 4.3:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 4.4:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Kakuru
+    - 4.5:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 4.6:
+        non_striker: CN Kakuru
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Sesazi
+    - 5.1:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 5.2:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 5.3:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 5.4:
+        non_striker: CN Kakuru
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 5.5:
+        non_striker: CN Kakuru
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 5.6:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Kakuru
+    - 6.1:
+        non_striker: CN Kakuru
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 6.2:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 6.3:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 6.4:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 6.5:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 6.6:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Kakuru
+    - 7.1:
+        non_striker: CN Kakuru
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 7.2:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 7.3:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 7.4:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Kakuru
+    - 7.5:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 7.6:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Kakuru
+    - 8.1:
+        non_striker: CN Kakuru
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 8.2:
+        non_striker: CN Kakuru
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 8.3:
+        non_striker: CN Kakuru
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 8.4:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 8.5:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 8.6:
+        non_striker: CN Kakuru
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 9.1:
+        non_striker: CN Kakuru
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 9.2:
+        non_striker: CN Kakuru
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 9.3:
+        non_striker: CN Kakuru
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 9.4:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 9.5:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+    - 9.6:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Kakuru
+    - 10.1:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sesazi
+    - 10.2:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 10.3:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 10.4:
+        non_striker: CN Kakuru
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 10.5:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Kakuru
+    - 10.6:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Kakuru
+    - 10.7:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 11.1:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Kakuru
+    - 11.2:
+        non_striker: CN Kakuru
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 11.3:
+        non_striker: CN Kakuru
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 11.4:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+        wicket:
+          player_out: CN Kakuru
+          kind: bowled
+    - 11.5:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 11.6:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 12.1:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 12.2:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 12.3:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 12.4:
+        non_striker: P Murungi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 12.5:
+        non_striker: P Murungi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 12.6:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 13.1:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Murungi
+    - 13.2:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 13.3:
+        non_striker: P Murungi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 13.4:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 13.5:
+        non_striker: P Murungi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 13.6:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 14.1:
+        non_striker: P Murungi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 14.2:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 14.3:
+        non_striker: P Murungi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Sesazi
+    - 14.4:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 14.5:
+        non_striker: S Sesazi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Murungi
+    - 14.6:
+        non_striker: P Murungi
+        bowler: M Yunusu Issa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 15.1:
+        non_striker: P Murungi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 15.2:
+        non_striker: P Murungi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sesazi
+    - 15.3:
+        non_striker: P Murungi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 15.4:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Murungi
+    - 15.5:
+        non_striker: S Sesazi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 15.6:
+        non_striker: P Murungi
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 16.1:
+        non_striker: P Murungi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Sesazi
+    - 16.2:
+        non_striker: P Murungi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 16.3:
+        non_striker: P Murungi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 16.4:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+        wicket:
+          player_out: P Murungi
+          kind: bowled
+    - 16.5:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kyewuta
+        wicket:
+          player_out: C Kyewuta
+          fielders:
+          - AP Rajeevan
+          kind: caught
+    - 16.6:
+        non_striker: S Sesazi
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 17.1:
+        non_striker: B Masaba
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 17.2:
+        non_striker: B Masaba
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 17.3:
+        non_striker: B Masaba
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 17.4:
+        non_striker: S Sesazi
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 17.5:
+        non_striker: B Masaba
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sesazi
+    - 17.6:
+        non_striker: B Masaba
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 18.1:
+        non_striker: B Masaba
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 18.2:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 18.3:
+        non_striker: B Masaba
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 18.4:
+        non_striker: B Masaba
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 18.5:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Masaba
+    - 18.6:
+        non_striker: S Sesazi
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 19.1:
+        non_striker: B Masaba
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+    - 19.2:
+        non_striker: B Masaba
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sesazi
+    - 19.3:
+        non_striker: B Masaba
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sesazi
+    - 19.4:
+        non_striker: B Masaba
+        bowler: SA Jumbe
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: S Sesazi
+    - 19.5:
+        non_striker: B Masaba
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+    - 19.6:
+        non_striker: S Sesazi
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 19.7:
+        non_striker: B Masaba
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sesazi
+- 2nd innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: II Selemani
+    - 0.2:
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: MO Kitunda
+        batsman: II Selemani
+    - 0.3:
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: II Selemani
+    - 0.4:
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MO Kitunda
+        batsman: II Selemani
+    - 0.5:
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MO Kitunda
+        batsman: II Selemani
+    - 0.6:
+        non_striker: MO Kitunda
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 1.1:
+        non_striker: II Selemani
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MO Kitunda
+    - 1.2:
+        non_striker: II Selemani
+        bowler: C Kyewuta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MO Kitunda
+    - 1.3:
+        non_striker: II Selemani
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 1.4:
+        non_striker: II Selemani
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 1.5:
+        non_striker: II Selemani
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+    - 1.6:
+        non_striker: II Selemani
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Kitunda
+    - 1.7:
+        non_striker: II Selemani
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Kitunda
+    - 2.1:
+        non_striker: MO Kitunda
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 2.2:
+        non_striker: MO Kitunda
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 2.3:
+        non_striker: MO Kitunda
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 2.4:
+        non_striker: MO Kitunda
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 2.5:
+        non_striker: MO Kitunda
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 2.6:
+        non_striker: MO Kitunda
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 3.1:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Kitunda
+    - 3.2:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Kitunda
+        wicket:
+          player_out: MO Kitunda
+          kind: bowled
+    - 3.3:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 3.4:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 3.5:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 3.6:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AP Rajeevan
+    - 3.7:
+        non_striker: II Selemani
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AP Rajeevan
+    - 3.8:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+        wicket:
+          player_out: II Selemani
+          kind: bowled
+    - 4.1:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Nassoro
+        batsman: AP Rajeevan
+    - 4.2:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Nassoro
+        batsman: AP Rajeevan
+    - 4.3:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Nassoro
+        batsman: AP Rajeevan
+    - 4.4:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Nassoro
+        batsman: AP Rajeevan
+    - 4.5:
+        non_striker: AP Rajeevan
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 4.6:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 5.1:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Nassoro
+    - 5.2:
+        non_striker: K Nassoro
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 5.3:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nassoro
+    - 5.4:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+    - 5.5:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nassoro
+    - 5.6:
+        non_striker: AP Rajeevan
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+    - 6.1:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 6.2:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 6.3:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+        wicket:
+          player_out: AP Rajeevan
+          kind: bowled
+    - 6.4:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 6.5:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 6.6:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+    - 7.1:
+        non_striker: K Nassoro
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 7.2:
+        non_striker: K Nassoro
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 7.3:
+        non_striker: K Nassoro
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 7.4:
+        non_striker: SA Jumbe
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nassoro
+    - 7.5:
+        non_striker: SA Jumbe
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+    - 7.6:
+        non_striker: SA Jumbe
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 8.1:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+    - 8.2:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 8.3:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 8.4:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 8.5:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Jumbe
+    - 8.6:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 9.1:
+        non_striker: K Nassoro
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 9.2:
+        non_striker: K Nassoro
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SA Jumbe
+    - 9.3:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nassoro
+    - 9.4:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 9.5:
+        non_striker: K Nassoro
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 9.6:
+        non_striker: K Nassoro
+        bowler: J Baguma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SA Jumbe
+    - 10.1:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+    - 10.2:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nassoro
+    - 10.3:
+        non_striker: SA Jumbe
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 10.4:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 10.5:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 10.6:
+        non_striker: K Nassoro
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 11.1:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+        wicket:
+          player_out: K Nassoro
+          kind: bowled
+    - 11.2:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Thakor
+    - 11.3:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+    - 11.4:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+    - 11.5:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Thakor
+    - 11.6:
+        non_striker: SA Jumbe
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+    - 12.1:
+        non_striker: S Thakor
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 12.2:
+        non_striker: SA Jumbe
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakor
+    - 12.3:
+        non_striker: S Thakor
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+        wicket:
+          player_out: SA Jumbe
+          kind: bowled
+    - 12.4:
+        non_striker: S Thakor
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Jabiri
+    - 12.5:
+        non_striker: S Thakor
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Jabiri
+    - 12.6:
+        non_striker: S Thakor
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Jabiri
+    - 13.1:
+        non_striker: S Thakor
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Jabiri
+    - 13.2:
+        non_striker: S Thakor
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Jabiri
+    - 13.3:
+        non_striker: AJ Jabiri
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+    - 13.4:
+        non_striker: AJ Jabiri
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakor
+    - 13.5:
+        non_striker: S Thakor
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Jabiri
+    - 13.6:
+        non_striker: S Thakor
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Jabiri
+    - 14.1:
+        non_striker: AJ Jabiri
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+    - 14.2:
+        non_striker: AJ Jabiri
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+        wicket:
+          player_out: S Thakor
+          fielders:
+          - S Sesazi
+          kind: caught
+    - 14.3:
+        non_striker: AJ Jabiri
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Kimote
+    - 14.4:
+        non_striker: AJ Jabiri
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+    - 14.5:
+        non_striker: AJ Jabiri
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kimote
+    - 14.6:
+        non_striker: AM Kimote
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Jabiri
+    - 15.1:
+        non_striker: AJ Jabiri
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+    - 15.2:
+        non_striker: AJ Jabiri
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+    - 15.3:
+        non_striker: AJ Jabiri
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kimote
+    - 15.4:
+        non_striker: AM Kimote
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Jabiri
+    - 15.5:
+        non_striker: AM Kimote
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Jabiri
+    - 15.6:
+        non_striker: AM Kimote
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Jabiri
+    - 16.1:
+        non_striker: AJ Jabiri
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Kimote
+    - 16.2:
+        non_striker: AJ Jabiri
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+        wicket:
+          player_out: AM Kimote
+          fielders:
+          - P Murungi
+          kind: caught
+    - 16.3:
+        non_striker: AJ Jabiri
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yunusu Issa
+    - 16.4:
+        non_striker: AJ Jabiri
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Yunusu Issa
+    - 16.5:
+        non_striker: M Yunusu Issa
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Jabiri
+        wicket:
+          player_out: AJ Jabiri
+          fielders:
+          - S Sesazi
+          kind: caught
+    - 16.6:
+        non_striker: M Yunusu Issa
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 16.7:
+        non_striker: DA Mehta
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yunusu Issa
+    - 17.1:
+        non_striker: DA Mehta
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yunusu Issa
+    - 17.2:
+        non_striker: M Yunusu Issa
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Mehta
+    - 17.3:
+        non_striker: DA Mehta
+        bowler: Bilal Hassun
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Yunusu Issa
+    - 17.4:
+        non_striker: DA Mehta
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yunusu Issa
+    - 17.5:
+        non_striker: M Yunusu Issa
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 17.6:
+        non_striker: M Yunusu Issa
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 18.1:
+        non_striker: M Yunusu Issa
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 18.2:
+        non_striker: DA Mehta
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yunusu Issa
+    - 18.3:
+        non_striker: M Yunusu Issa
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 18.4:
+        non_striker: DA Mehta
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yunusu Issa
+    - 18.5:
+        non_striker: M Yunusu Issa
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 18.6:
+        non_striker: M Yunusu Issa
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Mehta
+    - 19.1:
+        non_striker: DA Mehta
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yunusu Issa
+    - 19.2:
+        non_striker: DA Mehta
+        bowler: Bilal Hassun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Yunusu Issa
+    - 19.3:
+        non_striker: M Yunusu Issa
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+        wicket:
+          player_out: DA Mehta
+          kind: bowled
+    - 19.4:
+        non_striker: M Yunusu Issa
+        bowler: Bilal Hassun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YM Nkanya
+        wicket:
+          player_out: YM Nkanya
+          fielders:
+          - Bilal Hassun
+          kind: run out

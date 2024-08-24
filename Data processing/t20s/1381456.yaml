@@ -1,0 +1,1671 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2023-06-24'
+  gender: male
+  match_type: T20
+  match_type_number: 2112
+  outcome:
+    winner: Turkey
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Muhammed Turkmen
+  players:
+    Croatia:
+    - WK Bitis
+    - Naseem Khan
+    - P Bosnjak
+    - Sohail Ahmad
+    - A Daxini
+    - V Zanko
+    - L Stubbs
+    - A Magdalenic
+    - H Hajnic
+    - D Faletar
+    - A Faletar
+    Turkey:
+    - I Elec
+    - Ilyas Ataullah
+    - A Turkmen
+    - R Nath
+    - Muhammed Turkmen
+    - M Ozturk
+    - Cihan Altun
+    - Muhammet Bicer
+    - Muhammet Kursat
+    - Murat Ipek
+    - Murat Yilmaz
+  registry:
+    people:
+      A Daxini: 2f949d55
+      A Faletar: b8889eb7
+      A Magdalenic: d6a2f3a5
+      A Turkmen: e56f4180
+      Cihan Altun: b8396e67
+      D Faletar: 8c911414
+      H Hajnic: bcac2e51
+      I Elec: 4d0d5b7d
+      Ilyas Ataullah: 357484e9
+      L Stubbs: b0f332e1
+      M Ozturk: d62f04f5
+      Muhammed Turkmen: 8e7e982c
+      Muhammet Bicer: 7990dc16
+      Muhammet Kursat: dc53a969
+      Murat Ipek: 86f471ae
+      Murat Yilmaz: f2990906
+      Naseem Khan: cfbd3998
+      P Bosnjak: fed92736
+      R Nath: 126f1e28
+      Sohail Ahmad: 7e439c80
+      V Zanko: 4a78f962
+      WK Bitis: b34de9a6
+  teams:
+  - Croatia
+  - Turkey
+  toss:
+    winner: Croatia
+    decision: bat
+  venue: National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Croatia
+    deliveries:
+    - 0.1:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Naseem Khan
+        batsman: WK Bitis
+    - 0.2:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Naseem Khan
+        batsman: WK Bitis
+    - 0.3:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Naseem Khan
+        batsman: WK Bitis
+    - 0.4:
+        non_striker: WK Bitis
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Khan
+    - 0.5:
+        non_striker: Naseem Khan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 0.6:
+        non_striker: Naseem Khan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+        wicket:
+          player_out: WK Bitis
+          kind: bowled
+    - 1.1:
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Bosnjak
+        batsman: Naseem Khan
+    - 1.2:
+        bowler: M Ozturk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Bosnjak
+        batsman: Naseem Khan
+    - 1.3:
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Bosnjak
+        batsman: Naseem Khan
+    - 1.4:
+        bowler: M Ozturk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Bosnjak
+        batsman: Naseem Khan
+    - 1.5:
+        non_striker: P Bosnjak
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khan
+        wicket:
+          player_out: Naseem Khan
+          kind: bowled
+    - 1.6:
+        non_striker: P Bosnjak
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+    - 1.7:
+        non_striker: P Bosnjak
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+    - 1.8:
+        non_striker: P Bosnjak
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 2.1:
+        non_striker: P Bosnjak
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 2.2:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Bosnjak
+    - 2.3:
+        non_striker: P Bosnjak
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 2.4:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Bosnjak
+    - 2.5:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bosnjak
+    - 2.6:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bosnjak
+    - 3.1:
+        non_striker: P Bosnjak
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 3.2:
+        non_striker: Sohail Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bosnjak
+    - 3.3:
+        non_striker: Sohail Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bosnjak
+    - 3.4:
+        non_striker: Sohail Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Bosnjak
+    - 3.5:
+        non_striker: Sohail Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Bosnjak
+        wicket:
+          player_out: P Bosnjak
+          kind: bowled
+    - 3.6:
+        non_striker: Sohail Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+    - 4.1:
+        non_striker: A Daxini
+        bowler: A Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sohail Ahmad
+    - 4.2:
+        non_striker: A Daxini
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+    - 4.3:
+        non_striker: A Daxini
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 4.4:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+    - 4.5:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Daxini
+    - 4.6:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: A Daxini
+    - 4.7:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+    - 4.8:
+        non_striker: Sohail Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+    - 5.1:
+        non_striker: A Daxini
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sohail Ahmad
+    - 5.2:
+        non_striker: A Daxini
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 5.3:
+        non_striker: Sohail Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Daxini
+    - 5.4:
+        non_striker: A Daxini
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+    - 5.5:
+        non_striker: A Daxini
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sohail Ahmad
+    - 5.6:
+        non_striker: A Daxini
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 6.1:
+        non_striker: A Daxini
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmad
+    - 6.2:
+        non_striker: Sohail Ahmad
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Daxini
+        wicket:
+          player_out: A Daxini
+          fielders:
+          - Muhammet Bicer
+          kind: caught
+    - 6.3:
+        non_striker: Sohail Ahmad
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zanko
+    - 6.4:
+        non_striker: Sohail Ahmad
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zanko
+    - 6.5:
+        non_striker: Sohail Ahmad
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 6.6:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sohail Ahmad
+    - 6.7:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+    - 6.8:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmad
+        wicket:
+          player_out: Sohail Ahmad
+          fielders:
+          - Murat Yilmaz
+          kind: caught
+    - 6.9:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Stubbs
+        wicket:
+          player_out: L Stubbs
+          kind: bowled
+    - 7.1:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Magdalenic
+        batsman: V Zanko
+    - 7.2:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Magdalenic
+        batsman: V Zanko
+    - 7.3:
+        non_striker: V Zanko
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Magdalenic
+    - 7.4:
+        non_striker: V Zanko
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 7.5:
+        non_striker: V Zanko
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Magdalenic
+    - 7.6:
+        non_striker: A Magdalenic
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 8.1:
+        non_striker: A Magdalenic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 8.2:
+        non_striker: A Magdalenic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zanko
+    - 8.3:
+        non_striker: A Magdalenic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 8.4:
+        non_striker: A Magdalenic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 8.5:
+        non_striker: A Magdalenic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 8.6:
+        non_striker: A Magdalenic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 8.7:
+        non_striker: A Magdalenic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 9.1:
+        non_striker: V Zanko
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+        wicket:
+          player_out: A Magdalenic
+          kind: bowled
+    - 9.2:
+        non_striker: V Zanko
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 9.3:
+        non_striker: V Zanko
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 9.4:
+        non_striker: V Zanko
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Hajnic
+    - 9.5:
+        non_striker: H Hajnic
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 9.6:
+        non_striker: H Hajnic
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 10.1:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 10.2:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 10.3:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Hajnic
+    - 10.4:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 10.5:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 10.6:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 10.7:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Hajnic
+    - 10.8:
+        non_striker: V Zanko
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 11.1:
+        non_striker: H Hajnic
+        bowler: Muhammet Bicer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 11.2:
+        non_striker: H Hajnic
+        bowler: Muhammet Bicer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zanko
+    - 11.3:
+        non_striker: H Hajnic
+        bowler: Muhammet Bicer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zanko
+    - 11.4:
+        non_striker: H Hajnic
+        bowler: Muhammet Bicer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 11.5:
+        non_striker: V Zanko
+        bowler: Muhammet Bicer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 11.6:
+        non_striker: V Zanko
+        bowler: Muhammet Bicer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 11.7:
+        non_striker: V Zanko
+        bowler: Muhammet Bicer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 11.8:
+        non_striker: V Zanko
+        bowler: Muhammet Bicer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Hajnic
+    - 11.9:
+        non_striker: V Zanko
+        bowler: Muhammet Bicer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Hajnic
+    - 12.1:
+        non_striker: V Zanko
+        bowler: Murat Ipek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 12.2:
+        non_striker: V Zanko
+        bowler: Murat Ipek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 12.3:
+        non_striker: V Zanko
+        bowler: Murat Ipek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Hajnic
+    - 12.4:
+        non_striker: V Zanko
+        bowler: Murat Ipek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Hajnic
+    - 12.5:
+        non_striker: H Hajnic
+        bowler: Murat Ipek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 12.6:
+        non_striker: H Hajnic
+        bowler: Murat Ipek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Zanko
+    - 12.7:
+        non_striker: H Hajnic
+        bowler: Murat Ipek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 12.8:
+        non_striker: H Hajnic
+        bowler: Murat Ipek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 13.1:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 13.2:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 13.3:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 13.4:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 13.5:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 13.6:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 14.1:
+        non_striker: H Hajnic
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 14.2:
+        non_striker: V Zanko
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 14.3:
+        non_striker: V Zanko
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 14.4:
+        non_striker: V Zanko
+        bowler: Murat Yilmaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Hajnic
+    - 14.5:
+        non_striker: V Zanko
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 14.6:
+        non_striker: V Zanko
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 14.7:
+        non_striker: V Zanko
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 15.1:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: V Zanko
+    - 15.2:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 15.3:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 15.4:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 15.5:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 15.6:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 15.7:
+        non_striker: V Zanko
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 16.1:
+        non_striker: H Hajnic
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 16.2:
+        non_striker: H Hajnic
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Zanko
+    - 16.3:
+        non_striker: H Hajnic
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 16.4:
+        non_striker: H Hajnic
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 16.5:
+        non_striker: H Hajnic
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 16.6:
+        non_striker: V Zanko
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 17.1:
+        non_striker: H Hajnic
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Zanko
+    - 17.2:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 17.3:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 17.4:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 17.5:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 17.6:
+        non_striker: V Zanko
+        bowler: Muhammed Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 18.1:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 18.2:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+    - 18.3:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zanko
+        wicket:
+          player_out: V Zanko
+          kind: hit wicket
+    - 18.4:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 18.5:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 18.6:
+        non_striker: H Hajnic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+    - 19.1:
+        non_striker: D Faletar
+        bowler: Muhammet Kursat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Hajnic
+    - 19.2:
+        non_striker: D Faletar
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 19.3:
+        non_striker: D Faletar
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 19.4:
+        non_striker: D Faletar
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Hajnic
+    - 19.5:
+        non_striker: D Faletar
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Hajnic
+    - 19.6:
+        non_striker: H Hajnic
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Faletar
+    - 19.7:
+        non_striker: H Hajnic
+        bowler: Muhammet Kursat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Faletar
+- 2nd innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ilyas Ataullah
+        batsman: I Elec
+    - 0.2:
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ilyas Ataullah
+        batsman: I Elec
+    - 0.3:
+        non_striker: Ilyas Ataullah
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Elec
+        wicket:
+          player_out: I Elec
+          kind: bowled
+    - 0.4:
+        non_striker: Ilyas Ataullah
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Turkmen
+    - 0.5:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilyas Ataullah
+    - 0.6:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ilyas Ataullah
+    - 0.7:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilyas Ataullah
+    - 1.1:
+        non_striker: Ilyas Ataullah
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Turkmen
+    - 1.2:
+        non_striker: Ilyas Ataullah
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+    - 1.3:
+        non_striker: Ilyas Ataullah
+        bowler: Naseem Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Turkmen
+    - 1.4:
+        non_striker: Ilyas Ataullah
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Turkmen
+    - 1.5:
+        non_striker: Ilyas Ataullah
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Turkmen
+    - 1.6:
+        non_striker: Ilyas Ataullah
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Turkmen
+    - 1.7:
+        non_striker: Ilyas Ataullah
+        bowler: Naseem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+    - 2.1:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilyas Ataullah
+        wicket:
+          player_out: Ilyas Ataullah
+          fielders:
+          - WK Bitis
+          kind: caught
+    - 2.2:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 2.3:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nath
+    - 2.4:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 2.5:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Nath
+    - 2.6:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Nath
+    - 2.7:
+        non_striker: A Turkmen
+        bowler: V Zanko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 3.1:
+        non_striker: R Nath
+        bowler: A Daxini
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: A Turkmen
+    - 3.2:
+        non_striker: R Nath
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Turkmen
+    - 3.3:
+        non_striker: A Turkmen
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 3.4:
+        non_striker: A Turkmen
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Nath
+    - 3.5:
+        non_striker: A Turkmen
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 3.6:
+        non_striker: R Nath
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Turkmen
+    - 3.7:
+        non_striker: R Nath
+        bowler: A Daxini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Turkmen
+    - 3.8:
+        non_striker: R Nath
+        bowler: A Daxini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Turkmen
+    - 4.1:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+    - 4.2:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Turkmen
+    - 4.3:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Turkmen
+    - 4.4:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Turkmen
+    - 4.5:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+    - 4.6:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Turkmen
+    - 4.7:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Turkmen
+    - 4.8:
+        non_striker: R Nath
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Turkmen
+    - 5.1:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Nath
+    - 5.2:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Nath
+    - 5.3:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Nath
+    - 5.4:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Nath
+    - 5.5:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Nath
+    - 5.6:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Nath
+    - 5.7:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nath
+    - 5.8:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Nath
+    - 5.9:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 5.10:
+        non_striker: R Nath
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Turkmen
+    - 5.11:
+        non_striker: A Turkmen
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Nath

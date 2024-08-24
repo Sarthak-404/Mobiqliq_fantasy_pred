@@ -1,0 +1,1419 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port Vila
+  dates:
+  - '2023-09-05'
+  gender: female
+  match_type: T20
+  match_type_number: 1608
+  outcome:
+    winner: Indonesia
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - A Andriani
+  players:
+    Samoa:
+    - VM Andrew
+    - AF Aoina
+    - J Sanele
+    - T Lafai
+    - Leitu Leong
+    - RP Johnston
+    - F Sisifo
+    - TH Semau
+    - A Iopu
+    - V Tafea
+    - TM Faimalo
+    Indonesia:
+    - A Andriani
+    - M Corazon
+    - NW Sariani
+    - NPAN Sakarini
+    - KS Kasse
+    - NMP Suwandewi
+    - NLKWR Dewi
+    - K Winda Prastini
+    - L Qiao
+    - Mia Arda
+    - SAN Maypriani
+  registry:
+    people:
+      A Andriani: e697d88c
+      A Iopu: e77d4107
+      AF Aoina: 217f5194
+      CA Polosak: 26a360d2
+      F Sisifo: eff8319a
+      J Sanele: 67bd483c
+      K Winda Prastini: bd6f7c24
+      KS Kasse: 007a3773
+      L McCabe: 1dbc4a64
+      L Qiao: 2b0deff9
+      Leitu Leong: 672e1aea
+      M Corazon: 0baa36e0
+      M Kenni: 1feb0d3c
+      Mia Arda: 6e60d58c
+      NLKWR Dewi: d04fc4a4
+      NMP Suwandewi: 52b57a65
+      NPAN Sakarini: 72b5decf
+      NW Sariani: e910d955
+      RP Johnston: c110235a
+      RW Stratford: '85489579'
+      SAN Maypriani: ad135bde
+      T Lafai: 10cfda7c
+      TH Semau: 175d59dd
+      TM Faimalo: e8cea6cf
+      V Tafea: 611298bd
+      VM Andrew: ca9a7e09
+  teams:
+  - Samoa
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  umpires:
+  - CA Polosak
+  - L McCabe
+  venue: Vanuatu Cricket Ground (Oval 2)
+innings:
+- 1st innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Aoina
+        batsman: VM Andrew
+    - 0.2:
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AF Aoina
+        batsman: VM Andrew
+    - 0.3:
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AF Aoina
+        batsman: VM Andrew
+    - 0.4:
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AF Aoina
+        batsman: VM Andrew
+    - 0.5:
+        non_striker: VM Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Aoina
+        wicket:
+          player_out: AF Aoina
+          kind: bowled
+    - 0.6:
+        non_striker: VM Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 0.7:
+        non_striker: VM Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 1.1:
+        non_striker: J Sanele
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Andrew
+    - 1.2:
+        non_striker: J Sanele
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VM Andrew
+    - 1.3:
+        non_striker: VM Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 1.4:
+        non_striker: VM Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+    - 1.5:
+        non_striker: VM Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sanele
+        wicket:
+          player_out: J Sanele
+          kind: bowled
+    - 1.6:
+        non_striker: VM Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Lafai
+    - 1.7:
+        non_striker: VM Andrew
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 2.1:
+        non_striker: T Lafai
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VM Andrew
+    - 2.2:
+        non_striker: VM Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 2.3:
+        non_striker: VM Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 2.4:
+        non_striker: VM Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 2.5:
+        non_striker: VM Andrew
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Lafai
+    - 2.6:
+        non_striker: T Lafai
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VM Andrew
+    - 3.1:
+        non_striker: T Lafai
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Andrew
+    - 3.2:
+        non_striker: T Lafai
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VM Andrew
+    - 3.3:
+        non_striker: T Lafai
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Andrew
+    - 3.4:
+        non_striker: T Lafai
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VM Andrew
+        wicket:
+          player_out: VM Andrew
+          kind: bowled
+    - 3.5:
+        non_striker: T Lafai
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+    - 3.6:
+        non_striker: T Lafai
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+    - 4.1:
+        non_striker: Leitu Leong
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+    - 4.2:
+        non_striker: Leitu Leong
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lafai
+        wicket:
+          player_out: T Lafai
+          fielders:
+          - Mia Arda
+          kind: caught
+    - 4.3:
+        non_striker: Leitu Leong
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 4.4:
+        non_striker: Leitu Leong
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 4.5:
+        non_striker: Leitu Leong
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 4.6:
+        non_striker: Leitu Leong
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Johnston
+    - 5.1:
+        non_striker: Leitu Leong
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 5.2:
+        non_striker: Leitu Leong
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 5.3:
+        non_striker: Leitu Leong
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 5.4:
+        non_striker: Leitu Leong
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Johnston
+    - 5.5:
+        non_striker: Leitu Leong
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Johnston
+    - 5.6:
+        non_striker: RP Johnston
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Leitu Leong
+        wicket:
+          player_out: Leitu Leong
+          kind: bowled
+    - 6.1:
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Sisifo
+        batsman: RP Johnston
+    - 6.2:
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Sisifo
+        batsman: RP Johnston
+    - 6.3:
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Sisifo
+        batsman: RP Johnston
+        wicket:
+          player_out: RP Johnston
+          fielders:
+          - A Andriani
+          - NLKWR Dewi
+          kind: run out
+    - 6.4:
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TH Semau
+        batsman: F Sisifo
+    - 6.5:
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TH Semau
+        batsman: F Sisifo
+    - 6.6:
+        non_striker: TH Semau
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 7.1:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Semau
+    - 7.2:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH Semau
+    - 7.3:
+        non_striker: TH Semau
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Sisifo
+    - 7.4:
+        non_striker: TH Semau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 7.5:
+        non_striker: TH Semau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 7.6:
+        non_striker: TH Semau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 7.7:
+        non_striker: TH Semau
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Sisifo
+    - 8.1:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Semau
+    - 8.2:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH Semau
+        wicket:
+          player_out: TH Semau
+          kind: bowled
+    - 8.3:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 8.4:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 8.5:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 8.6:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 9.1:
+        non_striker: A Iopu
+        bowler: NW Sariani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: F Sisifo
+    - 9.2:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 9.3:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 9.4:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Iopu
+    - 9.5:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Iopu
+    - 9.6:
+        non_striker: A Iopu
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 10.1:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 10.2:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Iopu
+    - 10.3:
+        non_striker: A Iopu
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 10.4:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+    - 10.5:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Iopu
+        wicket:
+          player_out: A Iopu
+          fielders:
+          - Mia Arda
+          kind: caught
+    - 10.6:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Tafea
+    - 11.1:
+        non_striker: V Tafea
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 11.2:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Tafea
+    - 11.3:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Tafea
+    - 11.4:
+        non_striker: V Tafea
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 11.5:
+        non_striker: V Tafea
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 11.6:
+        non_striker: V Tafea
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 12.1:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Tafea
+        wicket:
+          player_out: V Tafea
+          kind: bowled
+    - 12.2:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 12.3:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 12.4:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 12.5:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 12.6:
+        non_striker: F Sisifo
+        bowler: A Andriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 13.1:
+        non_striker: TM Faimalo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 13.2:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 13.3:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 13.4:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 13.5:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Faimalo
+    - 13.6:
+        non_striker: TM Faimalo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 14.1:
+        non_striker: TM Faimalo
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 14.2:
+        non_striker: TM Faimalo
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 14.3:
+        non_striker: F Sisifo
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TM Faimalo
+    - 14.4:
+        non_striker: F Sisifo
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Faimalo
+    - 14.5:
+        non_striker: TM Faimalo
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 14.6:
+        non_striker: F Sisifo
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 14.7:
+        non_striker: F Sisifo
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 15.1:
+        non_striker: TM Faimalo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 15.2:
+        non_striker: TM Faimalo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 15.3:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 15.4:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 15.5:
+        non_striker: F Sisifo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Faimalo
+    - 15.6:
+        non_striker: TM Faimalo
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 16.1:
+        non_striker: F Sisifo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 16.2:
+        non_striker: F Sisifo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 16.3:
+        non_striker: F Sisifo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 16.4:
+        non_striker: F Sisifo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 16.5:
+        non_striker: F Sisifo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Faimalo
+    - 16.6:
+        non_striker: F Sisifo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Faimalo
+    - 16.7:
+        non_striker: TM Faimalo
+        bowler: NLKWR Dewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 17.1:
+        non_striker: TM Faimalo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 17.2:
+        non_striker: TM Faimalo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 17.3:
+        non_striker: F Sisifo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 17.4:
+        non_striker: F Sisifo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 17.5:
+        non_striker: F Sisifo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 17.6:
+        non_striker: F Sisifo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 18.1:
+        non_striker: TM Faimalo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 18.2:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 18.3:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Faimalo
+    - 18.4:
+        non_striker: F Sisifo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Faimalo
+    - 18.5:
+        non_striker: TM Faimalo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Sisifo
+    - 18.6:
+        non_striker: TM Faimalo
+        bowler: NW Sariani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 19.1:
+        non_striker: TM Faimalo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 19.2:
+        non_striker: TM Faimalo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 19.3:
+        non_striker: TM Faimalo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+    - 19.4:
+        non_striker: TM Faimalo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Sisifo
+    - 19.5:
+        non_striker: F Sisifo
+        bowler: L Qiao
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: TM Faimalo
+    - 19.6:
+        non_striker: F Sisifo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Faimalo
+    - 19.7:
+        non_striker: TM Faimalo
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Sisifo
+        wicket:
+          player_out: F Sisifo
+          fielders:
+          - NPAN Sakarini
+          kind: stumped
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: V Tafea
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Corazon
+        batsman: A Andriani
+    - 0.2:
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Corazon
+        batsman: A Andriani
+    - 0.3:
+        bowler: V Tafea
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: M Corazon
+        batsman: A Andriani
+    - 0.4:
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: M Corazon
+        batsman: A Andriani
+    - 0.5:
+        non_striker: A Andriani
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 0.6:
+        non_striker: M Corazon
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 0.7:
+        non_striker: M Corazon
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 0.8:
+        non_striker: M Corazon
+        bowler: V Tafea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 1.1:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 1.2:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 1.3:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 1.4:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 1.5:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Corazon
+    - 1.6:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 2.1:
+        non_striker: A Andriani
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 2.2:
+        non_striker: A Andriani
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Corazon
+    - 2.3:
+        non_striker: A Andriani
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 2.4:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Andriani
+    - 2.5:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 2.6:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Andriani
+    - 3.1:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon
+    - 3.2:
+        non_striker: M Corazon
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 3.3:
+        non_striker: M Corazon
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Andriani
+    - 3.4:
+        non_striker: M Corazon
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 3.5:
+        non_striker: M Corazon
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 3.6:
+        non_striker: M Corazon
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Andriani
+    - 4.1:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 4.2:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Andriani
+    - 4.3:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 4.4:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Andriani
+    - 4.5:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Andriani
+    - 4.6:
+        non_striker: M Corazon
+        bowler: T Lafai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andriani
+    - 5.1:
+        non_striker: A Andriani
+        bowler: J Sanele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Corazon

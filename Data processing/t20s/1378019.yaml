@@ -1,0 +1,1736 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: St Clement
+  dates:
+  - '2023-06-02'
+  gender: female
+  match_type: T20
+  match_type_number: 1468
+  outcome:
+    winner: Jersey
+    by:
+      runs: 108
+  overs: 20
+  player_of_match:
+  - CM Greechan
+  players:
+    Jersey:
+    - C Miles
+    - L Greig
+    - G Wetherall
+    - A Merritt
+    - T Smith
+    - CM Greechan
+    - A Aikenhead
+    - E Gouge
+    - M Maguire
+    - S Hanson
+    - F Copley
+    Sweden:
+    - Kanchan Rana
+    - S Lundell
+    - E Thelander
+    - Jayasooriya
+    - Eman Asim
+    - G Shukla
+    - M Alugunoolla
+    - H Chamto
+    - S Bhanushali
+    - SK Ravuri
+    - S Elmsjoo
+  registry:
+    people:
+      A Aikenhead: 007f121f
+      A Merritt: 4c87bd01
+      C Miles: 80f16d29
+      CM Greechan: 569bbcbb
+      E Gouge: e01e17ee
+      E Thelander: 45cb4feb
+      Eman Asim: fd8038e1
+      F Copley: 637680bc
+      G McCrea: 46f4a901
+      G Shukla: 6b4817d9
+      G Wetherall: 5c77d7cb
+      H Chamto: 5e181be6
+      HE Kearns: fd4959c8
+      Jareth McCready: 84fa5232
+      Jayasooriya: '39183970'
+      Kanchan Rana: d5d87f3f
+      L Greig: 0e3e8ce3
+      M Alugunoolla: 15f570b6
+      M Maguire: 0441a1f5
+      Ryan Milne: d2343b26
+      S Bhanushali: da6576af
+      S Elmsjoo: ce5030d8
+      S Hanson: 711c82b5
+      S Lundell: 0d298cc9
+      SK Ravuri: '0398fc0f'
+      T Smith: f24ffaab
+  teams:
+  - Jersey
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - Jareth McCready
+  - Ryan Milne
+  venue: FB Fields, St Clement
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Greig
+        batsman: C Miles
+    - 0.2:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Greig
+        batsman: C Miles
+    - 0.3:
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Greig
+        batsman: C Miles
+    - 0.4:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Greig
+    - 0.5:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Greig
+    - 0.6:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Greig
+    - 0.7:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Greig
+    - 0.8:
+        non_striker: L Greig
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 0.9:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+    - 1.1:
+        non_striker: L Greig
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 1.2:
+        non_striker: L Greig
+        bowler: S Bhanushali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Miles
+    - 1.3:
+        non_striker: L Greig
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 1.4:
+        non_striker: C Miles
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Greig
+        wicket:
+          player_out: L Greig
+          kind: bowled
+    - 1.5:
+        non_striker: C Miles
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wetherall
+    - 1.6:
+        non_striker: C Miles
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wetherall
+    - 1.7:
+        non_striker: C Miles
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 2.1:
+        non_striker: G Wetherall
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 2.2:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 2.3:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 2.4:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+    - 2.5:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wetherall
+        wicket:
+          player_out: G Wetherall
+          kind: bowled
+    - 2.6:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 3.1:
+        non_striker: A Merritt
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 3.2:
+        non_striker: A Merritt
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 3.3:
+        non_striker: C Miles
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 3.4:
+        non_striker: C Miles
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 3.5:
+        non_striker: A Merritt
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 3.6:
+        non_striker: C Miles
+        bowler: S Bhanushali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 4.1:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 4.2:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Merritt
+    - 4.3:
+        non_striker: A Merritt
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 4.4:
+        non_striker: A Merritt
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 4.5:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 4.6:
+        non_striker: C Miles
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.1:
+        non_striker: A Merritt
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Miles
+    - 5.2:
+        non_striker: A Merritt
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 5.3:
+        non_striker: C Miles
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 5.4:
+        non_striker: A Merritt
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Miles
+    - 5.5:
+        non_striker: C Miles
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 5.6:
+        non_striker: C Miles
+        bowler: SK Ravuri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Merritt
+    - 6.1:
+        non_striker: C Miles
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 6.2:
+        non_striker: C Miles
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Merritt
+    - 6.3:
+        non_striker: C Miles
+        bowler: Jayasooriya
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Merritt
+    - 6.4:
+        non_striker: C Miles
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 6.5:
+        non_striker: A Merritt
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+    - 6.6:
+        non_striker: A Merritt
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Miles
+        wicket:
+          player_out: C Miles
+          fielders:
+          - Jayasooriya
+          - SK Ravuri
+          kind: run out
+    - 6.7:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 7.1:
+        non_striker: A Merritt
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 7.2:
+        non_striker: A Merritt
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 7.3:
+        non_striker: T Smith
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 7.4:
+        non_striker: T Smith
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Merritt
+    - 7.5:
+        non_striker: A Merritt
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 7.6:
+        non_striker: A Merritt
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 8.1:
+        non_striker: A Merritt
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 8.2:
+        non_striker: A Merritt
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 8.3:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+    - 8.4:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Merritt
+    - 8.5:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Merritt
+    - 8.6:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Merritt
+        wicket:
+          player_out: A Merritt
+          fielders:
+          - E Thelander
+          kind: caught
+    - 9.1:
+        bowler: SK Ravuri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CM Greechan
+        batsman: T Smith
+    - 9.2:
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Greechan
+        batsman: T Smith
+    - 9.3:
+        bowler: SK Ravuri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CM Greechan
+        batsman: T Smith
+    - 9.4:
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CM Greechan
+        batsman: T Smith
+    - 9.5:
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Greechan
+        batsman: T Smith
+    - 9.6:
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Greechan
+        batsman: T Smith
+    - 9.7:
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CM Greechan
+        batsman: T Smith
+    - 9.8:
+        non_striker: T Smith
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 10.1:
+        non_striker: CM Greechan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 10.2:
+        non_striker: CM Greechan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Smith
+    - 10.3:
+        non_striker: CM Greechan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 10.4:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 10.5:
+        non_striker: CM Greechan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 10.6:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 11.1:
+        non_striker: CM Greechan
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Smith
+    - 11.2:
+        non_striker: CM Greechan
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 11.3:
+        non_striker: T Smith
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 11.4:
+        non_striker: CM Greechan
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 11.5:
+        non_striker: T Smith
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 11.6:
+        non_striker: T Smith
+        bowler: SK Ravuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 12.1:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CM Greechan
+    - 12.2:
+        non_striker: CM Greechan
+        bowler: Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Smith
+    - 12.3:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 12.4:
+        non_striker: CM Greechan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 12.5:
+        non_striker: T Smith
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 12.6:
+        non_striker: CM Greechan
+        bowler: Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 13.1:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 13.2:
+        non_striker: T Smith
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 13.3:
+        non_striker: T Smith
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Greechan
+    - 13.4:
+        non_striker: T Smith
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CM Greechan
+    - 13.5:
+        non_striker: T Smith
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 13.6:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 14.1:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 14.2:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Smith
+    - 14.3:
+        non_striker: T Smith
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Greechan
+    - 14.4:
+        non_striker: T Smith
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 14.5:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Smith
+    - 14.6:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Smith
+    - 14.7:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+    - 15.1:
+        non_striker: T Smith
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 15.2:
+        non_striker: T Smith
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Greechan
+    - 15.3:
+        non_striker: T Smith
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 15.4:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Smith
+        wicket:
+          player_out: T Smith
+          fielders:
+          - G Shukla
+          kind: caught
+    - 15.5:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 15.6:
+        non_striker: A Aikenhead
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 16.1:
+        non_striker: A Aikenhead
+        bowler: H Chamto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Greechan
+    - 16.2:
+        non_striker: A Aikenhead
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 16.3:
+        non_striker: A Aikenhead
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 16.4:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 16.5:
+        non_striker: A Aikenhead
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 16.6:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aikenhead
+    - 16.7:
+        non_striker: CM Greechan
+        bowler: H Chamto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 17.1:
+        non_striker: A Aikenhead
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 17.2:
+        non_striker: A Aikenhead
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Greechan
+    - 17.3:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 17.4:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+    - 17.5:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 17.6:
+        non_striker: CM Greechan
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aikenhead
+    - 18.1:
+        non_striker: A Aikenhead
+        bowler: G Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Greechan
+    - 18.2:
+        non_striker: A Aikenhead
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Greechan
+    - 18.3:
+        non_striker: A Aikenhead
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+    - 18.4:
+        non_striker: A Aikenhead
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Greechan
+        wicket:
+          player_out: CM Greechan
+          kind: caught and bowled
+    - 18.5:
+        non_striker: A Aikenhead
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Gouge
+    - 18.6:
+        non_striker: A Aikenhead
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Gouge
+    - 18.7:
+        non_striker: A Aikenhead
+        bowler: G Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Gouge
+    - 19.1:
+        non_striker: E Gouge
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aikenhead
+    - 19.2:
+        non_striker: A Aikenhead
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Gouge
+    - 19.3:
+        non_striker: E Gouge
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aikenhead
+        wicket:
+          player_out: A Aikenhead
+          kind: lbw
+    - 19.4:
+        non_striker: E Gouge
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Maguire
+    - 19.5:
+        non_striker: E Gouge
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Maguire
+    - 19.6:
+        non_striker: M Maguire
+        bowler: S Elmsjoo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Gouge
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Lundell
+        batsman: Kanchan Rana
+    - 0.2:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Lundell
+        batsman: Kanchan Rana
+    - 0.3:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Lundell
+        batsman: Kanchan Rana
+    - 0.4:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Lundell
+        batsman: Kanchan Rana
+    - 0.5:
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Lundell
+        batsman: Kanchan Rana
+    - 0.6:
+        non_striker: S Lundell
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kanchan Rana
+        wicket:
+          player_out: Kanchan Rana
+          fielders:
+          - E Gouge
+          - M Maguire
+          kind: run out
+    - 1.1:
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Thelander
+        batsman: S Lundell
+    - 1.2:
+        non_striker: S Lundell
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 1.3:
+        non_striker: S Lundell
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 1.4:
+        non_striker: S Lundell
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 1.5:
+        non_striker: S Lundell
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 1.6:
+        non_striker: S Lundell
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Thelander
+    - 2.1:
+        non_striker: S Lundell
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 2.2:
+        non_striker: S Lundell
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 2.3:
+        non_striker: S Lundell
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Thelander
+    - 2.4:
+        non_striker: S Lundell
+        bowler: CM Greechan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Thelander
+    - 2.5:
+        non_striker: E Thelander
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lundell
+        wicket:
+          player_out: S Lundell
+          kind: bowled
+    - 2.6:
+        non_striker: E Thelander
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+        wicket:
+          player_out: E Thelander
+          fielders:
+          - M Maguire
+          - S Hanson
+          kind: run out
+    - 3.1:
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Eman Asim
+        batsman: Jayasooriya
+    - 3.2:
+        bowler: S Hanson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Eman Asim
+        batsman: Jayasooriya
+    - 3.3:
+        non_striker: Eman Asim
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jayasooriya
+        wicket:
+          player_out: Jayasooriya
+          fielders:
+          - T Smith
+          kind: caught
+    - 3.4:
+        non_striker: Eman Asim
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 3.5:
+        non_striker: Eman Asim
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 3.6:
+        non_striker: Eman Asim
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 3.7:
+        non_striker: Eman Asim
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+    - 4.1:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eman Asim
+    - 4.2:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eman Asim
+        wicket:
+          player_out: Eman Asim
+          fielders:
+          - E Gouge
+          kind: caught
+    - 4.3:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Alugunoolla
+        wicket:
+          player_out: M Alugunoolla
+          kind: lbw
+    - 4.4:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 4.5:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 4.6:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 5.1:
+        non_striker: H Chamto
+        bowler: S Hanson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Shukla
+    - 5.2:
+        non_striker: H Chamto
+        bowler: S Hanson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Shukla
+    - 5.3:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Chamto
+    - 5.4:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Chamto
+    - 5.5:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 5.6:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Chamto
+    - 5.7:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 5.8:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 5.9:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+    - 5.10:
+        non_striker: G Shukla
+        bowler: S Hanson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Chamto
+    - 6.1:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Chamto
+        wicket:
+          player_out: H Chamto
+          kind: caught and bowled
+    - 6.2:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhanushali
+    - 6.3:
+        non_striker: G Shukla
+        bowler: CM Greechan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Bhanushali
+    - 6.4:
+        non_striker: S Bhanushali
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Shukla
+        wicket:
+          player_out: G Shukla
+          kind: bowled
+    - 6.5:
+        non_striker: S Bhanushali
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Ravuri
+    - 6.6:
+        non_striker: S Bhanushali
+        bowler: CM Greechan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Ravuri
+    - 7.1:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhanushali
+    - 7.2:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhanushali
+    - 7.3:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhanushali
+    - 7.4:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhanushali
+    - 7.5:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bhanushali
+        wicket:
+          player_out: S Bhanushali
+          kind: bowled
+    - 7.6:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Elmsjoo
+    - 8.1:
+        non_striker: S Elmsjoo
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Ravuri
+    - 8.2:
+        non_striker: S Elmsjoo
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Ravuri
+    - 8.3:
+        non_striker: S Elmsjoo
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Ravuri
+    - 8.4:
+        non_striker: S Elmsjoo
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Ravuri
+    - 8.5:
+        non_striker: SK Ravuri
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Elmsjoo
+    - 8.6:
+        non_striker: S Elmsjoo
+        bowler: E Gouge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Ravuri
+    - 9.1:
+        non_striker: S Elmsjoo
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Ravuri
+    - 9.2:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Elmsjoo
+    - 9.3:
+        non_striker: SK Ravuri
+        bowler: F Copley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Elmsjoo
+        wicket:
+          player_out: S Elmsjoo
+          kind: bowled

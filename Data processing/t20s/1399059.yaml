@@ -1,0 +1,1515 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hangzhou
+  dates:
+  - '2023-09-24'
+  gender: female
+  match_type: T20
+  match_type_number: 1668
+  outcome:
+    winner: India
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Bangladesh:
+    - S Rani
+    - Shamima Sultana
+    - S Mostary
+    - Nigar Sultana
+    - Shorna Akter
+    - Ritu Moni
+    - Fahima Khatun
+    - Rabeya Khan
+    - Nahida Akter
+    - Sultana Khatun
+    - Marufa Akter
+    India:
+    - S Mandhana
+    - Shafali Verma
+    - JI Rodrigues
+    - KS Ahuja
+    - RM Ghosh
+    - DB Sharma
+    - DP Vaidya
+    - AB Kaur
+    - P Vastrakar
+    - TR Sadhu
+    - RS Gayakwad
+  registry:
+    people:
+      AB Kaur: 9565fda6
+      Asif Yaqoob: 6b35790c
+      DB Sharma: 201fef33
+      DP Vaidya: f9ded29b
+      Fahima Khatun: 558cdd64
+      GF Labrooy: 8e088dbc
+      JI Rodrigues: cb08b611
+      KS Ahuja: '58593620'
+      Marufa Akter: a50797a4
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      P Vastrakar: 8026ea72
+      RM Ghosh: 721e0199
+      RS Gayakwad: 237ec05b
+      RSA Palliyaguruge: 4339c19d
+      Rabeya Khan: aaf037b1
+      Ramasamy Venkatesh: 8ad68ea7
+      Ritu Moni: ad3940a5
+      S Mandhana: 5d2eda89
+      S Mostary: 94de63bf
+      S Rani: b3f7066c
+      Sarika Prasad: 8ff397fa
+      Shafali Verma: d8f59089
+      Shamima Sultana: 724645f5
+      Shorna Akter: 89895ae1
+      Sultana Khatun: fb0c0bcc
+      TR Sadhu: 25ca0573
+  teams:
+  - Bangladesh
+  - India
+  toss:
+    winner: Bangladesh
+    decision: bat
+  umpires:
+  - Asif Yaqoob
+  - Sarika Prasad
+  venue: Zhejiang University of Technology Cricket Field
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Shamima Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rani
+        wicket:
+          player_out: S Rani
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 0.2:
+        non_striker: Shamima Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 0.3:
+        non_striker: Shamima Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 0.4:
+        non_striker: Shamima Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 0.5:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+        wicket:
+          player_out: Shamima Sultana
+          kind: lbw
+    - 0.6:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 1.1:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 1.2:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 1.3:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 1.4:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 1.5:
+        non_striker: S Mostary
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 1.6:
+        non_striker: S Mostary
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 2.1:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mostary
+    - 2.2:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 2.3:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 2.4:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 2.5:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 2.6:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 2.7:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 3.1:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 3.2:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 3.3:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 3.4:
+        non_striker: S Mostary
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 3.5:
+        non_striker: S Mostary
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Nigar Sultana
+    - 3.6:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mostary
+    - 3.7:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 4.1:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 4.2:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 4.3:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 4.4:
+        non_striker: S Mostary
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 4.5:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+        wicket:
+          player_out: S Mostary
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 4.6:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 5.1:
+        non_striker: Shorna Akter
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 5.2:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 5.3:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 5.4:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Shorna Akter
+    - 5.5:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+        wicket:
+          player_out: Shorna Akter
+          kind: bowled
+    - 5.6:
+        non_striker: Nigar Sultana
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 6.1:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 6.2:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 6.3:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 6.4:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 6.5:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritu Moni
+    - 6.6:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 6.7:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 7.1:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 7.2:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 7.3:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          fielders:
+          - DP Vaidya
+          kind: run out
+    - 7.4:
+        non_striker: Fahima Khatun
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 7.5:
+        non_striker: Fahima Khatun
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 7.6:
+        non_striker: Fahima Khatun
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+        wicket:
+          player_out: Fahima Khatun
+          fielders:
+          - KS Ahuja
+          kind: run out
+    - 8.1:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 8.2:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 8.3:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 8.4:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 8.5:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 8.6:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 9.1:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 9.2:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 9.3:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 9.4:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 9.5:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 9.6:
+        non_striker: Ritu Moni
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 10.1:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rabeya Khan
+    - 10.2:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 10.3:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 10.4:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 10.5:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 10.6:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          kind: bowled
+    - 10.7:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 11.1:
+        non_striker: Ritu Moni
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 11.2:
+        non_striker: Ritu Moni
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 11.3:
+        non_striker: Ritu Moni
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 11.4:
+        non_striker: Ritu Moni
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 11.5:
+        non_striker: Ritu Moni
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 11.6:
+        non_striker: Ritu Moni
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 12.1:
+        non_striker: Nahida Akter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 12.2:
+        non_striker: Nahida Akter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 12.3:
+        non_striker: Nahida Akter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 12.4:
+        non_striker: Nahida Akter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 12.5:
+        non_striker: Nahida Akter
+        bowler: P Vastrakar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritu Moni
+    - 12.6:
+        non_striker: Nahida Akter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 12.7:
+        non_striker: Nahida Akter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+        wicket:
+          player_out: Ritu Moni
+          kind: bowled
+    - 13.1:
+        non_striker: Sultana Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 13.2:
+        non_striker: Sultana Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nahida Akter
+    - 13.3:
+        non_striker: Sultana Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 13.4:
+        non_striker: Sultana Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 13.5:
+        non_striker: Sultana Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 13.6:
+        non_striker: Sultana Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 14.1:
+        non_striker: Nahida Akter
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 14.2:
+        non_striker: Nahida Akter
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 14.3:
+        non_striker: Sultana Khatun
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 14.4:
+        non_striker: Sultana Khatun
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 14.5:
+        non_striker: Sultana Khatun
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nahida Akter
+    - 14.6:
+        non_striker: Sultana Khatun
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 15.1:
+        non_striker: Nahida Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 15.2:
+        non_striker: Nahida Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 15.3:
+        non_striker: Sultana Khatun
+        bowler: RS Gayakwad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nahida Akter
+    - 15.4:
+        non_striker: Sultana Khatun
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 15.5:
+        non_striker: Nahida Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 15.6:
+        non_striker: Nahida Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 15.7:
+        non_striker: Sultana Khatun
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 16.1:
+        non_striker: Nahida Akter
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 16.2:
+        non_striker: Nahida Akter
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 16.3:
+        non_striker: Nahida Akter
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+        wicket:
+          player_out: Sultana Khatun
+          fielders:
+          - RM Ghosh
+          kind: stumped
+    - 16.4:
+        non_striker: Nahida Akter
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 16.5:
+        non_striker: Nahida Akter
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 16.6:
+        non_striker: Nahida Akter
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 17.1:
+        non_striker: Marufa Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 17.2:
+        non_striker: Marufa Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 17.3:
+        non_striker: Marufa Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 17.4:
+        non_striker: Marufa Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 17.5:
+        non_striker: Nahida Akter
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+        wicket:
+          player_out: Marufa Akter
+          kind: bowled
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 0.5:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 0.6:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.7:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.8:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 0.9:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.10:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 1.3:
+        non_striker: Shafali Verma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.1:
+        non_striker: Shafali Verma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: S Mandhana
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.3:
+        non_striker: Shafali Verma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: Shafali Verma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.1:
+        non_striker: S Mandhana
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.4:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - Shamima Sultana
+          kind: caught
+    - 3.6:
+        non_striker: Shafali Verma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 4.1:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 4.2:
+        non_striker: Shafali Verma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 4.3:
+        non_striker: Shafali Verma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 4.4:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.5:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.6:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Shafali Verma
+    - 4.7:
+        non_striker: Shafali Verma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 5.1:
+        non_striker: JI Rodrigues
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 5.2:
+        non_striker: JI Rodrigues
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 5.3:
+        non_striker: Shafali Verma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 5.4:
+        non_striker: JI Rodrigues
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 5.5:
+        non_striker: JI Rodrigues
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 5.6:
+        non_striker: Shafali Verma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 6.1:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.2:
+        non_striker: Shafali Verma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 6.3:
+        non_striker: Shafali Verma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.4:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafali Verma
+    - 6.5:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.6:
+        non_striker: Shafali Verma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 6.7:
+        non_striker: Shafali Verma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 7.1:
+        non_striker: Shafali Verma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 7.2:
+        non_striker: JI Rodrigues
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          kind: bowled
+    - 7.3:
+        non_striker: JI Rodrigues
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Ahuja
+    - 7.4:
+        non_striker: JI Rodrigues
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Ahuja
+    - 7.5:
+        non_striker: KS Ahuja
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 7.6:
+        non_striker: KS Ahuja
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 8.1:
+        non_striker: KS Ahuja
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 8.2:
+        non_striker: KS Ahuja
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues

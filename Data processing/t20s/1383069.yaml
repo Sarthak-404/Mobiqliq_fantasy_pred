@@ -1,0 +1,2199 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2023-07-20'
+  gender: male
+  match_type: T20
+  match_type_number: 2148
+  outcome:
+    winner: Ireland
+    by:
+      runs: 7
+  overs: 20
+  player_of_match:
+  - C Campher
+  players:
+    Ireland:
+    - A Balbirnie
+    - PR Stirling
+    - L Tucker
+    - HT Tector
+    - C Campher
+    - GH Dockrell
+    - NA Rock
+    - MR Adair
+    - BJ McCarthy
+    - J Little
+    - B White
+    Italy:
+    - J Mosca
+    - BAD Manenti
+    - M Campopiano
+    - AJ Mosca
+    - HJ Manenti
+    - GP Meade
+    - Jaspreet Singh
+    - GK Berg
+    - Syed Naqvi
+    - CJPF Kalugamage
+    - S di Bartolomeo
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AJ Mosca: 19c56e6e
+      B White: 1a448be0
+      BAD Manenti: ab21795b
+      BJ McCarthy: 3766056b
+      C Campher: 478a63e7
+      CJPF Kalugamage: 31c04b7b
+      DA Haggo: e6789a88
+      GH Dockrell: 99cddc5e
+      GK Berg: '42151725'
+      GP Meade: 3957a70a
+      HJ Manenti: 0e56c514
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      J Mosca: 8f02f6a8
+      Jaspreet Singh: d76ab352
+      L Tucker: 3979b5e0
+      M Campopiano: 26d80a9d
+      M Jameson: bdf1ffe3
+      MR Adair: fc55ec67
+      N Bathi: 96a0edf9
+      NA Rock: 43f4087c
+      PR Stirling: cf494ffe
+      Phil Whitticase: 99d5f6fa
+      S di Bartolomeo: 823a57a9
+      Syed Naqvi: c520c3b9
+  teams:
+  - Ireland
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - DA Haggo
+  - M Jameson
+  venue: Goldenacre, Edinburgh
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.2:
+        bowler: GK Berg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: PR Stirling
+        batsman: A Balbirnie
+    - 0.3:
+        non_striker: A Balbirnie
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 0.5:
+        non_striker: A Balbirnie
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.6:
+        non_striker: A Balbirnie
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          kind: bowled
+    - 1.2:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 1.3:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 1.5:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 1.6:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: A Balbirnie
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.4:
+        non_striker: A Balbirnie
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.5:
+        non_striker: A Balbirnie
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 2.6:
+        non_striker: L Tucker
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.1:
+        non_striker: A Balbirnie
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 3.2:
+        non_striker: L Tucker
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 3.3:
+        non_striker: L Tucker
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.4:
+        non_striker: L Tucker
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: L Tucker
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 3.6:
+        non_striker: L Tucker
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.1:
+        non_striker: L Tucker
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: L Tucker
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 4.3:
+        non_striker: L Tucker
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.4:
+        non_striker: A Balbirnie
+        bowler: GK Berg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Tucker
+    - 4.5:
+        non_striker: L Tucker
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.6:
+        non_striker: A Balbirnie
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          kind: bowled
+    - 5.1:
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HT Tector
+        batsman: A Balbirnie
+    - 5.2:
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HT Tector
+        batsman: A Balbirnie
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 5.6:
+        non_striker: A Balbirnie
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.1:
+        non_striker: A Balbirnie
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.2:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.3:
+        non_striker: A Balbirnie
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 6.4:
+        non_striker: A Balbirnie
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 6.5:
+        non_striker: A Balbirnie
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.6:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.7:
+        non_striker: A Balbirnie
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.1:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.2:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 7.3:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.4:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 7.5:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: bowled
+    - 7.6:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 8.1:
+        non_striker: C Campher
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.2:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.3:
+        non_striker: C Campher
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.4:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 8.5:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 8.6:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 9.1:
+        non_striker: C Campher
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.2:
+        non_striker: C Campher
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.3:
+        non_striker: HT Tector
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 9.4:
+        non_striker: HT Tector
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 9.5:
+        non_striker: C Campher
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.6:
+        non_striker: HT Tector
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 10.1:
+        non_striker: HT Tector
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 10.2:
+        non_striker: C Campher
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 10.3:
+        non_striker: C Campher
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 10.4:
+        non_striker: C Campher
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.5:
+        non_striker: HT Tector
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 10.6:
+        non_striker: C Campher
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 11.1:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 11.2:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 11.3:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 11.4:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 11.5:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.6:
+        non_striker: C Campher
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.1:
+        non_striker: C Campher
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.2:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 12.3:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 12.4:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 12.5:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 12.6:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 13.1:
+        non_striker: C Campher
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.2:
+        non_striker: HT Tector
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 13.3:
+        non_striker: HT Tector
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 13.4:
+        non_striker: C Campher
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.5:
+        non_striker: C Campher
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.6:
+        non_striker: HT Tector
+        bowler: S di Bartolomeo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Campher
+    - 14.1:
+        non_striker: C Campher
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.2:
+        non_striker: HT Tector
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 14.3:
+        non_striker: HT Tector
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 14.4:
+        non_striker: HT Tector
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 14.5:
+        non_striker: HT Tector
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 14.6:
+        non_striker: C Campher
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 15.1:
+        non_striker: C Campher
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 15.2:
+        non_striker: HT Tector
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 15.3:
+        non_striker: C Campher
+        bowler: GK Berg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HT Tector
+    - 15.4:
+        non_striker: HT Tector
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 15.5:
+        non_striker: C Campher
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.6:
+        non_striker: C Campher
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.1:
+        non_striker: HT Tector
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 16.2:
+        non_striker: C Campher
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 16.3:
+        non_striker: C Campher
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 16.4:
+        non_striker: C Campher
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          kind: lbw
+    - 16.5:
+        non_striker: C Campher
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 16.6:
+        non_striker: C Campher
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 17.1:
+        non_striker: GH Dockrell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Campher
+    - 17.2:
+        non_striker: GH Dockrell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 17.3:
+        non_striker: GH Dockrell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 17.4:
+        non_striker: GH Dockrell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 17.5:
+        non_striker: C Campher
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.6:
+        non_striker: GH Dockrell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 18.1:
+        non_striker: GH Dockrell
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 18.2:
+        non_striker: GH Dockrell
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 18.3:
+        non_striker: GH Dockrell
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Campher
+    - 18.4:
+        non_striker: GH Dockrell
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 18.5:
+        non_striker: GH Dockrell
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 18.6:
+        non_striker: GH Dockrell
+        bowler: GK Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          fielders:
+          - M Campopiano
+          kind: caught
+    - 19.1:
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MR Adair
+        batsman: GH Dockrell
+    - 19.2:
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MR Adair
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - AJ Mosca
+          - GP Meade
+          kind: run out
+    - 19.3:
+        non_striker: MR Adair
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+        wicket:
+          player_out: BJ McCarthy
+          kind: bowled
+    - 19.4:
+        non_striker: MR Adair
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 19.5:
+        non_striker: J Little
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MR Adair
+    - 19.6:
+        non_striker: J Little
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 19.7:
+        non_striker: J Little
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.2:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.3:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BAD Manenti
+        batsman: J Mosca
+    - 0.4:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 0.5:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 0.6:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+        wicket:
+          player_out: BAD Manenti
+          kind: bowled
+    - 1.1:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Campopiano
+        batsman: J Mosca
+    - 1.2:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Campopiano
+        batsman: J Mosca
+    - 1.3:
+        non_striker: J Mosca
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Campopiano
+    - 1.4:
+        non_striker: J Mosca
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Campopiano
+    - 1.5:
+        non_striker: J Mosca
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Campopiano
+        wicket:
+          player_out: J Mosca
+          fielders:
+          - L Tucker
+          - MR Adair
+          kind: run out
+    - 1.6:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.7:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.8:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 2.1:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 2.2:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Campopiano
+    - 2.3:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Campopiano
+    - 2.4:
+        non_striker: M Campopiano
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.5:
+        non_striker: M Campopiano
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 2.6:
+        non_striker: M Campopiano
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 3.1:
+        non_striker: M Campopiano
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 3.2:
+        non_striker: M Campopiano
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 3.3:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 3.4:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Campopiano
+    - 3.5:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 3.6:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Campopiano
+    - 4.1:
+        non_striker: M Campopiano
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 4.2:
+        non_striker: AJ Mosca
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Campopiano
+    - 4.3:
+        non_striker: M Campopiano
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 4.4:
+        non_striker: M Campopiano
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 4.5:
+        non_striker: AJ Mosca
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 4.6:
+        non_striker: M Campopiano
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 5.1:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 5.2:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 5.3:
+        non_striker: AJ Mosca
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Campopiano
+    - 5.4:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 5.5:
+        non_striker: AJ Mosca
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 5.6:
+        non_striker: AJ Mosca
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+        wicket:
+          player_out: M Campopiano
+          fielders:
+          - C Campher
+          kind: caught
+    - 6.1:
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HJ Manenti
+        batsman: AJ Mosca
+    - 6.2:
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HJ Manenti
+        batsman: AJ Mosca
+    - 6.3:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+        wicket:
+          player_out: AJ Mosca
+          kind: lbw
+    - 6.4:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 6.5:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 6.6:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 7.1:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 7.2:
+        non_striker: GP Meade
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.3:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 7.4:
+        non_striker: GP Meade
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.5:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GP Meade
+    - 7.6:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 7.7:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GP Meade
+    - 7.8:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GP Meade
+    - 7.9:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 8.1:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 8.2:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 8.3:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 8.4:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: HJ Manenti
+    - 8.5:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 8.6:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Meade
+    - 8.7:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 9.1:
+        non_striker: GP Meade
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 9.2:
+        non_striker: GP Meade
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.3:
+        non_striker: HJ Manenti
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Meade
+    - 9.4:
+        non_striker: HJ Manenti
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 9.5:
+        non_striker: HJ Manenti
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GP Meade
+    - 9.6:
+        non_striker: HJ Manenti
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 9.7:
+        non_striker: HJ Manenti
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 10.1:
+        non_striker: HJ Manenti
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Meade
+    - 10.2:
+        non_striker: HJ Manenti
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 10.3:
+        non_striker: GP Meade
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HJ Manenti
+    - 10.4:
+        non_striker: HJ Manenti
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 10.5:
+        non_striker: HJ Manenti
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GP Meade
+    - 10.6:
+        non_striker: HJ Manenti
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 10.7:
+        non_striker: GP Meade
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 11.1:
+        non_striker: HJ Manenti
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 11.2:
+        non_striker: GP Meade
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 11.3:
+        non_striker: GP Meade
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 11.4:
+        non_striker: HJ Manenti
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 11.5:
+        non_striker: GP Meade
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 11.6:
+        non_striker: GP Meade
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 12.1:
+        non_striker: HJ Manenti
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 12.2:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 12.3:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 12.4:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 12.5:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          kind: bowled
+    - 12.6:
+        non_striker: GP Meade
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 13.1:
+        non_striker: Jaspreet Singh
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+        wicket:
+          player_out: GP Meade
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 13.2:
+        non_striker: Jaspreet Singh
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 13.3:
+        non_striker: GK Berg
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 13.4:
+        non_striker: GK Berg
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 13.5:
+        non_striker: GK Berg
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 13.6:
+        non_striker: GK Berg
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 14.1:
+        non_striker: GK Berg
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaspreet Singh
+    - 14.2:
+        non_striker: GK Berg
+        bowler: B White
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Jaspreet Singh
+    - 14.3:
+        non_striker: Jaspreet Singh
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 14.4:
+        non_striker: GK Berg
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 14.5:
+        non_striker: GK Berg
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 14.6:
+        non_striker: Jaspreet Singh
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Berg
+    - 15.1:
+        non_striker: GK Berg
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaspreet Singh
+    - 15.2:
+        non_striker: GK Berg
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaspreet Singh
+    - 15.3:
+        non_striker: GK Berg
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 15.4:
+        non_striker: Jaspreet Singh
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Berg
+    - 15.5:
+        non_striker: Jaspreet Singh
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 15.6:
+        non_striker: GK Berg
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 16.1:
+        non_striker: GK Berg
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 16.2:
+        non_striker: Jaspreet Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GK Berg
+    - 16.3:
+        non_striker: GK Berg
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 16.4:
+        non_striker: Jaspreet Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 16.5:
+        non_striker: GK Berg
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+        wicket:
+          player_out: Jaspreet Singh
+          kind: bowled
+    - 16.6:
+        non_striker: GK Berg
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Naqvi
+    - 17.1:
+        non_striker: GK Berg
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Naqvi
+        wicket:
+          player_out: Syed Naqvi
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 17.2:
+        non_striker: GK Berg
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJPF Kalugamage
+    - 17.3:
+        non_striker: GK Berg
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 17.4:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 17.5:
+        non_striker: GK Berg
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 17.6:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Berg
+    - 17.7:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Berg
+    - 18.1:
+        non_striker: GK Berg
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 18.2:
+        non_striker: CJPF Kalugamage
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Berg
+    - 18.3:
+        non_striker: CJPF Kalugamage
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 18.4:
+        non_striker: GK Berg
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJPF Kalugamage
+    - 18.5:
+        non_striker: GK Berg
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 18.6:
+        non_striker: CJPF Kalugamage
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 19.1:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Berg
+    - 19.2:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Berg
+    - 19.3:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Berg
+    - 19.4:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Berg
+        wicket:
+          player_out: GK Berg
+          fielders:
+          - J Little
+          kind: caught
+    - 19.5:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S di Bartolomeo
+    - 19.6:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S di Bartolomeo

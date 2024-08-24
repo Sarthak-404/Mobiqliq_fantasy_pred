@@ -1,0 +1,1891 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-16'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-12-16'
+  gender: male
+  match_type: T20
+  match_type_number: 1960
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Rizwan Haider
+  players:
+    Qatar:
+    - Kamran Khan
+    - Akash Babu
+    - I Liyanage
+    - Mohammad Rizlan
+    - Muhammad Tanveer
+    - Assad Borham
+    - VN Veetil
+    - Dharmang Patel
+    - Ikramullah Khan
+    - Gayan Munaweera
+    - Mohammed Nadeem
+    Malaysia:
+    - Zubaidi Zulkifle
+    - Virandeep Singh
+    - Ahmed Faiz
+    - Syed Aziz
+    - S Muniandy
+    - Muhammad Amir
+    - Syed Rehmatullah
+    - Mohamed Arief
+    - Fitri Sham
+    - Khizar Hayat
+    - Rizwan Haider
+  registry:
+    people:
+      Ahmed Faiz: f6b4f746
+      Akash Babu: fb59e5bc
+      Assad Borham: 219a417a
+      Dharmang Patel: 643f2e6a
+      Edwin Seah: be24f868
+      Fitri Sham: d2ec068c
+      Gayan Munaweera: 62141a22
+      I Liyanage: 826e1017
+      Ikramullah Khan: c6e1354c
+      Kamran Khan: 922e3dcc
+      Khizar Hayat: 78bbeba1
+      MA Muniandy: bc8d4020
+      Mohamed Arief: 1087dd78
+      Mohammad Rizlan: 82afc034
+      Mohammed Nadeem: 856cbb1e
+      Muhammad Amir: 60bec5c3
+      Muhammad Tanveer: aef39fe4
+      Rizwan Haider: dc60abdc
+      S Muniandy: 57fcfd3b
+      Syed Aziz: 6667067e
+      Syed Rehmatullah: fcbdc2b0
+      T Senthil Kumar: 961ddfac
+      Tabarak Dar: 2259c12d
+      VN Veetil: 3cf5a041
+      Virandeep Singh: 415d30b6
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Qatar
+  - Malaysia
+  toss:
+    winner: Qatar
+    decision: bat
+  umpires:
+  - T Senthil Kumar
+  - Tabarak Dar
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Akash Babu
+        batsman: Kamran Khan
+    - 0.2:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Akash Babu
+        batsman: Kamran Khan
+    - 0.3:
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Akash Babu
+        batsman: Kamran Khan
+    - 0.4:
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: Akash Babu
+        batsman: Kamran Khan
+    - 0.5:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Akash Babu
+        batsman: Kamran Khan
+    - 0.6:
+        non_striker: Kamran Khan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akash Babu
+    - 0.7:
+        non_striker: Kamran Khan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akash Babu
+        wicket:
+          player_out: Akash Babu
+          kind: bowled
+    - 0.8:
+        non_striker: Kamran Khan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 1.1:
+        non_striker: Kamran Khan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 1.2:
+        non_striker: Kamran Khan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Liyanage
+    - 1.3:
+        non_striker: Kamran Khan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 1.4:
+        non_striker: I Liyanage
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Khan
+    - 1.5:
+        non_striker: Kamran Khan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 1.6:
+        non_striker: Kamran Khan
+        bowler: Fitri Sham
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: I Liyanage
+    - 1.7:
+        non_striker: I Liyanage
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Khan
+        wicket:
+          player_out: Kamran Khan
+          fielders:
+          - Muhammad Amir
+          kind: caught
+    - 2.1:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Rizlan
+        batsman: I Liyanage
+    - 2.2:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Rizlan
+        batsman: I Liyanage
+    - 2.3:
+        non_striker: Mohammad Rizlan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+        wicket:
+          player_out: I Liyanage
+          fielders:
+          - Ahmed Faiz
+          kind: caught
+    - 2.4:
+        non_striker: Mohammad Rizlan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 2.5:
+        non_striker: Mohammad Rizlan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 2.6:
+        non_striker: Mohammad Rizlan
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Tanveer
+    - 3.1:
+        non_striker: Muhammad Tanveer
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 3.2:
+        non_striker: Muhammad Tanveer
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 3.3:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 3.4:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 3.5:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Tanveer
+    - 3.6:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Tanveer
+    - 3.7:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Tanveer
+    - 3.8:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 4.1:
+        non_striker: Muhammad Tanveer
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 4.2:
+        non_striker: Muhammad Tanveer
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 4.3:
+        non_striker: Muhammad Tanveer
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 4.4:
+        non_striker: Muhammad Tanveer
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 4.5:
+        non_striker: Muhammad Tanveer
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 4.6:
+        non_striker: Muhammad Tanveer
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 5.1:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 5.2:
+        non_striker: Muhammad Tanveer
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 5.3:
+        non_striker: Muhammad Tanveer
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 5.4:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Tanveer
+    - 5.5:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+        wicket:
+          player_out: Muhammad Tanveer
+          fielders:
+          - Zubaidi Zulkifle
+          kind: caught
+    - 5.6:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Assad Borham
+    - 6.1:
+        non_striker: Mohammad Rizlan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Assad Borham
+    - 6.2:
+        non_striker: Mohammad Rizlan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Assad Borham
+    - 6.3:
+        non_striker: Assad Borham
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 6.4:
+        non_striker: Mohammad Rizlan
+        bowler: Fitri Sham
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Assad Borham
+    - 6.5:
+        non_striker: Mohammad Rizlan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Assad Borham
+        wicket:
+          player_out: Assad Borham
+          kind: bowled
+    - 6.6:
+        non_striker: Mohammad Rizlan
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 7.1:
+        non_striker: VN Veetil
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 7.2:
+        non_striker: Mohammad Rizlan
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 7.3:
+        non_striker: VN Veetil
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 7.4:
+        non_striker: VN Veetil
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+        wicket:
+          player_out: Mohammad Rizlan
+          fielders:
+          - Zubaidi Zulkifle
+          kind: caught
+    - 7.5:
+        non_striker: VN Veetil
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 7.6:
+        non_striker: Dharmang Patel
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 8.1:
+        non_striker: Dharmang Patel
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 8.2:
+        non_striker: VN Veetil
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 8.3:
+        non_striker: VN Veetil
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 8.4:
+        non_striker: VN Veetil
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 8.5:
+        non_striker: Dharmang Patel
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 8.6:
+        non_striker: VN Veetil
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 9.1:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 9.2:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 9.3:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 9.4:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 9.5:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 9.6:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 10.1:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 10.2:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 10.3:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 10.4:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VN Veetil
+    - 10.5:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 10.6:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 11.1:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VN Veetil
+    - 11.2:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 11.3:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 11.4:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 11.5:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 11.6:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 12.1:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 12.2:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VN Veetil
+    - 12.3:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 12.4:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 12.5:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 12.6:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 13.1:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VN Veetil
+    - 13.2:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 13.3:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 13.4:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 13.5:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 13.6:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 14.1:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 14.2:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 14.3:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 14.4:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 14.5:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 14.6:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 15.1:
+        non_striker: VN Veetil
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 15.2:
+        non_striker: Dharmang Patel
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 15.3:
+        non_striker: VN Veetil
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Dharmang Patel
+    - 15.4:
+        non_striker: Dharmang Patel
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VN Veetil
+    - 15.5:
+        non_striker: Dharmang Patel
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 15.6:
+        non_striker: VN Veetil
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 16.1:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 16.2:
+        non_striker: Dharmang Patel
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 16.3:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dharmang Patel
+    - 16.4:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 16.5:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 16.6:
+        non_striker: VN Veetil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+    - 17.1:
+        non_striker: Dharmang Patel
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VN Veetil
+    - 17.2:
+        non_striker: Dharmang Patel
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 17.3:
+        non_striker: VN Veetil
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 17.4:
+        non_striker: Dharmang Patel
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VN Veetil
+    - 17.5:
+        non_striker: Dharmang Patel
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VN Veetil
+    - 17.6:
+        non_striker: Dharmang Patel
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 17.7:
+        non_striker: VN Veetil
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 18.1:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dharmang Patel
+    - 18.2:
+        non_striker: Dharmang Patel
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 18.3:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dharmang Patel
+        wicket:
+          player_out: Dharmang Patel
+          fielders:
+          - Syed Aziz
+          kind: caught
+    - 18.4:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+        wicket:
+          player_out: Ikramullah Khan
+          fielders:
+          - Zubaidi Zulkifle
+          kind: caught
+    - 18.5:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Gayan Munaweera
+    - 18.6:
+        non_striker: VN Veetil
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gayan Munaweera
+    - 19.1:
+        non_striker: Gayan Munaweera
+        bowler: Rizwan Haider
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: VN Veetil
+    - 19.2:
+        non_striker: Gayan Munaweera
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VN Veetil
+    - 19.3:
+        non_striker: Gayan Munaweera
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VN Veetil
+    - 19.4:
+        non_striker: VN Veetil
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gayan Munaweera
+    - 19.5:
+        non_striker: Gayan Munaweera
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+    - 19.6:
+        non_striker: Gayan Munaweera
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VN Veetil
+        wicket:
+          player_out: VN Veetil
+          fielders:
+          - Muhammad Amir
+          kind: caught
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Virandeep Singh
+        batsman: Zubaidi Zulkifle
+    - 0.2:
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Virandeep Singh
+        batsman: Zubaidi Zulkifle
+    - 0.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 0.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 0.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 0.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.1:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.2:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.3:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 1.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 1.5:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 1.6:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 2.1:
+        non_striker: Virandeep Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 2.2:
+        non_striker: Virandeep Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 2.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh
+    - 2.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 2.7:
+        non_striker: Zubaidi Zulkifle
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Virandeep Singh
+    - 3.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 3.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 3.3:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 3.4:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 3.5:
+        non_striker: Virandeep Singh
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 3.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 4.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 4.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 4.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 4.4:
+        non_striker: Virandeep Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubaidi Zulkifle
+    - 4.5:
+        non_striker: Virandeep Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 4.6:
+        non_striker: Virandeep Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 4.7:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 5.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 5.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 5.3:
+        non_striker: Virandeep Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 5.4:
+        non_striker: Virandeep Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 5.5:
+        non_striker: Virandeep Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 5.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 6.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 6.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 6.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.5:
+        non_striker: Virandeep Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 6.6:
+        non_striker: Virandeep Singh
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 7.1:
+        non_striker: Virandeep Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 7.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.3:
+        non_striker: Virandeep Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 7.4:
+        non_striker: Virandeep Singh
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 7.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: VN Veetil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 8.1:
+        non_striker: Virandeep Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 8.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 8.3:
+        non_striker: Virandeep Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 8.4:
+        non_striker: Virandeep Singh
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 8.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 8.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 9.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Akash Babu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 9.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Akash Babu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 9.3:
+        non_striker: Virandeep Singh
+        bowler: Akash Babu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubaidi Zulkifle
+    - 9.4:
+        non_striker: Virandeep Singh
+        bowler: Akash Babu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 9.5:
+        non_striker: Virandeep Singh
+        bowler: Akash Babu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 9.6:
+        non_striker: Virandeep Singh
+        bowler: Akash Babu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 10.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+        wicket:
+          player_out: Virandeep Singh
+          kind: bowled
+    - 10.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 10.3:
+        non_striker: Ahmed Faiz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          fielders:
+          - Dharmang Patel
+          kind: caught
+    - 10.4:
+        non_striker: Ahmed Faiz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Syed Aziz
+    - 10.5:
+        non_striker: Syed Aziz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 10.6:
+        non_striker: Syed Aziz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 11.1:
+        non_striker: Ahmed Faiz
+        bowler: Assad Borham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 11.2:
+        non_striker: Syed Aziz
+        bowler: Assad Borham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 11.3:
+        non_striker: Ahmed Faiz
+        bowler: Assad Borham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 11.4:
+        non_striker: Syed Aziz
+        bowler: Assad Borham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Faiz
+    - 11.5:
+        non_striker: Syed Aziz
+        bowler: Assad Borham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz
+    - 11.6:
+        non_striker: Syed Aziz
+        bowler: Assad Borham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 12.1:
+        non_striker: Syed Aziz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 12.2:
+        non_striker: Ahmed Faiz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 12.3:
+        non_striker: Ahmed Faiz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 12.4:
+        non_striker: Ahmed Faiz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 12.5:
+        non_striker: Ahmed Faiz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 12.6:
+        non_striker: Ahmed Faiz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 13.1:
+        non_striker: Syed Aziz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 13.2:
+        non_striker: Ahmed Faiz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 13.3:
+        non_striker: Ahmed Faiz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 13.4:
+        non_striker: Ahmed Faiz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 13.5:
+        non_striker: Ahmed Faiz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 13.6:
+        non_striker: Syed Aziz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 14.1:
+        non_striker: Syed Aziz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz
+    - 14.2:
+        non_striker: Syed Aziz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 14.3:
+        non_striker: Syed Aziz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz
+    - 14.4:
+        non_striker: Syed Aziz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz

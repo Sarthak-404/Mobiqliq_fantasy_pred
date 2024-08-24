@@ -1,0 +1,2347 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dreux
+  dates:
+  - '2024-05-10'
+  gender: male
+  match_type: T20
+  match_type_number: 2598
+  outcome:
+    result: tie
+    eliminator: France
+  overs: 20
+  player_of_match:
+  - Zaheer Zahiri
+  players:
+    Belgium:
+    - Muhammad Muneeb
+    - A Raza
+    - F Khaliq
+    - Sheraz Sheikh
+    - D Dewald
+    - Shaheryar Butt
+    - Saber Zakhil
+    - Waqas Ali
+    - Khalid Ahmadi
+    - Murid Ekrami
+    - Sajad Ahmadzai
+    France:
+    - G Mckeon
+    - H Niaz
+    - C Roberts
+    - L Canessane
+    - HA Jackson
+    - Usman Khan
+    - Kamran Ahmadzai
+    - Noman Amjad
+    - Zaheer Zahiri
+    - S Stanikzay
+    - Dawood Ahmadzai
+  registry:
+    people:
+      A Raza: 838bc6ab
+      Asif Zahir: 2f4f7785
+      Atif Zahir: bdebac8a
+      C Roberts: 07ac9c54
+      D Dewald: f97e4db3
+      Dawood Ahmadzai: 951686f5
+      F Khaliq: c17dcc29
+      G Mckeon: 31366b7e
+      H Niaz: d0e2e8ea
+      HA Jackson: ee40679e
+      Kamran Ahmadzai: afa2ebba
+      Khalid Ahmadi: cf0b9a0d
+      L Canessane: 72a4c3b2
+      Muhammad Muneeb: 5338b9f5
+      Murid Ekrami: 76b19864
+      Niaz Chaudhry: 5abe5d27
+      Noman Amjad: c079c66a
+      S Jamil: 3d6617c6
+      S Stanikzay: c5445834
+      Saber Zakhil: 036dcf9b
+      Sajad Ahmadzai: 6978bff0
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      Usman Khan: e8a552ef
+      Waqas Ali: 2fd4669a
+      Waseem Dar: 1a335960
+      Zaheer Zahiri: 62f6d8ce
+  teams:
+  - Belgium
+  - France
+  toss:
+    winner: Belgium
+    decision: bat
+  umpires:
+  - Atif Zahir
+  - Niaz Chaudhry
+  venue: Dreux Sport Cricket Club
+innings:
+- 1st innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Raza
+        batsman: Muhammad Muneeb
+    - 0.2:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Raza
+        batsman: Muhammad Muneeb
+    - 0.3:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Raza
+        batsman: Muhammad Muneeb
+    - 0.4:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Raza
+        batsman: Muhammad Muneeb
+    - 0.5:
+        non_striker: Muhammad Muneeb
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raza
+    - 0.6:
+        non_striker: Muhammad Muneeb
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+    - 0.7:
+        non_striker: Muhammad Muneeb
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raza
+    - 1.1:
+        non_striker: Muhammad Muneeb
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+        wicket:
+          player_out: Muhammad Muneeb
+          fielders:
+          - Kamran Ahmadzai
+          - Zaheer Zahiri
+          kind: run out
+    - 1.2:
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Khaliq
+        batsman: A Raza
+    - 1.3:
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Khaliq
+        batsman: A Raza
+    - 1.4:
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: F Khaliq
+        batsman: A Raza
+    - 1.5:
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: F Khaliq
+        batsman: A Raza
+    - 1.6:
+        non_striker: F Khaliq
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+    - 2.1:
+        non_striker: A Raza
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Khaliq
+    - 2.2:
+        non_striker: A Raza
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Khaliq
+    - 2.3:
+        non_striker: A Raza
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Khaliq
+        wicket:
+          player_out: F Khaliq
+          kind: bowled
+    - 2.4:
+        non_striker: A Raza
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 2.5:
+        non_striker: A Raza
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 2.6:
+        non_striker: A Raza
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 3.1:
+        non_striker: Sheraz Sheikh
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+    - 3.2:
+        non_striker: Sheraz Sheikh
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+    - 3.3:
+        non_striker: Sheraz Sheikh
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+    - 3.4:
+        non_striker: Sheraz Sheikh
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raza
+    - 3.5:
+        non_striker: Sheraz Sheikh
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raza
+    - 3.6:
+        non_striker: Sheraz Sheikh
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+        wicket:
+          player_out: A Raza
+          fielders:
+          - HA Jackson
+          kind: caught
+    - 4.1:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Dewald
+        batsman: Sheraz Sheikh
+    - 4.2:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Dewald
+        batsman: Sheraz Sheikh
+    - 4.3:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Dewald
+        batsman: Sheraz Sheikh
+    - 4.4:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Dewald
+        batsman: Sheraz Sheikh
+    - 4.5:
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Dewald
+        batsman: Sheraz Sheikh
+    - 4.6:
+        non_striker: Sheraz Sheikh
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 4.7:
+        non_striker: Sheraz Sheikh
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 5.1:
+        non_striker: D Dewald
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sheraz Sheikh
+    - 5.2:
+        non_striker: D Dewald
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 5.3:
+        non_striker: D Dewald
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sheraz Sheikh
+    - 5.4:
+        non_striker: D Dewald
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 5.5:
+        non_striker: D Dewald
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sheraz Sheikh
+    - 5.6:
+        non_striker: D Dewald
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 5.7:
+        non_striker: D Dewald
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 6.1:
+        non_striker: Sheraz Sheikh
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 6.2:
+        non_striker: D Dewald
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 6.3:
+        non_striker: D Dewald
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 6.4:
+        non_striker: Sheraz Sheikh
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 6.5:
+        non_striker: Sheraz Sheikh
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 6.6:
+        non_striker: Sheraz Sheikh
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 7.1:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 7.2:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 7.3:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 7.4:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 7.5:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 7.6:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 8.1:
+        non_striker: D Dewald
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 8.2:
+        non_striker: Sheraz Sheikh
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 8.3:
+        non_striker: D Dewald
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 8.4:
+        non_striker: D Dewald
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 8.5:
+        non_striker: D Dewald
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sheraz Sheikh
+    - 8.6:
+        non_striker: Sheraz Sheikh
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dewald
+    - 9.1:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Sheraz Sheikh
+    - 9.2:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 9.3:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 9.4:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sheraz Sheikh
+    - 9.5:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 9.6:
+        non_striker: Sheraz Sheikh
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 9.7:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 10.1:
+        non_striker: Sheraz Sheikh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 10.2:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sheraz Sheikh
+    - 10.3:
+        non_striker: Sheraz Sheikh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 10.4:
+        non_striker: Sheraz Sheikh
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 10.5:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+        wicket:
+          player_out: Sheraz Sheikh
+          fielders:
+          - Usman Khan
+          kind: caught
+    - 10.6:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.1:
+        non_striker: Shaheryar Butt
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 11.2:
+        non_striker: Shaheryar Butt
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 11.3:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.4:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.5:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.6:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+        wicket:
+          player_out: Shaheryar Butt
+          kind: bowled
+    - 12.1:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Saber Zakhil
+        batsman: D Dewald
+    - 12.2:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 12.3:
+        non_striker: Saber Zakhil
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 12.4:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 12.5:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saber Zakhil
+    - 12.6:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 13.1:
+        non_striker: Saber Zakhil
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dewald
+    - 13.2:
+        non_striker: Saber Zakhil
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 13.3:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 13.4:
+        non_striker: Saber Zakhil
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dewald
+    - 13.5:
+        non_striker: Saber Zakhil
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 13.6:
+        non_striker: D Dewald
+        bowler: S Stanikzay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 14.1:
+        non_striker: Saber Zakhil
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dewald
+    - 14.2:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saber Zakhil
+    - 14.3:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 14.4:
+        non_striker: D Dewald
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+        wicket:
+          player_out: D Dewald
+          fielders:
+          - G Mckeon
+          - HA Jackson
+          kind: run out
+    - 14.5:
+        non_striker: Saber Zakhil
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ali
+    - 14.6:
+        non_striker: Saber Zakhil
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 15.1:
+        non_striker: Saber Zakhil
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ali
+    - 15.2:
+        non_striker: Saber Zakhil
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ali
+    - 15.3:
+        non_striker: Saber Zakhil
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqas Ali
+    - 15.4:
+        non_striker: Waqas Ali
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+    - 15.5:
+        non_striker: Waqas Ali
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saber Zakhil
+    - 15.6:
+        non_striker: Saber Zakhil
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqas Ali
+    - 16.1:
+        non_striker: Waqas Ali
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+        wicket:
+          player_out: Saber Zakhil
+          fielders:
+          - C Roberts
+          kind: caught
+    - 16.2:
+        non_striker: Waqas Ali
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Ahmadi
+    - 16.3:
+        non_striker: Khalid Ahmadi
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqas Ali
+    - 16.4:
+        non_striker: Khalid Ahmadi
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqas Ali
+    - 16.5:
+        non_striker: Khalid Ahmadi
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ali
+    - 16.6:
+        non_striker: Khalid Ahmadi
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqas Ali
+        wicket:
+          player_out: Waqas Ali
+          kind: bowled
+    - 16.7:
+        non_striker: Khalid Ahmadi
+        bowler: Zaheer Zahiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murid Ekrami
+    - 17.1:
+        non_striker: Khalid Ahmadi
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Murid Ekrami
+    - 17.2:
+        non_striker: Khalid Ahmadi
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murid Ekrami
+    - 17.3:
+        non_striker: Khalid Ahmadi
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murid Ekrami
+    - 17.4:
+        non_striker: Murid Ekrami
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Ahmadi
+    - 17.5:
+        non_striker: Murid Ekrami
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Ahmadi
+    - 17.6:
+        non_striker: Murid Ekrami
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khalid Ahmadi
+    - 17.7:
+        non_striker: Murid Ekrami
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Ahmadi
+    - 18.1:
+        non_striker: Murid Ekrami
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khalid Ahmadi
+    - 18.2:
+        non_striker: Murid Ekrami
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Ahmadi
+    - 18.3:
+        non_striker: Murid Ekrami
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Ahmadi
+    - 18.4:
+        non_striker: Murid Ekrami
+        bowler: Noman Amjad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Khalid Ahmadi
+    - 18.5:
+        non_striker: Murid Ekrami
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Ahmadi
+    - 18.6:
+        non_striker: Murid Ekrami
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Ahmadi
+    - 18.7:
+        non_striker: Murid Ekrami
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khalid Ahmadi
+    - 19.1:
+        non_striker: Khalid Ahmadi
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murid Ekrami
+    - 19.2:
+        non_striker: Khalid Ahmadi
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murid Ekrami
+    - 19.3:
+        non_striker: Murid Ekrami
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khalid Ahmadi
+    - 19.4:
+        non_striker: Murid Ekrami
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khalid Ahmadi
+    - 19.5:
+        non_striker: Murid Ekrami
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Khalid Ahmadi
+    - 19.6:
+        non_striker: Khalid Ahmadi
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murid Ekrami
+- 2nd innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Niaz
+        batsman: G Mckeon
+    - 0.2:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Niaz
+    - 0.3:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Niaz
+    - 0.4:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Niaz
+    - 0.5:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Niaz
+    - 0.6:
+        non_striker: G Mckeon
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Niaz
+    - 1.1:
+        non_striker: H Niaz
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Mckeon
+    - 1.2:
+        non_striker: H Niaz
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 1.3:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Niaz
+        wicket:
+          player_out: H Niaz
+          fielders:
+          - F Khaliq
+          kind: caught
+    - 1.4:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 1.5:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 1.6:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 1.7:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 2.1:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 2.2:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+        wicket:
+          player_out: C Roberts
+          kind: lbw
+    - 2.3:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 2.4:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Canessane
+    - 2.5:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 2.6:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 3.1:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 3.2:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Canessane
+    - 3.3:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.4:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.5:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.6:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 4.1:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 4.2:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 4.3:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Canessane
+    - 4.4:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Canessane
+    - 4.5:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Canessane
+    - 4.6:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 5.1:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 5.2:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 5.3:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 5.4:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Canessane
+    - 5.5:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Canessane
+    - 5.6:
+        non_striker: G Mckeon
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Canessane
+    - 5.7:
+        non_striker: L Canessane
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 6.1:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+    - 6.2:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Canessane
+    - 6.3:
+        non_striker: L Canessane
+        bowler: F Khaliq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Mckeon
+    - 6.4:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Canessane
+    - 6.5:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Canessane
+        wicket:
+          player_out: L Canessane
+          fielders:
+          - A Raza
+          kind: caught
+    - 6.6:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 7.1:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 7.2:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 7.3:
+        non_striker: G Mckeon
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 7.4:
+        non_striker: G Mckeon
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 7.5:
+        non_striker: G Mckeon
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 7.6:
+        non_striker: G Mckeon
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HA Jackson
+    - 8.1:
+        non_striker: HA Jackson
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 8.2:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 8.3:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 8.4:
+        non_striker: HA Jackson
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 8.5:
+        non_striker: HA Jackson
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 8.6:
+        non_striker: G Mckeon
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 9.1:
+        non_striker: G Mckeon
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 9.2:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+        wicket:
+          player_out: G Mckeon
+          kind: bowled
+    - 9.3:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 9.4:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 9.5:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.6:
+        non_striker: Usman Khan
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 10.1:
+        non_striker: HA Jackson
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 10.2:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 10.3:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 10.4:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 10.5:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 10.6:
+        non_striker: HA Jackson
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 11.1:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 11.2:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 11.3:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 11.4:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 11.5:
+        non_striker: HA Jackson
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 11.6:
+        non_striker: Usman Khan
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 12.1:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+        wicket:
+          player_out: HA Jackson
+          kind: caught and bowled
+    - 12.2:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamran Ahmadzai
+    - 12.3:
+        non_striker: Kamran Ahmadzai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 12.4:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Ahmadzai
+    - 12.5:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Ahmadzai
+    - 12.6:
+        non_striker: Usman Khan
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kamran Ahmadzai
+    - 13.1:
+        non_striker: Kamran Ahmadzai
+        bowler: D Dewald
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Usman Khan
+    - 13.2:
+        non_striker: Usman Khan
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Ahmadzai
+        wicket:
+          player_out: Kamran Ahmadzai
+          fielders:
+          - Khalid Ahmadi
+          kind: caught
+    - 13.3:
+        non_striker: Usman Khan
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 13.4:
+        non_striker: Noman Amjad
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 13.5:
+        non_striker: Noman Amjad
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 13.6:
+        non_striker: Noman Amjad
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 13.7:
+        non_striker: Noman Amjad
+        bowler: D Dewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 14.1:
+        non_striker: Usman Khan
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noman Amjad
+    - 14.2:
+        non_striker: Usman Khan
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 14.3:
+        non_striker: Usman Khan
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Noman Amjad
+    - 14.4:
+        non_striker: Usman Khan
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 14.5:
+        non_striker: Usman Khan
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 14.6:
+        non_striker: Noman Amjad
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 15.1:
+        non_striker: Usman Khan
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 15.2:
+        non_striker: Usman Khan
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noman Amjad
+    - 15.3:
+        non_striker: Usman Khan
+        bowler: Waqas Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Noman Amjad
+    - 15.4:
+        non_striker: Noman Amjad
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 15.5:
+        non_striker: Usman Khan
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+        wicket:
+          player_out: Noman Amjad
+          kind: bowled
+    - 15.6:
+        non_striker: Usman Khan
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zaheer Zahiri
+    - 16.1:
+        non_striker: Zaheer Zahiri
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 16.2:
+        non_striker: Zaheer Zahiri
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 16.3:
+        non_striker: Zaheer Zahiri
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 16.4:
+        non_striker: Zaheer Zahiri
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 16.5:
+        non_striker: Usman Khan
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Zahiri
+    - 16.6:
+        non_striker: Usman Khan
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Zahiri
+    - 17.1:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 17.2:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 17.3:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan
+    - 17.4:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - F Khaliq
+          kind: caught
+    - 17.5:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stanikzay
+    - 17.6:
+        non_striker: S Stanikzay
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Zahiri
+    - 18.1:
+        non_striker: S Stanikzay
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Zahiri
+    - 18.2:
+        non_striker: Zaheer Zahiri
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Stanikzay
+        wicket:
+          player_out: S Stanikzay
+          fielders:
+          - S Jamil (sub)
+          - F Khaliq
+          kind: run out
+    - 18.3:
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Dawood Ahmadzai
+        batsman: Zaheer Zahiri
+    - 18.4:
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Dawood Ahmadzai
+        batsman: Zaheer Zahiri
+    - 18.5:
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Dawood Ahmadzai
+        batsman: Zaheer Zahiri
+    - 18.6:
+        non_striker: Dawood Ahmadzai
+        bowler: F Khaliq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Zahiri
+    - 19.1:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ali
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Zaheer Zahiri
+    - 19.2:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dawood Ahmadzai
+    - 19.3:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dawood Ahmadzai
+    - 19.4:
+        non_striker: Zaheer Zahiri
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dawood Ahmadzai
+    - 19.5:
+        non_striker: Dawood Ahmadzai
+        bowler: Waqas Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Zahiri
+        wicket:
+          player_out: Zaheer Zahiri
+          fielders:
+          - Waqas Ali
+          kind: run out
+- France Super Over:
+    team: France
+    deliveries:
+    - 0.1:
+        non_striker: Kamran Ahmadzai
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 0.2:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kamran Ahmadzai
+    - 0.3:
+        non_striker: G Mckeon
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: Kamran Ahmadzai
+    - 0.4:
+        non_striker: Kamran Ahmadzai
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 0.5:
+        non_striker: Kamran Ahmadzai
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 0.6:
+        non_striker: Kamran Ahmadzai
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+- Belgium Super Over:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        non_striker: A Raza
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saber Zakhil
+    - 0.2:
+        non_striker: A Raza
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saber Zakhil
+        wicket:
+          player_out: Saber Zakhil
+          fielders:
+          - G Mckeon
+          kind: caught
+    - 0.3:
+        non_striker: A Raza
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 0.4:
+        non_striker: Shaheryar Butt
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Raza
+    - 0.5:
+        non_striker: Shaheryar Butt
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raza
+    - 0.6:
+        non_striker: A Raza
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 0.7:
+        non_striker: Shaheryar Butt
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Raza
+    - 0.8:
+        non_striker: Shaheryar Butt
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+    - 0.9:
+        non_striker: Shaheryar Butt
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Raza
+    - 0.10:
+        non_striker: Shaheryar Butt
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raza
+        wicket:
+          player_out: A Raza
+          kind: hit wicket

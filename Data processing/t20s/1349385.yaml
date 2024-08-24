@@ -1,0 +1,2025 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-22'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-12-19'
+  gender: male
+  match_type: T20
+  match_type_number: 1969
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Virandeep Singh
+  players:
+    Bahrain:
+    - P Kurup
+    - Sarfaraz Ali
+    - Imran Anwar
+    - Sohail Ahmed
+    - Haider Butt
+    - Ahmer Bin Nisar
+    - Junaid Aziz
+    - Rizwan Butt
+    - Danish Jasnaik
+    - Shahid Mahmood
+    - Waseeq Ahmed
+    Malaysia:
+    - Zubaidi Zulkifle
+    - Virandeep Singh
+    - Syed Aziz
+    - Ahmed Faiz
+    - Mohamed Arief
+    - Khizar Hayat
+    - Rizwan Haider
+    - S Muniandy
+    - Syed Rehmatullah
+    - Fitri Sham
+    - Muhammad Amir
+  registry:
+    people:
+      Ahmed Faiz: f6b4f746
+      Ahmer Bin Nisar: afbc53ba
+      B Ramani: 92ad5353
+      Danish Jasnaik: d24ad3e5
+      Fitri Sham: d2ec068c
+      Haider Butt: 14fd10b5
+      Imran Anwar: a9a18e3e
+      Junaid Aziz: c39ee9e0
+      Khizar Hayat: 78bbeba1
+      Mohamed Arief: 1087dd78
+      Muhammad Amir: 60bec5c3
+      P Kurup: 50ceaef6
+      Rizwan Butt: e741ed8f
+      Rizwan Haider: dc60abdc
+      Rudy Ismandy: '84682045'
+      S Muniandy: 57fcfd3b
+      Sarfaraz Ali: db95ddeb
+      Shahid Mahmood: '37753749'
+      Sohail Ahmed: 4db71b2e
+      Syed Aziz: 6667067e
+      Syed Rehmatullah: fcbdc2b0
+      T Senthil Kumar: 961ddfac
+      Tabarak Dar: 2259c12d
+      Virandeep Singh: 415d30b6
+      Waseeq Ahmed: a7d6c101
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Bahrain
+  - Malaysia
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - T Senthil Kumar
+  - Tabarak Dar
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sarfaraz Ali
+        batsman: P Kurup
+    - 0.2:
+        non_striker: P Kurup
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 0.3:
+        non_striker: P Kurup
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 0.4:
+        non_striker: Sarfaraz Ali
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 0.5:
+        non_striker: Sarfaraz Ali
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Kurup
+    - 0.6:
+        non_striker: P Kurup
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 1.1:
+        non_striker: Sarfaraz Ali
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+        wicket:
+          player_out: P Kurup
+          kind: lbw
+    - 1.2:
+        non_striker: Sarfaraz Ali
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Anwar
+        wicket:
+          player_out: Imran Anwar
+          kind: bowled
+    - 1.3:
+        non_striker: Sarfaraz Ali
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 1.4:
+        non_striker: Sarfaraz Ali
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 1.5:
+        non_striker: Sarfaraz Ali
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 1.6:
+        non_striker: Sarfaraz Ali
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 2.1:
+        non_striker: Sohail Ahmed
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 2.2:
+        non_striker: Sohail Ahmed
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 2.3:
+        non_striker: Sohail Ahmed
+        bowler: Rizwan Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sarfaraz Ali
+    - 2.4:
+        non_striker: Sohail Ahmed
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 2.5:
+        non_striker: Sohail Ahmed
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 2.6:
+        non_striker: Sohail Ahmed
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 2.7:
+        non_striker: Sohail Ahmed
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 3.1:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 3.2:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 3.3:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 3.4:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 3.5:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 3.6:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 4.1:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfaraz Ali
+    - 4.2:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfaraz Ali
+    - 4.3:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfaraz Ali
+    - 4.4:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 4.5:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 4.6:
+        non_striker: Sarfaraz Ali
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 5.1:
+        non_striker: Sarfaraz Ali
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sohail Ahmed
+    - 5.2:
+        non_striker: Sarfaraz Ali
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 5.3:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 5.4:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sarfaraz Ali
+    - 5.5:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sarfaraz Ali
+    - 5.6:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 6.1:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 6.2:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 6.3:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 6.4:
+        non_striker: Sarfaraz Ali
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 6.5:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+    - 6.6:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sarfaraz Ali
+    - 7.1:
+        non_striker: Sarfaraz Ali
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 7.2:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 7.3:
+        non_striker: Sarfaraz Ali
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 7.4:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 7.5:
+        non_striker: Sarfaraz Ali
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 7.6:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+        wicket:
+          player_out: Sarfaraz Ali
+          fielders:
+          - Khizar Hayat
+          kind: caught
+    - 8.1:
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Haider Butt
+        batsman: Sohail Ahmed
+    - 8.2:
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Haider Butt
+        batsman: Sohail Ahmed
+    - 8.3:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 8.4:
+        non_striker: Sohail Ahmed
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 8.5:
+        non_striker: Haider Butt
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 8.6:
+        non_striker: Haider Butt
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 9.1:
+        non_striker: Haider Butt
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohail Ahmed
+    - 9.2:
+        non_striker: Haider Butt
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 9.3:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 9.4:
+        non_striker: Haider Butt
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 9.5:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haider Butt
+    - 9.6:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 9.7:
+        non_striker: Sohail Ahmed
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 10.1:
+        non_striker: Haider Butt
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sohail Ahmed
+    - 10.2:
+        non_striker: Sohail Ahmed
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 10.3:
+        non_striker: Haider Butt
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 10.4:
+        non_striker: Sohail Ahmed
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 10.5:
+        non_striker: Haider Butt
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 10.6:
+        non_striker: Sohail Ahmed
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 11.1:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 11.2:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 11.3:
+        non_striker: Haider Butt
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sohail Ahmed
+    - 11.4:
+        non_striker: Haider Butt
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 11.5:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 11.6:
+        non_striker: Haider Butt
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 12.1:
+        non_striker: Haider Butt
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 12.2:
+        non_striker: Sohail Ahmed
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 12.3:
+        non_striker: Haider Butt
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohail Ahmed
+    - 12.4:
+        non_striker: Haider Butt
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 12.5:
+        non_striker: Sohail Ahmed
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 12.6:
+        non_striker: Haider Butt
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sohail Ahmed
+    - 13.1:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 13.2:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 13.3:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 13.4:
+        non_striker: Haider Butt
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 13.5:
+        non_striker: Sohail Ahmed
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Butt
+    - 13.6:
+        non_striker: Sohail Ahmed
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Syed Aziz
+            out: Khizar Hayat
+            reason: unknown
+            role: bowler
+        batsman: Haider Butt
+    - 14.1:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+        wicket:
+          player_out: Sohail Ahmed
+          kind: bowled
+    - 14.2:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 14.3:
+        non_striker: Ahmer Bin Nisar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Butt
+    - 14.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 14.5:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 14.6:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 15.1:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 15.2:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 15.3:
+        non_striker: Ahmer Bin Nisar
+        bowler: Syed Aziz
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Haider Butt
+    - 15.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 15.5:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 15.6:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 16.1:
+        non_striker: Ahmer Bin Nisar
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 16.2:
+        non_striker: Haider Butt
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmer Bin Nisar
+    - 16.3:
+        non_striker: Haider Butt
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmer Bin Nisar
+    - 16.4:
+        non_striker: Haider Butt
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmer Bin Nisar
+    - 16.5:
+        non_striker: Haider Butt
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 16.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haider Butt
+    - 16.7:
+        non_striker: Ahmer Bin Nisar
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Butt
+    - 17.1:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 17.2:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmer Bin Nisar
+    - 17.3:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 17.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Haider Butt
+    - 17.5:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 17.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Butt
+    - 18.1:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 18.2:
+        non_striker: Ahmer Bin Nisar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 18.3:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 18.4:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmer Bin Nisar
+    - 18.5:
+        non_striker: Haider Butt
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 18.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: Rizwan Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+        wicket:
+          player_out: Ahmer Bin Nisar
+          fielders:
+          - Mohamed Arief
+          - Syed Aziz
+          kind: run out
+    - 19.1:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Junaid Aziz
+        batsman: Haider Butt
+    - 19.2:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Junaid Aziz
+        batsman: Haider Butt
+    - 19.3:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 19.4:
+        non_striker: Haider Butt
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 19.5:
+        non_striker: Junaid Aziz
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Butt
+    - 19.6:
+        non_striker: Junaid Aziz
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haider Butt
+    - 19.7:
+        non_striker: Junaid Aziz
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haider Butt
+    - 19.8:
+        non_striker: Junaid Aziz
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Butt
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Virandeep Singh
+        batsman: Zubaidi Zulkifle
+    - 0.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 0.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 0.4:
+        non_striker: Virandeep Singh
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 0.5:
+        non_striker: Virandeep Singh
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 0.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh
+    - 0.7:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 1.1:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.2:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.3:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 1.4:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.5:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 1.6:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 2.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 2.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 2.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 2.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 2.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 3.1:
+        non_striker: Virandeep Singh
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 3.2:
+        non_striker: Virandeep Singh
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 3.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 3.4:
+        non_striker: Virandeep Singh
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 3.5:
+        non_striker: Virandeep Singh
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 3.6:
+        non_striker: Virandeep Singh
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubaidi Zulkifle
+    - 4.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 4.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 4.3:
+        non_striker: Virandeep Singh
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 4.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 4.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 4.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh
+    - 4.7:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 5.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 5.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 5.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 5.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Imran Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh
+    - 5.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 5.6:
+        non_striker: Virandeep Singh
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 5.7:
+        non_striker: Virandeep Singh
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 6.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.2:
+        non_striker: Virandeep Singh
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 6.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 6.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 6.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.6:
+        non_striker: Virandeep Singh
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 7.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 7.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.3:
+        non_striker: Virandeep Singh
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 7.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 8.1:
+        non_striker: Virandeep Singh
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 8.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 8.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 8.4:
+        non_striker: Virandeep Singh
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubaidi Zulkifle
+    - 8.5:
+        non_striker: Virandeep Singh
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 8.6:
+        non_striker: Virandeep Singh
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 9.1:
+        non_striker: Virandeep Singh
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubaidi Zulkifle
+    - 9.2:
+        non_striker: Virandeep Singh
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 9.3:
+        non_striker: Virandeep Singh
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 9.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 9.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 9.6:
+        non_striker: Virandeep Singh
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 10.1:
+        non_striker: Virandeep Singh
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 10.2:
+        non_striker: Virandeep Singh
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 10.3:
+        non_striker: Virandeep Singh
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 10.4:
+        non_striker: Virandeep Singh
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 10.5:
+        non_striker: Virandeep Singh
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 10.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 11.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 11.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 11.3:
+        non_striker: Virandeep Singh
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 11.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 11.5:
+        non_striker: Virandeep Singh
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 11.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 12.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 12.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 12.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 12.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 12.5:
+        non_striker: Virandeep Singh
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 12.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Danish Jasnaik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 13.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 13.2:
+        non_striker: Virandeep Singh
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 13.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 13.4:
+        non_striker: Virandeep Singh
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          kind: bowled
+    - 13.5:
+        non_striker: Virandeep Singh
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 13.6:
+        non_striker: Syed Aziz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 14.1:
+        non_striker: Syed Aziz
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 14.2:
+        non_striker: Syed Aziz
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 14.3:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 14.4:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 14.5:
+        non_striker: Syed Aziz
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 14.6:
+        non_striker: Virandeep Singh
+        bowler: Shahid Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 15.1:
+        non_striker: Syed Aziz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 15.2:
+        non_striker: Syed Aziz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 15.3:
+        non_striker: Virandeep Singh
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 15.4:
+        non_striker: Syed Aziz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 15.5:
+        non_striker: Virandeep Singh
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 15.6:
+        non_striker: Syed Aziz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 16.1:
+        non_striker: Syed Aziz
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 16.2:
+        non_striker: Syed Aziz
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+        wicket:
+          player_out: Virandeep Singh
+          fielders:
+          - Shahid Mahmood
+          kind: caught
+    - 16.3:
+        non_striker: Syed Aziz
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 16.4:
+        non_striker: Ahmed Faiz
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 16.5:
+        non_striker: Ahmed Faiz
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 16.6:
+        non_striker: Ahmed Faiz
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 17.1:
+        non_striker: Ahmed Faiz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 17.2:
+        non_striker: Ahmed Faiz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          kind: bowled
+    - 17.3:
+        non_striker: Ahmed Faiz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Arief
+    - 17.4:
+        non_striker: Ahmed Faiz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Arief
+    - 17.5:
+        non_striker: Ahmed Faiz
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Arief

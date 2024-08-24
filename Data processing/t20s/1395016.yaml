@@ -1,0 +1,1520 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-13'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Los Angeles
+  dates:
+  - '2023-09-10'
+  gender: female
+  match_type: T20
+  match_type_number: 1656
+  outcome:
+    winner: United States of America
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - RP Singh
+  players:
+    Brazil:
+    - LV Boas
+    - L Agatha
+    - RMAM Avery
+    - L Cardoso
+    - MR Machado
+    - CS Nascimento
+    - NC Monteiro
+    - MLG Silva
+    - EC Muller
+    - AC Sabino
+    - M Ribeiro
+    United States of America:
+    - D Dhingra
+    - GC Bhogle
+    - AI Chudasama
+    - A Kolan
+    - G Kodali
+    - IM Vaghela
+    - JM Willathgamuwa
+    - RP Singh
+    - S Sriharsha
+    - SR Thadani
+    - U Iftikhar
+  registry:
+    people:
+      A Kolan: 85f5735b
+      AC Sabino: dd45b04b
+      AI Chudasama: 9414a81c
+      AR Maddela: 5c861579
+      BV Taylor: '99760152'
+      CS Nascimento: df997334
+      D Dhingra: b0dc5d0d
+      EC Muller: e1461e39
+      G Kodali: f606177e
+      G McCrea: 46f4a901
+      GC Bhogle: a1965ce2
+      IM Vaghela: 8d62fc14
+      JM Willathgamuwa: 0a10b268
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      LV Boas: 3a00d34f
+      M Ribeiro: 38424a4d
+      MLG Silva: 3b62a6b4
+      MR Machado: 4a4f94fa
+      NC Monteiro: 752af5a4
+      RMAM Avery: 4cf645c9
+      RP Singh: 0ab3c788
+      S Sriharsha: 89f6c26f
+      SR Thadani: 76bda023
+      U Iftikhar: 73ff4720
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Brazil
+  - United States of America
+  toss:
+    winner: Brazil
+    decision: bat
+  umpires:
+  - BV Taylor
+  - Vijaya Mallela
+  venue: Woodley Cricket Field, Los Angeles
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Agatha
+        batsman: LV Boas
+    - 0.2:
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Agatha
+        batsman: LV Boas
+    - 0.3:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          kind: bowled
+    - 0.4:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 0.5:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 0.6:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 1.1:
+        non_striker: RMAM Avery
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.2:
+        non_striker: RMAM Avery
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.3:
+        non_striker: RMAM Avery
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 1.4:
+        non_striker: RMAM Avery
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.5:
+        non_striker: RMAM Avery
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.6:
+        non_striker: RMAM Avery
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 1.7:
+        non_striker: RMAM Avery
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.1:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.2:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.3:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 2.4:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.5:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 2.6:
+        non_striker: LV Boas
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 3.1:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 3.2:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 3.3:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 3.4:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 3.5:
+        non_striker: LV Boas
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 3.6:
+        non_striker: LV Boas
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 3.7:
+        non_striker: LV Boas
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 4.1:
+        non_striker: RMAM Avery
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 4.2:
+        non_striker: RMAM Avery
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 4.3:
+        non_striker: RMAM Avery
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 4.4:
+        non_striker: RMAM Avery
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 4.5:
+        non_striker: RMAM Avery
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          fielders:
+          - G Kodali
+          kind: caught
+    - 4.6:
+        non_striker: RMAM Avery
+        bowler: U Iftikhar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 4.7:
+        non_striker: RMAM Avery
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.1:
+        non_striker: L Cardoso
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 5.2:
+        non_striker: L Cardoso
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 5.3:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 5.4:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          kind: bowled
+    - 5.5:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Machado
+        wicket:
+          player_out: MR Machado
+          fielders:
+          - S Sriharsha
+          kind: caught
+    - 5.6:
+        non_striker: RMAM Avery
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 6.1:
+        non_striker: CS Nascimento
+        bowler: U Iftikhar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 6.2:
+        non_striker: CS Nascimento
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 6.3:
+        non_striker: CS Nascimento
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          fielders:
+          - RP Singh
+          kind: caught
+    - 6.4:
+        non_striker: CS Nascimento
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 6.5:
+        non_striker: NC Monteiro
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 6.6:
+        non_striker: NC Monteiro
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 6.7:
+        non_striker: NC Monteiro
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 7.1:
+        non_striker: CS Nascimento
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 7.2:
+        non_striker: CS Nascimento
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 7.3:
+        non_striker: CS Nascimento
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 7.4:
+        non_striker: CS Nascimento
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 7.5:
+        non_striker: CS Nascimento
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 7.6:
+        non_striker: NC Monteiro
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Nascimento
+    - 8.1:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+        wicket:
+          player_out: NC Monteiro
+          fielders:
+          - IM Vaghela
+          kind: caught
+    - 8.2:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 8.3:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 8.4:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+        wicket:
+          player_out: MLG Silva
+          kind: bowled
+    - 8.5:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+    - 8.6:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Muller
+        wicket:
+          player_out: EC Muller
+          fielders:
+          - D Dhingra
+          kind: caught
+    - 9.1:
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AC Sabino
+        batsman: CS Nascimento
+    - 9.2:
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Sabino
+        batsman: CS Nascimento
+    - 9.3:
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Sabino
+        batsman: CS Nascimento
+    - 9.4:
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Sabino
+        batsman: CS Nascimento
+    - 9.5:
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Sabino
+        batsman: CS Nascimento
+    - 9.6:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 10.1:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 10.2:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 10.3:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 10.4:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 10.5:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 10.6:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 10.7:
+        non_striker: CS Nascimento
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 11.1:
+        non_striker: AC Sabino
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 11.2:
+        non_striker: AC Sabino
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 11.3:
+        non_striker: CS Nascimento
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 11.4:
+        non_striker: CS Nascimento
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 11.5:
+        non_striker: AC Sabino
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 11.6:
+        non_striker: CS Nascimento
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Sabino
+    - 11.7:
+        non_striker: CS Nascimento
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 12.1:
+        non_striker: AC Sabino
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 12.2:
+        non_striker: CS Nascimento
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 12.3:
+        non_striker: CS Nascimento
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 12.4:
+        non_striker: CS Nascimento
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 12.5:
+        non_striker: CS Nascimento
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 12.6:
+        non_striker: CS Nascimento
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 13.1:
+        non_striker: AC Sabino
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 13.2:
+        non_striker: AC Sabino
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 13.3:
+        non_striker: CS Nascimento
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 13.4:
+        non_striker: CS Nascimento
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 13.5:
+        non_striker: AC Sabino
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 13.6:
+        non_striker: AC Sabino
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 14.1:
+        non_striker: AC Sabino
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 14.2:
+        non_striker: AC Sabino
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 14.3:
+        non_striker: CS Nascimento
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 14.4:
+        non_striker: CS Nascimento
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 14.5:
+        non_striker: AC Sabino
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+    - 14.6:
+        non_striker: AC Sabino
+        bowler: U Iftikhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Nascimento
+    - 15.1:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+        wicket:
+          player_out: CS Nascimento
+          fielders:
+          - D Dhingra
+          kind: caught
+    - 15.2:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 15.3:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 15.4:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 15.5:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 15.6:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 16.1:
+        non_striker: M Ribeiro
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Sabino
+    - 16.2:
+        non_striker: AC Sabino
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 16.3:
+        non_striker: AC Sabino
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 16.4:
+        non_striker: AC Sabino
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 16.5:
+        non_striker: AC Sabino
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 16.6:
+        non_striker: AC Sabino
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ribeiro
+    - 17.1:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 17.2:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 17.3:
+        non_striker: AC Sabino
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ribeiro
+    - 17.4:
+        non_striker: M Ribeiro
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 17.5:
+        non_striker: M Ribeiro
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 17.6:
+        non_striker: M Ribeiro
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Sabino
+    - 18.1:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 18.2:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 18.3:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 18.4:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 18.5:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+    - 18.6:
+        non_striker: AC Sabino
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+        wicket:
+          player_out: M Ribeiro
+          fielders:
+          - G Kodali
+          kind: caught
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GC Bhogle
+        batsman: D Dhingra
+    - 0.2:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GC Bhogle
+        batsman: D Dhingra
+    - 0.3:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GC Bhogle
+        batsman: D Dhingra
+    - 0.4:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GC Bhogle
+        batsman: D Dhingra
+    - 0.5:
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GC Bhogle
+        batsman: D Dhingra
+    - 0.6:
+        non_striker: GC Bhogle
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.1:
+        non_striker: D Dhingra
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 1.2:
+        non_striker: D Dhingra
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 1.3:
+        non_striker: D Dhingra
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 1.4:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.5:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.6:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.1:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.2:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.3:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.4:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 2.5:
+        non_striker: GC Bhogle
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.6:
+        non_striker: GC Bhogle
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 3.1:
+        non_striker: D Dhingra
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 3.2:
+        non_striker: D Dhingra
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 3.3:
+        non_striker: D Dhingra
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 3.4:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 3.5:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 3.6:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Dhingra
+    - 3.7:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Dhingra
+    - 3.8:
+        non_striker: GC Bhogle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 4.1:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 4.2:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 4.3:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 4.4:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 4.5:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 4.6:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 5.1:
+        non_striker: D Dhingra
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 5.2:
+        non_striker: GC Bhogle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 5.3:
+        non_striker: D Dhingra
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 5.4:
+        non_striker: D Dhingra
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Bhogle
+    - 5.5:
+        non_striker: D Dhingra
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 5.6:
+        non_striker: GC Bhogle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 5.7:
+        non_striker: D Dhingra
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 6.1:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 6.2:
+        non_striker: D Dhingra
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 6.3:
+        non_striker: D Dhingra
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 6.4:
+        non_striker: D Dhingra
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 6.5:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 6.6:
+        non_striker: GC Bhogle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 7.1:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.2:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 7.3:
+        non_striker: GC Bhogle
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 7.4:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.5:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.6:
+        non_striker: D Dhingra
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle

@@ -1,0 +1,1607 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2024-02-10'
+  gender: female
+  match_type: T20
+  match_type_number: 1760
+  outcome:
+    winner: Qatar
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Aysha
+  players:
+    Bahrain:
+    - TI Gajanayake
+    - I Suhun
+    - HMD Rasangika
+    - Abeera Waris
+    - A Samildeen
+    - P Shetty
+    - S Prakash
+    - Poorvaja Jagdeesha
+    - S Nunna
+    - Sadamali Bhakshala
+    - Sana Butt
+    Qatar:
+    - S Dhadwal
+    - A Mare
+    - Aysha
+    - SK Rana
+    - SA Panayan
+    - Taful Elkhair
+    - Rizpha Bano
+    - Khadija Imtiaz
+    - T Kale
+    - S Thapa
+    - KP Bhuva
+  registry:
+    people:
+      A Mare: 57a25400
+      A Samildeen: bc19544d
+      Aasif Iqbal: 42c41e1a
+      Abeera Waris: '01396dc6'
+      Aysha: 37ceee4e
+      HMD Rasangika: d6f9dfd6
+      I Suhun: 41bfb2a9
+      KP Bhuva: 138becd4
+      Khadija Imtiaz: 1438d928
+      P Shetty: 0dda36e7
+      Poorvaja Jagdeesha: 322855f7
+      RK Yadav: a872bd90
+      Rizpha Bano: c7832845
+      S Dhadwal: 7e2c16a3
+      S Nunna: 24903af6
+      S Prakash: 4b2c06eb
+      S Thapa: 36d3ed28
+      SA Panayan: cad60789
+      SK Rana: 47884f8e
+      Sadamali Bhakshala: 89df3901
+      Sana Butt: 0f49b970
+      Shriya Kumari: 5e452781
+      T Kale: bc9bd4c6
+      TI Gajanayake: d577d45a
+      Taful Elkhair: 28086b4b
+      V Bowen: 7297ac4d
+  teams:
+  - Bahrain
+  - Qatar
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - Aasif Iqbal
+  - Shriya Kumari
+  venue: Royal Selangor Club, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Suhun
+        batsman: TI Gajanayake
+    - 0.2:
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Suhun
+        batsman: TI Gajanayake
+    - 0.3:
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Suhun
+        batsman: TI Gajanayake
+    - 0.4:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 0.5:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Suhun
+    - 0.6:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+    - 0.7:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Suhun
+        wicket:
+          player_out: I Suhun
+          kind: lbw
+    - 1.1:
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HMD Rasangika
+        batsman: TI Gajanayake
+    - 1.2:
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HMD Rasangika
+        batsman: TI Gajanayake
+    - 1.3:
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HMD Rasangika
+        batsman: TI Gajanayake
+    - 1.4:
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: HMD Rasangika
+        batsman: TI Gajanayake
+    - 1.5:
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HMD Rasangika
+        batsman: TI Gajanayake
+    - 1.6:
+        non_striker: TI Gajanayake
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 2.1:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 2.2:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.3:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: HMD Rasangika
+    - 2.4:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 2.5:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.6:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 2.7:
+        non_striker: TI Gajanayake
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 3.1:
+        non_striker: TI Gajanayake
+        bowler: A Mare
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HMD Rasangika
+    - 3.2:
+        non_striker: HMD Rasangika
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 3.3:
+        non_striker: HMD Rasangika
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 3.4:
+        non_striker: HMD Rasangika
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: TI Gajanayake
+          kind: bowled
+    - 3.5:
+        non_striker: HMD Rasangika
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 3.6:
+        non_striker: HMD Rasangika
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 3.7:
+        non_striker: HMD Rasangika
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 4.1:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.2:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 4.3:
+        non_striker: HMD Rasangika
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 4.4:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.5:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+        wicket:
+          player_out: HMD Rasangika
+          kind: bowled
+    - 4.6:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 5.1:
+        non_striker: A Samildeen
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 5.2:
+        non_striker: A Samildeen
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 5.3:
+        non_striker: Abeera Waris
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 5.4:
+        non_striker: Abeera Waris
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 5.5:
+        non_striker: Abeera Waris
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 5.6:
+        non_striker: Abeera Waris
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 6.1:
+        non_striker: A Samildeen
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abeera Waris
+    - 6.2:
+        non_striker: A Samildeen
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 6.3:
+        non_striker: A Samildeen
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 6.4:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 6.5:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 6.6:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 7.1:
+        non_striker: A Samildeen
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 7.2:
+        non_striker: A Samildeen
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 7.3:
+        non_striker: A Samildeen
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 7.4:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 7.5:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 7.6:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Samildeen
+    - 8.1:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 8.2:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 8.3:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 8.4:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 8.5:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 8.6:
+        non_striker: Abeera Waris
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 9.1:
+        non_striker: A Samildeen
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 9.2:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+    - 9.3:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Samildeen
+        wicket:
+          player_out: A Samildeen
+          fielders:
+          - A Mare
+          kind: caught
+    - 9.4:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Shetty
+    - 9.5:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Shetty
+    - 9.6:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Shetty
+    - 9.7:
+        non_striker: Abeera Waris
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Shetty
+        wicket:
+          player_out: P Shetty
+          fielders:
+          - Taful Elkhair
+          kind: caught
+    - 10.1:
+        non_striker: S Prakash
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+        wicket:
+          player_out: Abeera Waris
+          fielders:
+          - Aysha
+          kind: caught
+    - 10.2:
+        non_striker: S Prakash
+        bowler: S Dhadwal
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Poorvaja Jagdeesha
+    - 10.3:
+        non_striker: S Prakash
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Poorvaja Jagdeesha
+    - 10.4:
+        non_striker: Poorvaja Jagdeesha
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 10.5:
+        non_striker: Poorvaja Jagdeesha
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 10.6:
+        non_striker: Poorvaja Jagdeesha
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Prakash
+    - 10.7:
+        non_striker: S Prakash
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poorvaja Jagdeesha
+        wicket:
+          player_out: Poorvaja Jagdeesha
+          kind: bowled
+    - 11.1:
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Nunna
+        batsman: S Prakash
+    - 11.2:
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Nunna
+        batsman: S Prakash
+    - 11.3:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nunna
+        wicket:
+          player_out: S Nunna
+          kind: bowled
+    - 11.4:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 11.5:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 11.6:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 12.1:
+        non_striker: Sadamali Bhakshala
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 12.2:
+        non_striker: Sadamali Bhakshala
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 12.3:
+        non_striker: Sadamali Bhakshala
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 12.4:
+        non_striker: Sadamali Bhakshala
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 12.5:
+        non_striker: Sadamali Bhakshala
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 12.6:
+        non_striker: Sadamali Bhakshala
+        bowler: S Dhadwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Prakash
+    - 12.7:
+        non_striker: Sadamali Bhakshala
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 13.1:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 13.2:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Sadamali Bhakshala
+    - 13.3:
+        non_striker: Sadamali Bhakshala
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Prakash
+    - 13.4:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 13.5:
+        non_striker: S Prakash
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadamali Bhakshala
+    - 13.6:
+        non_striker: Sadamali Bhakshala
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+    - 13.7:
+        non_striker: Sadamali Bhakshala
+        bowler: SA Panayan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Prakash
+        wicket:
+          player_out: S Prakash
+          kind: lbw
+    - 14.1:
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sana Butt
+        batsman: Sadamali Bhakshala
+    - 14.2:
+        non_striker: Sadamali Bhakshala
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 14.3:
+        non_striker: Sadamali Bhakshala
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 14.4:
+        non_striker: Sadamali Bhakshala
+        bowler: S Thapa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sana Butt
+    - 14.5:
+        non_striker: Sadamali Bhakshala
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 14.6:
+        non_striker: Sadamali Bhakshala
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 14.7:
+        non_striker: Sadamali Bhakshala
+        bowler: S Thapa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sana Butt
+    - 14.8:
+        non_striker: Sadamali Bhakshala
+        bowler: S Thapa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.1:
+        non_striker: Sana Butt
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 15.2:
+        non_striker: Sana Butt
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 15.3:
+        non_striker: Sana Butt
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadamali Bhakshala
+    - 15.4:
+        non_striker: Sadamali Bhakshala
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.5:
+        non_striker: Sadamali Bhakshala
+        bowler: A Mare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sana Butt
+    - 15.6:
+        non_striker: Sadamali Bhakshala
+        bowler: A Mare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sana Butt
+    - 15.7:
+        non_striker: Sadamali Bhakshala
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.8:
+        non_striker: Sadamali Bhakshala
+        bowler: A Mare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 16.1:
+        non_striker: Sana Butt
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+    - 16.2:
+        non_striker: Sana Butt
+        bowler: Aysha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadamali Bhakshala
+    - 16.3:
+        non_striker: Sana Butt
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadamali Bhakshala
+    - 16.4:
+        non_striker: Sadamali Bhakshala
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 16.5:
+        non_striker: Sadamali Bhakshala
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 16.6:
+        non_striker: Sadamali Bhakshala
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sana Butt
+    - 16.7:
+        non_striker: Sadamali Bhakshala
+        bowler: Aysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 17.1:
+        non_striker: Sana Butt
+        bowler: S Dhadwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadamali Bhakshala
+        wicket:
+          player_out: Sana Butt
+          fielders:
+          - Khadija Imtiaz
+          kind: run out
+- 2nd innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mare
+        batsman: S Dhadwal
+    - 0.2:
+        non_striker: S Dhadwal
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mare
+    - 0.3:
+        non_striker: A Mare
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhadwal
+    - 0.4:
+        non_striker: A Mare
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dhadwal
+    - 0.5:
+        non_striker: A Mare
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhadwal
+    - 0.6:
+        non_striker: A Mare
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhadwal
+    - 1.1:
+        non_striker: A Mare
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhadwal
+    - 1.2:
+        non_striker: A Mare
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dhadwal
+    - 1.3:
+        non_striker: A Mare
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhadwal
+    - 1.4:
+        non_striker: S Dhadwal
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mare
+    - 1.5:
+        non_striker: A Mare
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhadwal
+        wicket:
+          player_out: S Dhadwal
+          fielders:
+          - HMD Rasangika
+          kind: caught
+    - 1.6:
+        non_striker: A Mare
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 1.7:
+        non_striker: A Mare
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 2.1:
+        non_striker: Aysha
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 2.2:
+        non_striker: Aysha
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 2.3:
+        non_striker: Aysha
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 2.4:
+        non_striker: Aysha
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 2.5:
+        non_striker: Aysha
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mare
+    - 2.6:
+        non_striker: A Mare
+        bowler: P Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 3.1:
+        non_striker: Aysha
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mare
+    - 3.2:
+        non_striker: Aysha
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mare
+    - 3.3:
+        non_striker: Aysha
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 3.4:
+        non_striker: Aysha
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mare
+    - 3.5:
+        non_striker: Aysha
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mare
+    - 3.6:
+        non_striker: Aysha
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 3.7:
+        non_striker: Aysha
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mare
+    - 3.8:
+        non_striker: A Mare
+        bowler: Sadamali Bhakshala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 4.1:
+        non_striker: Aysha
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mare
+    - 4.2:
+        non_striker: Aysha
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 4.3:
+        non_striker: Aysha
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 4.4:
+        non_striker: Aysha
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mare
+    - 4.5:
+        non_striker: A Mare
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 4.6:
+        non_striker: A Mare
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 4.7:
+        non_striker: A Mare
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+    - 5.1:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+    - 5.2:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mare
+        wicket:
+          player_out: A Mare
+          fielders:
+          - Sana Butt
+          kind: stumped
+    - 5.3:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 5.4:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SK Rana
+    - 5.5:
+        non_striker: SK Rana
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 5.6:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 6.1:
+        non_striker: SK Rana
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 6.2:
+        non_striker: SK Rana
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 6.3:
+        non_striker: Aysha
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Rana
+    - 6.4:
+        non_striker: SK Rana
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 6.5:
+        non_striker: SK Rana
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 6.6:
+        non_striker: Aysha
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 7.1:
+        non_striker: SK Rana
+        bowler: Abeera Waris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aysha
+    - 7.2:
+        non_striker: SK Rana
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aysha
+    - 7.3:
+        non_striker: SK Rana
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 7.4:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Rana
+    - 7.5:
+        non_striker: SK Rana
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aysha
+    - 7.6:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 7.7:
+        non_striker: Aysha
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 8.1:
+        non_striker: SK Rana
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aysha
+    - 8.2:
+        non_striker: SK Rana
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aysha
+        wicket:
+          player_out: Aysha
+          kind: caught and bowled
+    - 8.3:
+        non_striker: SK Rana
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Panayan
+    - 8.4:
+        non_striker: SK Rana
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Panayan
+    - 8.5:
+        non_striker: SK Rana
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Panayan
+    - 8.6:
+        non_striker: SA Panayan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Rana
+    - 9.1:
+        non_striker: SK Rana
+        bowler: Poorvaja Jagdeesha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Panayan
+    - 9.2:
+        non_striker: SK Rana
+        bowler: Poorvaja Jagdeesha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Panayan
+    - 9.3:
+        non_striker: SA Panayan
+        bowler: Poorvaja Jagdeesha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Rana
+    - 9.4:
+        non_striker: SK Rana
+        bowler: Poorvaja Jagdeesha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Panayan
+    - 9.5:
+        non_striker: SA Panayan
+        bowler: Poorvaja Jagdeesha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SK Rana

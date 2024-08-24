@@ -1,0 +1,1933 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  dates:
+  - '2022-10-26'
+  gender: male
+  match_type: T20
+  match_type_number: 1846
+  outcome:
+    winner: Ireland
+    by:
+      runs: 5
+    method: D/L
+  overs: 20
+  player_of_match:
+  - A Balbirnie
+  players:
+    Ireland:
+    - PR Stirling
+    - A Balbirnie
+    - L Tucker
+    - HT Tector
+    - C Campher
+    - GH Dockrell
+    - GJ Delany
+    - MR Adair
+    - BJ McCarthy
+    - F Hand
+    - J Little
+    England:
+    - JC Buttler
+    - AD Hales
+    - DJ Malan
+    - BA Stokes
+    - HC Brook
+    - MM Ali
+    - LS Livingstone
+    - SM Curran
+    - CR Woakes
+    - MA Wood
+    - AU Rashid
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AD Hales: 92aeac25
+      AT Holdstock: 6fa3258c
+      AU Rashid: 249d60c9
+      BA Stokes: e087956b
+      BJ McCarthy: 3766056b
+      C Campher: 478a63e7
+      CR Woakes: 4c5d73db
+      DJ Malan: ad9c32a2
+      F Hand: e3fe4b49
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      HC Brook: 4ae1755b
+      HDPK Dharmasena: 323e4c16
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      JC Buttler: 99b75528
+      L Tucker: 3979b5e0
+      LS Livingstone: 50c6bc2b
+      MA Wood: 8d92a2c3
+      MM Ali: bb351c23
+      MR Adair: fc55ec67
+      P Wilson: 68304a36
+      PR Reiffel: c9354f29
+      PR Stirling: cf494ffe
+      RS Madugalle: 766b5798
+      SM Curran: e94915e6
+  teams:
+  - Ireland
+  - England
+  toss:
+    winner: England
+    decision: field
+  umpires:
+  - AT Holdstock
+  - PR Reiffel
+  venue: Melbourne Cricket Ground
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: A Balbirnie
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: A Balbirnie
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.7:
+        non_striker: PR Stirling
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - SM Curran
+          kind: caught
+    - 2.4:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 2.5:
+        non_striker: L Tucker
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.6:
+        non_striker: L Tucker
+        bowler: MA Wood
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: A Balbirnie
+    - 2.7:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.1:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.2:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 3.3:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 3.4:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.6:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 4.1:
+        non_striker: L Tucker
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: L Tucker
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 4.3:
+        non_striker: L Tucker
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.4:
+        non_striker: L Tucker
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Balbirnie
+    - 4.5:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 4.6:
+        non_striker: L Tucker
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 5.1:
+        non_striker: A Balbirnie
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 5.2:
+        non_striker: A Balbirnie
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 5.6:
+        non_striker: A Balbirnie
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 6.1:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 6.2:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.3:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 6.4:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 6.5:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.6:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.1:
+        non_striker: A Balbirnie
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 7.2:
+        non_striker: A Balbirnie
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 7.3:
+        non_striker: A Balbirnie
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.4:
+        non_striker: L Tucker
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 7.5:
+        non_striker: A Balbirnie
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.6:
+        non_striker: L Tucker
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 8.1:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 8.2:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 8.3:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.4:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 8.5:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 8.6:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.1:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 9.2:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 9.3:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.4:
+        non_striker: A Balbirnie
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.5:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 9.6:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 9.7:
+        non_striker: L Tucker
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 10.1:
+        non_striker: L Tucker
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 10.2:
+        non_striker: A Balbirnie
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.3:
+        non_striker: L Tucker
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 10.4:
+        non_striker: A Balbirnie
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.5:
+        non_striker: L Tucker
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 10.6:
+        non_striker: L Tucker
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 11.1:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 11.2:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 11.3:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.4:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 11.5:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.6:
+        non_striker: L Tucker
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - AU Rashid
+          kind: run out
+    - 12.1:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 12.2:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 12.3:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Campher
+    - 12.4:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 12.5:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 12.6:
+        non_striker: A Balbirnie
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 12.7:
+        non_striker: C Campher
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 13.1:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 13.2:
+        non_striker: C Campher
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 13.3:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 13.4:
+        non_striker: C Campher
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 13.5:
+        non_striker: A Balbirnie
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 13.6:
+        non_striker: C Campher
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 14.1:
+        non_striker: A Balbirnie
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 14.2:
+        non_striker: C Campher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 14.3:
+        non_striker: C Campher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 14.4:
+        non_striker: C Campher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.5:
+        non_striker: C Campher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 14.6:
+        non_striker: C Campher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 15.1:
+        non_striker: A Balbirnie
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 15.2:
+        non_striker: A Balbirnie
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 15.3:
+        non_striker: C Campher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          fielders:
+          - AD Hales
+          kind: caught
+    - 15.4:
+        non_striker: C Campher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          kind: bowled
+    - 15.5:
+        non_striker: C Campher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 15.6:
+        non_striker: C Campher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 16.1:
+        non_striker: C Campher
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 16.2:
+        non_striker: GJ Delany
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 16.3:
+        non_striker: GJ Delany
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 16.4:
+        non_striker: GJ Delany
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 16.5:
+        non_striker: MR Adair
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 16.6:
+        non_striker: MR Adair
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GJ Delany
+    - 17.1:
+        non_striker: MR Adair
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 17.2:
+        non_striker: GJ Delany
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.3:
+        non_striker: MR Adair
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 17.4:
+        non_striker: GJ Delany
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 17.5:
+        non_striker: GJ Delany
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - SM Curran
+          kind: caught
+    - 17.6:
+        non_striker: GJ Delany
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 18.1:
+        non_striker: GJ Delany
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McCarthy
+    - 18.2:
+        non_striker: GJ Delany
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+        wicket:
+          player_out: BJ McCarthy
+          kind: bowled
+    - 18.3:
+        non_striker: GJ Delany
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Hand
+    - 18.4:
+        non_striker: F Hand
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 18.5:
+        non_striker: F Hand
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GJ Delany
+    - 18.6:
+        non_striker: GJ Delany
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Hand
+        wicket:
+          player_out: F Hand
+          kind: bowled
+    - 19.1:
+        non_striker: J Little
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 19.2:
+        non_striker: GJ Delany
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+        wicket:
+          player_out: J Little
+          fielders:
+          - JC Buttler
+          kind: caught
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.2:
+        non_striker: AD Hales
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - L Tucker
+          kind: caught
+    - 0.3:
+        non_striker: AD Hales
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 0.4:
+        non_striker: AD Hales
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 0.5:
+        non_striker: AD Hales
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 0.6:
+        non_striker: AD Hales
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 0.7:
+        non_striker: AD Hales
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 1.1:
+        non_striker: AD Hales
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJ Malan
+    - 1.2:
+        non_striker: DJ Malan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.3:
+        non_striker: AD Hales
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.4:
+        non_striker: AD Hales
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 1.5:
+        non_striker: AD Hales
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.6:
+        non_striker: AD Hales
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 2.1:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 2.2:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.3:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 2.4:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - MR Adair
+          kind: caught
+    - 2.5:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 2.6:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 3.1:
+        non_striker: BA Stokes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 3.2:
+        non_striker: DJ Malan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Stokes
+    - 3.3:
+        non_striker: DJ Malan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 3.4:
+        non_striker: BA Stokes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJ Malan
+    - 3.5:
+        non_striker: DJ Malan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 3.6:
+        non_striker: BA Stokes
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 3.7:
+        non_striker: BA Stokes
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 4.1:
+        non_striker: BA Stokes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 4.2:
+        non_striker: DJ Malan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 4.3:
+        non_striker: BA Stokes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.4:
+        non_striker: BA Stokes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.5:
+        non_striker: BA Stokes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 4.6:
+        non_striker: DJ Malan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 5.1:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Stokes
+    - 5.2:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+        wicket:
+          player_out: BA Stokes
+          kind: bowled
+    - 5.3:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 5.4:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HC Brook
+    - 5.5:
+        non_striker: HC Brook
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 5.6:
+        non_striker: HC Brook
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 5.7:
+        non_striker: HC Brook
+        bowler: F Hand
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DJ Malan
+    - 5.8:
+        non_striker: HC Brook
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 6.1:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 6.2:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 6.3:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 6.4:
+        non_striker: HC Brook
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 6.5:
+        non_striker: HC Brook
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.6:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.1:
+        non_striker: DJ Malan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.2:
+        non_striker: HC Brook
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.3:
+        non_striker: HC Brook
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 7.4:
+        non_striker: HC Brook
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.5:
+        non_striker: HC Brook
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.6:
+        non_striker: DJ Malan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 7.7:
+        non_striker: DJ Malan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.1:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.2:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.3:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.4:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.5:
+        non_striker: HC Brook
+        bowler: GJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 8.6:
+        non_striker: HC Brook
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.7:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 9.1:
+        non_striker: HC Brook
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 9.2:
+        non_striker: HC Brook
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.3:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 9.4:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 9.5:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 9.6:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Brook
+    - 9.7:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 9.8:
+        non_striker: DJ Malan
+        bowler: F Hand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.1:
+        non_striker: DJ Malan
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.2:
+        non_striker: HC Brook
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 10.3:
+        non_striker: HC Brook
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.4:
+        non_striker: HC Brook
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.5:
+        non_striker: DJ Malan
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          fielders:
+          - GJ Delany
+          kind: caught
+    - 10.6:
+        non_striker: DJ Malan
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.1:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.2:
+        non_striker: MM Ali
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 11.3:
+        non_striker: MM Ali
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 11.4:
+        non_striker: MM Ali
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.5:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 11.6:
+        non_striker: DJ Malan
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MM Ali
+    - 11.7:
+        non_striker: MM Ali
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 12.1:
+        non_striker: MM Ali
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 12.2:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 12.3:
+        non_striker: MM Ali
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 12.4:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 12.5:
+        non_striker: MM Ali
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 12.6:
+        non_striker: DJ Malan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 13.1:
+        non_striker: MM Ali
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          fielders:
+          - F Hand
+          kind: caught
+    - 13.2:
+        non_striker: MM Ali
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 13.3:
+        non_striker: MM Ali
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 13.4:
+        non_striker: LS Livingstone
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 13.5:
+        non_striker: LS Livingstone
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 13.6:
+        non_striker: LS Livingstone
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 13.7:
+        non_striker: LS Livingstone
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MM Ali
+    - 14.1:
+        non_striker: LS Livingstone
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 14.2:
+        non_striker: LS Livingstone
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 14.3:
+        non_striker: LS Livingstone
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali

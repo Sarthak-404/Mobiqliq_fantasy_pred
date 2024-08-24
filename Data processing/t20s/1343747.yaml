@@ -1,0 +1,1402 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-11-18'
+  gender: male
+  match_type: T20
+  match_type_number: 1895
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Seychelles:
+    - Mazharul Islam
+    - TKP Rajapaksha
+    - SKDT Madusanka
+    - STRA de Silva
+    - D Kalvin
+    - T Shanmugam
+    - S Rukmal
+    - N Krishna
+    - S Udhayan
+    - SR Rocket
+    - SR Mohan
+    Mali:
+    - MT Diaby
+    - Mohamed Coulibaly
+    - L Berthe
+    - L Sanogo
+    - M Malle
+    - CA Keita
+    - MS Diawara
+    - D Traore
+    - S Kamate
+    - SG Diaby
+    - TM Macalou
+  registry:
+    people:
+      A Paleker: 634b11ac
+      CA Keita: 5b9b8d98
+      D Kalvin: 895ae8b6
+      D Odhiambo: '45994517'
+      D Traore: 273be75a
+      Itangishaka Olivier: 0ee3bb49
+      L Berthe: 8eb7c5a6
+      L Sanogo: abbc06cf
+      M Malle: e15c6692
+      MS Diawara: 8c95e2dd
+      MT Diaby: 5d00cd6f
+      Mazharul Islam: 30564b3e
+      Mohamed Coulibaly: 86ea6123
+      N Krishna: c62a0327
+      S Kamate: d7af6207
+      S Rukmal: f5be7b08
+      S Udhayan: a8d6305d
+      S Wadvalla: c1a1acf3
+      SG Diaby: fe3e9880
+      SKDT Madusanka: 95c2d309
+      SR Mohan: '58533699'
+      SR Rocket: ee3bfb9b
+      STRA de Silva: 21fe743b
+      T Shanmugam: 60fc2c8c
+      TKP Rajapaksha: b5dcec37
+      TM Macalou: 8a9320a1
+  teams:
+  - Seychelles
+  - Mali
+  toss:
+    winner: Mali
+    decision: field
+  umpires:
+  - A Paleker
+  - Itangishaka Olivier
+  venue: Integrated Polytechnic Regional Centre
+innings:
+- 1st innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TKP Rajapaksha
+        batsman: Mazharul Islam
+    - 0.2:
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TKP Rajapaksha
+        batsman: Mazharul Islam
+    - 0.3:
+        non_striker: Mazharul Islam
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+        wicket:
+          player_out: Mazharul Islam
+          fielders:
+          - D Traore
+          - TM Macalou
+          kind: run out
+    - 0.4:
+        non_striker: TKP Rajapaksha
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 0.5:
+        non_striker: TKP Rajapaksha
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SKDT Madusanka
+    - 0.6:
+        non_striker: SKDT Madusanka
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 1.1:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 1.2:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 1.3:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 1.4:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKDT Madusanka
+    - 1.5:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 1.6:
+        non_striker: SKDT Madusanka
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 1.7:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 2.1:
+        non_striker: SKDT Madusanka
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.2:
+        non_striker: SKDT Madusanka
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TKP Rajapaksha
+    - 2.3:
+        non_striker: SKDT Madusanka
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.4:
+        non_striker: SKDT Madusanka
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 2.5:
+        non_striker: TKP Rajapaksha
+        bowler: SG Diaby
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SKDT Madusanka
+    - 2.6:
+        non_striker: SKDT Madusanka
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.7:
+        non_striker: SKDT Madusanka
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 3.1:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 3.2:
+        non_striker: SKDT Madusanka
+        bowler: L Sanogo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 3.3:
+        non_striker: SKDT Madusanka
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 3.4:
+        non_striker: SKDT Madusanka
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 3.5:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 3.6:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 3.7:
+        non_striker: TKP Rajapaksha
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 3.8:
+        non_striker: SKDT Madusanka
+        bowler: L Sanogo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 3.9:
+        non_striker: SKDT Madusanka
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 4.1:
+        non_striker: TKP Rajapaksha
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 4.2:
+        non_striker: TKP Rajapaksha
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 4.3:
+        non_striker: TKP Rajapaksha
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 4.4:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.5:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.6:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TKP Rajapaksha
+    - 5.1:
+        non_striker: SKDT Madusanka
+        bowler: S Kamate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 5.2:
+        non_striker: SKDT Madusanka
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 5.3:
+        non_striker: SKDT Madusanka
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 5.4:
+        non_striker: SKDT Madusanka
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 5.5:
+        non_striker: SKDT Madusanka
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 5.6:
+        non_striker: TKP Rajapaksha
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 5.7:
+        non_striker: TKP Rajapaksha
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 6.1:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 6.2:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 6.3:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 6.4:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TKP Rajapaksha
+    - 6.5:
+        non_striker: SKDT Madusanka
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 6.6:
+        non_striker: TKP Rajapaksha
+        bowler: Mohamed Coulibaly
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SKDT Madusanka
+    - 7.1:
+        non_striker: TKP Rajapaksha
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 7.2:
+        non_striker: TKP Rajapaksha
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKDT Madusanka
+    - 7.3:
+        non_striker: TKP Rajapaksha
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 7.4:
+        non_striker: TKP Rajapaksha
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 7.5:
+        non_striker: SKDT Madusanka
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 7.6:
+        non_striker: TKP Rajapaksha
+        bowler: S Kamate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 8.1:
+        non_striker: SKDT Madusanka
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 8.2:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 8.3:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 8.4:
+        non_striker: SKDT Madusanka
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 8.5:
+        non_striker: SKDT Madusanka
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 8.6:
+        non_striker: SKDT Madusanka
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 9.1:
+        non_striker: SKDT Madusanka
+        bowler: MS Diawara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 9.2:
+        non_striker: SKDT Madusanka
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 9.3:
+        non_striker: SKDT Madusanka
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 9.4:
+        non_striker: TKP Rajapaksha
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+        wicket:
+          player_out: SKDT Madusanka
+          kind: lbw
+    - 9.5:
+        non_striker: TKP Rajapaksha
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 9.6:
+        non_striker: TKP Rajapaksha
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 9.7:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 9.8:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TKP Rajapaksha
+    - 10.1:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 10.2:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 10.3:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 10.4:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 10.5:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 10.6:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 11.1:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TKP Rajapaksha
+    - 11.2:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 11.3:
+        non_striker: TKP Rajapaksha
+        bowler: MS Diawara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: STRA de Silva
+    - 11.4:
+        non_striker: TKP Rajapaksha
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 11.5:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TKP Rajapaksha
+    - 11.6:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TKP Rajapaksha
+    - 11.7:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 12.1:
+        non_striker: TKP Rajapaksha
+        bowler: TM Macalou
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: STRA de Silva
+    - 12.2:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 12.3:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TKP Rajapaksha
+    - 12.4:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 12.5:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 12.6:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 13.1:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 13.2:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 13.3:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 13.4:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 13.5:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 13.6:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+        wicket:
+          player_out: TKP Rajapaksha
+          kind: bowled
+    - 14.1:
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Kalvin
+        batsman: STRA de Silva
+    - 14.2:
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Kalvin
+        batsman: STRA de Silva
+    - 14.3:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 14.4:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Kalvin
+    - 14.5:
+        non_striker: D Kalvin
+        bowler: TM Macalou
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: STRA de Silva
+    - 14.6:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: D Kalvin
+    - 14.7:
+        non_striker: STRA de Silva
+        bowler: TM Macalou
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: D Kalvin
+    - 15.1:
+        non_striker: D Kalvin
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 15.2:
+        non_striker: D Kalvin
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 15.3:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 15.4:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kalvin
+    - 15.5:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 15.6:
+        non_striker: STRA de Silva
+        bowler: MS Diawara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 16.1:
+        non_striker: D Kalvin
+        bowler: SG Diaby
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: STRA de Silva
+    - 16.2:
+        non_striker: D Kalvin
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: STRA de Silva
+    - 16.3:
+        non_striker: D Kalvin
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 16.4:
+        non_striker: D Kalvin
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 16.5:
+        non_striker: D Kalvin
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 16.6:
+        non_striker: D Kalvin
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: STRA de Silva
+    - 16.7:
+        non_striker: D Kalvin
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 17.1:
+        non_striker: STRA de Silva
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 17.2:
+        non_striker: STRA de Silva
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 17.3:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 17.4:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 17.5:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+    - 17.6:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 18.1:
+        non_striker: STRA de Silva
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 18.2:
+        non_striker: STRA de Silva
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 18.3:
+        non_striker: STRA de Silva
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 18.4:
+        non_striker: STRA de Silva
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 18.5:
+        non_striker: STRA de Silva
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 18.6:
+        non_striker: STRA de Silva
+        bowler: SG Diaby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 19.1:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: STRA de Silva
+    - 19.2:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: STRA de Silva
+    - 19.3:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 19.4:
+        non_striker: STRA de Silva
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 19.5:
+        non_striker: D Kalvin
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: STRA de Silva
+    - 19.6:
+        non_striker: STRA de Silva
+        bowler: L Sanogo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+- 2nd innings:
+    team: Mali
+    deliveries:
+    - 0.1:
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Coulibaly
+        batsman: MT Diaby
+    - 0.2:
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Coulibaly
+        batsman: MT Diaby
+    - 0.3:
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Coulibaly
+        batsman: MT Diaby
+    - 0.4:
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohamed Coulibaly
+        batsman: MT Diaby
+    - 0.5:
+        non_striker: MT Diaby
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 0.6:
+        non_striker: MT Diaby
+        bowler: T Shanmugam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Coulibaly
+    - 0.7:
+        non_striker: MT Diaby
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 1.1:
+        non_striker: Mohamed Coulibaly
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Diaby
+    - 1.2:
+        non_striker: MT Diaby
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Coulibaly
+    - 1.3:
+        non_striker: Mohamed Coulibaly
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 1.4:
+        non_striker: Mohamed Coulibaly
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Diaby
+    - 1.5:
+        non_striker: Mohamed Coulibaly
+        bowler: SR Rocket
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Diaby
+    - 1.6:
+        non_striker: Mohamed Coulibaly
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 1.7:
+        non_striker: Mohamed Coulibaly
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Diaby
+    - 2.1:
+        non_striker: Mohamed Coulibaly
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Diaby
+    - 2.2:
+        non_striker: Mohamed Coulibaly
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 2.3:
+        non_striker: Mohamed Coulibaly
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 2.4:
+        non_striker: Mohamed Coulibaly
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 2.5:
+        non_striker: Mohamed Coulibaly
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 2.6:
+        non_striker: Mohamed Coulibaly
+        bowler: T Shanmugam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+    - 3.1:
+        non_striker: MT Diaby
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 3.2:
+        non_striker: MT Diaby
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 3.3:
+        non_striker: MT Diaby
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 3.4:
+        non_striker: MT Diaby
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+    - 3.5:
+        non_striker: MT Diaby
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Coulibaly
+    - 3.6:
+        non_striker: MT Diaby
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Coulibaly
+        wicket:
+          player_out: Mohamed Coulibaly
+          kind: bowled
+    - 4.1:
+        non_striker: L Berthe
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Diaby
+        wicket:
+          player_out: MT Diaby
+          kind: bowled

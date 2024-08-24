@@ -1,0 +1,2136 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-06'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Hangzhou
+  dates:
+  - '2023-10-03'
+  gender: male
+  match_type: T20
+  match_type_number: 2279
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 68
+  overs: 20
+  players:
+    Pakistan:
+    - Omair Yousuf
+    - Mirza Baig
+    - Rohail Nazir
+    - Haider Ali
+    - Qasim Akram
+    - Khushdil Shah
+    - Asif Ali
+    - Arafat Minhas
+    - Aamer Jamal
+    - Sufiyan Muqeem
+    - Arshad Iqbal
+    Hong Kong:
+    - Nizakat Khan
+    - Muhammad Khan
+    - Babar Hayat
+    - S Mathur
+    - Akbar Khan
+    - Nasrulla Rana
+    - Anas Khan
+    - Ehsan Khan
+    - A Shukla
+    - Mohammad Ghazanfar
+    - Niaz Ali
+  registry:
+    people:
+      A Shukla: a1e80d06
+      Aamer Jamal: a8e54ef4
+      Akbar Khan: 6113433c
+      Anas Khan: 66a7f213
+      Arafat Minhas: f2e8b37c
+      Arshad Iqbal: ed031922
+      Asif Ali: 0a4736eb
+      Asif Yaqoob: 6b35790c
+      Babar Hayat: fbb657bb
+      Ehsan Khan: d3851cd8
+      Haider Ali: c13e34f4
+      Hamed Khan: 0e4843d2
+      Khushdil Shah: fce581b5
+      Masudur Rahman: 9581ac6b
+      Mirza Baig: 96ce6752
+      Mohammad Ghazanfar: 00321fff
+      Muhammad Khan: f17ac7d0
+      Nasrulla Rana: 9ffb7550
+      Niaz Ali: e33a357d
+      Nizakat Khan: e3eb9e46
+      Omair Yousuf: f8e3c0f8
+      Prakash Bhatt: f848ab0b
+      Qasim Akram: b6359668
+      RSA Palliyaguruge: 4339c19d
+      Rohail Nazir: 522bea89
+      S Mathur: 11378dda
+      Sarika Prasad: 8ff397fa
+      Sufiyan Muqeem: 4277234d
+  teams:
+  - Pakistan
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - Masudur Rahman
+  - RSA Palliyaguruge
+  venue: Zhejiang University of Technology Cricket Field
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Mirza Baig
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 0.2:
+        non_striker: Mirza Baig
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 0.3:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Baig
+    - 0.4:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Baig
+        wicket:
+          player_out: Mirza Baig
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 0.5:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohail Nazir
+    - 0.6:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohail Nazir
+    - 1.1:
+        non_striker: Rohail Nazir
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 1.2:
+        non_striker: Omair Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohail Nazir
+    - 1.3:
+        non_striker: Rohail Nazir
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 1.4:
+        non_striker: Rohail Nazir
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 1.5:
+        non_striker: Rohail Nazir
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omair Yousuf
+    - 1.6:
+        non_striker: Rohail Nazir
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 2.1:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rohail Nazir
+    - 2.2:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohail Nazir
+    - 2.3:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohail Nazir
+    - 2.4:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rohail Nazir
+    - 2.5:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohail Nazir
+        wicket:
+          player_out: Rohail Nazir
+          fielders:
+          - Muhammad Khan
+          kind: caught
+    - 2.6:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 3.1:
+        non_striker: Haider Ali
+        bowler: Ehsan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Omair Yousuf
+    - 3.2:
+        non_striker: Omair Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haider Ali
+    - 3.3:
+        non_striker: Omair Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 3.4:
+        non_striker: Omair Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+        wicket:
+          player_out: Haider Ali
+          kind: lbw
+    - 3.5:
+        non_striker: Omair Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 3.6:
+        non_striker: Omair Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 4.1:
+        non_striker: Qasim Akram
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 4.2:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 4.3:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Qasim Akram
+    - 4.4:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 4.5:
+        non_striker: Omair Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 4.6:
+        non_striker: Qasim Akram
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omair Yousuf
+    - 5.1:
+        non_striker: Omair Yousuf
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 5.2:
+        non_striker: Omair Yousuf
+        bowler: Niaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Qasim Akram
+    - 5.3:
+        non_striker: Qasim Akram
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 5.4:
+        non_striker: Omair Yousuf
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 5.5:
+        non_striker: Qasim Akram
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 5.6:
+        non_striker: Omair Yousuf
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 6.1:
+        non_striker: Qasim Akram
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 6.2:
+        non_striker: Omair Yousuf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 6.3:
+        non_striker: Omair Yousuf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Qasim Akram
+    - 6.4:
+        non_striker: Omair Yousuf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 6.5:
+        non_striker: Qasim Akram
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 6.6:
+        non_striker: Omair Yousuf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+    - 7.1:
+        non_striker: Qasim Akram
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 7.2:
+        non_striker: Qasim Akram
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omair Yousuf
+    - 7.3:
+        non_striker: Qasim Akram
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 7.4:
+        non_striker: Qasim Akram
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 7.5:
+        non_striker: Omair Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qasim Akram
+    - 7.6:
+        non_striker: Qasim Akram
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+    - 8.1:
+        non_striker: Omair Yousuf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qasim Akram
+        wicket:
+          player_out: Qasim Akram
+          fielders:
+          - Nizakat Khan
+          kind: caught
+    - 8.2:
+        non_striker: Omair Yousuf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 8.3:
+        non_striker: Khushdil Shah
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omair Yousuf
+    - 8.4:
+        non_striker: Omair Yousuf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 8.5:
+        non_striker: Khushdil Shah
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omair Yousuf
+        wicket:
+          player_out: Omair Yousuf
+          kind: bowled
+    - 8.6:
+        non_striker: Khushdil Shah
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 9.1:
+        non_striker: Asif Ali
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 9.2:
+        non_striker: Asif Ali
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 9.3:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Niaz Ali
+            out: Nasrulla Rana
+            reason: injury
+            role: bowler
+        batsman: Khushdil Shah
+    - 9.4:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 9.5:
+        non_striker: Khushdil Shah
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 9.6:
+        non_striker: Khushdil Shah
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 10.1:
+        non_striker: Khushdil Shah
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 10.2:
+        non_striker: Asif Ali
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khushdil Shah
+    - 10.3:
+        non_striker: Asif Ali
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 10.4:
+        non_striker: Asif Ali
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 10.5:
+        non_striker: Khushdil Shah
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 10.6:
+        non_striker: Khushdil Shah
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 11.1:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 11.2:
+        non_striker: Khushdil Shah
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 11.3:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 11.4:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 11.5:
+        non_striker: Khushdil Shah
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 11.6:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 12.1:
+        non_striker: Asif Ali
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 12.2:
+        non_striker: Asif Ali
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 12.3:
+        non_striker: Asif Ali
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+        wicket:
+          player_out: Khushdil Shah
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 12.4:
+        non_striker: Asif Ali
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 12.5:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 12.6:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 13.1:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 13.2:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 13.3:
+        non_striker: Arafat Minhas
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 13.4:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arafat Minhas
+    - 13.5:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Arafat Minhas
+    - 13.6:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Arafat Minhas
+    - 13.7:
+        non_striker: Asif Ali
+        bowler: Niaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arafat Minhas
+    - 14.1:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 14.2:
+        non_striker: Asif Ali
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 14.3:
+        non_striker: Asif Ali
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 14.4:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 14.5:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 14.6:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 15.1:
+        non_striker: Asif Ali
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 15.2:
+        non_striker: Asif Ali
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 15.3:
+        non_striker: Asif Ali
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 15.4:
+        non_striker: Arafat Minhas
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 15.5:
+        non_striker: Arafat Minhas
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 15.6:
+        non_striker: Asif Ali
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+    - 16.1:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 16.2:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 16.3:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 16.4:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+        wicket:
+          player_out: Asif Ali
+          fielders:
+          - Hamed Khan (sub)
+          kind: caught
+    - 16.5:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamer Jamal
+    - 16.6:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aamer Jamal
+    - 17.1:
+        non_striker: Aamer Jamal
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Minhas
+    - 17.2:
+        non_striker: Arafat Minhas
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamer Jamal
+    - 17.3:
+        non_striker: Arafat Minhas
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aamer Jamal
+    - 17.4:
+        non_striker: Arafat Minhas
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamer Jamal
+    - 17.5:
+        non_striker: Arafat Minhas
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamer Jamal
+    - 17.6:
+        non_striker: Aamer Jamal
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Arafat Minhas
+    - 18.1:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aamer Jamal
+    - 18.2:
+        non_striker: Arafat Minhas
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamer Jamal
+    - 18.3:
+        non_striker: Aamer Jamal
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Minhas
+        wicket:
+          player_out: Arafat Minhas
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 18.4:
+        non_striker: Aamer Jamal
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufiyan Muqeem
+    - 18.5:
+        non_striker: Sufiyan Muqeem
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aamer Jamal
+    - 18.6:
+        non_striker: Sufiyan Muqeem
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamer Jamal
+    - 19.1:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aamer Jamal
+    - 19.2:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aamer Jamal
+    - 19.3:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aamer Jamal
+    - 19.4:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Aamer Jamal
+    - 19.5:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aamer Jamal
+    - 19.6:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aamer Jamal
+    - 19.7:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamer Jamal
+        wicket:
+          player_out: Aamer Jamal
+          fielders:
+          - Ehsan Khan
+          kind: caught
+    - 19.8:
+        non_striker: Sufiyan Muqeem
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshad Iqbal
+        wicket:
+          player_out: Arshad Iqbal
+          fielders:
+          - Mohammad Ghazanfar
+          kind: caught
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        non_striker: Muhammad Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 0.2:
+        non_striker: Muhammad Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 0.3:
+        non_striker: Muhammad Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 0.4:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Khan
+    - 0.5:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Khan
+    - 0.6:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Khan
+    - 1.1:
+        non_striker: Muhammad Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 1.2:
+        non_striker: Muhammad Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 1.3:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Khan
+    - 1.4:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Khan
+    - 1.5:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Khan
+        wicket:
+          player_out: Muhammad Khan
+          fielders:
+          - Rohail Nazir
+          kind: caught
+    - 1.6:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 2.1:
+        non_striker: Babar Hayat
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 2.2:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 2.3:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 2.4:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 2.5:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 2.6:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 2.7:
+        non_striker: Nizakat Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 3.1:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.2:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.3:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.4:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.5:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Hayat
+    - 3.6:
+        non_striker: Nizakat Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 4.1:
+        non_striker: Babar Hayat
+        bowler: Aamer Jamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nizakat Khan
+    - 4.2:
+        non_striker: Babar Hayat
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 4.3:
+        non_striker: Babar Hayat
+        bowler: Aamer Jamal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nizakat Khan
+    - 4.4:
+        non_striker: Nizakat Khan
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 4.5:
+        non_striker: Nizakat Khan
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 4.6:
+        non_striker: Nizakat Khan
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 4.7:
+        non_striker: Nizakat Khan
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 5.1:
+        non_striker: Babar Hayat
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 5.2:
+        non_striker: Babar Hayat
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 5.3:
+        non_striker: Babar Hayat
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Nizakat Khan
+          kind: bowled
+    - 5.4:
+        non_striker: Babar Hayat
+        bowler: Arafat Minhas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mathur
+    - 5.5:
+        non_striker: Babar Hayat
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 5.6:
+        non_striker: S Mathur
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.7:
+        non_striker: S Mathur
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 6.1:
+        non_striker: Babar Hayat
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 6.2:
+        non_striker: Babar Hayat
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 6.3:
+        non_striker: Babar Hayat
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 6.4:
+        non_striker: Babar Hayat
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 6.5:
+        non_striker: S Mathur
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 6.6:
+        non_striker: S Mathur
+        bowler: Aamer Jamal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 7.1:
+        non_striker: Babar Hayat
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 7.2:
+        non_striker: S Mathur
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 7.3:
+        non_striker: Babar Hayat
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 7.4:
+        non_striker: S Mathur
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 7.5:
+        non_striker: S Mathur
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 7.6:
+        non_striker: S Mathur
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 8.1:
+        non_striker: Babar Hayat
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 8.2:
+        non_striker: S Mathur
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 8.3:
+        non_striker: S Mathur
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 8.4:
+        non_striker: Babar Hayat
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mathur
+    - 8.5:
+        non_striker: Babar Hayat
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 8.6:
+        non_striker: S Mathur
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+        wicket:
+          player_out: Babar Hayat
+          kind: bowled
+    - 8.7:
+        non_striker: S Mathur
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+    - 9.1:
+        non_striker: Akbar Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 9.2:
+        non_striker: Akbar Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 9.3:
+        non_striker: Akbar Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 9.4:
+        non_striker: Akbar Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 9.5:
+        non_striker: Akbar Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 9.6:
+        non_striker: Akbar Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+        wicket:
+          player_out: S Mathur
+          fielders:
+          - Asif Ali
+          kind: caught
+    - 10.1:
+        non_striker: Nasrulla Rana
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+    - 10.2:
+        non_striker: Nasrulla Rana
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+    - 10.3:
+        non_striker: Nasrulla Rana
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akbar Khan
+    - 10.4:
+        non_striker: Akbar Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 10.5:
+        non_striker: Akbar Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+        wicket:
+          player_out: Nasrulla Rana
+          kind: bowled
+    - 10.6:
+        non_striker: Akbar Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anas Khan
+    - 10.7:
+        non_striker: Akbar Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anas Khan
+    - 11.1:
+        non_striker: Anas Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akbar Khan
+        wicket:
+          player_out: Anas Khan
+          fielders:
+          - Haider Ali
+          kind: run out
+    - 11.2:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+    - 11.3:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+    - 11.4:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+    - 11.5:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+    - 11.6:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akbar Khan
+    - 12.1:
+        non_striker: Akbar Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 12.2:
+        non_striker: Akbar Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 12.3:
+        non_striker: Akbar Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 12.4:
+        non_striker: Ehsan Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akbar Khan
+        wicket:
+          player_out: Akbar Khan
+          fielders:
+          - Rohail Nazir
+          kind: caught
+    - 12.5:
+        non_striker: Ehsan Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+    - 12.6:
+        non_striker: Ehsan Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+    - 13.1:
+        non_striker: A Shukla
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 13.2:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+        wicket:
+          player_out: A Shukla
+          fielders:
+          - Qasim Akram
+          kind: caught
+    - 13.3:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ghazanfar
+    - 13.4:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ghazanfar
+    - 13.5:
+        non_striker: Mohammad Ghazanfar
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 13.6:
+        non_striker: Ehsan Khan
+        bowler: Sufiyan Muqeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ghazanfar
+    - 14.1:
+        non_striker: Mohammad Ghazanfar
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 14.2:
+        non_striker: Ehsan Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ghazanfar
+    - 14.3:
+        non_striker: Mohammad Ghazanfar
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 14.4:
+        non_striker: Mohammad Ghazanfar
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 14.5:
+        non_striker: Mohammad Ghazanfar
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 14.6:
+        non_striker: Ehsan Khan
+        bowler: Khushdil Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ghazanfar
+    - 15.1:
+        non_striker: Mohammad Ghazanfar
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 15.2:
+        non_striker: Ehsan Khan
+        bowler: Arafat Minhas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mohammad Ghazanfar
+    - 15.3:
+        non_striker: Mohammad Ghazanfar
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 15.4:
+        non_striker: Mohammad Ghazanfar
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 15.5:
+        non_striker: Mohammad Ghazanfar
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ehsan Khan
+    - 15.6:
+        non_striker: Mohammad Ghazanfar
+        bowler: Arafat Minhas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 16.1:
+        non_striker: Mohammad Ghazanfar
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 16.2:
+        non_striker: Mohammad Ghazanfar
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 16.3:
+        non_striker: Mohammad Ghazanfar
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 16.4:
+        non_striker: Ehsan Khan
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ghazanfar
+        wicket:
+          player_out: Mohammad Ghazanfar
+          kind: bowled
+    - 16.5:
+        non_striker: Ehsan Khan
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Niaz Ali
+    - 16.6:
+        non_striker: Ehsan Khan
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Niaz Ali
+    - 17.1:
+        non_striker: Niaz Ali
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 17.2:
+        non_striker: Ehsan Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Niaz Ali
+    - 17.3:
+        non_striker: Ehsan Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Niaz Ali
+    - 17.4:
+        non_striker: Niaz Ali
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 17.5:
+        non_striker: Ehsan Khan
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Niaz Ali
+    - 17.6:
+        non_striker: Niaz Ali
+        bowler: Arshad Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 18.1:
+        non_striker: Niaz Ali
+        bowler: Qasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ehsan Khan
+    - 18.2:
+        non_striker: Ehsan Khan
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Niaz Ali
+    - 18.3:
+        non_striker: Ehsan Khan
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Niaz Ali
+    - 18.4:
+        non_striker: Ehsan Khan
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Niaz Ali
+    - 18.5:
+        non_striker: Ehsan Khan
+        bowler: Qasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Niaz Ali
+        wicket:
+          player_out: Niaz Ali
+          fielders:
+          - Khushdil Shah
+          kind: caught

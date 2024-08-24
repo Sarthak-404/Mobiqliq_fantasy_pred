@@ -1,0 +1,1560 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-06-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Utrecht
+  dates:
+  - '2024-06-18'
+  gender: female
+  match_type: T20
+  match_type_number: 1931
+  outcome:
+    winner: Netherlands
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - SL Kalis
+  players:
+    Hong Kong:
+    - NT Miles
+    - M Hill
+    - Shanzeen Shahzad
+    - KY Chan
+    - Y Daswani
+    - M Bibi
+    - MBA Lamplough
+    - M Wai Siu
+    - Chan Ka Man
+    - Iqra Sahar
+    - J Kaur
+    Netherlands:
+    - IJR Zwilling
+    - SL Kalis
+    - B de Leede
+    - R Rijke
+    - P Molkenboer
+    - F Overdijk
+    - MIW van den Raad
+    - C de Lange
+    - S Khurana
+    - HWA Landheer
+    - S Siegers
+  registry:
+    people:
+      AM Deshpande: 2622742a
+      B de Leede: b3020075
+      C de Lange: c6a019f5
+      Chan Ka Man: c4022bff
+      F Overdijk: 022745d5
+      HWA Landheer: a6ec88f4
+      IJR Zwilling: 47b32a5a
+      Iqra Sahar: aaccb8ca
+      J Kaur: 5a648ddc
+      J Westerberg: eaad0353
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      M Wai Siu: 74eecff4
+      MBA Lamplough: 997fffbe
+      MIW van den Raad: dead3b10
+      N Bathi: 96a0edf9
+      NT Miles: d27d0835
+      P Molkenboer: fa9db243
+      R Rijke: 42e4b276
+      S Khurana: 9a9a056d
+      S Siegers: 9a58f2c8
+      SL Kalis: 2b150c6b
+      Shanzeen Shahzad: ce291858
+      Y Daswani: 2038a273
+  teams:
+  - Hong Kong
+  - Netherlands
+  toss:
+    winner: Netherlands
+    decision: field
+  umpires:
+  - J Westerberg
+  - N Bathi
+  venue: Sportpark Maarschalkerweerd, Utrecht
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.2:
+        non_striker: NT Miles
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          fielders:
+          - B de Leede
+          kind: caught
+    - 0.3:
+        non_striker: NT Miles
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 0.4:
+        non_striker: NT Miles
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shanzeen Shahzad
+    - 0.5:
+        non_striker: NT Miles
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shanzeen Shahzad
+    - 0.6:
+        non_striker: NT Miles
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 1.1:
+        non_striker: Shanzeen Shahzad
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.2:
+        non_striker: NT Miles
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 1.3:
+        non_striker: Shanzeen Shahzad
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.4:
+        non_striker: Shanzeen Shahzad
+        bowler: HWA Landheer
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: NT Miles
+    - 1.5:
+        non_striker: Shanzeen Shahzad
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.6:
+        non_striker: NT Miles
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 1.7:
+        non_striker: NT Miles
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.1:
+        non_striker: Shanzeen Shahzad
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.2:
+        non_striker: Shanzeen Shahzad
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.3:
+        non_striker: Shanzeen Shahzad
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 2.4:
+        non_striker: Shanzeen Shahzad
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 2.5:
+        non_striker: Shanzeen Shahzad
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 2.6:
+        non_striker: NT Miles
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shanzeen Shahzad
+    - 3.1:
+        non_striker: Shanzeen Shahzad
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 3.2:
+        non_striker: Shanzeen Shahzad
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 3.3:
+        non_striker: Shanzeen Shahzad
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 3.4:
+        non_striker: NT Miles
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.5:
+        non_striker: NT Miles
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 3.6:
+        non_striker: Shanzeen Shahzad
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.7:
+        non_striker: Shanzeen Shahzad
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 4.1:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.2:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.3:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.4:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 4.5:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 4.6:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.1:
+        non_striker: Shanzeen Shahzad
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.2:
+        non_striker: Shanzeen Shahzad
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 5.3:
+        non_striker: Shanzeen Shahzad
+        bowler: MIW van den Raad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 5.4:
+        non_striker: Shanzeen Shahzad
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.5:
+        non_striker: Shanzeen Shahzad
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 5.6:
+        non_striker: Shanzeen Shahzad
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 5.7:
+        non_striker: Shanzeen Shahzad
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 6.1:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 6.2:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 6.3:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 6.4:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 6.5:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 6.6:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 6.7:
+        non_striker: Shanzeen Shahzad
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.1:
+        non_striker: Shanzeen Shahzad
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 7.2:
+        non_striker: Shanzeen Shahzad
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.3:
+        non_striker: NT Miles
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 7.4:
+        non_striker: NT Miles
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+        wicket:
+          player_out: Shanzeen Shahzad
+          fielders:
+          - B de Leede
+          kind: caught
+    - 7.5:
+        non_striker: NT Miles
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 7.6:
+        non_striker: KY Chan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.1:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 8.2:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 8.3:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 8.4:
+        non_striker: KY Chan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.5:
+        non_striker: NT Miles
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 8.6:
+        non_striker: KY Chan
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.1:
+        non_striker: KY Chan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.2:
+        non_striker: KY Chan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 9.3:
+        non_striker: KY Chan
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 9.4:
+        non_striker: KY Chan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.5:
+        non_striker: KY Chan
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.6:
+        non_striker: NT Miles
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 9.7:
+        non_striker: NT Miles
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 10.1:
+        non_striker: KY Chan
+        bowler: P Molkenboer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NT Miles
+    - 10.2:
+        non_striker: KY Chan
+        bowler: P Molkenboer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 10.3:
+        non_striker: KY Chan
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 10.4:
+        non_striker: KY Chan
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 10.5:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 10.6:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 10.7:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+        wicket:
+          player_out: KY Chan
+          fielders:
+          - S Khurana
+          kind: caught
+    - 10.8:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 11.1:
+        non_striker: Y Daswani
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: Y Daswani
+          fielders:
+          - B de Leede
+          - S Khurana
+          kind: run out
+    - 11.2:
+        non_striker: NT Miles
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 11.3:
+        non_striker: NT Miles
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 11.4:
+        non_striker: NT Miles
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 11.5:
+        non_striker: NT Miles
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 11.6:
+        non_striker: NT Miles
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 12.1:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bibi
+    - 12.2:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 12.3:
+        non_striker: M Bibi
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.4:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 12.5:
+        non_striker: M Bibi
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.6:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 12.7:
+        non_striker: NT Miles
+        bowler: P Molkenboer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 13.1:
+        non_striker: M Bibi
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.2:
+        non_striker: NT Miles
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 13.3:
+        non_striker: M Bibi
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: NT Miles
+          fielders:
+          - B de Leede
+          kind: stumped
+    - 13.4:
+        non_striker: M Bibi
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MBA Lamplough
+    - 13.5:
+        non_striker: MBA Lamplough
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 13.6:
+        non_striker: MBA Lamplough
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: Chan Ka Man
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SL Kalis
+        batsman: IJR Zwilling
+    - 0.2:
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SL Kalis
+        batsman: IJR Zwilling
+    - 0.3:
+        non_striker: IJR Zwilling
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 0.4:
+        non_striker: SL Kalis
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          fielders:
+          - M Hill
+          kind: caught
+    - 0.5:
+        non_striker: SL Kalis
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 0.6:
+        non_striker: SL Kalis
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 0.7:
+        non_striker: SL Kalis
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 1.1:
+        non_striker: B de Leede
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 1.2:
+        non_striker: B de Leede
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 1.3:
+        non_striker: B de Leede
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 1.4:
+        non_striker: SL Kalis
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 1.5:
+        non_striker: SL Kalis
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 1.6:
+        non_striker: SL Kalis
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 2.1:
+        non_striker: B de Leede
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.2:
+        non_striker: B de Leede
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.3:
+        non_striker: B de Leede
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 2.4:
+        non_striker: SL Kalis
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - MBA Lamplough
+          kind: caught
+    - 2.5:
+        non_striker: SL Kalis
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 2.6:
+        non_striker: R Rijke
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.1:
+        non_striker: R Rijke
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.2:
+        non_striker: R Rijke
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.3:
+        non_striker: SL Kalis
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 3.4:
+        non_striker: SL Kalis
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 3.5:
+        non_striker: R Rijke
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.6:
+        non_striker: SL Kalis
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          kind: caught and bowled
+    - 4.1:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Molkenboer
+        batsman: SL Kalis
+    - 4.2:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 4.3:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 4.4:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 4.5:
+        non_striker: P Molkenboer
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.6:
+        non_striker: P Molkenboer
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SL Kalis
+    - 5.1:
+        non_striker: P Molkenboer
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.2:
+        non_striker: P Molkenboer
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 5.3:
+        non_striker: SL Kalis
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Molkenboer
+    - 5.4:
+        non_striker: SL Kalis
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 5.5:
+        non_striker: P Molkenboer
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.6:
+        non_striker: P Molkenboer
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 6.1:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Molkenboer
+    - 6.2:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 6.3:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 6.4:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 6.5:
+        non_striker: P Molkenboer
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 6.6:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 7.1:
+        non_striker: SL Kalis
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 7.2:
+        non_striker: P Molkenboer
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 7.3:
+        non_striker: SL Kalis
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 7.4:
+        non_striker: P Molkenboer
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 7.5:
+        non_striker: SL Kalis
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          fielders:
+          - KY Chan
+          kind: caught
+    - 7.6:
+        non_striker: SL Kalis
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 8.1:
+        non_striker: SL Kalis
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Overdijk
+    - 8.2:
+        non_striker: SL Kalis
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 8.3:
+        non_striker: SL Kalis
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Overdijk
+    - 8.4:
+        non_striker: SL Kalis
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 8.5:
+        non_striker: F Overdijk
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 8.6:
+        non_striker: F Overdijk
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 8.7:
+        non_striker: F Overdijk
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 8.8:
+        non_striker: F Overdijk
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 9.1:
+        non_striker: F Overdijk
+        bowler: M Hill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SL Kalis
+    - 9.2:
+        non_striker: F Overdijk
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 9.3:
+        non_striker: F Overdijk
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 9.4:
+        non_striker: SL Kalis
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 9.5:
+        non_striker: SL Kalis
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 9.6:
+        non_striker: F Overdijk
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 9.7:
+        non_striker: F Overdijk
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 10.1:
+        non_striker: SL Kalis
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          kind: lbw
+    - 10.2:
+        non_striker: SL Kalis
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MIW van den Raad
+    - 10.3:
+        non_striker: MIW van den Raad
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 10.4:
+        non_striker: MIW van den Raad
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 10.5:
+        non_striker: MIW van den Raad
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 10.6:
+        non_striker: MIW van den Raad
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 11.1:
+        non_striker: MIW van den Raad
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 11.2:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MIW van den Raad
+    - 11.3:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MIW van den Raad
+    - 11.4:
+        non_striker: MIW van den Raad
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 11.5:
+        non_striker: SL Kalis
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MIW van den Raad
+    - 11.6:
+        non_striker: MIW van den Raad
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 12.1:
+        non_striker: MIW van den Raad
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 12.2:
+        non_striker: SL Kalis
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MIW van den Raad
+    - 12.3:
+        non_striker: MIW van den Raad
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 12.4:
+        non_striker: MIW van den Raad
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 12.5:
+        non_striker: MIW van den Raad
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 12.6:
+        non_striker: MIW van den Raad
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 13.1:
+        non_striker: MIW van den Raad
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis

@@ -1,0 +1,173 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-12-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kimberley
+  dates:
+  - '2023-12-06'
+  gender: female
+  match_type: T20
+  match_type_number: 1704
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Bangladesh:
+    - Shamima Sultana
+    - Murshida Khatun
+    - S Mostary
+    - Nigar Sultana
+    - Nahida Akter
+    - Shorna Akter
+    - Rabeya Khan
+    - Fahima Khatun
+    - Lata Mondal
+    - Marufa Akter
+    - Shorifa Khatun
+    South Africa:
+    - T Brits
+    - L Wolvaardt
+    - A Bosch
+    - S Luus
+    - A Dercksen
+    - N Shangase
+    - E Marx
+    - S Jafta
+    - M Klaas
+    - TS Sekhukhune
+    - N Mlaba
+  registry:
+    people:
+      A Bosch: dcf0e8f4
+      A Dercksen: d2b1f515
+      A Steenkamp: 89c62cf5
+      AM Sodumo: cc6850ec
+      E Marx: be592751
+      Fahima Khatun: 558cdd64
+      GH Pienaar: 3516e46b
+      K Klaaste: 6cc1d918
+      L Wolvaardt: e60f81c9
+      Lata Mondal: 5bf87532
+      Lauren Agenbag: 40849abd
+      M Klaas: ce85fcaf
+      Marufa Akter: a50797a4
+      Murshida Khatun: 712bbd92
+      N Mlaba: 686362af
+      N Shangase: b17a4a93
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      Rabeya Khan: aaf037b1
+      S Jafta: '34304210'
+      S Luus: 6d76bc23
+      S Mostary: 94de63bf
+      Shamima Sultana: 724645f5
+      Shorifa Khatun: 36d2face
+      Shorna Akter: 89895ae1
+      T Brits: '06659caa'
+      TS Sekhukhune: 6e28e586
+  teams:
+  - Bangladesh
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - A Steenkamp
+  - K Klaaste
+  venue: Diamond Oval, Kimberley
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamima Sultana
+    - 0.2:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 0.3:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 0.4:
+        non_striker: Shamima Sultana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 0.5:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 0.6:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shamima Sultana
+    - 0.7:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+        wicket:
+          player_out: Shamima Sultana
+          fielders:
+          - S Jafta
+          kind: caught
+    - 1.1:
+        non_striker: S Mostary
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 1.2:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mostary
+    - 1.3:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary

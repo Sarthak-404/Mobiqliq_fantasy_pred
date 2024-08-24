@@ -1,0 +1,1917 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  dates:
+  - '2023-10-18'
+  gender: male
+  match_type: T20
+  match_type_number: 2320
+  outcome:
+    winner: Mexico
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Shashikant Laxman
+  players:
+    Chile:
+    - Guillermo Aburto
+    - Amit Uniyal
+    - John Bartlett
+    - Simon Shalders
+    - Anthony Roe
+    - Edward Taylor
+    - Nelson Jesus Navarrete Aburto
+    - Alex Carthew
+    - Jack Inglis
+    - Mario Ovalle
+    - Alfredo Puentes
+    Mexico:
+    - Tarun Sharma
+    - Shashikant Laxman
+    - Puneet Arora
+    - Shantanu Kaveri
+    - Kaushal Kumar
+    - Praveen Santhanakrishnan
+    - Luis Hermida
+    - Pratik Singh Bais
+    - Bhargav Narasimha
+    - Shoaib Rafiq
+    - Mukesh Singh
+  registry:
+    people:
+      A Elliott: f48d5563
+      Alex Carthew: ea6ec2d9
+      Alfredo Puentes: e214be36
+      Amit Uniyal: '085071f2'
+      Anthony Roe: 0dcd8fbd
+      Bhargav Narasimha: e60e8014
+      Edward Taylor: 9adb9f71
+      Guillermo Aburto: '08deefa3'
+      Jack Inglis: 06da3abc
+      John Bartlett: 6b7f9d9d
+      Kaushal Kumar: 8cc37805
+      Luis Hermida: 03beb59f
+      Mario Ovalle: f0fbdf0a
+      Mark McCormack: 8f207fbf
+      Mukesh Singh: c44bf6a2
+      Nelson Jesus Navarrete Aburto: 0f1ea8c4
+      Pratik Singh Bais: 5b351aff
+      Praveen Santhanakrishnan: 22fb205e
+      Puneet Arora: c2f8f36e
+      Shantanu Kaveri: '091880f7'
+      Shashikant Laxman: 8cf61570
+      Shoaib Rafiq: 27df03d2
+      Simon Shalders: 167b3c71
+      Tarun Sharma: 1ba16d18
+  teams:
+  - Chile
+  - Mexico
+  toss:
+    winner: Chile
+    decision: bat
+  umpires:
+  - A Elliott
+  - Mark McCormack
+  venue: St Georges Quilmes
+innings:
+- 1st innings:
+    team: Chile
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Guillermo Aburto
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Guillermo Aburto
+    - 0.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Guillermo Aburto
+    - 0.4:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Guillermo Aburto
+        wicket:
+          player_out: Guillermo Aburto
+          kind: lbw
+    - 0.5:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amit Uniyal
+        batsman: John Bartlett
+    - 0.6:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: John Bartlett
+        batsman: Amit Uniyal
+    - 1.1:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: John Bartlett
+        wicket:
+          player_out: John Bartlett
+          kind: lbw
+    - 1.2:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 1.3:
+        bowler: Shoaib Rafiq
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 1.4:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 1.5:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 1.6:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 1.7:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 2.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 2.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 2.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 2.4:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 2.5:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 2.6:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 3.1:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 3.2:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 3.3:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 3.4:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 3.5:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 3.6:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 4.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 4.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 4.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 4.4:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 4.5:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 4.6:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 5.1:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 5.2:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 5.3:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 5.4:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 5.5:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 5.6:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+    - 6.1:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 6.2:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 6.3:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 6.4:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 6.5:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 6.6:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 7.1:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amit Uniyal
+        batsman: Simon Shalders
+    - 7.2:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Amit Uniyal
+        wicket:
+          player_out: Amit Uniyal
+          fielders:
+          - Shoaib Rafiq
+          kind: caught
+    - 7.3:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 7.4:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 7.5:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 7.6:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 8.1:
+        bowler: Luis Hermida
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 8.2:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 8.3:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 8.4:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 8.5:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 8.6:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 8.7:
+        bowler: Luis Hermida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 9.1:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 9.2:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 9.3:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 9.4:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 9.5:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 9.6:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 10.1:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Simon Shalders
+        batsman: Anthony Roe
+    - 10.2:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+    - 10.3:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Simon Shalders
+        wicket:
+          player_out: Simon Shalders
+          fielders:
+          - Shoaib Rafiq
+          kind: caught
+    - 10.4:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 10.5:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 10.6:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 11.1:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 11.2:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 11.3:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 11.4:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 11.5:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 11.6:
+        bowler: Shantanu Kaveri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 12.1:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 12.2:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 12.3:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 12.4:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 12.5:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 12.6:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 13.1:
+        bowler: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 13.2:
+        bowler: Praveen Santhanakrishnan
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 13.3:
+        bowler: Praveen Santhanakrishnan
+        extras:
+          wides: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 13.4:
+        bowler: Praveen Santhanakrishnan
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 13.5:
+        bowler: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 13.6:
+        bowler: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 13.7:
+        bowler: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 13.8:
+        bowler: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 13.9:
+        bowler: Praveen Santhanakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 14.1:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 14.2:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 14.3:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 14.4:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 14.5:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 14.6:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 15.1:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 15.2:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 15.3:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 15.4:
+        bowler: Shoaib Rafiq
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 15.5:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 15.6:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 15.7:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anthony Roe
+        batsman: Edward Taylor
+    - 16.1:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 16.2:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 16.3:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+    - 16.4:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Anthony Roe
+        wicket:
+          player_out: Anthony Roe
+          kind: lbw
+    - 16.5:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+    - 16.6:
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+    - 17.1:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nelson Jesus Navarrete Aburto
+        batsman: Edward Taylor
+    - 17.2:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+    - 17.3:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+    - 17.4:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+    - 17.5:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+    - 17.6:
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+    - 18.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Nelson Jesus Navarrete Aburto
+        wicket:
+          player_out: Nelson Jesus Navarrete Aburto
+          fielders:
+          - Tarun Sharma (sub)
+          kind: caught
+    - 18.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Edward Taylor
+        batsman: Alex Carthew
+    - 18.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Alex Carthew
+        batsman: Edward Taylor
+    - 18.4:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Alex Carthew
+        batsman: Edward Taylor
+    - 18.5:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Alex Carthew
+        batsman: Edward Taylor
+    - 18.6:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Alex Carthew
+        batsman: Edward Taylor
+    - 19.1:
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Edward Taylor
+        batsman: Alex Carthew
+    - 19.2:
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Alex Carthew
+    - 19.3:
+        bowler: Bhargav Narasimha
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Alex Carthew
+    - 19.4:
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Edward Taylor
+        batsman: Alex Carthew
+    - 19.5:
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Edward Taylor
+        batsman: Alex Carthew
+    - 19.6:
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Edward Taylor
+        batsman: Alex Carthew
+    - 19.7:
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Alex Carthew
+        batsman: Edward Taylor
+        wicket:
+          player_out: Edward Taylor
+          fielders:
+          - Bhargav Narasimha
+          kind: run out
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 0.2:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 0.3:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 0.4:
+        bowler: Edward Taylor
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        non_striker: Tarun Sharma
+        batsman: Shashikant Laxman
+    - 0.5:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 0.6:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 0.7:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Tarun Sharma
+        batsman: Shashikant Laxman
+    - 1.1:
+        bowler: Guillermo Aburto
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 1.2:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 1.3:
+        bowler: Guillermo Aburto
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 1.4:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 1.5:
+        bowler: Guillermo Aburto
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 1.6:
+        bowler: Guillermo Aburto
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 1.7:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 1.8:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tarun Sharma
+        batsman: Shashikant Laxman
+    - 1.9:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tarun Sharma
+        batsman: Shashikant Laxman
+    - 1.10:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Tarun Sharma
+        batsman: Shashikant Laxman
+    - 2.1:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Tarun Sharma
+        batsman: Shashikant Laxman
+    - 2.2:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 2.3:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+    - 2.4:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Tarun Sharma
+        wicket:
+          player_out: Tarun Sharma
+          kind: bowled
+    - 2.5:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Puneet Arora
+    - 2.6:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shashikant Laxman
+        batsman: Puneet Arora
+        wicket:
+          player_out: Puneet Arora
+          kind: bowled
+    - 3.1:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shantanu Kaveri
+        batsman: Shashikant Laxman
+    - 3.2:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shantanu Kaveri
+        batsman: Shashikant Laxman
+    - 3.3:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Shashikant Laxman
+        wicket:
+          player_out: Shashikant Laxman
+          fielders:
+          - Simon Shalders
+          kind: caught
+    - 3.4:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 3.5:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 3.6:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 4.1:
+        bowler: Edward Taylor
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 4.2:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 4.3:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 4.4:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 4.5:
+        bowler: Edward Taylor
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 4.6:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 4.7:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 4.8:
+        bowler: Edward Taylor
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 4.9:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 5.1:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 5.2:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 5.3:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 5.4:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 5.5:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 5.6:
+        bowler: Guillermo Aburto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 6.1:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 6.2:
+        bowler: Edward Taylor
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 6.3:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 6.4:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 6.5:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 6.6:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 6.7:
+        bowler: Edward Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 7.1:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 7.2:
+        bowler: Amit Uniyal
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 7.3:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 7.4:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 7.5:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 7.6:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 7.7:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shantanu Kaveri
+        batsman: Kaushal Kumar
+    - 8.1:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 8.2:
+        bowler: Alex Carthew
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 8.3:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 8.4:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+    - 8.5:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Shantanu Kaveri
+        wicket:
+          player_out: Shantanu Kaveri
+          fielders:
+          - Mario Ovalle
+          kind: caught
+    - 8.6:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Praveen Santhanakrishnan
+    - 8.7:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: Praveen Santhanakrishnan
+    - 9.1:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Praveen Santhanakrishnan
+    - 9.2:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Praveen Santhanakrishnan
+        wicket:
+          player_out: Praveen Santhanakrishnan
+          fielders:
+          - Alfredo Puentes
+          kind: caught
+    - 9.3:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 9.4:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 9.5:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 9.6:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 10.1:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 10.2:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 10.3:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 10.4:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 10.5:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 10.6:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 11.1:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 11.2:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 11.3:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 11.4:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 11.5:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 11.6:
+        bowler: Amit Uniyal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 12.1:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 12.2:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: Luis Hermida
+    - 12.3:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 12.4:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 12.5:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 12.6:
+        bowler: Alex Carthew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 13.1:
+        bowler: Alfredo Puentes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar
+    - 13.2:
+        bowler: Alfredo Puentes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Luis Hermida
+        batsman: Kaushal Kumar

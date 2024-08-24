@@ -1,0 +1,2052 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  dates:
+  - '2024-02-23'
+  gender: male
+  match_type: T20
+  match_type_number: 2483
+  outcome:
+    winner: Australia
+    by:
+      runs: 72
+  overs: 20
+  player_of_match:
+  - PJ Cummins
+  players:
+    Australia:
+    - TM Head
+    - SPD Smith
+    - MR Marsh
+    - GJ Maxwell
+    - JP Inglis
+    - TH David
+    - MS Wade
+    - PJ Cummins
+    - NT Ellis
+    - A Zampa
+    - JR Hazlewood
+    New Zealand:
+    - FH Allen
+    - WA Young
+    - MJ Santner
+    - GD Phillips
+    - MS Chapman
+    - JA Clarkson
+    - AF Milne
+    - TA Boult
+    - LH Ferguson
+    - BV Sears
+    - DP Conway
+  registry:
+    people:
+      A Zampa: 14f96089
+      AF Milne: 350bb1b1
+      BV Sears: e1891e00
+      CM Brown: 448f4f1c
+      DP Conway: df5a6881
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      GJ Maxwell: b681e71e
+      JA Clarkson: bed90114
+      JP Inglis: 989889ff
+      JR Hazlewood: '03806cf8'
+      Kim Cotton: 67a7c2ee
+      LH Ferguson: 2f9d0389
+      MJ Santner: e4a0deae
+      MR Marsh: 3d8feaf8
+      MS Chapman: 7fa12533
+      MS Wade: afa7e784
+      NT Ellis: 9eb1455b
+      PJ Cummins: ded9240e
+      RS Madugalle: 766b5798
+      SB Haig: 811655b3
+      SPD Smith: 30a45b23
+      TA Boult: a818c1be
+      TH David: f1f99156
+      TM Head: 12b610c2
+      WA Young: 8afe73e2
+      WR Knights: 63cbf8d8
+  teams:
+  - Australia
+  - New Zealand
+  toss:
+    winner: New Zealand
+    decision: field
+  umpires:
+  - CM Brown
+  - SB Haig
+  venue: Eden Park, Auckland
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 0.2:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.3:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 0.4:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 0.5:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: TM Head
+    - 0.6:
+        non_striker: SPD Smith
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.1:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 1.2:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 1.3:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 1.4:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SPD Smith
+    - 1.5:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 1.6:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 1.7:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 2.1:
+        non_striker: TM Head
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          kind: lbw
+    - 2.2:
+        non_striker: TM Head
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.3:
+        non_striker: TM Head
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MR Marsh
+    - 2.4:
+        non_striker: MR Marsh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.5:
+        non_striker: MR Marsh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.6:
+        non_striker: MR Marsh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 3.1:
+        non_striker: MR Marsh
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 3.2:
+        non_striker: MR Marsh
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 3.3:
+        non_striker: TM Head
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 3.4:
+        non_striker: MR Marsh
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 3.5:
+        non_striker: MR Marsh
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.6:
+        non_striker: MR Marsh
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 4.1:
+        non_striker: TM Head
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 4.2:
+        non_striker: MR Marsh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 4.3:
+        non_striker: MR Marsh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 4.4:
+        non_striker: MR Marsh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Head
+    - 4.5:
+        non_striker: MR Marsh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 4.6:
+        non_striker: TM Head
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 5.1:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 5.2:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 5.3:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 5.4:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 5.5:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TM Head
+    - 5.6:
+        non_striker: MR Marsh
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 5.7:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 5.8:
+        non_striker: TM Head
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.1:
+        non_striker: TM Head
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 6.2:
+        non_striker: TM Head
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 6.3:
+        non_striker: TM Head
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 6.4:
+        non_striker: MR Marsh
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          kind: bowled
+    - 6.5:
+        non_striker: MR Marsh
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 6.6:
+        non_striker: MR Marsh
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.1:
+        non_striker: GJ Maxwell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 7.2:
+        non_striker: MR Marsh
+        bowler: MJ Santner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: GJ Maxwell
+    - 7.3:
+        non_striker: GJ Maxwell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 7.4:
+        non_striker: GJ Maxwell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 7.5:
+        non_striker: GJ Maxwell
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 7.6:
+        non_striker: GJ Maxwell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 7.7:
+        non_striker: GJ Maxwell
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 7.8:
+        non_striker: GJ Maxwell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 7.9:
+        non_striker: MR Marsh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 8.1:
+        non_striker: GJ Maxwell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 8.2:
+        non_striker: GJ Maxwell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 8.3:
+        non_striker: GJ Maxwell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 8.4:
+        non_striker: GJ Maxwell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 8.5:
+        non_striker: MR Marsh
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - TA Boult
+          kind: caught
+    - 8.6:
+        non_striker: MR Marsh
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 9.1:
+        non_striker: JP Inglis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - TA Boult
+          kind: caught
+    - 9.2:
+        non_striker: JP Inglis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 9.3:
+        non_striker: JP Inglis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 9.4:
+        non_striker: JP Inglis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 9.5:
+        non_striker: TH David
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 9.6:
+        non_striker: TH David
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 9.7:
+        non_striker: JP Inglis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 10.1:
+        non_striker: TH David
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - MS Chapman
+          kind: caught
+    - 10.2:
+        non_striker: TH David
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 10.3:
+        non_striker: MS Wade
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 10.4:
+        non_striker: MS Wade
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 10.5:
+        non_striker: MS Wade
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.6:
+        non_striker: TH David
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 11.1:
+        non_striker: MS Wade
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 11.2:
+        non_striker: MS Wade
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.3:
+        non_striker: TH David
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+        wicket:
+          player_out: MS Wade
+          kind: caught and bowled
+    - 11.4:
+        non_striker: TH David
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 11.5:
+        non_striker: TH David
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 11.6:
+        non_striker: TH David
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 12.1:
+        non_striker: TH David
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 12.2:
+        non_striker: TH David
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 12.3:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 12.4:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 12.5:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 12.6:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.1:
+        non_striker: PJ Cummins
+        bowler: BV Sears
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: TH David
+    - 13.2:
+        non_striker: PJ Cummins
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.3:
+        non_striker: PJ Cummins
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.4:
+        non_striker: PJ Cummins
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.5:
+        non_striker: TH David
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 13.6:
+        non_striker: TH David
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 14.1:
+        non_striker: PJ Cummins
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 14.2:
+        non_striker: PJ Cummins
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 14.3:
+        non_striker: PJ Cummins
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Ellis
+    - 14.4:
+        non_striker: PJ Cummins
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Ellis
+    - 14.5:
+        non_striker: PJ Cummins
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Ellis
+    - 14.6:
+        non_striker: PJ Cummins
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Ellis
+    - 15.1:
+        non_striker: NT Ellis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 15.2:
+        non_striker: NT Ellis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 15.3:
+        non_striker: PJ Cummins
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Ellis
+    - 15.4:
+        non_striker: PJ Cummins
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 15.5:
+        non_striker: NT Ellis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 15.6:
+        non_striker: PJ Cummins
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 16.1:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Ellis
+    - 16.2:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 16.3:
+        non_striker: NT Ellis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 16.4:
+        non_striker: NT Ellis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 16.5:
+        non_striker: PJ Cummins
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 16.6:
+        non_striker: NT Ellis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 17.1:
+        non_striker: PJ Cummins
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 17.2:
+        non_striker: NT Ellis
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 17.3:
+        non_striker: NT Ellis
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 17.4:
+        non_striker: NT Ellis
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 17.5:
+        non_striker: PJ Cummins
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 17.6:
+        non_striker: NT Ellis
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 18.1:
+        non_striker: NT Ellis
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PJ Cummins
+    - 18.2:
+        non_striker: NT Ellis
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 18.3:
+        non_striker: PJ Cummins
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 18.4:
+        non_striker: NT Ellis
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 18.5:
+        non_striker: NT Ellis
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PJ Cummins
+    - 18.6:
+        non_striker: NT Ellis
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 18.7:
+        non_striker: NT Ellis
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 18.8:
+        non_striker: NT Ellis
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zampa
+    - 19.1:
+        non_striker: A Zampa
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 19.2:
+        non_striker: NT Ellis
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 19.3:
+        non_striker: A Zampa
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 19.4:
+        non_striker: NT Ellis
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zampa
+        wicket:
+          player_out: A Zampa
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 19.5:
+        non_striker: NT Ellis
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+        wicket:
+          player_out: JR Hazlewood
+          fielders:
+          - JA Clarkson
+          kind: caught
+- 2nd innings:
+    team: New Zealand
+    absent_hurt:
+    - DP Conway
+    deliveries:
+    - 0.1:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.2:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.4:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.5:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.6:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: bowled
+    - 1.1:
+        non_striker: MJ Santner
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 1.2:
+        non_striker: MJ Santner
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 1.3:
+        non_striker: MJ Santner
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WA Young
+    - 1.4:
+        non_striker: WA Young
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 1.5:
+        non_striker: MJ Santner
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 1.6:
+        non_striker: WA Young
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 2.1:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.2:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 2.3:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Santner
+    - 2.4:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.5:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 2.6:
+        non_striker: WA Young
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 3.1:
+        non_striker: MJ Santner
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          fielders:
+          - MS Wade
+          kind: caught
+    - 3.2:
+        non_striker: MJ Santner
+        bowler: PJ Cummins
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: GD Phillips
+    - 3.3:
+        non_striker: MJ Santner
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 3.4:
+        non_striker: GD Phillips
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 3.5:
+        non_striker: GD Phillips
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 3.6:
+        non_striker: GD Phillips
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 3.7:
+        non_striker: GD Phillips
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 4.1:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.2:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.3:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.4:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.6:
+        non_striker: MJ Santner
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.1:
+        non_striker: GD Phillips
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 5.2:
+        non_striker: GD Phillips
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 5.3:
+        non_striker: GD Phillips
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          kind: bowled
+    - 5.4:
+        non_striker: GD Phillips
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.5:
+        non_striker: MS Chapman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.6:
+        non_striker: MS Chapman
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.1:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.2:
+        non_striker: MS Chapman
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.3:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - TH David
+          kind: caught
+    - 6.4:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 6.5:
+        non_striker: JA Clarkson
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.6:
+        non_striker: JA Clarkson
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 7.1:
+        non_striker: GD Phillips
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 7.2:
+        non_striker: JA Clarkson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 7.3:
+        non_striker: JA Clarkson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 7.4:
+        non_striker: JA Clarkson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 7.5:
+        non_striker: JA Clarkson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 7.6:
+        non_striker: JA Clarkson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 8.2:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 8.3:
+        non_striker: JA Clarkson
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.4:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Clarkson
+    - 8.5:
+        non_striker: JA Clarkson
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.6:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 9.1:
+        non_striker: JA Clarkson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.2:
+        non_striker: JA Clarkson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.3:
+        non_striker: GD Phillips
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 9.4:
+        non_striker: JA Clarkson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 9.5:
+        non_striker: JA Clarkson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.6:
+        non_striker: JA Clarkson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 10.1:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.2:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 10.3:
+        non_striker: JA Clarkson
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 10.4:
+        non_striker: JA Clarkson
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 10.6:
+        non_striker: JA Clarkson
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.1:
+        non_striker: JA Clarkson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.2:
+        non_striker: JA Clarkson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.3:
+        non_striker: GD Phillips
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.4:
+        non_striker: GD Phillips
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 11.5:
+        non_striker: GD Phillips
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          kind: bowled
+    - 11.6:
+        non_striker: GD Phillips
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+        wicket:
+          player_out: AF Milne
+          kind: bowled
+    - 12.1:
+        non_striker: TA Boult
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.2:
+        non_striker: GD Phillips
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 12.3:
+        non_striker: TA Boult
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 12.4:
+        non_striker: TA Boult
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.5:
+        non_striker: GD Phillips
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 12.6:
+        non_striker: TA Boult
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.1:
+        non_striker: TA Boult
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.2:
+        non_striker: GD Phillips
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 13.3:
+        non_striker: TA Boult
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - TH David
+          kind: caught
+    - 13.4:
+        non_striker: TA Boult
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 13.5:
+        non_striker: TA Boult
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 13.6:
+        non_striker: LH Ferguson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 14.1:
+        non_striker: TA Boult
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 14.2:
+        non_striker: LH Ferguson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 14.3:
+        non_striker: TA Boult
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 14.4:
+        non_striker: TA Boult
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 14.5:
+        non_striker: LH Ferguson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 14.6:
+        non_striker: LH Ferguson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 15.1:
+        non_striker: LH Ferguson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 15.2:
+        non_striker: TA Boult
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 15.3:
+        non_striker: LH Ferguson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Boult
+    - 15.4:
+        non_striker: LH Ferguson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Boult
+    - 15.5:
+        non_striker: LH Ferguson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+        wicket:
+          player_out: TA Boult
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 15.6:
+        non_striker: LH Ferguson
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BV Sears
+    - 16.1:
+        non_striker: LH Ferguson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BV Sears
+    - 16.2:
+        non_striker: LH Ferguson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BV Sears
+    - 16.3:
+        non_striker: LH Ferguson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BV Sears
+    - 16.4:
+        non_striker: LH Ferguson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BV Sears
+    - 16.5:
+        non_striker: LH Ferguson
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BV Sears
+    - 16.6:
+        non_striker: BV Sears
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+        wicket:
+          player_out: LH Ferguson
+          kind: bowled

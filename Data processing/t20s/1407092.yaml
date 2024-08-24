@@ -1,0 +1,2147 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-11-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2023-11-23'
+  gender: male
+  match_type: T20
+  match_type_number: 2358
+  outcome:
+    winner: Kenya
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - P Useni
+  players:
+    Nigeria:
+    - Sulaimon Runsewe
+    - D Ajekun
+    - AA Onikoyi
+    - JO Adedeji
+    - I Danladi
+    - IO Okpe
+    - R Abdulkareem
+    - P Useni
+    - P Aho
+    - C Udekwe
+    - SA Okpe
+    Kenya:
+    - RN Patel
+    - CO Obuya
+    - IA Karim
+    - Sukhdeep Singh
+    - P Sharma
+    - NM Odhiambo
+    - LN Oluoch
+    - SO Ngoche
+    - EB Ringera
+    - Vishil Patel
+    - Vraj Patel
+  registry:
+    people:
+      AA Onikoyi: 409ce380
+      C Udekwe: 74a578d0
+      CO Obuya: 5680f1ad
+      D Ajekun: 2494ff9e
+      D Odhiambo: '45994517'
+      EB Ringera: 6cedad99
+      F Mutizwa: d3e83eef
+      GH Pienaar: 3516e46b
+      I Danladi: c156cc1f
+      IA Karim: ca92a578
+      IO Okpe: 1c5c3dce
+      JO Adedeji: abee08c7
+      L Rusere: 6a4734ae
+      LN Oluoch: eb4f9c61
+      NM Odhiambo: c07a1f41
+      P Aho: 2e392afa
+      P Sharma: d047f983
+      P Useni: 71fa64d6
+      R Abdulkareem: b9e07e44
+      RN Patel: db1bf9c2
+      SA Okpe: 681f522f
+      SO Ngoche: 49118dc7
+      Sukhdeep Singh: 612a395c
+      Sulaimon Runsewe: c25d26dc
+      Vishil Patel: 3df8f9d5
+      Vraj Patel: 2af28253
+  teams:
+  - Nigeria
+  - Kenya
+  toss:
+    winner: Kenya
+    decision: field
+  umpires:
+  - F Mutizwa
+  - L Rusere
+  venue: United Cricket Club Ground, Windhoek
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Ajekun
+        batsman: Sulaimon Runsewe
+    - 0.2:
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Ajekun
+        batsman: Sulaimon Runsewe
+    - 0.3:
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ajekun
+        batsman: Sulaimon Runsewe
+    - 0.4:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 0.5:
+        non_striker: D Ajekun
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 0.6:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 0.7:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 1.1:
+        non_striker: D Ajekun
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sulaimon Runsewe
+    - 1.2:
+        non_striker: D Ajekun
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 1.3:
+        non_striker: Sulaimon Runsewe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 1.4:
+        non_striker: Sulaimon Runsewe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 1.5:
+        non_striker: Sulaimon Runsewe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 1.6:
+        non_striker: Sulaimon Runsewe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 2.1:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 2.2:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+        wicket:
+          player_out: D Ajekun
+          fielders:
+          - IA Karim
+          kind: caught
+    - 2.3:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 2.4:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AA Onikoyi
+    - 2.5:
+        non_striker: AA Onikoyi
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 2.6:
+        non_striker: Sulaimon Runsewe
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 3.1:
+        non_striker: AA Onikoyi
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+        wicket:
+          player_out: Sulaimon Runsewe
+          fielders:
+          - RN Patel
+          kind: caught
+    - 3.2:
+        non_striker: AA Onikoyi
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 3.3:
+        non_striker: AA Onikoyi
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 3.4:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 3.5:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 3.6:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Onikoyi
+    - 4.1:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Onikoyi
+    - 4.2:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 4.3:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Onikoyi
+    - 4.4:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Onikoyi
+    - 4.5:
+        non_striker: AA Onikoyi
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 4.6:
+        non_striker: AA Onikoyi
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+    - 5.1:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+    - 5.2:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Onikoyi
+        wicket:
+          player_out: AA Onikoyi
+          kind: caught and bowled
+    - 5.3:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 5.4:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 5.5:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Danladi
+    - 5.6:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 6.1:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 6.2:
+        non_striker: I Danladi
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 6.3:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 6.4:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 6.5:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 6.6:
+        non_striker: JO Adedeji
+        bowler: EB Ringera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.1:
+        non_striker: I Danladi
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Adedeji
+    - 7.2:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.3:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.4:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.5:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.6:
+        non_striker: JO Adedeji
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 8.1:
+        non_striker: JO Adedeji
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 8.2:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Adedeji
+        wicket:
+          player_out: JO Adedeji
+          fielders:
+          - IA Karim
+          kind: caught
+    - 8.3:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 8.4:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 8.5:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 8.6:
+        non_striker: IO Okpe
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 9.1:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 9.2:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 9.3:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 9.4:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 9.5:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 9.6:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 10.1:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 10.2:
+        non_striker: IO Okpe
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 10.3:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 10.4:
+        non_striker: IO Okpe
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 10.5:
+        non_striker: IO Okpe
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 10.6:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 11.1:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 11.2:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 11.3:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Danladi
+    - 11.4:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 11.5:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 11.6:
+        non_striker: IO Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 12.1:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 12.2:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 12.3:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 12.4:
+        non_striker: I Danladi
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 12.5:
+        non_striker: IO Okpe
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Danladi
+    - 12.6:
+        non_striker: IO Okpe
+        bowler: P Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 13.1:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+        wicket:
+          player_out: IO Okpe
+          fielders:
+          - CO Obuya
+          kind: caught
+    - 13.2:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Abdulkareem
+    - 13.3:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Abdulkareem
+    - 13.4:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Abdulkareem
+    - 13.5:
+        non_striker: R Abdulkareem
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 13.6:
+        non_striker: R Abdulkareem
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 14.1:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Abdulkareem
+    - 14.2:
+        non_striker: R Abdulkareem
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 14.3:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Abdulkareem
+        wicket:
+          player_out: R Abdulkareem
+          fielders:
+          - RN Patel
+          kind: caught
+    - 14.4:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 14.5:
+        non_striker: P Useni
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 14.6:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Useni
+    - 15.1:
+        non_striker: P Useni
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 15.2:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Useni
+    - 15.3:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Useni
+    - 15.4:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Useni
+    - 15.5:
+        non_striker: I Danladi
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 15.6:
+        non_striker: P Useni
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 16.1:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 16.2:
+        non_striker: P Useni
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 16.3:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Useni
+    - 16.4:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 16.5:
+        non_striker: P Useni
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 16.6:
+        non_striker: I Danladi
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Useni
+    - 17.1:
+        non_striker: P Useni
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 17.2:
+        non_striker: I Danladi
+        bowler: NM Odhiambo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Useni
+    - 17.3:
+        non_striker: P Useni
+        bowler: NM Odhiambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Danladi
+    - 17.4:
+        non_striker: I Danladi
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+    - 17.5:
+        non_striker: I Danladi
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+    - 17.6:
+        non_striker: I Danladi
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+    - 17.7:
+        non_striker: I Danladi
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 18.1:
+        non_striker: I Danladi
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+    - 18.2:
+        non_striker: I Danladi
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Useni
+    - 18.3:
+        non_striker: I Danladi
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 18.4:
+        non_striker: P Useni
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Danladi
+    - 18.5:
+        non_striker: P Useni
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 18.6:
+        non_striker: P Useni
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 19.1:
+        non_striker: P Useni
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 19.2:
+        non_striker: P Useni
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 19.3:
+        non_striker: I Danladi
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 19.4:
+        non_striker: P Useni
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Danladi
+    - 19.5:
+        non_striker: P Useni
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 19.6:
+        non_striker: I Danladi
+        bowler: NM Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+        wicket:
+          player_out: P Useni
+          fielders:
+          - IA Karim
+          kind: caught
+- 2nd innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CO Obuya
+        batsman: RN Patel
+    - 0.2:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CO Obuya
+        batsman: RN Patel
+    - 0.3:
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CO Obuya
+        batsman: RN Patel
+    - 0.4:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CO Obuya
+        batsman: RN Patel
+    - 0.5:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 0.6:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 0.7:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 1.1:
+        non_striker: CO Obuya
+        bowler: C Udekwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RN Patel
+    - 1.2:
+        non_striker: CO Obuya
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 1.3:
+        non_striker: RN Patel
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 1.4:
+        non_striker: RN Patel
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 1.5:
+        non_striker: CO Obuya
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 1.6:
+        non_striker: CO Obuya
+        bowler: C Udekwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RN Patel
+    - 1.7:
+        non_striker: CO Obuya
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 1.8:
+        non_striker: CO Obuya
+        bowler: C Udekwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RN Patel
+    - 1.9:
+        non_striker: CO Obuya
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 2.1:
+        non_striker: CO Obuya
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 2.2:
+        non_striker: CO Obuya
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 2.3:
+        non_striker: RN Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 2.4:
+        non_striker: CO Obuya
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 2.5:
+        non_striker: CO Obuya
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 2.6:
+        non_striker: CO Obuya
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 3.1:
+        non_striker: RN Patel
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CO Obuya
+    - 3.2:
+        non_striker: RN Patel
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 3.3:
+        non_striker: RN Patel
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+        wicket:
+          player_out: CO Obuya
+          fielders:
+          - IO Okpe
+          kind: caught
+    - 3.4:
+        non_striker: RN Patel
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 3.5:
+        non_striker: IA Karim
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 3.6:
+        non_striker: IA Karim
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 4.1:
+        non_striker: IA Karim
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 4.2:
+        non_striker: IA Karim
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 4.3:
+        non_striker: IA Karim
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 4.4:
+        non_striker: IA Karim
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 4.5:
+        non_striker: IA Karim
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 4.6:
+        non_striker: IA Karim
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 5.1:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 5.2:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 5.3:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 5.4:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 5.5:
+        non_striker: RN Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 5.6:
+        non_striker: IA Karim
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 6.1:
+        non_striker: IA Karim
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 6.2:
+        non_striker: IA Karim
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 6.3:
+        non_striker: RN Patel
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 6.4:
+        non_striker: IA Karim
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 6.5:
+        non_striker: IA Karim
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 6.6:
+        non_striker: RN Patel
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 7.1:
+        non_striker: RN Patel
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 7.2:
+        non_striker: RN Patel
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 7.3:
+        non_striker: RN Patel
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 7.4:
+        non_striker: RN Patel
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 7.5:
+        non_striker: RN Patel
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 7.6:
+        non_striker: IA Karim
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 8.1:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Sukhdeep Singh
+            out: IA Karim
+            reason: injury
+            role: batter
+        batsman: RN Patel
+    - 8.2:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RN Patel
+    - 8.3:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN Patel
+    - 8.4:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 8.5:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 8.6:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 9.1:
+        non_striker: RN Patel
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sukhdeep Singh
+    - 9.2:
+        non_striker: Sukhdeep Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RN Patel
+    - 9.3:
+        non_striker: Sukhdeep Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RN Patel
+    - 9.4:
+        non_striker: Sukhdeep Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 9.5:
+        non_striker: Sukhdeep Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN Patel
+    - 9.6:
+        non_striker: RN Patel
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sukhdeep Singh
+    - 10.1:
+        non_striker: RN Patel
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sukhdeep Singh
+    - 10.2:
+        non_striker: RN Patel
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sukhdeep Singh
+    - 10.3:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+    - 10.4:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN Patel
+        wicket:
+          player_out: RN Patel
+          kind: bowled
+    - 10.5:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 10.6:
+        non_striker: P Sharma
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sukhdeep Singh
+    - 11.1:
+        non_striker: P Sharma
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sukhdeep Singh
+    - 11.2:
+        non_striker: P Sharma
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sukhdeep Singh
+    - 11.3:
+        non_striker: Sukhdeep Singh
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 11.4:
+        non_striker: P Sharma
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sukhdeep Singh
+    - 11.5:
+        non_striker: P Sharma
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sukhdeep Singh
+    - 11.6:
+        non_striker: Sukhdeep Singh
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 12.1:
+        non_striker: Sukhdeep Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 12.2:
+        non_striker: P Sharma
+        bowler: SA Okpe
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Sukhdeep Singh
+    - 12.3:
+        non_striker: P Sharma
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sukhdeep Singh
+    - 12.4:
+        non_striker: P Sharma
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sukhdeep Singh
+    - 12.5:
+        non_striker: P Sharma
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sukhdeep Singh
+    - 12.6:
+        non_striker: P Sharma
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sukhdeep Singh
+    - 13.1:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sukhdeep Singh
+    - 13.2:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sukhdeep Singh
+        wicket:
+          player_out: Sukhdeep Singh
+          fielders:
+          - SA Okpe
+          kind: caught
+    - 13.3:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Odhiambo
+    - 13.4:
+        non_striker: NM Odhiambo
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 13.5:
+        non_striker: NM Odhiambo
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+    - 13.6:
+        non_striker: NM Odhiambo
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 13.7:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+    - 14.1:
+        non_striker: NM Odhiambo
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 14.2:
+        non_striker: P Sharma
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Odhiambo
+    - 14.3:
+        non_striker: NM Odhiambo
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+        wicket:
+          player_out: P Sharma
+          fielders:
+          - JO Adedeji
+          kind: caught
+    - 14.4:
+        non_striker: NM Odhiambo
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LN Oluoch
+    - 14.5:
+        non_striker: NM Odhiambo
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+    - 14.6:
+        non_striker: NM Odhiambo
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+    - 15.1:
+        non_striker: LN Oluoch
+        bowler: P Useni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NM Odhiambo
+    - 15.2:
+        non_striker: NM Odhiambo
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 15.3:
+        non_striker: LN Oluoch
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+    - 15.4:
+        non_striker: LN Oluoch
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NM Odhiambo
+    - 15.5:
+        non_striker: LN Oluoch
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Odhiambo
+        wicket:
+          player_out: NM Odhiambo
+          fielders:
+          - R Abdulkareem
+          kind: caught
+    - 15.6:
+        non_striker: LN Oluoch
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 16.1:
+        non_striker: LN Oluoch
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 16.2:
+        non_striker: LN Oluoch
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 16.3:
+        non_striker: IA Karim
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+    - 16.4:
+        non_striker: IA Karim
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 16.5:
+        non_striker: LN Oluoch
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Karim
+    - 16.6:
+        non_striker: IA Karim
+        bowler: R Abdulkareem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+    - 17.1:
+        non_striker: LN Oluoch
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+    - 17.2:
+        non_striker: LN Oluoch
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Karim
+    - 17.3:
+        non_striker: LN Oluoch
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Karim
+        wicket:
+          player_out: IA Karim
+          fielders:
+          - Sulaimon Runsewe
+          kind: caught
+    - 17.4:
+        non_striker: LN Oluoch
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 17.5:
+        non_striker: SO Ngoche
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 17.6:
+        non_striker: LN Oluoch
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 18.1:
+        non_striker: LN Oluoch
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 18.2:
+        non_striker: LN Oluoch
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Ngoche
+    - 18.3:
+        non_striker: LN Oluoch
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Ngoche
+    - 18.4:
+        non_striker: LN Oluoch
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Ngoche
+    - 18.5:
+        non_striker: LN Oluoch
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Ngoche
+    - 18.6:
+        non_striker: LN Oluoch
+        bowler: C Udekwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 19.1:
+        non_striker: LN Oluoch
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Ngoche
+    - 19.2:
+        non_striker: LN Oluoch
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 19.3:
+        non_striker: SO Ngoche
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Oluoch
+    - 19.4:
+        non_striker: LN Oluoch
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Ngoche
+    - 19.5:
+        non_striker: SO Ngoche
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LN Oluoch

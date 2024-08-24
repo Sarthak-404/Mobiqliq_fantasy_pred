@@ -1,0 +1,1950 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Osaka
+  dates:
+  - '2022-10-27'
+  gender: female
+  match_type: T20
+  match_type_number: 1282
+  outcome:
+    winner: Hong Kong
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - M Hill
+  players:
+    Japan:
+    - S Miyaji
+    - H Goto
+    - A Chandel
+    - M Yanagida
+    - Erika Oda
+    - H Iwasaki
+    - A Kano
+    - S Kato
+    - M Munakata
+    - A Kanada
+    - Kiyo Fujikawa
+    Hong Kong:
+    - KY Chan
+    - M Hill
+    - NT Miles
+    - Y Daswani
+    - Hiu Ying Cheung
+    - M Bibi
+    - Iqra Sahar
+    - Ruchitha Venkatesh
+    - Shanzeen Shahzad
+    - TOW Chu
+    - Chan Ka Man
+  registry:
+    people:
+      A Chandel: 78fa5f6d
+      A Kanada: ab50174b
+      A Kano: e92841c0
+      Adam Birss: 0cabf6f4
+      Chan Ka Man: c4022bff
+      D Natarajan: aa3ea16d
+      Erika Oda: 4c8a1197
+      H Goto: b3af5bff
+      H Iwasaki: f2698c78
+      Hiu Ying Cheung: 9efce9fd
+      Iqra Sahar: aaccb8ca
+      KY Chan: 6348c6e9
+      Kiyo Fujikawa: bb0dfa8c
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      M Munakata: 3d1ee80d
+      M Yanagida: f20e7e23
+      NT Miles: d27d0835
+      Ruchitha Venkatesh: 106135f5
+      S Kato: ef9ff861
+      S Miyaji: 3aca2ed5
+      Shanzeen Shahzad: ce291858
+      TOW Chu: '49693035'
+      Y Daswani: 2038a273
+  teams:
+  - Japan
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - Adam Birss
+  - D Natarajan
+  venue: Kaizuka Cricket Ground
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Goto
+        batsman: S Miyaji
+    - 0.2:
+        non_striker: S Miyaji
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 0.3:
+        non_striker: S Miyaji
+        bowler: Iqra Sahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Goto
+    - 0.4:
+        non_striker: S Miyaji
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 0.5:
+        non_striker: H Goto
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 0.6:
+        non_striker: H Goto
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 0.7:
+        non_striker: H Goto
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 1.1:
+        non_striker: S Miyaji
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 1.2:
+        non_striker: S Miyaji
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 1.3:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 1.4:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 1.5:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 1.6:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 2.1:
+        non_striker: S Miyaji
+        bowler: Iqra Sahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Goto
+    - 2.2:
+        non_striker: S Miyaji
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 2.3:
+        non_striker: S Miyaji
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 2.4:
+        non_striker: H Goto
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Miyaji
+    - 2.5:
+        non_striker: H Goto
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 2.6:
+        non_striker: H Goto
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 2.7:
+        non_striker: H Goto
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Miyaji
+    - 3.1:
+        non_striker: S Miyaji
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 3.2:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 3.3:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+    - 3.4:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Miyaji
+    - 3.5:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Miyaji
+        wicket:
+          player_out: S Miyaji
+          kind: bowled
+    - 3.6:
+        non_striker: H Goto
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Chandel
+    - 4.1:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 4.2:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Chandel
+    - 4.3:
+        non_striker: A Chandel
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 4.4:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Chandel
+    - 4.5:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 4.6:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 4.7:
+        non_striker: H Goto
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+    - 5.1:
+        non_striker: A Chandel
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 5.2:
+        non_striker: A Chandel
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 5.3:
+        non_striker: A Chandel
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 5.4:
+        non_striker: H Goto
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Chandel
+        wicket:
+          player_out: A Chandel
+          fielders:
+          - Hiu Ying Cheung
+          kind: caught
+    - 5.5:
+        non_striker: H Goto
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 5.6:
+        non_striker: H Goto
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.1:
+        non_striker: H Goto
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.2:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 6.3:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+        wicket:
+          player_out: H Goto
+          kind: bowled
+    - 6.4:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 6.5:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 6.6:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 7.1:
+        non_striker: Erika Oda
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 7.2:
+        non_striker: Erika Oda
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 7.3:
+        non_striker: M Yanagida
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 7.4:
+        non_striker: Erika Oda
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 7.5:
+        non_striker: Erika Oda
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 7.6:
+        non_striker: Erika Oda
+        bowler: M Hill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 7.7:
+        non_striker: Erika Oda
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 8.1:
+        non_striker: M Yanagida
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Erika Oda
+    - 8.2:
+        non_striker: M Yanagida
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Erika Oda
+    - 8.3:
+        non_striker: M Yanagida
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 8.4:
+        non_striker: M Yanagida
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Erika Oda
+    - 8.5:
+        non_striker: M Yanagida
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Erika Oda
+    - 8.6:
+        non_striker: M Yanagida
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 8.7:
+        non_striker: Erika Oda
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 8.8:
+        non_striker: Erika Oda
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 9.1:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Erika Oda
+    - 9.2:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 9.3:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 9.4:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 9.5:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 9.6:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 9.7:
+        non_striker: Erika Oda
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 10.1:
+        non_striker: M Yanagida
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 10.2:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 10.3:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 10.4:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 10.5:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 10.6:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 10.7:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 10.8:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 10.9:
+        non_striker: Erika Oda
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 11.1:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 11.2:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 11.3:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+        wicket:
+          player_out: Erika Oda
+          fielders:
+          - Shanzeen Shahzad
+          kind: caught
+    - 11.4:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 11.5:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 11.6:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 12.1:
+        non_striker: M Yanagida
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+        wicket:
+          player_out: H Iwasaki
+          kind: bowled
+    - 12.2:
+        non_striker: M Yanagida
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 12.3:
+        non_striker: A Kano
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 12.4:
+        non_striker: A Kano
+        bowler: TOW Chu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 12.5:
+        non_striker: A Kano
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 12.6:
+        non_striker: M Yanagida
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 12.7:
+        non_striker: M Yanagida
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 13.1:
+        non_striker: A Kano
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.2:
+        non_striker: M Yanagida
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+        wicket:
+          player_out: M Yanagida
+          fielders:
+          - KY Chan
+          - Hiu Ying Cheung
+          kind: run out
+    - 13.3:
+        non_striker: A Kano
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 13.4:
+        non_striker: A Kano
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 13.5:
+        non_striker: A Kano
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 13.6:
+        non_striker: A Kano
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 14.1:
+        non_striker: S Kato
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 14.2:
+        non_striker: A Kano
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 14.3:
+        non_striker: A Kano
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 14.4:
+        non_striker: S Kato
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 14.5:
+        non_striker: A Kano
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 14.6:
+        non_striker: S Kato
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 15.1:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 15.2:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 15.3:
+        non_striker: S Kato
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 15.4:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kato
+    - 15.5:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+    - 15.6:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kato
+    - 16.1:
+        non_striker: S Kato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 16.2:
+        non_striker: A Kano
+        bowler: Iqra Sahar
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Kato
+    - 16.3:
+        non_striker: A Kano
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 16.4:
+        non_striker: S Kato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 16.5:
+        non_striker: A Kano
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+    - 16.6:
+        non_striker: S Kato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kano
+    - 16.7:
+        non_striker: S Kato
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 17.1:
+        non_striker: S Kato
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 17.2:
+        non_striker: S Kato
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 17.3:
+        non_striker: S Kato
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 17.4:
+        non_striker: A Kano
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kato
+    - 17.5:
+        non_striker: A Kano
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kato
+        wicket:
+          player_out: S Kato
+          kind: lbw
+    - 17.6:
+        non_striker: A Kano
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Munakata
+    - 18.1:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Munakata
+    - 18.2:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Munakata
+    - 18.3:
+        non_striker: M Munakata
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 18.4:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Munakata
+    - 18.5:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Munakata
+    - 18.6:
+        non_striker: A Kano
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Munakata
+    - 19.1:
+        non_striker: M Munakata
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+    - 19.2:
+        non_striker: A Kano
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Munakata
+    - 19.3:
+        non_striker: A Kano
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Munakata
+    - 19.4:
+        non_striker: M Munakata
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 19.5:
+        non_striker: M Munakata
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kano
+    - 19.6:
+        non_striker: M Munakata
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kano
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Hill
+        batsman: KY Chan
+    - 0.2:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.3:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.4:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 0.5:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 0.6:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Hill
+    - 0.7:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.1:
+        non_striker: M Hill
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 1.2:
+        non_striker: M Hill
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 1.3:
+        non_striker: M Hill
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 1.4:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.5:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 1.6:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 2.1:
+        non_striker: M Hill
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 2.2:
+        non_striker: M Hill
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 2.3:
+        non_striker: M Hill
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 2.4:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 2.5:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 2.6:
+        non_striker: KY Chan
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 3.1:
+        non_striker: M Hill
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 3.2:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 3.3:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 3.4:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Hill
+    - 3.5:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 3.6:
+        non_striker: KY Chan
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 4.1:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 4.2:
+        non_striker: KY Chan
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 4.3:
+        non_striker: KY Chan
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 4.4:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 4.5:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 4.6:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 5.1:
+        non_striker: M Hill
+        bowler: H Goto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 5.2:
+        non_striker: M Hill
+        bowler: H Goto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 5.3:
+        non_striker: M Hill
+        bowler: H Goto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 5.4:
+        non_striker: M Hill
+        bowler: H Goto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 5.5:
+        non_striker: KY Chan
+        bowler: H Goto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 5.6:
+        non_striker: KY Chan
+        bowler: H Goto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 5.7:
+        non_striker: KY Chan
+        bowler: H Goto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 5.8:
+        non_striker: KY Chan
+        bowler: H Goto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 5.9:
+        non_striker: M Hill
+        bowler: H Goto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 6.1:
+        non_striker: KY Chan
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 6.2:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+        wicket:
+          player_out: KY Chan
+          fielders:
+          - H Goto
+          kind: caught
+    - 6.3:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 6.4:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 6.5:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 6.6:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.1:
+        non_striker: M Hill
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.2:
+        non_striker: NT Miles
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 7.3:
+        non_striker: M Hill
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 7.4:
+        non_striker: M Hill
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.5:
+        non_striker: NT Miles
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 7.6:
+        non_striker: NT Miles
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 8.1:
+        non_striker: NT Miles
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 8.2:
+        non_striker: NT Miles
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 8.3:
+        non_striker: NT Miles
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 8.4:
+        non_striker: NT Miles
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 8.5:
+        non_striker: M Hill
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.6:
+        non_striker: NT Miles
+        bowler: S Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 9.1:
+        non_striker: M Hill
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.2:
+        non_striker: M Hill
+        bowler: M Yanagida
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 9.3:
+        non_striker: M Hill
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 9.4:
+        non_striker: M Hill
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.5:
+        non_striker: NT Miles
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          fielders:
+          - A Kano
+          kind: stumped
+    - 9.6:
+        non_striker: NT Miles
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 9.7:
+        non_striker: NT Miles
+        bowler: M Yanagida
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 10.1:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 10.2:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Daswani
+    - 10.3:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 10.4:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 10.5:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 10.6:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 11.1:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 11.2:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 11.3:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 11.4:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 11.5:
+        non_striker: Y Daswani
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 11.6:
+        non_striker: Y Daswani
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.1:
+        non_striker: Y Daswani
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 12.2:
+        non_striker: Y Daswani
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.3:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 12.4:
+        non_striker: Y Daswani
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.5:
+        non_striker: NT Miles
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 12.6:
+        non_striker: Y Daswani
+        bowler: A Chandel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.1:
+        non_striker: Y Daswani
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.2:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 13.3:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Daswani
+    - 13.4:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Daswani
+    - 13.5:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Daswani
+    - 13.6:
+        non_striker: Y Daswani
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 13.7:
+        non_striker: Y Daswani
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.8:
+        non_striker: NT Miles
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Daswani

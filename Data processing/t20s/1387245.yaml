@@ -1,0 +1,2219 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-15'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Deventer
+  dates:
+  - '2023-08-15'
+  gender: male
+  match_type: T20
+  match_type_number: 2197
+  outcome:
+    winner: Guernsey
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - J Butler
+  players:
+    Guernsey:
+    - J Butler
+    - GH Smit
+    - MWR Stokes
+    - T Nightingale
+    - A Martel
+    - LT Bichard
+    - A Bushell
+    - LB Ferbrache
+    - DR Hooper
+    - D Mullen
+    - OB Nightingale
+    Germany:
+    - V Ganesan
+    - Shahid Afridi
+    - Talha Khan
+    - Faisal Mubashir
+    - Ahmed Wardak
+    - Sachin Mandy
+    - Fayaz Khan
+    - Muslim Yar
+    - Zahid Zadran
+    - Ghulam Ahmadi
+    - SVE Bharathi
+  registry:
+    people:
+      A Bushell: 2d645c00
+      A Martel: 65cd62a9
+      Adriaan van den Dries: 94b5ec3b
+      Ahmed Wardak: 3daaabaa
+      BV Arya: 0bf06c6d
+      D Mullen: 61da7440
+      DR Hooper: 0ac067e8
+      Faisal Mubashir: ad5342dc
+      Fayaz Khan: 373954ca
+      GH Smit: 24776ac5
+      Ghulam Ahmadi: 2dfe0612
+      J Butler: efcb778e
+      LB Ferbrache: 0f72f582
+      LT Bichard: dfcdb11e
+      M Hancock: deb8c9a5
+      M Prabhudesa: c36bcd1e
+      MWR Stokes: c573d173
+      Muslim Yar: 37d8d19a
+      OB Nightingale: 1deb4c0c
+      SVE Bharathi: 6a63c29c
+      Sachin Mandy: 501fca0d
+      Shahid Afridi: 5b2acc3f
+      T Nightingale: 51a125b3
+      Talha Khan: 8e5a1a7a
+      V Ganesan: baa7dd37
+      Zahid Zadran: a819f6c8
+  teams:
+  - Guernsey
+  - Germany
+  toss:
+    winner: Guernsey
+    decision: bat
+  umpires:
+  - M Hancock
+  - M Prabhudesa
+  venue: Sportpark Het Schootsveld, Deventer
+innings:
+- 1st innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Smit
+        batsman: J Butler
+    - 0.2:
+        bowler: Fayaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GH Smit
+        batsman: J Butler
+    - 0.3:
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GH Smit
+        batsman: J Butler
+    - 0.4:
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GH Smit
+        batsman: J Butler
+    - 0.5:
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Smit
+        batsman: J Butler
+    - 0.6:
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Smit
+        batsman: J Butler
+    - 0.7:
+        non_striker: GH Smit
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 1.1:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 1.2:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 1.3:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: J Butler
+    - 1.4:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 1.5:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 1.6:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 1.7:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 2.1:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 2.2:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GH Smit
+    - 2.3:
+        non_striker: GH Smit
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 2.4:
+        non_striker: GH Smit
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 2.5:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 2.6:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 3.1:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.2:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 3.3:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.4:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 3.5:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 3.6:
+        non_striker: J Butler
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 4.1:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 4.2:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 4.3:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 4.4:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 4.5:
+        non_striker: J Butler
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 4.6:
+        non_striker: J Butler
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 5.1:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Butler
+    - 5.2:
+        non_striker: J Butler
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 5.3:
+        non_striker: J Butler
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Smit
+    - 5.4:
+        non_striker: J Butler
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 5.5:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 5.6:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 6.1:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 6.2:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 6.3:
+        non_striker: J Butler
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 6.4:
+        non_striker: J Butler
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 6.5:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 6.6:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 7.1:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: J Butler
+    - 7.2:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 7.3:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 7.4:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 7.5:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 7.6:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 8.1:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 8.2:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 8.3:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 8.4:
+        non_striker: J Butler
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 8.5:
+        non_striker: J Butler
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 8.6:
+        non_striker: GH Smit
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 9.1:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 9.2:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 9.3:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 9.4:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 9.5:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 9.6:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 10.1:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 10.2:
+        non_striker: J Butler
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 10.3:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 10.4:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 10.5:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: J Butler
+    - 10.6:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 11.1:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 11.2:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 11.3:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 11.4:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 11.5:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 11.6:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 12.1:
+        non_striker: J Butler
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 12.2:
+        non_striker: GH Smit
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 12.3:
+        non_striker: GH Smit
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 12.4:
+        non_striker: J Butler
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Smit
+    - 12.5:
+        non_striker: J Butler
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Smit
+    - 12.6:
+        non_striker: J Butler
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Smit
+    - 13.1:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 13.2:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GH Smit
+    - 13.3:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 13.4:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 13.5:
+        non_striker: GH Smit
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 13.6:
+        non_striker: J Butler
+        bowler: SVE Bharathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 14.1:
+        non_striker: GH Smit
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 14.2:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 14.3:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 14.4:
+        non_striker: GH Smit
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 14.5:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: GH Smit
+    - 14.6:
+        non_striker: GH Smit
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 14.7:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 15.1:
+        non_striker: J Butler
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 15.2:
+        non_striker: J Butler
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 15.3:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Butler
+    - 15.4:
+        non_striker: J Butler
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 15.5:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 15.6:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 16.1:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 16.2:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 16.3:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 16.4:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+    - 16.5:
+        non_striker: J Butler
+        bowler: Fayaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GH Smit
+    - 16.6:
+        non_striker: GH Smit
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 17.1:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 17.2:
+        non_striker: J Butler
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Smit
+    - 17.3:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 17.4:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 17.5:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 17.6:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+        wicket:
+          player_out: J Butler
+          fielders:
+          - Muslim Yar
+          kind: caught
+    - 18.1:
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MWR Stokes
+        batsman: GH Smit
+    - 18.2:
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MWR Stokes
+        batsman: GH Smit
+    - 18.3:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 18.4:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MWR Stokes
+    - 18.5:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MWR Stokes
+    - 18.6:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 18.7:
+        non_striker: GH Smit
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 18.8:
+        non_striker: MWR Stokes
+        bowler: Zahid Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Smit
+    - 19.1:
+        non_striker: GH Smit
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 19.2:
+        non_striker: MWR Stokes
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Smit
+        wicket:
+          player_out: GH Smit
+          fielders:
+          - Zahid Zadran
+          kind: caught
+    - 19.3:
+        non_striker: MWR Stokes
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Nightingale
+    - 19.4:
+        non_striker: MWR Stokes
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Nightingale
+    - 19.5:
+        non_striker: MWR Stokes
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Nightingale
+    - 19.6:
+        non_striker: MWR Stokes
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+        wicket:
+          player_out: T Nightingale
+          fielders:
+          - Zahid Zadran
+          kind: caught
+    - 19.7:
+        non_striker: MWR Stokes
+        bowler: Ghulam Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Martel
+        wicket:
+          player_out: A Martel
+          kind: bowled
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: T Nightingale
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shahid Afridi
+        batsman: V Ganesan
+    - 0.2:
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Shahid Afridi
+        batsman: V Ganesan
+    - 0.3:
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shahid Afridi
+        batsman: V Ganesan
+    - 0.4:
+        non_striker: V Ganesan
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 0.5:
+        non_striker: Shahid Afridi
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ganesan
+    - 0.6:
+        non_striker: Shahid Afridi
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 0.7:
+        non_striker: Shahid Afridi
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 1.1:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Afridi
+    - 1.2:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 1.3:
+        non_striker: Shahid Afridi
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 1.4:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 1.5:
+        non_striker: Shahid Afridi
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 1.6:
+        non_striker: Shahid Afridi
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 2.1:
+        non_striker: Shahid Afridi
+        bowler: D Mullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: V Ganesan
+    - 2.2:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 2.3:
+        non_striker: Shahid Afridi
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 2.4:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 2.5:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 2.6:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Afridi
+        wicket:
+          player_out: Shahid Afridi
+          fielders:
+          - A Bushell
+          kind: stumped
+    - 2.7:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+    - 3.1:
+        non_striker: Talha Khan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 3.2:
+        non_striker: Talha Khan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 3.3:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Talha Khan
+        wicket:
+          player_out: Talha Khan
+          kind: bowled
+    - 3.4:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 3.5:
+        non_striker: Faisal Mubashir
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ganesan
+    - 3.6:
+        non_striker: Faisal Mubashir
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 4.1:
+        non_striker: Faisal Mubashir
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 4.2:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Faisal Mubashir
+    - 4.3:
+        non_striker: Faisal Mubashir
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ganesan
+    - 4.4:
+        non_striker: Faisal Mubashir
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 4.5:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faisal Mubashir
+    - 4.6:
+        non_striker: V Ganesan
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 5.1:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Mubashir
+    - 5.2:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 5.3:
+        non_striker: Faisal Mubashir
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ganesan
+    - 5.4:
+        non_striker: Faisal Mubashir
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 5.5:
+        non_striker: V Ganesan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 5.6:
+        non_striker: Faisal Mubashir
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 6.1:
+        non_striker: V Ganesan
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 6.2:
+        non_striker: Faisal Mubashir
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ganesan
+    - 6.3:
+        non_striker: Faisal Mubashir
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 6.4:
+        non_striker: Faisal Mubashir
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 6.5:
+        non_striker: V Ganesan
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 6.6:
+        non_striker: Faisal Mubashir
+        bowler: DR Hooper
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: V Ganesan
+    - 6.7:
+        non_striker: V Ganesan
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 7.1:
+        non_striker: V Ganesan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 7.2:
+        non_striker: Faisal Mubashir
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ganesan
+    - 7.3:
+        non_striker: Faisal Mubashir
+        bowler: A Martel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Ganesan
+    - 7.4:
+        non_striker: V Ganesan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Faisal Mubashir
+    - 7.5:
+        non_striker: Faisal Mubashir
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 7.6:
+        non_striker: V Ganesan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Mubashir
+    - 8.1:
+        non_striker: Faisal Mubashir
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ganesan
+    - 8.2:
+        non_striker: V Ganesan
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faisal Mubashir
+    - 8.3:
+        non_striker: V Ganesan
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 8.4:
+        non_striker: Faisal Mubashir
+        bowler: DR Hooper
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Ganesan
+    - 8.5:
+        non_striker: V Ganesan
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 8.6:
+        non_striker: Faisal Mubashir
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 9.1:
+        non_striker: V Ganesan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Mubashir
+    - 9.2:
+        non_striker: Faisal Mubashir
+        bowler: A Martel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Ganesan
+    - 9.3:
+        non_striker: Faisal Mubashir
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+    - 9.4:
+        non_striker: Faisal Mubashir
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ganesan
+        wicket:
+          player_out: V Ganesan
+          fielders:
+          - J Butler
+          kind: caught
+    - 9.5:
+        non_striker: Faisal Mubashir
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 9.6:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Mubashir
+        wicket:
+          player_out: Faisal Mubashir
+          fielders:
+          - J Butler
+          kind: caught
+    - 9.7:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sachin Mandy
+    - 10.1:
+        non_striker: Sachin Mandy
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 10.2:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sachin Mandy
+        wicket:
+          player_out: Sachin Mandy
+          fielders:
+          - A Bushell
+          kind: run out
+    - 10.3:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayaz Khan
+        wicket:
+          player_out: Fayaz Khan
+          kind: bowled
+    - 10.4:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+    - 10.5:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 10.6:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 11.1:
+        non_striker: Muslim Yar
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 11.2:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muslim Yar
+    - 11.3:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+    - 11.4:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+    - 11.5:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 11.6:
+        non_striker: Muslim Yar
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Wardak
+    - 12.1:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 12.2:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 12.3:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muslim Yar
+    - 12.4:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+    - 12.5:
+        non_striker: Ahmed Wardak
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 12.6:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Wardak
+    - 13.1:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 13.2:
+        non_striker: Muslim Yar
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Wardak
+    - 13.3:
+        non_striker: Muslim Yar
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 13.4:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muslim Yar
+    - 13.5:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+    - 13.6:
+        non_striker: Ahmed Wardak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 14.1:
+        non_striker: Ahmed Wardak
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+    - 14.2:
+        non_striker: Ahmed Wardak
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 14.3:
+        non_striker: Muslim Yar
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Wardak
+    - 14.4:
+        non_striker: Muslim Yar
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Wardak
+    - 14.5:
+        non_striker: Muslim Yar
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 14.6:
+        non_striker: Ahmed Wardak
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muslim Yar
+    - 15.1:
+        non_striker: Muslim Yar
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Wardak
+    - 15.2:
+        non_striker: Muslim Yar
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Wardak
+    - 15.3:
+        non_striker: Muslim Yar
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 15.4:
+        non_striker: Ahmed Wardak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muslim Yar
+    - 15.5:
+        non_striker: Ahmed Wardak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 15.6:
+        non_striker: Muslim Yar
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 16.1:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Wardak
+    - 16.2:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Wardak
+    - 16.3:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Wardak
+        wicket:
+          player_out: Ahmed Wardak
+          fielders:
+          - LB Ferbrache
+          kind: caught
+    - 16.4:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Zadran
+    - 16.5:
+        non_striker: Muslim Yar
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Zadran
+    - 16.6:
+        non_striker: Zahid Zadran
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 17.1:
+        non_striker: Zahid Zadran
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muslim Yar
+    - 17.2:
+        non_striker: Zahid Zadran
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 17.3:
+        non_striker: Muslim Yar
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahid Zadran
+    - 17.4:
+        non_striker: Zahid Zadran
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muslim Yar
+    - 17.5:
+        non_striker: Muslim Yar
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahid Zadran
+        wicket:
+          player_out: Zahid Zadran
+          fielders:
+          - T Nightingale
+          kind: caught
+    - 17.6:
+        non_striker: Muslim Yar
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Ahmadi
+    - 17.7:
+        non_striker: Ghulam Ahmadi
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+    - 18.1:
+        non_striker: Muslim Yar
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Ahmadi
+    - 18.2:
+        non_striker: Ghulam Ahmadi
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muslim Yar
+        wicket:
+          player_out: Muslim Yar
+          kind: bowled
+    - 18.3:
+        non_striker: Ghulam Ahmadi
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SVE Bharathi
+    - 18.4:
+        non_striker: Ghulam Ahmadi
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SVE Bharathi
+    - 18.5:
+        non_striker: SVE Bharathi
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ghulam Ahmadi
+    - 18.6:
+        non_striker: SVE Bharathi
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Ahmadi
+    - 19.1:
+        non_striker: SVE Bharathi
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Ahmadi
+    - 19.2:
+        non_striker: SVE Bharathi
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Ahmadi
+    - 19.3:
+        non_striker: Ghulam Ahmadi
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SVE Bharathi
+    - 19.4:
+        non_striker: Ghulam Ahmadi
+        bowler: D Mullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SVE Bharathi
+    - 19.5:
+        non_striker: Ghulam Ahmadi
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SVE Bharathi
+    - 19.6:
+        non_striker: SVE Bharathi
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ghulam Ahmadi
+    - 19.7:
+        non_striker: SVE Bharathi
+        bowler: D Mullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ghulam Ahmadi
+    - 19.8:
+        non_striker: SVE Bharathi
+        bowler: D Mullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Ahmadi

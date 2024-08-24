@@ -1,0 +1,1729 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-03-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mong Kok
+  dates:
+  - '2024-03-12'
+  gender: male
+  match_type: T20
+  match_type_number: 2517
+  outcome:
+    winner: Papua New Guinea
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - S Bau
+  players:
+    Hong Kong:
+    - M Coetzee
+    - Nizakat Khan
+    - Anshuman Rath
+    - Babar Hayat
+    - Aizaz Khan
+    - Yasim Murtaza
+    - Zeeshan Ali
+    - Nasrulla Rana
+    - Ehsan Khan
+    - A Shukla
+    - Ateeq Iqbal
+    Papua New Guinea:
+    - TP Ura
+    - S Bau
+    - K Doriga
+    - H Hiri
+    - J Kariko
+    - KV Morea
+    - A Nao
+    - L Siaka
+    - CA Soper
+    - A Vala
+    - HGV Vare
+  registry:
+    people:
+      A Nao: 4d1ec7eb
+      A Shukla: a1e80d06
+      A Vala: 72e60730
+      Aizaz Khan: f6c2659d
+      Anshuman Rath: 552b228c
+      Ateeq Iqbal: 29b322c7
+      Babar Hayat: fbb657bb
+      CA Soper: 9920dd86
+      Ehsan Khan: d3851cd8
+      G Sankaranarayanan: a4a348f9
+      H Hiri: 9dc3ea7e
+      H Tukrul: a2880cb1
+      HGV Vare: 98299b67
+      J Kariko: cde067e1
+      John Prakash: b5f3d429
+      K Doriga: 365229a8
+      KV Morea: 270bf7e2
+      L Siaka: 6b4593ee
+      M Coetzee: 3f149080
+      Nasrulla Rana: 9ffb7550
+      Nizakat Khan: e3eb9e46
+      S Bau: 9a95bebb
+      SJ D'Cruz: ed62962b
+      TP Ura: a82eb3fb
+      Yasim Murtaza: c9d05f1a
+      Zeeshan Ali: 987187b9
+  teams:
+  - Hong Kong
+  - Papua New Guinea
+  toss:
+    winner: Hong Kong
+    decision: bat
+  umpires:
+  - John Prakash
+  - SJ D'Cruz
+  venue: Mission Road Ground, Mong Kok, Hong Kong
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nizakat Khan
+        batsman: M Coetzee
+    - 0.2:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nizakat Khan
+        batsman: M Coetzee
+    - 0.3:
+        non_striker: M Coetzee
+        bowler: KV Morea
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nizakat Khan
+    - 0.4:
+        non_striker: M Coetzee
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 0.5:
+        non_striker: Nizakat Khan
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Coetzee
+    - 0.6:
+        non_striker: Nizakat Khan
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Coetzee
+    - 0.7:
+        non_striker: M Coetzee
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 1.1:
+        non_striker: Nizakat Khan
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Coetzee
+    - 1.2:
+        non_striker: Nizakat Khan
+        bowler: A Nao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Coetzee
+    - 1.3:
+        non_striker: Nizakat Khan
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Coetzee
+    - 1.4:
+        non_striker: Nizakat Khan
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Coetzee
+    - 1.5:
+        non_striker: M Coetzee
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 1.6:
+        non_striker: M Coetzee
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 1.7:
+        non_striker: Nizakat Khan
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Coetzee
+        wicket:
+          player_out: M Coetzee
+          fielders:
+          - K Doriga
+          kind: caught
+    - 2.1:
+        non_striker: Anshuman Rath
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Nizakat Khan
+          kind: bowled
+    - 2.2:
+        non_striker: Anshuman Rath
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 2.3:
+        non_striker: Babar Hayat
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 2.4:
+        non_striker: Anshuman Rath
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 2.5:
+        non_striker: Anshuman Rath
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 2.6:
+        non_striker: Babar Hayat
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+        wicket:
+          player_out: Anshuman Rath
+          kind: bowled
+    - 3.1:
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aizaz Khan
+        batsman: Babar Hayat
+    - 3.2:
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aizaz Khan
+        batsman: Babar Hayat
+    - 3.3:
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aizaz Khan
+        batsman: Babar Hayat
+    - 3.4:
+        non_striker: Babar Hayat
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aizaz Khan
+    - 3.5:
+        non_striker: Babar Hayat
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aizaz Khan
+    - 3.6:
+        non_striker: Babar Hayat
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aizaz Khan
+        wicket:
+          player_out: Aizaz Khan
+          fielders:
+          - HGV Vare
+          kind: caught
+    - 4.1:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasim Murtaza
+        batsman: Babar Hayat
+    - 4.2:
+        bowler: KV Morea
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Yasim Murtaza
+        batsman: Babar Hayat
+    - 4.3:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasim Murtaza
+        batsman: Babar Hayat
+    - 4.4:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yasim Murtaza
+        batsman: Babar Hayat
+    - 4.5:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yasim Murtaza
+        batsman: Babar Hayat
+    - 4.6:
+        non_striker: Babar Hayat
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 4.7:
+        non_striker: Babar Hayat
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 5.1:
+        non_striker: Babar Hayat
+        bowler: A Nao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasim Murtaza
+    - 5.2:
+        non_striker: Babar Hayat
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasim Murtaza
+    - 5.3:
+        non_striker: Babar Hayat
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 5.4:
+        non_striker: Babar Hayat
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 5.5:
+        non_striker: Yasim Murtaza
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.6:
+        non_striker: Yasim Murtaza
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.7:
+        non_striker: Yasim Murtaza
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 6.1:
+        non_striker: Babar Hayat
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 6.2:
+        non_striker: Yasim Murtaza
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.3:
+        non_striker: Babar Hayat
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 6.4:
+        non_striker: Babar Hayat
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 6.5:
+        non_striker: Yasim Murtaza
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.6:
+        non_striker: Babar Hayat
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+        wicket:
+          player_out: Babar Hayat
+          fielders:
+          - S Bau
+          kind: run out
+    - 7.1:
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Ali
+        batsman: Yasim Murtaza
+    - 7.2:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+        wicket:
+          player_out: Yasim Murtaza
+          kind: bowled
+    - 7.3:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 7.4:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 7.5:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 7.6:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 8.1:
+        non_striker: Nasrulla Rana
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 8.2:
+        non_striker: Nasrulla Rana
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 8.3:
+        non_striker: Nasrulla Rana
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 8.4:
+        non_striker: Zeeshan Ali
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 8.5:
+        non_striker: Zeeshan Ali
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasrulla Rana
+    - 8.6:
+        non_striker: Nasrulla Rana
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 9.1:
+        non_striker: Nasrulla Rana
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 9.2:
+        non_striker: Nasrulla Rana
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 9.3:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 9.4:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 9.5:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 9.6:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nasrulla Rana
+    - 10.1:
+        non_striker: Zeeshan Ali
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasrulla Rana
+    - 10.2:
+        non_striker: Zeeshan Ali
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nasrulla Rana
+    - 10.3:
+        non_striker: Zeeshan Ali
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasrulla Rana
+    - 10.4:
+        non_striker: Zeeshan Ali
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 10.5:
+        non_striker: Zeeshan Ali
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasrulla Rana
+    - 10.6:
+        non_striker: Zeeshan Ali
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasrulla Rana
+    - 11.1:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nasrulla Rana
+        wicket:
+          player_out: Nasrulla Rana
+          fielders:
+          - K Doriga
+          kind: stumped
+    - 11.2:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 11.3:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 11.4:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 11.5:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 11.6:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 11.7:
+        non_striker: Ehsan Khan
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 12.1:
+        non_striker: Zeeshan Ali
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 12.2:
+        non_striker: Ehsan Khan
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Ali
+    - 12.3:
+        non_striker: Ehsan Khan
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 12.4:
+        non_striker: Zeeshan Ali
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 12.5:
+        non_striker: Ehsan Khan
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 12.6:
+        non_striker: Zeeshan Ali
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ehsan Khan
+    - 13.1:
+        non_striker: Ehsan Khan
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 13.2:
+        non_striker: Ehsan Khan
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali
+    - 13.3:
+        non_striker: Ehsan Khan
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 13.4:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 13.5:
+        non_striker: Ehsan Khan
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 13.6:
+        non_striker: Zeeshan Ali
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 14.1:
+        non_striker: Zeeshan Ali
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 14.2:
+        non_striker: Ehsan Khan
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Ali
+    - 14.3:
+        non_striker: Ehsan Khan
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 14.4:
+        non_striker: Zeeshan Ali
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 14.5:
+        non_striker: Ehsan Khan
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 14.6:
+        non_striker: Ehsan Khan
+        bowler: CA Soper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 15.1:
+        non_striker: Ehsan Khan
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 15.2:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 15.3:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ehsan Khan
+    - 15.4:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 15.5:
+        non_striker: Ehsan Khan
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 15.6:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+        wicket:
+          player_out: Ehsan Khan
+          kind: bowled
+    - 16.1:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Shukla
+        batsman: Zeeshan Ali
+    - 16.2:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: A Shukla
+        batsman: Zeeshan Ali
+    - 16.3:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: A Shukla
+        batsman: Zeeshan Ali
+    - 16.4:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: A Shukla
+        batsman: Zeeshan Ali
+    - 16.5:
+        bowler: KV Morea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Shukla
+        batsman: Zeeshan Ali
+    - 16.6:
+        non_striker: Zeeshan Ali
+        bowler: KV Morea
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: A Shukla
+    - 17.1:
+        non_striker: A Shukla
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 17.2:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+    - 17.3:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+    - 17.4:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+    - 17.5:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+    - 17.6:
+        non_striker: Zeeshan Ali
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+        wicket:
+          player_out: A Shukla
+          fielders:
+          - A Vala
+          kind: caught
+    - 18.1:
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Ateeq Iqbal
+        batsman: Zeeshan Ali
+    - 18.2:
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ateeq Iqbal
+        batsman: Zeeshan Ali
+    - 18.3:
+        non_striker: Ateeq Iqbal
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Ateeq Iqbal
+          fielders:
+          - KV Morea
+          kind: run out
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Bau
+        batsman: TP Ura
+    - 0.2:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Bau
+        batsman: TP Ura
+    - 0.3:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Bau
+        batsman: TP Ura
+    - 0.4:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Bau
+        batsman: TP Ura
+    - 0.5:
+        non_striker: TP Ura
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 0.6:
+        non_striker: TP Ura
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 1.1:
+        non_striker: S Bau
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 1.2:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 1.3:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bau
+    - 1.4:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Bau
+    - 1.5:
+        non_striker: S Bau
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 1.6:
+        non_striker: S Bau
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 1.7:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 2.1:
+        non_striker: TP Ura
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 2.2:
+        non_striker: TP Ura
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 2.3:
+        non_striker: S Bau
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 2.4:
+        non_striker: S Bau
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 2.5:
+        non_striker: S Bau
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 2.6:
+        non_striker: TP Ura
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 3.1:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 3.2:
+        non_striker: S Bau
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 3.3:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 6
+          batsman: 6
+        batsman: S Bau
+    - 3.4:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 3.5:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 3.6:
+        non_striker: S Bau
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 4.1:
+        non_striker: S Bau
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TP Ura
+    - 4.2:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 4.3:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Bau
+    - 4.4:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 4.5:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 4.6:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 4.7:
+        non_striker: TP Ura
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 5.1:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 5.2:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 5.3:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 5.4:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 5.5:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 5.6:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 6.1:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 6.2:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 6.3:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 6.4:
+        non_striker: TP Ura
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 6.5:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 6.6:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TP Ura
+    - 6.7:
+        non_striker: TP Ura
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 7.1:
+        non_striker: S Bau
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 7.2:
+        non_striker: TP Ura
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 7.3:
+        non_striker: S Bau
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 7.4:
+        non_striker: S Bau
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 7.5:
+        non_striker: TP Ura
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 7.6:
+        non_striker: S Bau
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 8.1:
+        non_striker: TP Ura
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 8.2:
+        non_striker: TP Ura
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 8.3:
+        non_striker: S Bau
+        bowler: Aizaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 8.4:
+        non_striker: S Bau
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 8.5:
+        non_striker: TP Ura
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 8.6:
+        non_striker: S Bau
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 8.7:
+        non_striker: TP Ura
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 9.1:
+        non_striker: S Bau
+        bowler: Yasim Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TP Ura
+    - 9.2:
+        non_striker: TP Ura
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 9.3:
+        non_striker: TP Ura
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 9.4:
+        non_striker: TP Ura
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Bau
+    - 9.5:
+        non_striker: TP Ura
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 9.6:
+        non_striker: S Bau
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 10.1:
+        non_striker: S Bau
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 10.2:
+        non_striker: TP Ura
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 10.3:
+        non_striker: TP Ura
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 10.4:
+        non_striker: S Bau
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 10.5:
+        non_striker: S Bau
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 10.6:
+        non_striker: TP Ura
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 11.1:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 11.2:
+        non_striker: S Bau
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 11.3:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 11.4:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 11.5:
+        non_striker: S Bau
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 11.6:
+        non_striker: TP Ura
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 12.1:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 12.2:
+        non_striker: TP Ura
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 12.3:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 12.4:
+        non_striker: S Bau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura

@@ -1,0 +1,2128 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Benoni
+  dates:
+  - '2023-10-15'
+  gender: female
+  match_type: T20
+  match_type_number: 1685
+  outcome:
+    winner: South Africa
+    by:
+      runs: 11
+  overs: 20
+  player_of_match:
+  - M Klaas
+  players:
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - A Bosch
+    - S Luus
+    - CL Tryon
+    - N de Klerk
+    - S Jafta
+    - TS Sekhukhune
+    - M Klaas
+    - A Khaka
+    - N Mlaba
+    New Zealand:
+    - KG Anderson
+    - SW Bates
+    - AC Kerr
+    - SFM Devine
+    - ML Green
+    - BM Halliday
+    - GE Plimmer
+    - LMM Tahuhu
+    - MM Penfold
+    - EJ Carson
+    - FC Jonas
+  registry:
+    people:
+      A Bosch: dcf0e8f4
+      A Jacobs: 70d117de
+      A Khaka: 0d518f89
+      AC Kerr: 7673c908
+      BM Halliday: efb6cb2a
+      CL Tryon: 4d4605e6
+      EJ Carson: 7693851c
+      FC Jonas: 6df697a9
+      GE Plimmer: 575494db
+      GH Pienaar: 3516e46b
+      K Klaaste: 6cc1d918
+      KG Anderson: ae79a86f
+      L Wolvaardt: e60f81c9
+      LMM Tahuhu: '60471339'
+      Lauren Agenbag: 40849abd
+      M De Ridder: 5bb7ec70
+      M Klaas: ce85fcaf
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      N Mlaba: 686362af
+      N de Klerk: ea544967
+      S Jafta: '34304210'
+      S Luus: 6d76bc23
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      Siphelele Gasa: e50baa87
+      T Brits: '06659caa'
+      TS Sekhukhune: 6e28e586
+  teams:
+  - South Africa
+  - New Zealand
+  toss:
+    winner: New Zealand
+    decision: field
+  umpires:
+  - K Klaaste
+  - Lauren Agenbag
+  venue: Willowmoore Park, Benoni
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.2:
+        non_striker: T Brits
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.4:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.5:
+        non_striker: T Brits
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: T Brits
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 2.4:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 3.1:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: L Wolvaardt
+    - 3.2:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: L Wolvaardt
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.1:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Wolvaardt
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 4.3:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.4:
+        non_striker: L Wolvaardt
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 4.5:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 4.6:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: bowled
+    - 5.1:
+        non_striker: A Bosch
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.2:
+        non_striker: A Bosch
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 5.3:
+        non_striker: A Bosch
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 5.4:
+        non_striker: A Bosch
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 5.5:
+        non_striker: T Brits
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Bosch
+    - 5.6:
+        non_striker: A Bosch
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.1:
+        non_striker: T Brits
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 6.2:
+        non_striker: A Bosch
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 6.3:
+        non_striker: A Bosch
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.4:
+        non_striker: A Bosch
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 6.5:
+        non_striker: A Bosch
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 6.6:
+        non_striker: A Bosch
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 7.1:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bosch
+    - 7.2:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 7.3:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 7.4:
+        non_striker: A Bosch
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 7.5:
+        non_striker: A Bosch
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 7.6:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 8.1:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 8.2:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 8.3:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 8.4:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bosch
+    - 8.5:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 8.6:
+        non_striker: A Bosch
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 9.1:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bosch
+    - 9.2:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 9.3:
+        non_striker: A Bosch
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 9.4:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 9.5:
+        non_striker: A Bosch
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 9.6:
+        non_striker: T Brits
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 10.1:
+        non_striker: A Bosch
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 10.2:
+        non_striker: A Bosch
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Brits
+    - 10.3:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bosch
+    - 10.4:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bosch
+    - 10.5:
+        non_striker: T Brits
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 10.6:
+        non_striker: A Bosch
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 11.1:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 11.2:
+        non_striker: A Bosch
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 11.3:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 11.4:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 11.5:
+        non_striker: T Brits
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 11.6:
+        non_striker: A Bosch
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Brits
+    - 12.1:
+        non_striker: T Brits
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bosch
+    - 12.2:
+        non_striker: T Brits
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+        wicket:
+          player_out: A Bosch
+          kind: bowled
+    - 12.3:
+        non_striker: T Brits
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 12.4:
+        non_striker: S Luus
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 12.5:
+        non_striker: T Brits
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 12.6:
+        non_striker: T Brits
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 12.7:
+        non_striker: T Brits
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.1:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 13.2:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 13.3:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 13.4:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.5:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.6:
+        non_striker: T Brits
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.1:
+        non_striker: T Brits
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.2:
+        non_striker: S Luus
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 14.3:
+        non_striker: S Luus
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 14.4:
+        non_striker: S Luus
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 14.5:
+        non_striker: S Luus
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 14.6:
+        non_striker: T Brits
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 15.1:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          fielders:
+          - EJ Carson
+          kind: caught
+    - 15.2:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.3:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.4:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 15.5:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.6:
+        non_striker: S Luus
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.1:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.2:
+        non_striker: CL Tryon
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 16.3:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 16.4:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.5:
+        non_striker: CL Tryon
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 16.6:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          kind: bowled
+    - 17.1:
+        non_striker: N de Klerk
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 17.2:
+        non_striker: S Luus
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 17.3:
+        non_striker: N de Klerk
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 17.4:
+        non_striker: N de Klerk
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 17.5:
+        non_striker: S Luus
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+        wicket:
+          player_out: N de Klerk
+          kind: bowled
+    - 17.6:
+        non_striker: S Luus
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 18.1:
+        non_striker: S Jafta
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 18.2:
+        non_striker: S Jafta
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 18.3:
+        non_striker: S Jafta
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 18.4:
+        non_striker: S Jafta
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 18.5:
+        non_striker: S Jafta
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 18.6:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 19.1:
+        non_striker: S Luus
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 19.2:
+        non_striker: S Jafta
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 19.3:
+        non_striker: S Jafta
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 19.4:
+        non_striker: S Luus
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 19.5:
+        non_striker: S Jafta
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 19.6:
+        non_striker: S Jafta
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 19.7:
+        non_striker: S Jafta
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 0.2:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 0.3:
+        non_striker: KG Anderson
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 0.4:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 0.5:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 0.6:
+        non_striker: KG Anderson
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 1.2:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 1.3:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KG Anderson
+    - 1.4:
+        non_striker: KG Anderson
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.5:
+        non_striker: KG Anderson
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.6:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+    - 2.1:
+        non_striker: KG Anderson
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.2:
+        non_striker: KG Anderson
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 2.3:
+        non_striker: KG Anderson
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 2.4:
+        non_striker: KG Anderson
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.5:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KG Anderson
+    - 2.6:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KG Anderson
+        wicket:
+          player_out: KG Anderson
+          fielders:
+          - A Bosch
+          kind: caught
+    - 3.1:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.2:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 3.3:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SW Bates
+    - 3.5:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 3.6:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 4.1:
+        non_striker: AC Kerr
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 4.2:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: AC Kerr
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.4:
+        non_striker: AC Kerr
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 4.5:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.2:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.3:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.6:
+        non_striker: AC Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.2:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.3:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.5:
+        non_striker: AC Kerr
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.6:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: SW Bates
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: AC Kerr
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.3:
+        non_striker: SW Bates
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.4:
+        non_striker: SW Bates
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.5:
+        non_striker: AC Kerr
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.6:
+        non_striker: SW Bates
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.1:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.2:
+        non_striker: AC Kerr
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.3:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 8.4:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.6:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.1:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.5:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.6:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 10.1:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.4:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: AC Kerr
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.2:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.4:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 11.5:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 12.1:
+        non_striker: SW Bates
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: SW Bates
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: SW Bates
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: AC Kerr
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: TS Sekhukhune
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SW Bates
+    - 13.1:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.3:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 13.4:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.5:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 14.1:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.2:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.3:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.5:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.6:
+        non_striker: SW Bates
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.2:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.3:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 15.5:
+        non_striker: SW Bates
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.6:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          kind: lbw
+    - 15.7:
+        non_striker: AC Kerr
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 16.1:
+        non_striker: AC Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 16.2:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: AC Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 16.4:
+        non_striker: AC Kerr
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 16.5:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 16.6:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 17.1:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - S Luus
+          kind: caught
+    - 17.2:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Green
+    - 17.3:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.4:
+        non_striker: ML Green
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 17.5:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Green
+    - 17.6:
+        non_striker: ML Green
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - A Bosch
+          kind: caught
+    - 17.7:
+        non_striker: ML Green
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 18.1:
+        non_striker: BM Halliday
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - L Wolvaardt
+          kind: caught
+    - 18.2:
+        non_striker: BM Halliday
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 18.3:
+        non_striker: BM Halliday
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 18.4:
+        non_striker: BM Halliday
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 18.5:
+        non_striker: GE Plimmer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          fielders:
+          - TS Sekhukhune
+          - M De Ridder (sub)
+          kind: run out
+    - 18.6:
+        non_striker: GE Plimmer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          kind: bowled
+    - 18.7:
+        non_striker: GE Plimmer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 19.1:
+        non_striker: MM Penfold
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 19.2:
+        non_striker: GE Plimmer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+        wicket:
+          player_out: MM Penfold
+          kind: bowled
+    - 19.3:
+        non_striker: GE Plimmer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Carson
+    - 19.4:
+        non_striker: GE Plimmer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Carson
+    - 19.5:
+        non_striker: EJ Carson
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 19.6:
+        non_striker: EJ Carson
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer

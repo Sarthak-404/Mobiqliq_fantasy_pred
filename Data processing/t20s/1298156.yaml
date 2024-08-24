@@ -1,0 +1,2020 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  dates:
+  - '2022-10-27'
+  gender: male
+  match_type: T20
+  match_type_number: 1847
+  outcome:
+    winner: South Africa
+    by:
+      runs: 104
+  overs: 20
+  player_of_match:
+  - RR Rossouw
+  players:
+    South Africa:
+    - T Bavuma
+    - Q de Kock
+    - RR Rossouw
+    - T Stubbs
+    - AK Markram
+    - DA Miller
+    - WD Parnell
+    - KA Maharaj
+    - K Rabada
+    - A Nortje
+    - T Shamsi
+    Bangladesh:
+    - Nazmul Hossain Shanto
+    - Soumya Sarkar
+    - Liton Das
+    - Shakib Al Hasan
+    - Afif Hossain
+    - Mehedi Hasan Miraz
+    - Mosaddek Hossain
+    - Nurul Hasan
+    - Taskin Ahmed
+    - Hasan Mahmud
+    - Mustafizur Rahman
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AK Markram: 6a26221c
+      Afif Hossain: '37138918'
+      Ahsan Raza: e0e5b209
+      BC Broad: d6a7dd38
+      DA Miller: d67d5f00
+      Hasan Mahmud: 80ad39ac
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      L Rusere: 6a4734ae
+      Liton Das: 0404d43c
+      MA Gough: 76752ac8
+      Mehedi Hasan Miraz: c58b0108
+      Mosaddek Hossain: 8919756f
+      Mustafizur Rahman: 0a8fce53
+      Nazmul Hossain Shanto: 1274d7ab
+      Nurul Hasan: d365d463
+      Q de Kock: 372455c4
+      RJ Tucker: 38810cfc
+      RR Rossouw: cad00a4d
+      Shakib Al Hasan: 7dc35884
+      Soumya Sarkar: 4d9f9686
+      T Bavuma: 9ffd1ac1
+      T Shamsi: a03bba42
+      T Stubbs: 85b3fab2
+      Taskin Ahmed: ef18b66e
+      WD Parnell: 3a60e0b5
+  teams:
+  - South Africa
+  - Bangladesh
+  toss:
+    winner: South Africa
+    decision: bat
+  umpires:
+  - L Rusere
+  - RJ Tucker
+  venue: Sydney Cricket Ground
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          fielders:
+          - Nurul Hasan
+          kind: caught
+    - 1.1:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.4:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 2.5:
+        non_striker: RR Rossouw
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: RR Rossouw
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Q de Kock
+    - 2.7:
+        non_striker: RR Rossouw
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 2.8:
+        non_striker: RR Rossouw
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 3.2:
+        non_striker: Q de Kock
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 3.3:
+        non_striker: Q de Kock
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 3.5:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.1:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 4.2:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 4.4:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 4.5:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 4.6:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 5.1:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 5.3:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.4:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 5.6:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: RR Rossouw
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: RR Rossouw
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 6.4:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 6.6:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 7.1:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 7.2:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 7.4:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.5:
+        non_striker: Q de Kock
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 7.6:
+        non_striker: RR Rossouw
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 8.2:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 8.3:
+        non_striker: RR Rossouw
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 8.4:
+        non_striker: RR Rossouw
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 8.6:
+        non_striker: Q de Kock
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 9.1:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 9.2:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 9.3:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.4:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 9.5:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 9.6:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.1:
+        non_striker: RR Rossouw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.2:
+        non_striker: RR Rossouw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: RR Rossouw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.4:
+        non_striker: Q de Kock
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 10.5:
+        non_striker: Q de Kock
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 10.6:
+        non_striker: Q de Kock
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: RR Rossouw
+    - 10.7:
+        non_striker: Q de Kock
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 5
+          total: 6
+          batsman: 1
+        extras:
+          penalty: 5
+        batsman: RR Rossouw
+    - 11.1:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 11.2:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 11.3:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 11.4:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.5:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 11.6:
+        non_striker: Q de Kock
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 12.1:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 12.2:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 12.3:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.4:
+        non_striker: Q de Kock
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 12.5:
+        non_striker: Q de Kock
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 12.6:
+        non_striker: Q de Kock
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 13.1:
+        non_striker: RR Rossouw
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 13.2:
+        non_striker: RR Rossouw
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Q de Kock
+    - 13.3:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 13.4:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 13.5:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 13.6:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 13.7:
+        non_striker: Q de Kock
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 14.1:
+        non_striker: Q de Kock
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 14.2:
+        non_striker: RR Rossouw
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 14.3:
+        non_striker: RR Rossouw
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 14.4:
+        non_striker: RR Rossouw
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 14.5:
+        non_striker: RR Rossouw
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.6:
+        non_striker: T Stubbs
+        bowler: Afif Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 15.1:
+        non_striker: T Stubbs
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 15.2:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.3:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 15.4:
+        non_striker: T Stubbs
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 15.5:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.6:
+        non_striker: RR Rossouw
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.1:
+        non_striker: RR Rossouw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - Liton Das
+          kind: caught
+    - 16.2:
+        non_striker: RR Rossouw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.3:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 16.4:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 16.5:
+        non_striker: RR Rossouw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.6:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 17.1:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 17.2:
+        non_striker: AK Markram
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 17.3:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 17.4:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 17.5:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 17.6:
+        non_striker: RR Rossouw
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 18.1:
+        non_striker: RR Rossouw
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Markram
+    - 18.2:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 18.3:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - Liton Das
+          kind: caught
+    - 18.4:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 18.5:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 18.6:
+        non_striker: AK Markram
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 19.1:
+        non_striker: AK Markram
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 19.2:
+        non_striker: DA Miller
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 19.3:
+        non_striker: DA Miller
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 19.4:
+        non_striker: DA Miller
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 19.5:
+        non_striker: DA Miller
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 19.6:
+        non_striker: DA Miller
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 19.7:
+        non_striker: DA Miller
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WD Parnell
+    - 19.8:
+        non_striker: DA Miller
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Soumya Sarkar
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.2:
+        non_striker: Soumya Sarkar
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 0.3:
+        non_striker: Soumya Sarkar
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.4:
+        non_striker: Soumya Sarkar
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nazmul Hossain Shanto
+    - 0.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soumya Sarkar
+    - 0.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soumya Sarkar
+    - 1.1:
+        non_striker: Soumya Sarkar
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 1.2:
+        non_striker: Soumya Sarkar
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 1.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Soumya Sarkar
+    - 1.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: WD Parnell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soumya Sarkar
+    - 1.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 1.7:
+        non_striker: Soumya Sarkar
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Hossain Shanto
+    - 2.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 2.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 2.3:
+        non_striker: Liton Das
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 2.4:
+        non_striker: Liton Das
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          kind: bowled
+    - 2.5:
+        non_striker: Liton Das
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 2.6:
+        non_striker: Liton Das
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 3.1:
+        non_striker: Shakib Al Hasan
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 3.2:
+        non_striker: Liton Das
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 3.3:
+        non_striker: Shakib Al Hasan
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.4:
+        non_striker: Shakib Al Hasan
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.5:
+        non_striker: Shakib Al Hasan
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Liton Das
+    - 3.6:
+        non_striker: Shakib Al Hasan
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.1:
+        non_striker: Shakib Al Hasan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 4.2:
+        non_striker: Shakib Al Hasan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.3:
+        non_striker: Shakib Al Hasan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.4:
+        non_striker: Liton Das
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          kind: lbw
+    - 4.5:
+        non_striker: Liton Das
+        bowler: A Nortje
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Afif Hossain
+    - 4.6:
+        non_striker: Liton Das
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 5.1:
+        non_striker: Afif Hossain
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.2:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 5.3:
+        non_striker: Afif Hossain
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.4:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Afif Hossain
+    - 5.5:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 5.6:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - WD Parnell
+          kind: caught
+    - 5.7:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 6.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 6.3:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 6.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 6.5:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 6.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.2:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 7.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 7.4:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 7.5:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 7.6:
+        non_striker: Liton Das
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 8.1:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 8.2:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 8.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 8.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 8.5:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 8.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 9.1:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 9.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 9.3:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 9.4:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 9.5:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          fielders:
+          - AK Markram
+          kind: caught
+    - 9.6:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 9.7:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 10.1:
+        non_striker: Mosaddek Hossain
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 10.2:
+        non_striker: Mosaddek Hossain
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 10.3:
+        non_striker: Mosaddek Hossain
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 10.4:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+        wicket:
+          player_out: Mosaddek Hossain
+          fielders:
+          - Q de Kock
+          kind: stumped
+    - 10.5:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 10.6:
+        non_striker: Nurul Hasan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 11.1:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.2:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.3:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 11.4:
+        non_striker: Nurul Hasan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 11.5:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.6:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          fielders:
+          - A Nortje
+          kind: caught
+    - 12.1:
+        non_striker: Taskin Ahmed
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 12.2:
+        non_striker: Taskin Ahmed
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 12.3:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 12.4:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 12.5:
+        non_striker: Taskin Ahmed
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 12.6:
+        non_striker: Liton Das
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 13.1:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 13.2:
+        non_striker: Taskin Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 13.3:
+        non_striker: Liton Das
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 13.4:
+        non_striker: Taskin Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 13.5:
+        non_striker: Taskin Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 13.6:
+        non_striker: Taskin Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 14.1:
+        non_striker: Hasan Mahmud
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 14.2:
+        non_striker: Hasan Mahmud
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 14.3:
+        non_striker: Hasan Mahmud
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 14.4:
+        non_striker: Hasan Mahmud
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taskin Ahmed
+    - 14.5:
+        non_striker: Hasan Mahmud
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+        wicket:
+          player_out: Hasan Mahmud
+          fielders:
+          - K Rabada
+          kind: run out
+    - 14.6:
+        non_striker: Taskin Ahmed
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mustafizur Rahman
+    - 15.1:
+        non_striker: Mustafizur Rahman
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 15.2:
+        non_striker: Mustafizur Rahman
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 15.3:
+        non_striker: Mustafizur Rahman
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 15.4:
+        non_striker: Taskin Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mustafizur Rahman
+    - 15.5:
+        non_striker: Taskin Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mustafizur Rahman
+    - 15.6:
+        non_striker: Taskin Ahmed
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 15.7:
+        non_striker: Mustafizur Rahman
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 16.1:
+        non_striker: Mustafizur Rahman
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 16.2:
+        non_striker: Mustafizur Rahman
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 16.3:
+        non_striker: Mustafizur Rahman
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+        wicket:
+          player_out: Taskin Ahmed
+          kind: bowled

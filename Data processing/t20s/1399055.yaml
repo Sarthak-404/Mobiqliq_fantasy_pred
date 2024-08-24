@@ -1,0 +1,891 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hangzhou
+  dates:
+  - '2023-09-21'
+  gender: female
+  match_type: T20
+  match_type_number: 1666
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    India:
+    - S Mandhana
+    - Shafali Verma
+    - JI Rodrigues
+    - RM Ghosh
+    - KS Ahuja
+    - DB Sharma
+    - DP Vaidya
+    - AB Kaur
+    - P Vastrakar
+    - M Mani
+    - RS Gayakwad
+    Malaysia:
+    - Ainna Hamizah Hashim
+    - WA Duraisingam
+    - Mas Elysa
+    - Wan Julia
+    - Mahirah Izzati Ismail
+    - Aina Najwa
+    - Wan Nor Zulaika
+    - Nur Arianna Natsya
+    - Aisya Eleesa
+    - Nur Dania Syuhada
+    - Nik Nur Atiela
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      AB Kaur: 9565fda6
+      Aina Najwa: 31453abb
+      Ainna Hamizah Hashim: 4c7744de
+      Aisya Eleesa: 2cd18a73
+      Arif Ansari: 95957b9e
+      Asif Yaqoob: 6b35790c
+      DB Sharma: 201fef33
+      DP Vaidya: f9ded29b
+      GF Labrooy: 8e088dbc
+      JI Rodrigues: cb08b611
+      KS Ahuja: '58593620'
+      M Mani: 8d1ade08
+      Mahirah Izzati Ismail: b9b32e3c
+      Mas Elysa: 857de42e
+      Nik Nur Atiela: cfdfe39c
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      P Vastrakar: 8026ea72
+      RM Ghosh: 721e0199
+      RS Gayakwad: 237ec05b
+      RSA Palliyaguruge: 4339c19d
+      S Mandhana: 5d2eda89
+      Shafali Verma: d8f59089
+      WA Duraisingam: 7467fe01
+      Wan Julia: bee0c85c
+      Wan Nor Zulaika: ae99724d
+  teams:
+  - India
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - A Natarajan
+  - Asif Yaqoob
+  venue: Zhejiang University of Technology Cricket Field
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Shafali Verma
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 0.6:
+        non_striker: Shafali Verma
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 1.2:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 1.5:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 1.6:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.7:
+        non_striker: S Mandhana
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 1.8:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.1:
+        non_striker: S Mandhana
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 2.2:
+        non_striker: S Mandhana
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.4:
+        non_striker: S Mandhana
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.5:
+        non_striker: Shafali Verma
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: Shafali Verma
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: Shafali Verma
+        bowler: WA Duraisingam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: Shafali Verma
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 3.4:
+        non_striker: S Mandhana
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 3.5:
+        non_striker: S Mandhana
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.6:
+        non_striker: Shafali Verma
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.7:
+        non_striker: Shafali Verma
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: S Mandhana
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafali Verma
+    - 4.2:
+        non_striker: S Mandhana
+        bowler: Aisya Eleesa
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Shafali Verma
+    - 4.3:
+        non_striker: S Mandhana
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.4:
+        non_striker: S Mandhana
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.5:
+        non_striker: S Mandhana
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 4.6:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.7:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - Ainna Hamizah Hashim
+          kind: caught
+    - 5.3:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 5.4:
+        non_striker: JI Rodrigues
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafali Verma
+    - 5.5:
+        non_striker: JI Rodrigues
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 5.6:
+        non_striker: Shafali Verma
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.1:
+        non_striker: Shafali Verma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.2:
+        non_striker: JI Rodrigues
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 6.3:
+        non_striker: JI Rodrigues
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 6.4:
+        non_striker: JI Rodrigues
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 6.5:
+        non_striker: JI Rodrigues
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 6.6:
+        non_striker: Shafali Verma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 7.1:
+        non_striker: JI Rodrigues
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 7.2:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 7.3:
+        non_striker: JI Rodrigues
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 7.4:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 7.5:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 7.6:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 8.1:
+        non_striker: JI Rodrigues
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 8.2:
+        non_striker: Shafali Verma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 8.3:
+        non_striker: Shafali Verma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 8.4:
+        non_striker: Shafali Verma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 8.5:
+        non_striker: JI Rodrigues
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 8.6:
+        non_striker: JI Rodrigues
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 9.1:
+        non_striker: JI Rodrigues
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Shafali Verma
+    - 9.2:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 9.3:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 9.4:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 9.5:
+        non_striker: JI Rodrigues
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 9.6:
+        non_striker: Shafali Verma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 9.7:
+        non_striker: JI Rodrigues
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 10.1:
+        non_striker: Shafali Verma
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.2:
+        non_striker: JI Rodrigues
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 10.3:
+        non_striker: JI Rodrigues
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 10.4:
+        non_striker: JI Rodrigues
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 10.5:
+        non_striker: Shafali Verma
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.6:
+        non_striker: JI Rodrigues
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 11.1:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.2:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 11.3:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 11.4:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JI Rodrigues
+    - 11.5:
+        non_striker: JI Rodrigues
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 11.6:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 11.7:
+        non_striker: Shafali Verma
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 12.1:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 12.2:
+        non_striker: Shafali Verma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 12.3:
+        non_striker: Shafali Verma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.4:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 12.5:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 12.6:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          kind: lbw
+    - 13.1:
+        non_striker: RM Ghosh
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 13.2:
+        non_striker: RM Ghosh
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.3:
+        non_striker: JI Rodrigues
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 13.4:
+        non_striker: RM Ghosh
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 13.5:
+        non_striker: RM Ghosh
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.6:
+        non_striker: JI Rodrigues
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 14.1:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 14.2:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh
+    - 14.3:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 14.4:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 14.5:
+        non_striker: JI Rodrigues
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 14.6:
+        non_striker: RM Ghosh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        non_striker: WA Duraisingam
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 0.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam

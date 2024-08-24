@@ -1,0 +1,2135 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2024-02-04'
+  gender: male
+  match_type: T20
+  match_type_number: 2449
+  outcome:
+    winner: Thailand
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - C Chatphaisan
+  players:
+    Singapore:
+    - Aritra Dutta
+    - R Rohan
+    - R Gaznavi
+    - S Chandramohan
+    - AE Paraam
+    - Aman Desai
+    - Avi Dixit
+    - R Kalimuthu
+    - S Banamali
+    - AR Puri
+    - H Bharadwaj
+    Thailand:
+    - DF Jacobs
+    - C Chatphaisan
+    - AP Yadav
+    - AV Lazarus
+    - J Coetzee
+    - MK Thakur
+    - C Pengkumta
+    - N Nuntarach
+    - Y Saranonnakkun
+    - Sarawut Maliwan
+    - N Senamontree
+  registry:
+    people:
+      AE Paraam: b56f5b6f
+      AP Yadav: a5501504
+      AR Puri: 1f490b28
+      AV Lazarus: 30c917bf
+      Aman Desai: c10fd8f9
+      Aritra Dutta: f3a5c378
+      Avi Dixit: cf17c429
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      DF Jacobs: de896b79
+      Dorji: a6b688ef
+      H Bharadwaj: 2e89652e
+      IGS Arsa: 68d52634
+      Iftikhar Ahmed: 973d561e
+      J Coetzee: 3ad06915
+      MK Thakur: 2d9451cc
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      Osama Saad Alnadwi: a7e2fb32
+      R Gaznavi: '0079f139'
+      R Kalimuthu: 5892ac75
+      R Rohan: baf0fc26
+      S Banamali: 4d9dfc7f
+      S Chandramohan: 2a6ccc1c
+      Sarawut Maliwan: 36a0a88c
+      V Kalidas: 42d76418
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Singapore
+  - Thailand
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - IGS Arsa
+  - V Kalidas
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: J Coetzee
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.2:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.3:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Rohan
+        batsman: Aritra Dutta
+    - 0.4:
+        non_striker: Aritra Dutta
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 0.5:
+        non_striker: Aritra Dutta
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 0.6:
+        non_striker: Aritra Dutta
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 1.1:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+        wicket:
+          player_out: Aritra Dutta
+          fielders:
+          - AP Yadav
+          kind: caught
+    - 1.2:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+        wicket:
+          player_out: R Gaznavi
+          fielders:
+          - Y Saranonnakkun
+          kind: caught
+    - 1.3:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chandramohan
+    - 1.4:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 1.5:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 1.6:
+        non_striker: S Chandramohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 1.7:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+        wicket:
+          player_out: S Chandramohan
+          kind: lbw
+    - 2.1:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AE Paraam
+        batsman: R Rohan
+    - 2.2:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AE Paraam
+        batsman: R Rohan
+    - 2.3:
+        non_striker: R Rohan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Paraam
+    - 2.4:
+        non_striker: R Rohan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Paraam
+    - 2.5:
+        non_striker: R Rohan
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 2.6:
+        non_striker: AE Paraam
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 3.1:
+        non_striker: AE Paraam
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 3.2:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Paraam
+    - 3.3:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Paraam
+    - 3.4:
+        non_striker: R Rohan
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 3.5:
+        non_striker: AE Paraam
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 3.6:
+        non_striker: AE Paraam
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 4.1:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 4.2:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 4.3:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 4.4:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Paraam
+    - 4.5:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 4.6:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 5.1:
+        non_striker: R Rohan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 5.2:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 5.3:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 5.4:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 5.5:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 5.6:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rohan
+    - 5.7:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rohan
+    - 6.1:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 6.2:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 6.3:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 6.4:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 6.5:
+        non_striker: AE Paraam
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 6.6:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Paraam
+    - 7.1:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rohan
+    - 7.2:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 7.3:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 7.4:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 7.5:
+        non_striker: R Rohan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 7.6:
+        non_striker: AE Paraam
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 7.7:
+        non_striker: R Rohan
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 8.1:
+        non_striker: R Rohan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 8.2:
+        non_striker: AE Paraam
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 8.3:
+        non_striker: AE Paraam
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 8.4:
+        non_striker: R Rohan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Paraam
+    - 8.5:
+        non_striker: R Rohan
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Paraam
+    - 8.6:
+        non_striker: AE Paraam
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 9.1:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Paraam
+        wicket:
+          player_out: AE Paraam
+          fielders:
+          - AV Lazarus
+          kind: caught
+    - 9.2:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 9.3:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aman Desai
+    - 9.4:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 9.5:
+        non_striker: Aman Desai
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 9.6:
+        non_striker: R Rohan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 10.1:
+        non_striker: Aman Desai
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+        wicket:
+          player_out: R Rohan
+          fielders:
+          - AP Yadav
+          kind: stumped
+    - 10.2:
+        non_striker: Aman Desai
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Avi Dixit
+    - 10.3:
+        non_striker: Aman Desai
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+    - 10.4:
+        non_striker: Aman Desai
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 10.5:
+        non_striker: Avi Dixit
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 10.6:
+        non_striker: Avi Dixit
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 11.1:
+        non_striker: Aman Desai
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 11.2:
+        non_striker: Avi Dixit
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 11.3:
+        non_striker: Aman Desai
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 11.4:
+        non_striker: Avi Dixit
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 11.5:
+        non_striker: Avi Dixit
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 11.6:
+        non_striker: Aman Desai
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Avi Dixit
+    - 12.1:
+        non_striker: Avi Dixit
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 12.2:
+        non_striker: Avi Dixit
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 12.3:
+        non_striker: Avi Dixit
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 12.4:
+        non_striker: Avi Dixit
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 12.5:
+        non_striker: Aman Desai
+        bowler: J Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Avi Dixit
+    - 12.6:
+        non_striker: Aman Desai
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+    - 12.7:
+        non_striker: Aman Desai
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 13.1:
+        non_striker: Aman Desai
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Avi Dixit
+    - 13.2:
+        non_striker: Avi Dixit
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aman Desai
+    - 13.3:
+        non_striker: Aman Desai
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+    - 13.4:
+        non_striker: Aman Desai
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 13.5:
+        non_striker: Avi Dixit
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 13.6:
+        non_striker: Avi Dixit
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 14.1:
+        non_striker: Avi Dixit
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 14.2:
+        non_striker: Avi Dixit
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 14.3:
+        non_striker: Aman Desai
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 14.4:
+        non_striker: Avi Dixit
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 14.5:
+        non_striker: Avi Dixit
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 14.6:
+        non_striker: Avi Dixit
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 14.7:
+        non_striker: Aman Desai
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Avi Dixit
+    - 14.8:
+        non_striker: Aman Desai
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 15.1:
+        non_striker: Aman Desai
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 15.2:
+        non_striker: Avi Dixit
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 15.3:
+        non_striker: Aman Desai
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+    - 15.4:
+        non_striker: Aman Desai
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 15.5:
+        non_striker: Avi Dixit
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aman Desai
+    - 15.6:
+        non_striker: Avi Dixit
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 16.1:
+        non_striker: Avi Dixit
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          kind: lbw
+    - 16.2:
+        non_striker: Avi Dixit
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: R Kalimuthu
+    - 16.3:
+        non_striker: R Kalimuthu
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 16.4:
+        non_striker: Avi Dixit
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kalimuthu
+    - 16.5:
+        non_striker: R Kalimuthu
+        bowler: N Nuntarach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Avi Dixit
+    - 16.6:
+        non_striker: R Kalimuthu
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+    - 16.7:
+        non_striker: R Kalimuthu
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avi Dixit
+    - 16.8:
+        non_striker: Avi Dixit
+        bowler: N Nuntarach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Kalimuthu
+    - 17.1:
+        non_striker: R Kalimuthu
+        bowler: MK Thakur
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Avi Dixit
+    - 17.2:
+        non_striker: Avi Dixit
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kalimuthu
+    - 17.3:
+        non_striker: R Kalimuthu
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Avi Dixit
+    - 17.4:
+        non_striker: R Kalimuthu
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avi Dixit
+        wicket:
+          player_out: Avi Dixit
+          kind: lbw
+    - 17.5:
+        non_striker: R Kalimuthu
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Banamali
+    - 17.6:
+        non_striker: S Banamali
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kalimuthu
+    - 17.7:
+        non_striker: S Banamali
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kalimuthu
+    - 18.1:
+        non_striker: R Kalimuthu
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Banamali
+        wicket:
+          player_out: S Banamali
+          fielders:
+          - MK Thakur
+          kind: caught
+    - 18.2:
+        non_striker: R Kalimuthu
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Puri
+    - 18.3:
+        non_striker: AR Puri
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Kalimuthu
+    - 18.4:
+        non_striker: R Kalimuthu
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Puri
+    - 18.5:
+        non_striker: R Kalimuthu
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Puri
+    - 18.6:
+        non_striker: R Kalimuthu
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Puri
+    - 19.1:
+        non_striker: R Kalimuthu
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Puri
+    - 19.2:
+        non_striker: AR Puri
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Kalimuthu
+    - 19.3:
+        non_striker: AR Puri
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Kalimuthu
+    - 19.4:
+        non_striker: AR Puri
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Kalimuthu
+    - 19.5:
+        non_striker: AR Puri
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Kalimuthu
+    - 19.6:
+        non_striker: R Kalimuthu
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Puri
+        wicket:
+          player_out: AR Puri
+          fielders:
+          - AP Yadav
+          kind: run out
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: DF Jacobs
+    - 0.2:
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: DF Jacobs
+    - 0.3:
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: DF Jacobs
+    - 0.4:
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: DF Jacobs
+    - 0.5:
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: DF Jacobs
+    - 0.6:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DF Jacobs
+    - 1.1:
+        non_striker: DF Jacobs
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 1.2:
+        non_striker: DF Jacobs
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 1.3:
+        non_striker: C Chatphaisan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DF Jacobs
+    - 1.4:
+        non_striker: DF Jacobs
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 1.5:
+        non_striker: DF Jacobs
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 1.6:
+        non_striker: DF Jacobs
+        bowler: S Banamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Chatphaisan
+    - 1.7:
+        non_striker: DF Jacobs
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 2.1:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DF Jacobs
+    - 2.2:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DF Jacobs
+    - 2.3:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DF Jacobs
+        wicket:
+          player_out: DF Jacobs
+          fielders:
+          - Aman Desai
+          kind: caught
+    - 2.4:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.5:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.6:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.1:
+        non_striker: AP Yadav
+        bowler: S Banamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Chatphaisan
+    - 3.2:
+        non_striker: AP Yadav
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 3.3:
+        non_striker: AP Yadav
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 3.4:
+        non_striker: AP Yadav
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 3.5:
+        non_striker: AP Yadav
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 3.6:
+        non_striker: AP Yadav
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 3.7:
+        non_striker: C Chatphaisan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.1:
+        non_striker: AP Yadav
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.2:
+        non_striker: AP Yadav
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.3:
+        non_striker: AP Yadav
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 4.4:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.5:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 4.6:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 5.1:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 5.2:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Chatphaisan
+    - 5.3:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.4:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 5.5:
+        non_striker: C Chatphaisan
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.6:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 6.1:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 6.2:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 6.3:
+        non_striker: AP Yadav
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 6.4:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 6.5:
+        non_striker: AP Yadav
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 6.6:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.1:
+        non_striker: C Chatphaisan
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 7.2:
+        non_striker: C Chatphaisan
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.3:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 7.4:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 7.5:
+        non_striker: C Chatphaisan
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.6:
+        non_striker: AP Yadav
+        bowler: AE Paraam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 8.1:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.2:
+        non_striker: AP Yadav
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Chatphaisan
+    - 8.3:
+        non_striker: AP Yadav
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 8.4:
+        non_striker: AP Yadav
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 8.5:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 8.6:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.7:
+        non_striker: AP Yadav
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 9.1:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 9.2:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 9.3:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+        wicket:
+          player_out: AP Yadav
+          fielders:
+          - R Rohan
+          kind: caught
+    - 9.4:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 9.5:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 9.6:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 9.7:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 9.8:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 9.9:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 10.1:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 10.2:
+        non_striker: AV Lazarus
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 10.3:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 10.4:
+        non_striker: AV Lazarus
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 10.5:
+        non_striker: AV Lazarus
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 10.6:
+        non_striker: AV Lazarus
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 11.1:
+        non_striker: AV Lazarus
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 11.2:
+        non_striker: AV Lazarus
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 11.3:
+        non_striker: AV Lazarus
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 11.4:
+        non_striker: AV Lazarus
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 11.5:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.6:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 12.1:
+        non_striker: AV Lazarus
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 12.2:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 12.3:
+        non_striker: AV Lazarus
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 12.4:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 12.5:
+        non_striker: AV Lazarus
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 12.6:
+        non_striker: C Chatphaisan
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 13.1:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AV Lazarus
+    - 13.2:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 13.3:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 13.4:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          fielders:
+          - Aman Desai
+          kind: caught
+    - 13.5:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 13.6:
+        non_striker: J Coetzee
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 14.1:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 14.2:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 14.3:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 14.4:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 14.5:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 14.6:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 15.1:
+        non_striker: J Coetzee
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 15.2:
+        non_striker: J Coetzee
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 15.3:
+        non_striker: J Coetzee
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 15.4:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 15.5:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Coetzee
+    - 15.6:
+        non_striker: C Chatphaisan
+        bowler: Avi Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 16.1:
+        non_striker: C Chatphaisan
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 16.2:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 16.3:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 16.4:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 16.5:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 16.6:
+        non_striker: J Coetzee
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 17.1:
+        non_striker: C Chatphaisan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 17.2:
+        non_striker: J Coetzee
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 17.3:
+        non_striker: J Coetzee
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 17.4:
+        non_striker: C Chatphaisan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 17.5:
+        non_striker: C Chatphaisan
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 17.6:
+        non_striker: J Coetzee
+        bowler: S Banamali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 18.1:
+        non_striker: C Chatphaisan
+        bowler: R Kalimuthu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Coetzee

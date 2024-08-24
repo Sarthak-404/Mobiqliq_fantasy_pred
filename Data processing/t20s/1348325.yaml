@@ -1,0 +1,2126 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2023-01-15'
+  gender: male
+  match_type: T20
+  match_type_number: 1989
+  outcome:
+    winner: Zimbabwe
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - RP Burl
+  players:
+    Ireland:
+    - A Balbirnie
+    - GR Adair
+    - ST Doheny
+    - HT Tector
+    - C Campher
+    - GH Dockrell
+    - NA Rock
+    - MR Adair
+    - F Hand
+    - BJ McCarthy
+    - B White
+    Zimbabwe:
+    - T Marumani
+    - I Kaia
+    - CR Ervine
+    - W Madhevere
+    - T Munyonga
+    - RP Burl
+    - C Madande
+    - LM Jongwe
+    - WP Masakadza
+    - R Ngarava
+    - TL Chatara
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AJ Pycroft: 685d3f80
+      B White: 1a448be0
+      BJ McCarthy: 3766056b
+      C Campher: 478a63e7
+      C Madande: 3560a786
+      C Phiri: ade73404
+      CR Ervine: c96311d4
+      F Hand: e3fe4b49
+      F Mutizwa: d3e83eef
+      GH Dockrell: 99cddc5e
+      GR Adair: 4ec96094
+      HT Tector: 59ea70a4
+      I Chabi: 5e39110e
+      I Kaia: 5ad8c974
+      L Rusere: 6a4734ae
+      LM Jongwe: b8704508
+      MR Adair: fc55ec67
+      NA Rock: 43f4087c
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      ST Doheny: 4992d6f6
+      T Marumani: 3d5d51a5
+      T Munyonga: fbcfa528
+      TL Chatara: 5bbabe59
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+  teams:
+  - Ireland
+  - Zimbabwe
+  toss:
+    winner: Zimbabwe
+    decision: field
+  umpires:
+  - F Mutizwa
+  - L Rusere
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GR Adair
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 0.2:
+        non_striker: A Balbirnie
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.3:
+        non_striker: A Balbirnie
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 0.4:
+        non_striker: GR Adair
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 0.5:
+        non_striker: A Balbirnie
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - CR Ervine
+          kind: caught
+    - 0.6:
+        non_striker: A Balbirnie
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.2:
+        non_striker: ST Doheny
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.3:
+        non_striker: ST Doheny
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.4:
+        non_striker: ST Doheny
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 1.5:
+        non_striker: ST Doheny
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 1.6:
+        non_striker: ST Doheny
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: A Balbirnie
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          fielders:
+          - WP Masakadza
+          kind: caught
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.4:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Balbirnie
+    - 2.5:
+        non_striker: A Balbirnie
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.6:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.1:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 3.2:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 3.3:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.4:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HT Tector
+    - 3.5:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: bowled
+    - 3.6:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 4.1:
+        non_striker: C Campher
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 4.2:
+        non_striker: C Campher
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.3:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Campher
+    - 4.4:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 4.5:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 4.6:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 4.7:
+        non_striker: C Campher
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 5.1:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 5.2:
+        non_striker: C Campher
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.3:
+        non_striker: C Campher
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 5.4:
+        non_striker: C Campher
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.5:
+        non_striker: C Campher
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 5.6:
+        non_striker: C Campher
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 5.7:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 6.1:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 6.2:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.3:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 6.4:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.5:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 6.6:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.1:
+        non_striker: C Campher
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 7.2:
+        non_striker: C Campher
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.3:
+        non_striker: HT Tector
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 7.4:
+        non_striker: C Campher
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.5:
+        non_striker: HT Tector
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 7.6:
+        non_striker: HT Tector
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.1:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 8.2:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Campher
+    - 8.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.4:
+        non_striker: C Campher
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.6:
+        non_striker: C Campher
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.7:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.1:
+        non_striker: C Campher
+        bowler: I Kaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.2:
+        non_striker: HT Tector
+        bowler: I Kaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.3:
+        non_striker: HT Tector
+        bowler: I Kaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.4:
+        non_striker: HT Tector
+        bowler: I Kaia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 9.5:
+        non_striker: C Campher
+        bowler: I Kaia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 9.6:
+        non_striker: C Campher
+        bowler: I Kaia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.1:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 10.2:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 10.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 10.4:
+        non_striker: C Campher
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 10.6:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.1:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Campher
+    - 11.2:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.3:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 11.4:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 11.5:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.6:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.7:
+        non_striker: C Campher
+        bowler: WP Masakadza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 12.1:
+        non_striker: C Campher
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 12.2:
+        non_striker: C Campher
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.3:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 12.4:
+        non_striker: C Campher
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.5:
+        non_striker: HT Tector
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 12.6:
+        non_striker: C Campher
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.1:
+        non_striker: C Campher
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.2:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - C Madande
+          kind: caught
+    - 13.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.4:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.6:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.1:
+        non_striker: GH Dockrell
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.2:
+        non_striker: HT Tector
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.3:
+        non_striker: GH Dockrell
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          kind: bowled
+    - 14.4:
+        non_striker: GH Dockrell
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 14.5:
+        non_striker: NA Rock
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.6:
+        non_striker: GH Dockrell
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 15.1:
+        non_striker: NA Rock
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.2:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 15.3:
+        non_striker: NA Rock
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.4:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          fielders:
+          - CR Ervine
+          kind: caught
+    - 15.5:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 15.6:
+        non_striker: GH Dockrell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 16.1:
+        non_striker: MR Adair
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 16.2:
+        non_striker: MR Adair
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 16.3:
+        non_striker: MR Adair
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.4:
+        non_striker: GH Dockrell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 16.5:
+        non_striker: MR Adair
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.6:
+        non_striker: GH Dockrell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 17.1:
+        non_striker: MR Adair
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.2:
+        non_striker: GH Dockrell
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 17.3:
+        non_striker: GH Dockrell
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.4:
+        non_striker: MR Adair
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.5:
+        non_striker: GH Dockrell
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.6:
+        non_striker: MR Adair
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 18.1:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 18.2:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 18.3:
+        non_striker: MR Adair
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 18.4:
+        non_striker: MR Adair
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 18.5:
+        non_striker: MR Adair
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 18.6:
+        non_striker: GH Dockrell
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          kind: bowled
+    - 19.1:
+        non_striker: F Hand
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - W Madhevere
+          kind: caught
+    - 19.2:
+        non_striker: F Hand
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McCarthy
+    - 19.3:
+        non_striker: F Hand
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+        wicket:
+          player_out: BJ McCarthy
+          fielders:
+          - WP Masakadza
+          kind: caught
+    - 19.4:
+        non_striker: F Hand
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B White
+    - 19.5:
+        non_striker: B White
+        bowler: LM Jongwe
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: F Hand
+    - 19.6:
+        non_striker: B White
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: F Hand
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 0.2:
+        non_striker: T Marumani
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 0.3:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.4:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.5:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 0.6:
+        non_striker: T Marumani
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 1.1:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 1.3:
+        non_striker: T Marumani
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Kaia
+    - 1.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.5:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Marumani
+    - 1.6:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 2.1:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 2.2:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Kaia
+    - 2.3:
+        non_striker: T Marumani
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 2.4:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 2.5:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 2.6:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 3.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CR Ervine
+    - 3.3:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 3.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.5:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 3.6:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 3.7:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: I Kaia
+    - 4.1:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Kaia
+    - 4.2:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Kaia
+    - 4.3:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 4.4:
+        non_striker: I Kaia
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.5:
+        non_striker: I Kaia
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 4.6:
+        non_striker: I Kaia
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.1:
+        non_striker: CR Ervine
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 5.2:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 5.3:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 5.4:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 5.5:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.6:
+        non_striker: I Kaia
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 6.1:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 6.2:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 6.3:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 6.4:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.5:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 6.6:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.1:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 7.2:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 7.3:
+        non_striker: I Kaia
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 7.4:
+        non_striker: I Kaia
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.5:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 7.6:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Kaia
+    - 8.1:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.2:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.3:
+        non_striker: I Kaia
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.4:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 8.5:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+        wicket:
+          player_out: I Kaia
+          fielders:
+          - MR Adair
+          kind: caught
+    - 8.6:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 9.1:
+        non_striker: W Madhevere
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 9.2:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 9.3:
+        non_striker: W Madhevere
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 9.4:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 9.5:
+        non_striker: W Madhevere
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 9.6:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 10.1:
+        non_striker: W Madhevere
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.2:
+        non_striker: W Madhevere
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 10.3:
+        non_striker: W Madhevere
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 10.4:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - A Balbirnie
+          kind: caught
+    - 10.5:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Munyonga
+    - 10.6:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 11.1:
+        non_striker: T Munyonga
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 11.2:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Munyonga
+    - 11.3:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 11.4:
+        non_striker: T Munyonga
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 11.5:
+        non_striker: CR Ervine
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 11.6:
+        non_striker: T Munyonga
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 12.1:
+        non_striker: T Munyonga
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 12.2:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 12.3:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 12.4:
+        non_striker: T Munyonga
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 12.5:
+        non_striker: T Munyonga
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 12.6:
+        non_striker: T Munyonga
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 13.1:
+        non_striker: T Munyonga
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 13.2:
+        non_striker: T Munyonga
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 13.3:
+        non_striker: T Munyonga
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 13.4:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 13.5:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 13.6:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 14.1:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Munyonga
+    - 14.2:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 14.3:
+        non_striker: T Munyonga
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 14.4:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+        wicket:
+          player_out: T Munyonga
+          fielders:
+          - C Campher
+          kind: caught
+    - 14.5:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 14.6:
+        non_striker: CR Ervine
+        bowler: B White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.1:
+        non_striker: CR Ervine
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.2:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 15.3:
+        non_striker: CR Ervine
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.4:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 15.5:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 15.6:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 16.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 16.2:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 16.3:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 16.4:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 16.5:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 16.6:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 16.7:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - C Campher
+          kind: caught
+    - 17.1:
+        non_striker: C Madande
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.2:
+        non_striker: RP Burl
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 17.3:
+        non_striker: RP Burl
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 17.4:
+        non_striker: C Madande
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 17.5:
+        non_striker: C Madande
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 17.6:
+        non_striker: C Madande
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 17.7:
+        non_striker: C Madande
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 18.1:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 18.2:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 18.3:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 18.4:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Madande
+    - 18.5:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+        wicket:
+          player_out: C Madande
+          kind: bowled
+    - 18.6:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Jongwe
+    - 18.7:
+        non_striker: RP Burl
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe

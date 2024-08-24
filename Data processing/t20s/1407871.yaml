@@ -1,0 +1,2105 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-11-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wong Nai Chung Gap
+  dates:
+  - '2023-11-19'
+  gender: female
+  match_type: T20
+  match_type_number: 1699
+  outcome:
+    winner: Hong Kong
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - M Hill
+  players:
+    Tanzania:
+    - S Mtae
+    - FO Kibasu
+    - M Pascal
+    - HM Omary
+    - NJ Pius
+    - PZ Kamunya
+    - A Mohamed
+    - SF Jerome
+    - SH Mohamedi
+    - MH Ushanga
+    - S Kizito
+    Hong Kong:
+    - NT Miles
+    - M Hill
+    - Shanzeen Shahzad
+    - KY Chan
+    - WK Lai
+    - M Bibi
+    - EK Hubbard
+    - Iqra Sahar
+    - Ruchitha Venkatesh
+    - Hiu Ying Cheung
+    - M Wai Siu
+  registry:
+    people:
+      A Mohamed: 86a68879
+      EK Hubbard: 1486e3fd
+      FO Kibasu: 1c726c76
+      G Sankaranarayanan: a4a348f9
+      HM Omary: 2cbe5db1
+      Hiu Ying Cheung: 9efce9fd
+      Huang Zhuo: edbbe245
+      Iqra Sahar: aaccb8ca
+      John Prakash: b5f3d429
+      KY Chan: 6348c6e9
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      M Pascal: 729c5ab5
+      M Wai Siu: 74eecff4
+      MH Ushanga: '0286eabe'
+      NJ Pius: f4270fc7
+      NT Miles: d27d0835
+      PZ Kamunya: 6e60bbe2
+      Ruchitha Venkatesh: 106135f5
+      S Kizito: d91a936b
+      S Mtae: bb641155
+      SF Jerome: e393c6c1
+      SH Mohamedi: 10ab6a37
+      SJ D'Cruz: ed62962b
+      Shanzeen Shahzad: ce291858
+      WK Lai: 6ab99b17
+  teams:
+  - Tanzania
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - John Prakash
+  - SJ D'Cruz
+  venue: Hong Kong Cricket Club
+innings:
+- 1st innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.2:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.3:
+        bowler: Iqra Sahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.4:
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: FO Kibasu
+        batsman: S Mtae
+    - 0.5:
+        non_striker: S Mtae
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+        wicket:
+          player_out: FO Kibasu
+          fielders:
+          - WK Lai
+          kind: caught
+    - 0.6:
+        non_striker: S Mtae
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 0.7:
+        non_striker: S Mtae
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 1.1:
+        non_striker: S Mtae
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 1.2:
+        non_striker: S Mtae
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 1.3:
+        non_striker: S Mtae
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 1.4:
+        non_striker: S Mtae
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 1.5:
+        non_striker: S Mtae
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 1.6:
+        non_striker: S Mtae
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 2.1:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 2.2:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mtae
+    - 2.3:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 2.4:
+        non_striker: S Mtae
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 2.5:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mtae
+    - 2.6:
+        non_striker: S Mtae
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pascal
+    - 3.1:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 3.2:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 3.3:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mtae
+    - 3.4:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mtae
+    - 3.5:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 3.6:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mtae
+    - 3.7:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 3.8:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 3.9:
+        non_striker: S Mtae
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 4.1:
+        non_striker: S Mtae
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 4.2:
+        non_striker: S Mtae
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 4.3:
+        non_striker: S Mtae
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 4.4:
+        non_striker: S Mtae
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 4.5:
+        non_striker: S Mtae
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pascal
+    - 4.6:
+        non_striker: S Mtae
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Pascal
+    - 5.1:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 5.2:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+        wicket:
+          player_out: S Mtae
+          fielders:
+          - Ruchitha Venkatesh
+          kind: caught
+    - 5.3:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 5.4:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 5.5:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Omary
+    - 5.6:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 6.1:
+        non_striker: HM Omary
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 6.2:
+        non_striker: M Pascal
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 6.3:
+        non_striker: HM Omary
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 6.4:
+        non_striker: M Pascal
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 6.5:
+        non_striker: M Pascal
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 6.6:
+        non_striker: HM Omary
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Pascal
+    - 6.7:
+        non_striker: HM Omary
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 7.1:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 7.2:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 7.3:
+        non_striker: HM Omary
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 7.4:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 7.5:
+        non_striker: M Pascal
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 7.6:
+        non_striker: HM Omary
+        bowler: M Wai Siu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 8.1:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 8.2:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 8.3:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Omary
+    - 8.4:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 8.5:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 8.6:
+        non_striker: HM Omary
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 9.1:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 9.2:
+        non_striker: HM Omary
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 9.3:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 9.4:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 9.5:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HM Omary
+    - 9.6:
+        non_striker: HM Omary
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 9.7:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 10.1:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+        wicket:
+          player_out: HM Omary
+          fielders:
+          - M Bibi
+          kind: caught
+    - 10.2:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NJ Pius
+    - 10.3:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Pius
+        wicket:
+          player_out: NJ Pius
+          fielders:
+          - Hiu Ying Cheung
+          kind: caught
+    - 10.4:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PZ Kamunya
+    - 10.5:
+        non_striker: PZ Kamunya
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 10.6:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 10.7:
+        non_striker: M Pascal
+        bowler: Iqra Sahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 11.1:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 11.2:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 11.3:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 11.4:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 11.5:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 11.6:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 12.1:
+        non_striker: M Pascal
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 12.2:
+        non_striker: M Pascal
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 12.3:
+        non_striker: M Pascal
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PZ Kamunya
+    - 12.4:
+        non_striker: PZ Kamunya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pascal
+    - 12.5:
+        non_striker: PZ Kamunya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 12.6:
+        non_striker: PZ Kamunya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 13.1:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 13.2:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 13.3:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 13.4:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PZ Kamunya
+    - 13.5:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 13.6:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 14.1:
+        non_striker: PZ Kamunya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pascal
+    - 14.2:
+        non_striker: PZ Kamunya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pascal
+    - 14.3:
+        non_striker: PZ Kamunya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 14.4:
+        non_striker: M Pascal
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+    - 14.5:
+        non_striker: M Pascal
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PZ Kamunya
+    - 14.6:
+        non_striker: PZ Kamunya
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Pascal
+    - 15.1:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PZ Kamunya
+    - 15.2:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 15.3:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 15.4:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PZ Kamunya
+    - 15.5:
+        non_striker: PZ Kamunya
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 15.6:
+        non_striker: M Pascal
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PZ Kamunya
+    - 16.1:
+        non_striker: M Pascal
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PZ Kamunya
+        wicket:
+          player_out: PZ Kamunya
+          fielders:
+          - Hiu Ying Cheung
+          kind: caught
+    - 16.2:
+        non_striker: M Pascal
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mohamed
+    - 16.3:
+        non_striker: M Pascal
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mohamed
+    - 16.4:
+        non_striker: A Mohamed
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pascal
+    - 16.5:
+        non_striker: M Pascal
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mohamed
+        wicket:
+          player_out: A Mohamed
+          fielders:
+          - M Bibi
+          kind: caught
+    - 16.6:
+        non_striker: M Pascal
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Jerome
+        wicket:
+          player_out: SF Jerome
+          fielders:
+          - Hiu Ying Cheung
+          kind: caught
+    - 17.1:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Mohamedi
+        batsman: M Pascal
+    - 17.2:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Mohamedi
+        batsman: M Pascal
+    - 17.3:
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SH Mohamedi
+        batsman: M Pascal
+    - 17.4:
+        non_striker: M Pascal
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 17.5:
+        non_striker: M Pascal
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Mohamedi
+    - 17.6:
+        non_striker: SH Mohamedi
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Pascal
+    - 18.1:
+        non_striker: M Pascal
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+        wicket:
+          player_out: SH Mohamedi
+          fielders:
+          - M Bibi
+          kind: run out
+    - 18.2:
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MH Ushanga
+        batsman: M Pascal
+    - 18.3:
+        non_striker: MH Ushanga
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+        wicket:
+          player_out: M Pascal
+          kind: bowled
+    - 18.4:
+        non_striker: MH Ushanga
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kizito
+        wicket:
+          player_out: S Kizito
+          fielders:
+          - M Bibi
+          kind: caught
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.2:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.3:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.4:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.5:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Hill
+        batsman: NT Miles
+    - 0.6:
+        non_striker: M Hill
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.1:
+        non_striker: M Hill
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 1.2:
+        non_striker: M Hill
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 1.3:
+        non_striker: NT Miles
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          fielders:
+          - S Mtae
+          kind: caught
+    - 1.4:
+        non_striker: NT Miles
+        bowler: NJ Pius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 1.5:
+        non_striker: NT Miles
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 1.6:
+        non_striker: NT Miles
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 1.7:
+        non_striker: NT Miles
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.1:
+        non_striker: Shanzeen Shahzad
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 2.2:
+        non_striker: Shanzeen Shahzad
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 2.3:
+        non_striker: NT Miles
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.4:
+        non_striker: NT Miles
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 2.5:
+        non_striker: Shanzeen Shahzad
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 2.6:
+        non_striker: NT Miles
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shanzeen Shahzad
+    - 3.1:
+        non_striker: Shanzeen Shahzad
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.2:
+        non_striker: Shanzeen Shahzad
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 3.3:
+        non_striker: Shanzeen Shahzad
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 3.4:
+        non_striker: Shanzeen Shahzad
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 3.5:
+        non_striker: NT Miles
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.6:
+        non_striker: NT Miles
+        bowler: NJ Pius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.1:
+        non_striker: Shanzeen Shahzad
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 4.2:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.3:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 4.4:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 4.5:
+        non_striker: Shanzeen Shahzad
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 4.6:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 4.7:
+        non_striker: Shanzeen Shahzad
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 5.1:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 5.2:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 5.3:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 5.4:
+        non_striker: Shanzeen Shahzad
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.5:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 5.6:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 6.1:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 6.2:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 6.3:
+        non_striker: Shanzeen Shahzad
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 6.4:
+        non_striker: Shanzeen Shahzad
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 6.5:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shanzeen Shahzad
+    - 6.6:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 7.1:
+        non_striker: Shanzeen Shahzad
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 7.2:
+        non_striker: Shanzeen Shahzad
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.3:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+        wicket:
+          player_out: Shanzeen Shahzad
+          kind: bowled
+    - 7.4:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 7.5:
+        non_striker: NT Miles
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 7.6:
+        non_striker: KY Chan
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.1:
+        non_striker: NT Miles
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 8.2:
+        non_striker: KY Chan
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.3:
+        non_striker: KY Chan
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.4:
+        non_striker: KY Chan
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.5:
+        non_striker: KY Chan
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.6:
+        non_striker: KY Chan
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.1:
+        non_striker: NT Miles
+        bowler: S Mtae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 9.2:
+        non_striker: NT Miles
+        bowler: S Mtae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 9.3:
+        non_striker: NT Miles
+        bowler: S Mtae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 9.4:
+        non_striker: NT Miles
+        bowler: S Mtae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 9.5:
+        non_striker: KY Chan
+        bowler: S Mtae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 9.6:
+        non_striker: KY Chan
+        bowler: S Mtae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.1:
+        non_striker: NT Miles
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 10.2:
+        non_striker: KY Chan
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.3:
+        non_striker: KY Chan
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 10.4:
+        non_striker: NT Miles
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+        wicket:
+          player_out: KY Chan
+          kind: lbw
+    - 10.5:
+        non_striker: NT Miles
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 10.6:
+        non_striker: NT Miles
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 11.1:
+        non_striker: WK Lai
+        bowler: M Pascal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 11.2:
+        non_striker: WK Lai
+        bowler: M Pascal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 11.3:
+        non_striker: WK Lai
+        bowler: M Pascal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.4:
+        non_striker: NT Miles
+        bowler: M Pascal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 11.5:
+        non_striker: NT Miles
+        bowler: M Pascal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Lai
+    - 11.6:
+        non_striker: WK Lai
+        bowler: M Pascal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.1:
+        non_striker: WK Lai
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.2:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Lai
+    - 12.3:
+        non_striker: WK Lai
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 12.4:
+        non_striker: WK Lai
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.5:
+        non_striker: NT Miles
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Lai
+    - 12.6:
+        non_striker: WK Lai
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+        wicket:
+          player_out: NT Miles
+          fielders:
+          - M Pascal
+          kind: caught
+    - 13.1:
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Bibi
+        batsman: WK Lai
+    - 13.2:
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Bibi
+        batsman: WK Lai
+    - 13.3:
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Bibi
+        batsman: WK Lai
+    - 13.4:
+        non_striker: WK Lai
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bibi
+    - 13.5:
+        non_striker: WK Lai
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 13.6:
+        non_striker: WK Lai
+        bowler: S Kizito
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 14.1:
+        non_striker: WK Lai
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 14.2:
+        non_striker: WK Lai
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 14.3:
+        non_striker: WK Lai
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 14.4:
+        non_striker: M Bibi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 14.5:
+        non_striker: M Bibi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 14.6:
+        non_striker: M Bibi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 15.1:
+        non_striker: WK Lai
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 15.2:
+        non_striker: M Bibi
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Lai
+    - 15.3:
+        non_striker: M Bibi
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Lai
+    - 15.4:
+        non_striker: WK Lai
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 15.5:
+        non_striker: WK Lai
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 15.6:
+        non_striker: M Bibi
+        bowler: HM Omary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Lai
+    - 16.1:
+        non_striker: M Bibi
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+    - 16.2:
+        non_striker: M Bibi
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Lai
+        wicket:
+          player_out: WK Lai
+          fielders:
+          - S Mtae
+          kind: caught
+    - 16.3:
+        non_striker: M Bibi
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Hubbard
+    - 16.4:
+        non_striker: M Bibi
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Hubbard
+    - 16.5:
+        non_striker: M Bibi
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Hubbard
+    - 16.6:
+        non_striker: M Bibi
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EK Hubbard
+    - 17.1:
+        non_striker: EK Hubbard
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 17.2:
+        non_striker: EK Hubbard
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 17.3:
+        non_striker: EK Hubbard
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 17.4:
+        non_striker: EK Hubbard
+        bowler: MH Ushanga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bibi
+    - 17.5:
+        non_striker: EK Hubbard
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 17.6:
+        non_striker: M Bibi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Hubbard
+    - 17.7:
+        non_striker: EK Hubbard
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 18.1:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bibi
+    - 18.2:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bibi
+    - 18.3:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bibi
+    - 18.4:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bibi
+    - 18.5:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bibi
+    - 18.6:
+        non_striker: M Bibi
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EK Hubbard
+    - 18.7:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 18.8:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 18.9:
+        non_striker: EK Hubbard
+        bowler: A Mohamed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bibi
+    - 19.1:
+        non_striker: M Bibi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EK Hubbard

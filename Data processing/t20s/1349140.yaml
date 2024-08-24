@@ -1,0 +1,2220 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-12-23'
+  gender: male
+  match_type: T20
+  match_type_number: 1982
+  outcome:
+    winner: Uganda
+    by:
+      runs: 3
+  overs: 20
+  player_of_match:
+  - J Baguma
+  players:
+    Uganda:
+    - S Sesazi
+    - R Lutaaya
+    - E Hasahya
+    - K Waiswa
+    - CN Kakuru
+    - P Murungi
+    - J Miyaji
+    - B Masaba
+    - F Nsubuga
+    - J Baguma
+    - H Ssenyondo
+    Rwanda:
+    - O Tuyisenge
+    - E Dusingizimana
+    - D Ndikubwimana
+    - W Niyitanga
+    - E Sebareme
+    - C Rububagumya
+    - E Niyomugabo
+    - K Irakoze
+    - O Manishimwe
+    - M Akayezu
+    - I Ntirenganya
+  registry:
+    people:
+      B Masaba: f33cfd25
+      C Rububagumya: 8088632c
+      CN Kakuru: f6aed283
+      D Ndikubwimana: 3cbedf51
+      E Dusingizimana: c15e7ba4
+      E Hasahya: d3fcb126
+      E Kubwimana: bfc7799f
+      E Niyomugabo: 2dcac6ff
+      E Sebareme: f99a219a
+      EH Dusabemungu: ba3b4b09
+      F Nsubuga: 87e33d07
+      H Ssenyondo: 2b7609f1
+      I Ntirenganya: e73f6c4b
+      Itangishaka Olivier: 0ee3bb49
+      J Baguma: 8b46fc4f
+      J Miyaji: 414d8a10
+      K Irakoze: 9ccb6e52
+      K Waiswa: a3a275ec
+      M Akayezu: 1f3b9f8d
+      O Manishimwe: fb31ca49
+      O Tuyisenge: e6a6888f
+      P Murungi: fbdc5ab1
+      Patric Makumbi: e4c69c16
+      R Lutaaya: 04e0cdec
+      S Sesazi: c2c975f9
+      W Niyitanga: e7631adc
+  teams:
+  - Uganda
+  - Rwanda
+  toss:
+    winner: Rwanda
+    decision: field
+  umpires:
+  - EH Dusabemungu
+  - Patric Makumbi
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Lutaaya
+        batsman: S Sesazi
+    - 0.2:
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Lutaaya
+        batsman: S Sesazi
+    - 0.3:
+        non_striker: R Lutaaya
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+        wicket:
+          player_out: S Sesazi
+          fielders:
+          - D Ndikubwimana
+          kind: stumped
+    - 0.4:
+        non_striker: R Lutaaya
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Hasahya
+    - 0.5:
+        non_striker: R Lutaaya
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Hasahya
+    - 0.6:
+        non_striker: R Lutaaya
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Hasahya
+    - 1.1:
+        non_striker: E Hasahya
+        bowler: E Niyomugabo
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: R Lutaaya
+    - 1.2:
+        non_striker: E Hasahya
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Lutaaya
+    - 1.3:
+        non_striker: E Hasahya
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Lutaaya
+    - 1.4:
+        non_striker: E Hasahya
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Lutaaya
+    - 1.5:
+        non_striker: R Lutaaya
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Hasahya
+    - 1.6:
+        non_striker: R Lutaaya
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Hasahya
+    - 1.7:
+        non_striker: E Hasahya
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 2.1:
+        non_striker: R Lutaaya
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Hasahya
+    - 2.2:
+        non_striker: R Lutaaya
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Hasahya
+        wicket:
+          player_out: E Hasahya
+          fielders:
+          - D Ndikubwimana
+          kind: caught
+    - 2.3:
+        non_striker: R Lutaaya
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Waiswa
+    - 2.4:
+        non_striker: K Waiswa
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 2.5:
+        non_striker: K Waiswa
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 2.6:
+        non_striker: K Waiswa
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 3.1:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+    - 3.2:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+        wicket:
+          player_out: K Waiswa
+          kind: bowled
+    - 3.3:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Kakuru
+        wicket:
+          player_out: CN Kakuru
+          fielders:
+          - C Rububagumya
+          kind: caught
+    - 3.4:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Murungi
+    - 3.5:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 3.6:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Murungi
+    - 4.1:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 4.2:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 4.3:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 4.4:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+    - 4.5:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: R Lutaaya
+    - 4.6:
+        non_striker: R Lutaaya
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 4.7:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Lutaaya
+    - 5.1:
+        non_striker: P Murungi
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Lutaaya
+    - 5.2:
+        non_striker: P Murungi
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Lutaaya
+    - 5.3:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Murungi
+    - 5.4:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 5.5:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Murungi
+    - 5.6:
+        non_striker: R Lutaaya
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 5.7:
+        non_striker: P Murungi
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Lutaaya
+        wicket:
+          player_out: R Lutaaya
+          fielders:
+          - E Niyomugabo
+          kind: caught
+    - 6.1:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Miyaji
+        batsman: P Murungi
+    - 6.2:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 6.3:
+        non_striker: J Miyaji
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 6.4:
+        non_striker: P Murungi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 6.5:
+        non_striker: J Miyaji
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 6.6:
+        non_striker: J Miyaji
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 7.1:
+        non_striker: P Murungi
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 7.2:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 7.3:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 7.4:
+        non_striker: P Murungi
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 7.5:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 7.6:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+    - 8.1:
+        non_striker: P Murungi
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Miyaji
+    - 8.2:
+        non_striker: P Murungi
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 8.3:
+        non_striker: P Murungi
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 8.4:
+        non_striker: P Murungi
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Miyaji
+    - 8.5:
+        non_striker: P Murungi
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 8.6:
+        non_striker: P Murungi
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 9.1:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Murungi
+    - 9.2:
+        non_striker: P Murungi
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Miyaji
+    - 9.3:
+        non_striker: P Murungi
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 9.4:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Murungi
+        wicket:
+          player_out: P Murungi
+          fielders:
+          - E Sebareme
+          kind: caught
+    - 9.5:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 9.6:
+        non_striker: B Masaba
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 10.1:
+        non_striker: B Masaba
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 10.2:
+        non_striker: J Miyaji
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 10.3:
+        non_striker: J Miyaji
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 10.4:
+        non_striker: J Miyaji
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 10.5:
+        non_striker: B Masaba
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 10.6:
+        non_striker: B Masaba
+        bowler: E Sebareme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 11.1:
+        non_striker: B Masaba
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 11.2:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+    - 11.3:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Masaba
+    - 11.4:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Masaba
+    - 11.5:
+        non_striker: B Masaba
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 11.6:
+        non_striker: B Masaba
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 12.1:
+        non_striker: J Miyaji
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Masaba
+    - 12.2:
+        non_striker: J Miyaji
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Masaba
+    - 12.3:
+        non_striker: B Masaba
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Miyaji
+    - 12.4:
+        non_striker: B Masaba
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 12.5:
+        non_striker: J Miyaji
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Masaba
+        wicket:
+          player_out: B Masaba
+          kind: lbw
+    - 12.6:
+        non_striker: J Miyaji
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 13.1:
+        non_striker: F Nsubuga
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 13.2:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Nsubuga
+    - 13.3:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Nsubuga
+    - 13.4:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 13.5:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Nsubuga
+    - 13.6:
+        non_striker: J Miyaji
+        bowler: K Irakoze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Nsubuga
+    - 14.1:
+        non_striker: F Nsubuga
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 14.2:
+        non_striker: J Miyaji
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Nsubuga
+    - 14.3:
+        non_striker: F Nsubuga
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+        wicket:
+          player_out: F Nsubuga
+          fielders:
+          - C Rububagumya
+          - E Niyomugabo
+          kind: run out
+    - 14.4:
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Baguma
+        batsman: J Miyaji
+    - 14.5:
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Baguma
+        batsman: J Miyaji
+    - 14.6:
+        non_striker: J Baguma
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+    - 15.1:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Miyaji
+        wicket:
+          player_out: J Miyaji
+          fielders:
+          - E Kubwimana (sub)
+          kind: run out
+    - 15.2:
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Ssenyondo
+        batsman: J Baguma
+    - 15.3:
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Ssenyondo
+        batsman: J Baguma
+    - 15.4:
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: H Ssenyondo
+        batsman: J Baguma
+    - 15.5:
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Ssenyondo
+        batsman: J Baguma
+    - 15.6:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Ssenyondo
+    - 15.7:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+    - 15.8:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Ssenyondo
+    - 15.9:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+    - 16.1:
+        non_striker: H Ssenyondo
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baguma
+    - 16.2:
+        non_striker: J Baguma
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+    - 16.3:
+        non_striker: J Baguma
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+    - 16.4:
+        non_striker: J Baguma
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ssenyondo
+    - 16.5:
+        non_striker: H Ssenyondo
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baguma
+    - 16.6:
+        non_striker: H Ssenyondo
+        bowler: E Niyomugabo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baguma
+    - 17.1:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ssenyondo
+    - 17.2:
+        non_striker: H Ssenyondo
+        bowler: M Akayezu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Baguma
+    - 17.3:
+        non_striker: H Ssenyondo
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baguma
+    - 17.4:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ssenyondo
+    - 17.5:
+        non_striker: H Ssenyondo
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baguma
+    - 17.6:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+    - 17.7:
+        non_striker: J Baguma
+        bowler: M Akayezu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+    - 18.1:
+        non_striker: H Ssenyondo
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baguma
+    - 18.2:
+        non_striker: H Ssenyondo
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baguma
+    - 18.3:
+        non_striker: H Ssenyondo
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baguma
+    - 18.4:
+        non_striker: J Baguma
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+    - 18.5:
+        non_striker: J Baguma
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Ssenyondo
+    - 18.6:
+        non_striker: H Ssenyondo
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baguma
+    - 19.1:
+        non_striker: H Ssenyondo
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baguma
+    - 19.2:
+        non_striker: H Ssenyondo
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baguma
+    - 19.3:
+        non_striker: J Baguma
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Ssenyondo
+        wicket:
+          player_out: H Ssenyondo
+          fielders:
+          - C Rububagumya
+          kind: caught
+- 2nd innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Dusingizimana
+        batsman: O Tuyisenge
+    - 0.2:
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Dusingizimana
+        batsman: O Tuyisenge
+    - 0.3:
+        non_striker: O Tuyisenge
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 0.4:
+        non_striker: O Tuyisenge
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 0.5:
+        non_striker: O Tuyisenge
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 0.6:
+        non_striker: O Tuyisenge
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 1.1:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 1.2:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Tuyisenge
+    - 1.3:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 1.4:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 1.5:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Dusingizimana
+    - 1.6:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Dusingizimana
+    - 2.1:
+        non_striker: E Dusingizimana
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 2.2:
+        non_striker: O Tuyisenge
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+    - 2.3:
+        non_striker: O Tuyisenge
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Dusingizimana
+    - 2.4:
+        non_striker: E Dusingizimana
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 2.5:
+        non_striker: E Dusingizimana
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 2.6:
+        non_striker: E Dusingizimana
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 3.1:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 3.2:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 3.3:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Tuyisenge
+    - 3.4:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Tuyisenge
+    - 3.5:
+        non_striker: E Dusingizimana
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 3.6:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Dusingizimana
+    - 4.1:
+        non_striker: E Dusingizimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 4.2:
+        non_striker: E Dusingizimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 4.3:
+        non_striker: E Dusingizimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 4.4:
+        non_striker: E Dusingizimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 4.5:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Dusingizimana
+    - 4.6:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Dusingizimana
+        wicket:
+          player_out: E Dusingizimana
+          kind: lbw
+    - 4.7:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 5.1:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Tuyisenge
+    - 5.2:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 5.3:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 5.4:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 5.5:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Tuyisenge
+    - 5.6:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 5.7:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.1:
+        non_striker: D Ndikubwimana
+        bowler: J Miyaji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: O Tuyisenge
+    - 6.2:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ndikubwimana
+    - 6.3:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.4:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 6.5:
+        non_striker: D Ndikubwimana
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 6.6:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.7:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.8:
+        non_striker: O Tuyisenge
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.1:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+    - 7.2:
+        non_striker: D Ndikubwimana
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 7.3:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: D Ndikubwimana
+    - 7.4:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.5:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.6:
+        non_striker: O Tuyisenge
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          kind: lbw
+    - 8.1:
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Niyitanga
+        batsman: O Tuyisenge
+    - 8.2:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 8.3:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 8.4:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 8.5:
+        non_striker: O Tuyisenge
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 8.6:
+        non_striker: W Niyitanga
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 9.1:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Tuyisenge
+    - 9.2:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+        wicket:
+          player_out: O Tuyisenge
+          fielders:
+          - CN Kakuru
+          kind: caught
+    - 9.3:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Sebareme
+    - 9.4:
+        non_striker: E Sebareme
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 9.5:
+        non_striker: E Sebareme
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 9.6:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sebareme
+    - 9.7:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sebareme
+    - 10.1:
+        non_striker: E Sebareme
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 10.2:
+        non_striker: W Niyitanga
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sebareme
+    - 10.3:
+        non_striker: W Niyitanga
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sebareme
+    - 10.4:
+        non_striker: W Niyitanga
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sebareme
+    - 10.5:
+        non_striker: W Niyitanga
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Sebareme
+    - 10.6:
+        non_striker: E Sebareme
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 11.1:
+        non_striker: E Sebareme
+        bowler: J Baguma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Niyitanga
+    - 11.2:
+        non_striker: E Sebareme
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+    - 11.3:
+        non_striker: E Sebareme
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Niyitanga
+    - 11.4:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sebareme
+        wicket:
+          player_out: E Sebareme
+          kind: lbw
+    - 11.5:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 11.6:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 11.7:
+        non_striker: W Niyitanga
+        bowler: J Baguma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: C Rububagumya
+    - 12.1:
+        non_striker: C Rububagumya
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Niyitanga
+        wicket:
+          player_out: W Niyitanga
+          fielders:
+          - CN Kakuru
+          - H Ssenyondo
+          kind: run out
+    - 12.2:
+        non_striker: C Rububagumya
+        bowler: F Nsubuga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Niyomugabo
+    - 12.3:
+        non_striker: E Niyomugabo
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Rububagumya
+    - 12.4:
+        non_striker: C Rububagumya
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Niyomugabo
+    - 12.5:
+        non_striker: C Rububagumya
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Niyomugabo
+    - 12.6:
+        non_striker: E Niyomugabo
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 13.1:
+        non_striker: C Rububagumya
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Niyomugabo
+    - 13.2:
+        non_striker: E Niyomugabo
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Rububagumya
+    - 13.3:
+        non_striker: E Niyomugabo
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 13.4:
+        non_striker: E Niyomugabo
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+    - 13.5:
+        non_striker: E Niyomugabo
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Rububagumya
+        wicket:
+          player_out: C Rububagumya
+          fielders:
+          - E Hasahya
+          kind: caught
+    - 13.6:
+        non_striker: E Niyomugabo
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Irakoze
+    - 14.1:
+        non_striker: K Irakoze
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Niyomugabo
+    - 14.2:
+        non_striker: E Niyomugabo
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Irakoze
+    - 14.3:
+        non_striker: E Niyomugabo
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Irakoze
+    - 14.4:
+        non_striker: K Irakoze
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Niyomugabo
+    - 14.5:
+        non_striker: E Niyomugabo
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Irakoze
+    - 14.6:
+        non_striker: E Niyomugabo
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Irakoze
+    - 15.1:
+        non_striker: E Niyomugabo
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Irakoze
+    - 15.2:
+        non_striker: E Niyomugabo
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Irakoze
+        wicket:
+          player_out: E Niyomugabo
+          fielders:
+          - J Miyaji
+          - J Baguma
+          kind: run out
+    - 15.3:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Irakoze
+        wicket:
+          player_out: K Irakoze
+          kind: bowled
+    - 15.4:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 15.5:
+        non_striker: M Akayezu
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 15.6:
+        non_striker: M Akayezu
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 16.1:
+        non_striker: M Akayezu
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 16.2:
+        non_striker: O Manishimwe
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Akayezu
+    - 16.3:
+        non_striker: O Manishimwe
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 16.4:
+        non_striker: M Akayezu
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 16.5:
+        non_striker: O Manishimwe
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Akayezu
+    - 16.6:
+        non_striker: O Manishimwe
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 17.1:
+        non_striker: M Akayezu
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 17.2:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 17.3:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 17.4:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 17.5:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Akayezu
+    - 17.6:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 17.7:
+        non_striker: O Manishimwe
+        bowler: J Miyaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 18.1:
+        non_striker: M Akayezu
+        bowler: K Waiswa
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: O Manishimwe
+    - 18.2:
+        non_striker: O Manishimwe
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 18.3:
+        non_striker: M Akayezu
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+    - 18.4:
+        non_striker: M Akayezu
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Manishimwe
+    - 18.5:
+        non_striker: M Akayezu
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 18.6:
+        non_striker: O Manishimwe
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Akayezu
+    - 18.7:
+        non_striker: M Akayezu
+        bowler: K Waiswa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+        wicket:
+          player_out: O Manishimwe
+          fielders:
+          - K Waiswa
+          - CN Kakuru
+          kind: run out
+    - 19.1:
+        non_striker: M Akayezu
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ntirenganya
+    - 19.2:
+        non_striker: M Akayezu
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ntirenganya
+    - 19.3:
+        non_striker: I Ntirenganya
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+    - 19.4:
+        non_striker: I Ntirenganya
+        bowler: B Masaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Akayezu
+        wicket:
+          player_out: M Akayezu
+          fielders:
+          - CN Kakuru
+          kind: stumped

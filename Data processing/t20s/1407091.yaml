@@ -1,0 +1,1903 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-11-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2023-11-22'
+  gender: male
+  match_type: T20
+  match_type_number: 2356
+  outcome:
+    winner: Namibia
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - N Davin
+  players:
+    Zimbabwe:
+    - T Marumani
+    - NR Welch
+    - CR Ervine
+    - SC Williams
+    - Sikandar Raza
+    - RP Burl
+    - C Madande
+    - CT Mumba
+    - WP Masakadza
+    - B Muzarabani
+    - R Ngarava
+    Namibia:
+    - M van Lingen
+    - N Davin
+    - JN Frylinck
+    - MG Erasmus
+    - JJ Smit
+    - JP Kotze
+    - BM Scholtz
+    - JN Loftie-Eaton
+    - D Wiese
+    - T Lungameni
+    - ZE Green
+  registry:
+    people:
+      B Muzarabani: 449f4e3c
+      BM Scholtz: e85d03d6
+      C Madande: 3560a786
+      CR Ervine: c96311d4
+      CT Mumba: '28496266'
+      D Wiese: aa8d28ae
+      GH Pienaar: 3516e46b
+      IO Oyieko: de4828fa
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      JP Kotze: 9f308dfc
+      LB Gcuma: 02ba88e3
+      M van Lingen: 7eb36269
+      MG Erasmus: 95a5e066
+      N Davin: 72e361fe
+      NR Welch: 74c6c6e0
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      SC Williams: afe57f7a
+      Sikandar Raza: 26d041c4
+      Stephen Harris: fdcfd4aa
+      T Lungameni: 1688f2dc
+      T Marumani: 3d5d51a5
+      WP Masakadza: 4bc0a378
+      ZE Green: 8716233e
+  teams:
+  - Zimbabwe
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - LB Gcuma
+  - Stephen Harris
+  venue: Wanderers Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: NR Welch
+        batsman: T Marumani
+    - 0.2:
+        non_striker: NR Welch
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          kind: bowled
+    - 0.3:
+        non_striker: NR Welch
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 0.4:
+        non_striker: NR Welch
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 0.5:
+        non_striker: CR Ervine
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Welch
+    - 0.6:
+        non_striker: CR Ervine
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Welch
+    - 1.1:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Welch
+    - 1.2:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Welch
+    - 1.3:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Welch
+    - 1.4:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Welch
+    - 1.5:
+        non_striker: NR Welch
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 1.6:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Welch
+    - 2.1:
+        non_striker: NR Welch
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.2:
+        non_striker: NR Welch
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.3:
+        non_striker: NR Welch
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 2.4:
+        non_striker: CR Ervine
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Welch
+    - 2.5:
+        non_striker: CR Ervine
+        bowler: JJ Smit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Welch
+    - 2.6:
+        non_striker: CR Ervine
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Welch
+        wicket:
+          player_out: NR Welch
+          kind: bowled
+    - 2.7:
+        non_striker: CR Ervine
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+        wicket:
+          player_out: SC Williams
+          fielders:
+          - ZE Green
+          kind: caught
+    - 3.1:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sikandar Raza
+        batsman: CR Ervine
+    - 3.2:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 3.3:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sikandar Raza
+    - 3.4:
+        non_striker: Sikandar Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.5:
+        non_striker: Sikandar Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.6:
+        non_striker: Sikandar Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 4.1:
+        non_striker: Sikandar Raza
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 4.2:
+        non_striker: CR Ervine
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 4.3:
+        non_striker: Sikandar Raza
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.4:
+        non_striker: Sikandar Raza
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.5:
+        non_striker: Sikandar Raza
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 4.6:
+        non_striker: Sikandar Raza
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 5.1:
+        non_striker: CR Ervine
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 5.2:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Ervine
+    - 5.3:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 5.4:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.5:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 5.6:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.1:
+        non_striker: Sikandar Raza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.2:
+        non_striker: CR Ervine
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.3:
+        non_striker: Sikandar Raza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.4:
+        non_striker: CR Ervine
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 6.5:
+        non_striker: CR Ervine
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.6:
+        non_striker: Sikandar Raza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.1:
+        non_striker: Sikandar Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.2:
+        non_striker: CR Ervine
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.3:
+        non_striker: Sikandar Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.4:
+        non_striker: CR Ervine
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.5:
+        non_striker: Sikandar Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 7.6:
+        non_striker: Sikandar Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.1:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 8.2:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.3:
+        non_striker: CR Ervine
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.4:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.5:
+        non_striker: CR Ervine
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.6:
+        non_striker: CR Ervine
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.7:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 9.2:
+        non_striker: CR Ervine
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.3:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 9.4:
+        non_striker: CR Ervine
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 9.5:
+        non_striker: CR Ervine
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sikandar Raza
+    - 9.6:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 10.1:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RP Burl
+        batsman: Sikandar Raza
+    - 10.2:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RP Burl
+        batsman: Sikandar Raza
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.4:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.5:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 10.6:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.1:
+        non_striker: RP Burl
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 11.2:
+        non_striker: RP Burl
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 11.4:
+        non_striker: RP Burl
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.5:
+        non_striker: RP Burl
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 11.6:
+        non_striker: RP Burl
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 11.7:
+        non_striker: C Madande
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 12.1:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 12.2:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 12.3:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 12.4:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Madande
+    - 12.5:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 12.6:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 13.1:
+        non_striker: C Madande
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 13.2:
+        non_striker: C Madande
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 13.3:
+        non_striker: C Madande
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 13.4:
+        non_striker: C Madande
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 13.5:
+        non_striker: C Madande
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 13.6:
+        non_striker: C Madande
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 14.1:
+        non_striker: C Madande
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 14.2:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Madande
+    - 14.3:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+        wicket:
+          player_out: C Madande
+          fielders:
+          - ZE Green
+          kind: caught
+    - 14.4:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Mumba
+    - 14.5:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Mumba
+    - 14.6:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Mumba
+    - 14.7:
+        non_striker: CT Mumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 15.1:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Mumba
+    - 15.2:
+        non_striker: CT Mumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.3:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Mumba
+    - 15.4:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CT Mumba
+    - 15.5:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Mumba
+    - 15.6:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Mumba
+    - 15.7:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Mumba
+    - 16.1:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Mumba
+    - 16.2:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Mumba
+    - 16.3:
+        non_striker: CT Mumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 16.4:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Mumba
+    - 16.5:
+        non_striker: CT Mumba
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 16.6:
+        non_striker: CT Mumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 16.7:
+        non_striker: CT Mumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.1:
+        non_striker: CT Mumba
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.2:
+        non_striker: RP Burl
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Mumba
+        wicket:
+          player_out: CT Mumba
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 17.3:
+        non_striker: RP Burl
+        bowler: JJ Smit
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: WP Masakadza
+    - 17.4:
+        non_striker: RP Burl
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 17.5:
+        non_striker: WP Masakadza
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.6:
+        non_striker: RP Burl
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+    - 18.1:
+        non_striker: WP Masakadza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 18.2:
+        non_striker: WP Masakadza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 18.3:
+        non_striker: WP Masakadza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 18.4:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 18.5:
+        non_striker: WP Masakadza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 18.6:
+        non_striker: WP Masakadza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 19.1:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+    - 19.2:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+    - 19.3:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 19.4:
+        non_striker: WP Masakadza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 19.5:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WP Masakadza
+    - 19.6:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WP Masakadza
+        wicket:
+          player_out: WP Masakadza
+          fielders:
+          - MG Erasmus
+          kind: run out
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Davin
+        batsman: M van Lingen
+    - 0.2:
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Davin
+        batsman: M van Lingen
+    - 0.3:
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Davin
+        batsman: M van Lingen
+    - 0.4:
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Davin
+        batsman: M van Lingen
+    - 0.5:
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: N Davin
+        batsman: M van Lingen
+    - 0.6:
+        non_striker: M van Lingen
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 1.1:
+        non_striker: N Davin
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 1.2:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.3:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.4:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.5:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 1.6:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 2.1:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 2.2:
+        non_striker: M van Lingen
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 2.3:
+        non_striker: M van Lingen
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 2.4:
+        non_striker: M van Lingen
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 2.5:
+        non_striker: M van Lingen
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Davin
+    - 2.6:
+        non_striker: M van Lingen
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 3.1:
+        non_striker: M van Lingen
+        bowler: CT Mumba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Davin
+    - 3.2:
+        non_striker: M van Lingen
+        bowler: CT Mumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 3.3:
+        non_striker: M van Lingen
+        bowler: CT Mumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 3.4:
+        non_striker: M van Lingen
+        bowler: CT Mumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 3.5:
+        non_striker: M van Lingen
+        bowler: CT Mumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 3.6:
+        non_striker: N Davin
+        bowler: CT Mumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.7:
+        non_striker: N Davin
+        bowler: CT Mumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 4.1:
+        non_striker: M van Lingen
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 4.2:
+        non_striker: M van Lingen
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Davin
+    - 4.3:
+        non_striker: M van Lingen
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 4.4:
+        non_striker: N Davin
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M van Lingen
+    - 4.5:
+        non_striker: N Davin
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 4.6:
+        non_striker: N Davin
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 5.1:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Davin
+    - 5.2:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 5.3:
+        non_striker: M van Lingen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 5.4:
+        non_striker: N Davin
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 5.5:
+        non_striker: N Davin
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 5.6:
+        non_striker: N Davin
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 6.1:
+        non_striker: M van Lingen
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 6.2:
+        non_striker: M van Lingen
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 6.3:
+        non_striker: N Davin
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 6.4:
+        non_striker: N Davin
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 6.5:
+        non_striker: M van Lingen
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 6.6:
+        non_striker: N Davin
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 7.1:
+        non_striker: M van Lingen
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 7.2:
+        non_striker: N Davin
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 7.3:
+        non_striker: M van Lingen
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 7.4:
+        non_striker: M van Lingen
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 7.5:
+        non_striker: M van Lingen
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 7.6:
+        non_striker: N Davin
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+        wicket:
+          player_out: M van Lingen
+          kind: bowled
+    - 8.1:
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JN Frylinck
+        batsman: N Davin
+    - 8.2:
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JN Frylinck
+        batsman: N Davin
+    - 8.3:
+        non_striker: N Davin
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 8.4:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 8.5:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 8.6:
+        non_striker: N Davin
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 9.1:
+        non_striker: JN Frylinck
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Davin
+    - 9.2:
+        non_striker: JN Frylinck
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Davin
+    - 9.3:
+        non_striker: JN Frylinck
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 9.4:
+        non_striker: JN Frylinck
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 9.5:
+        non_striker: N Davin
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 9.6:
+        non_striker: N Davin
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 10.1:
+        non_striker: JN Frylinck
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 10.2:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          fielders:
+          - RP Burl
+          kind: caught
+    - 10.3:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: N Davin
+    - 10.5:
+        non_striker: MG Erasmus
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 10.6:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.7:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 11.2:
+        non_striker: MG Erasmus
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 11.3:
+        non_striker: MG Erasmus
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 11.4:
+        non_striker: N Davin
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.5:
+        non_striker: N Davin
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davin
+    - 12.1:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 12.4:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: N Davin
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+        wicket:
+          player_out: N Davin
+          kind: bowled
+    - 13.2:
+        non_striker: MG Erasmus
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 13.4:
+        non_striker: MG Erasmus
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JJ Smit
+    - 13.5:
+        non_striker: MG Erasmus
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.6:
+        non_striker: JJ Smit
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.7:
+        non_striker: MG Erasmus
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 14.1:
+        non_striker: JJ Smit
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.2:
+        non_striker: JJ Smit
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.3:
+        non_striker: JJ Smit
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: MG Erasmus
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit

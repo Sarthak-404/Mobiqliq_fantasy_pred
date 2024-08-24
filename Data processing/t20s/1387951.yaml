@@ -1,0 +1,1511 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-08-07'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2023-08-06'
+  gender: female
+  match_type: T20
+  match_type_number: 1531
+  outcome:
+    winner: Isle of Man
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - L Barnett
+  players:
+    Greece:
+    - A Argyropoulou
+    - A Savvani
+    - M Syrioti
+    - S Georgota
+    - DS Vlachopoulou
+    - M Vervitsioti
+    - M Polimeri
+    - A Makri
+    - T Parisi-mesimeri
+    - ES Grammenou
+    - ST Varzakakou
+    Isle of Man:
+    - L Barnett
+    - K Carney
+    - E Cleator
+    - E Miller
+    - R Webster
+    - A Littlejohns
+    - A Thorpe
+    - C Perry
+    - B Murtagh
+    - D Murphy
+    - J Hicks
+  registry:
+    people:
+      A Argyropoulou: 3f1bfd19
+      A Littlejohns: 3498a188
+      A Makri: 98affc04
+      A Savvani: 5d006a1a
+      A Thorpe: 6c54bd7a
+      B Murtagh: 7bd61c82
+      C Perry: 152d3c9d
+      D Murphy: c4f42529
+      DS Vlachopoulou: 5c884c17
+      E Cleator: 9c94176e
+      E Miller: 6e6c769e
+      ES Grammenou: b931fc7b
+      J Hicks: 802febe2
+      K Carney: 7097b37e
+      L Barnett: d9a2345a
+      M Polimeri: 35ccd83f
+      M Syrioti: f9df0aa2
+      M Vervitsioti: 6fd40892
+      R Webster: cdfb59b8
+      S Georgota: d07b6842
+      ST Varzakakou: 9f17e86d
+      T Parisi-mesimeri: c002a904
+  teams:
+  - Greece
+  - Isle of Man
+  toss:
+    winner: Isle of Man
+    decision: field
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Savvani
+        batsman: A Argyropoulou
+    - 0.2:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Savvani
+        wicket:
+          player_out: A Savvani
+          fielders:
+          - A Littlejohns
+          kind: caught
+    - 0.3:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 0.4:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 0.5:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 0.6:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syrioti
+    - 1.1:
+        non_striker: M Syrioti
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Argyropoulou
+    - 1.2:
+        non_striker: M Syrioti
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+        wicket:
+          player_out: M Syrioti
+          fielders:
+          - R Webster
+          - A Littlejohns
+          kind: run out
+    - 1.3:
+        non_striker: A Argyropoulou
+        bowler: C Perry
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Georgota
+    - 1.4:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 1.5:
+        non_striker: A Argyropoulou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 1.6:
+        non_striker: A Argyropoulou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 1.7:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 2.1:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 2.2:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 2.3:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 2.4:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 2.5:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Georgota
+    - 2.6:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 3.1:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.2:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.3:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.4:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.5:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 3.6:
+        non_striker: S Georgota
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 4.1:
+        non_striker: S Georgota
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 4.2:
+        non_striker: S Georgota
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 4.3:
+        non_striker: S Georgota
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+    - 4.4:
+        non_striker: S Georgota
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Argyropoulou
+    - 4.5:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Georgota
+    - 4.6:
+        non_striker: A Argyropoulou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 5.1:
+        non_striker: S Georgota
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Argyropoulou
+        wicket:
+          player_out: A Argyropoulou
+          kind: lbw
+    - 5.2:
+        non_striker: S Georgota
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 5.3:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 5.4:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 5.5:
+        non_striker: S Georgota
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 5.6:
+        non_striker: S Georgota
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 6.1:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 6.2:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 6.3:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 6.4:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 6.5:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Georgota
+    - 6.6:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 6.7:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 7.1:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Georgota
+    - 7.2:
+        non_striker: S Georgota
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 7.3:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Georgota
+    - 7.4:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.5:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 7.6:
+        non_striker: S Georgota
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 7.7:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 7.8:
+        non_striker: DS Vlachopoulou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 8.1:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 8.2:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 8.3:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Georgota
+    - 8.4:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Georgota
+    - 8.5:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 8.6:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 8.7:
+        non_striker: DS Vlachopoulou
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 9.1:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 9.2:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 9.3:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DS Vlachopoulou
+    - 9.4:
+        non_striker: DS Vlachopoulou
+        bowler: B Murtagh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Georgota
+    - 9.5:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 10.1:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 10.2:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 10.3:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 10.4:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 10.5:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 10.6:
+        non_striker: S Georgota
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 11.1:
+        non_striker: DS Vlachopoulou
+        bowler: B Murtagh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Georgota
+    - 11.2:
+        non_striker: DS Vlachopoulou
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Georgota
+    - 11.3:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 11.4:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 11.5:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 11.6:
+        non_striker: S Georgota
+        bowler: B Murtagh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DS Vlachopoulou
+    - 11.7:
+        non_striker: DS Vlachopoulou
+        bowler: B Murtagh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Georgota
+    - 12.1:
+        non_striker: DS Vlachopoulou
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+    - 12.2:
+        non_striker: DS Vlachopoulou
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Georgota
+    - 12.3:
+        non_striker: DS Vlachopoulou
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Georgota
+        wicket:
+          player_out: S Georgota
+          kind: bowled
+    - 12.4:
+        non_striker: DS Vlachopoulou
+        bowler: D Murphy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Vervitsioti
+    - 12.5:
+        non_striker: M Vervitsioti
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 12.6:
+        non_striker: M Vervitsioti
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 13.1:
+        non_striker: DS Vlachopoulou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 13.2:
+        non_striker: DS Vlachopoulou
+        bowler: C Perry
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Vervitsioti
+    - 13.3:
+        non_striker: M Vervitsioti
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Vlachopoulou
+    - 13.4:
+        non_striker: DS Vlachopoulou
+        bowler: C Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Vervitsioti
+    - 13.5:
+        non_striker: DS Vlachopoulou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+    - 13.6:
+        non_striker: DS Vlachopoulou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vervitsioti
+    - 13.7:
+        non_striker: M Vervitsioti
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Vlachopoulou
+    - 13.8:
+        non_striker: M Vervitsioti
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Vlachopoulou
+    - 14.1:
+        non_striker: DS Vlachopoulou
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+        wicket:
+          player_out: DS Vlachopoulou
+          fielders:
+          - D Murphy
+          kind: run out
+    - 14.2:
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Polimeri
+        batsman: M Vervitsioti
+    - 14.3:
+        bowler: D Murphy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Polimeri
+        batsman: M Vervitsioti
+    - 14.4:
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Polimeri
+        batsman: M Vervitsioti
+    - 14.5:
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Polimeri
+        batsman: M Vervitsioti
+    - 14.6:
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Polimeri
+        batsman: M Vervitsioti
+    - 14.7:
+        non_striker: M Vervitsioti
+        bowler: D Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+    - 15.1:
+        non_striker: M Polimeri
+        bowler: B Murtagh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Vervitsioti
+    - 15.2:
+        non_striker: M Vervitsioti
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Polimeri
+        wicket:
+          player_out: M Polimeri
+          kind: bowled
+    - 15.3:
+        non_striker: M Vervitsioti
+        bowler: B Murtagh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Makri
+    - 15.4:
+        non_striker: M Vervitsioti
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 15.5:
+        non_striker: M Vervitsioti
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Makri
+    - 15.6:
+        non_striker: A Makri
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vervitsioti
+        wicket:
+          player_out: M Vervitsioti
+          fielders:
+          - L Barnett
+          kind: caught
+    - 15.7:
+        non_striker: A Makri
+        bowler: B Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 16.1:
+        non_striker: T Parisi-mesimeri
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 16.2:
+        non_striker: T Parisi-mesimeri
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+    - 16.3:
+        non_striker: T Parisi-mesimeri
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Makri
+    - 16.4:
+        non_striker: T Parisi-mesimeri
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Makri
+        wicket:
+          player_out: A Makri
+          kind: bowled
+    - 16.5:
+        non_striker: T Parisi-mesimeri
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 16.6:
+        non_striker: T Parisi-mesimeri
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 17.1:
+        non_striker: ES Grammenou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 17.2:
+        non_striker: ES Grammenou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 17.3:
+        non_striker: ES Grammenou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 17.4:
+        non_striker: ES Grammenou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 17.5:
+        non_striker: ES Grammenou
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 17.6:
+        non_striker: T Parisi-mesimeri
+        bowler: A Thorpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 18.1:
+        non_striker: ES Grammenou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 18.2:
+        non_striker: ES Grammenou
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 18.3:
+        non_striker: T Parisi-mesimeri
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 18.4:
+        non_striker: T Parisi-mesimeri
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 18.5:
+        non_striker: T Parisi-mesimeri
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 18.6:
+        non_striker: T Parisi-mesimeri
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 19.1:
+        non_striker: ES Grammenou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 19.2:
+        non_striker: ES Grammenou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parisi-mesimeri
+    - 19.3:
+        non_striker: ES Grammenou
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parisi-mesimeri
+    - 19.4:
+        non_striker: T Parisi-mesimeri
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 19.5:
+        non_striker: T Parisi-mesimeri
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ES Grammenou
+    - 19.6:
+        non_striker: T Parisi-mesimeri
+        bowler: C Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ES Grammenou
+        wicket:
+          player_out: ES Grammenou
+          fielders:
+          - E Miller
+          - R Webster
+          kind: run out
+- 2nd innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Carney
+        batsman: L Barnett
+    - 0.2:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Carney
+        batsman: L Barnett
+    - 0.3:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Carney
+        batsman: L Barnett
+    - 0.4:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Carney
+        batsman: L Barnett
+    - 0.5:
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Carney
+        batsman: L Barnett
+    - 0.6:
+        non_striker: K Carney
+        bowler: A Makri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 1.1:
+        non_striker: K Carney
+        bowler: ES Grammenou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 1.2:
+        non_striker: K Carney
+        bowler: ES Grammenou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 1.3:
+        non_striker: L Barnett
+        bowler: ES Grammenou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Carney
+    - 1.4:
+        non_striker: K Carney
+        bowler: ES Grammenou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 1.5:
+        non_striker: L Barnett
+        bowler: ES Grammenou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Carney
+    - 1.6:
+        non_striker: L Barnett
+        bowler: ES Grammenou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Carney
+    - 2.1:
+        non_striker: K Carney
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 2.2:
+        non_striker: L Barnett
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Carney
+    - 2.3:
+        non_striker: L Barnett
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Carney
+    - 2.4:
+        non_striker: L Barnett
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Carney
+    - 2.5:
+        non_striker: L Barnett
+        bowler: M Vervitsioti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Carney
+    - 2.6:
+        non_striker: K Carney
+        bowler: M Vervitsioti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 3.1:
+        non_striker: K Carney
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 3.2:
+        non_striker: K Carney
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Barnett
+    - 3.3:
+        non_striker: L Barnett
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Carney
+    - 3.4:
+        non_striker: L Barnett
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Carney
+        wicket:
+          player_out: K Carney
+          fielders:
+          - A Argyropoulou
+          kind: caught
+    - 3.5:
+        non_striker: L Barnett
+        bowler: A Savvani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Cleator
+    - 3.6:
+        non_striker: L Barnett
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Cleator
+    - 3.7:
+        non_striker: L Barnett
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Cleator
+    - 3.8:
+        non_striker: L Barnett
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Cleator
+    - 4.1:
+        non_striker: L Barnett
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Cleator
+    - 4.2:
+        non_striker: L Barnett
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Cleator
+    - 4.3:
+        non_striker: L Barnett
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Cleator
+    - 4.4:
+        non_striker: L Barnett
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Cleator
+    - 4.5:
+        non_striker: L Barnett
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Cleator
+    - 4.6:
+        non_striker: E Cleator
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 4.7:
+        non_striker: E Cleator
+        bowler: DS Vlachopoulou
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 5.1:
+        non_striker: L Barnett
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Cleator
+    - 5.2:
+        non_striker: E Cleator
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 5.3:
+        non_striker: E Cleator
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 5.4:
+        non_striker: E Cleator
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
+    - 5.5:
+        non_striker: E Cleator
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Barnett
+    - 5.6:
+        non_striker: E Cleator
+        bowler: A Savvani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Barnett
